@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except this notebook
+!notebooks/
+!notebooks/02_exploratory_analysis_v2.ipynb
+
+# And keep the gitignore itself
+!.gitignore
