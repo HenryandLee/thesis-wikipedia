@@ -1,9 +1,14 @@
 # Ignore everything
 *
 
-# Except this notebook
+# Except 
 !notebooks/
-!notebooks/02_exploratory_analysis_v2.ipynb
+!notebooks/04_event_study_analysis.ipynb
 
-# Keep the gitignore itself
+!scripts/
+!scripts/*
+scripts/__pycache__/
+
+!note_on_output.md
+
 !.gitignore
