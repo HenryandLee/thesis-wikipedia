@@ -1,0 +1,854 @@
+{
+  "page_title": "Mike_Montagano",
+  "candidate_name": "Mike Montagano",
+  "collection_date": "2025-12-28T16:49:36.883420",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 72,
+    "unique_editors": 46,
+    "date_range": {
+      "start": "2008-10-13T02:16:06Z",
+      "end": "2024-10-19T06:31:54Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 244900639,
+      "parentid": 0,
+      "timestamp": "2008-10-13T02:16:06Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1832,
+      "comment": "NEW",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 244902904,
+      "parentid": 244900639,
+      "timestamp": "2008-10-13T02:30:52Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2917,
+      "comment": "general",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 244902972,
+      "parentid": 244902904,
+      "timestamp": "2008-10-13T02:31:18Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2917,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 248457233,
+      "parentid": 244902972,
+      "timestamp": "2008-10-29T19:09:39Z",
+      "user": "Lomis",
+      "userid": 1833046,
+      "size": 2917,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 249899478,
+      "parentid": 248457233,
+      "timestamp": "2008-11-05T20:17:53Z",
+      "user": "71.188.140.221",
+      "userid": 0,
+      "size": 3132,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249899792,
+      "parentid": 249899478,
+      "timestamp": "2008-11-05T20:19:27Z",
+      "user": "71.188.140.221",
+      "userid": 0,
+      "size": 3252,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249899999,
+      "parentid": 249899792,
+      "timestamp": "2008-11-05T20:20:26Z",
+      "user": "71.188.140.221",
+      "userid": 0,
+      "size": 3251,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249912257,
+      "parentid": 249899999,
+      "timestamp": "2008-11-05T21:29:51Z",
+      "user": "XLinkBot",
+      "userid": 6163802,
+      "size": 2917,
+      "comment": "BOT--Reverting edits by [[:en:Special:Contributions/71.188.140.221|71.188.140.221]] to revision 248457233 (rule: '\\btypepad\\.com\\b' (link(s): http://indiana.typepad.com/fwob/2008/11/for-the-record-books.html) )",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250952263,
+      "parentid": 249912257,
+      "timestamp": "2008-11-10T20:57:56Z",
+      "user": "72.86.69.161",
+      "userid": 0,
+      "size": 2953,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 256630117,
+      "parentid": 250952263,
+      "timestamp": "2008-12-08T15:07:11Z",
+      "user": "RussBot",
+      "userid": 279219,
+      "size": 2966,
+      "comment": "Robot-assisted fix [[WP:DPL|links to disambiguation page]] J.D.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 263851828,
+      "parentid": 256630117,
+      "timestamp": "2009-01-13T18:13:38Z",
+      "user": "SH2004",
+      "userid": 3711157,
+      "size": 4310,
+      "comment": "Updated 2008 election results and added campaign finance information.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 264219298,
+      "parentid": 263851828,
+      "timestamp": "2009-01-15T08:26:18Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 4274,
+      "comment": "duplicate categorization  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 287334479,
+      "parentid": 264219298,
+      "timestamp": "2009-05-01T22:05:16Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 4290,
+      "comment": "Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], Replaced: [[Attorney at law| → [[Attorney at law (United States)| using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 296055507,
+      "parentid": 287334479,
+      "timestamp": "2009-06-12T21:52:52Z",
+      "user": "DrilBot",
+      "userid": 9629838,
+      "size": 4286,
+      "comment": "[[WP:CHECKWIKI|Check Wikipedia]] cleanup ([[User:DrilBot/Summaries#Self|selflinks]]) + [[WP:GENFIXES|gen. fixes]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 307253779,
+      "parentid": 296055507,
+      "timestamp": "2009-08-10T22:37:42Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 4303,
+      "comment": "/* Biography */Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], improving links, other minor cleanup tasks, Replaced: [[B.A.]] using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 387274871,
+      "parentid": 307253779,
+      "timestamp": "2010-09-27T08:17:23Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 4531,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7192)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 392953162,
+      "parentid": 387274871,
+      "timestamp": "2010-10-26T08:08:04Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 4536,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7319)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 393271034,
+      "parentid": 392953162,
+      "timestamp": "2010-10-27T19:23:15Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4530,
+      "comment": "/* 2008 Election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393271477,
+      "parentid": 393271034,
+      "timestamp": "2010-10-27T19:25:35Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4528,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393271881,
+      "parentid": 393271477,
+      "timestamp": "2010-10-27T19:27:44Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4578,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393272977,
+      "parentid": 393271881,
+      "timestamp": "2010-10-27T19:34:04Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4647,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393273156,
+      "parentid": 393272977,
+      "timestamp": "2010-10-27T19:35:03Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4653,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393273232,
+      "parentid": 393273156,
+      "timestamp": "2010-10-27T19:35:30Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4653,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393273446,
+      "parentid": 393273232,
+      "timestamp": "2010-10-27T19:36:45Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4658,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393273628,
+      "parentid": 393273446,
+      "timestamp": "2010-10-27T19:37:48Z",
+      "user": "174.46.163.5",
+      "userid": 0,
+      "size": 4750,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421788372,
+      "parentid": 393273628,
+      "timestamp": "2011-04-01T08:39:01Z",
+      "user": "XLerate",
+      "userid": 215443,
+      "size": 4802,
+      "comment": "Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], added [[CAT:O|orphan]] tag using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 437294522,
+      "parentid": 421788372,
+      "timestamp": "2011-07-01T21:21:24Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 4880,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 449391460,
+      "parentid": 437294522,
+      "timestamp": "2011-09-09T20:40:33Z",
+      "user": "Lexalt",
+      "userid": 15283584,
+      "size": 4970,
+      "comment": "Which IU School of Law?  Disambiguation needed.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 472221727,
+      "parentid": 449391460,
+      "timestamp": "2012-01-20T09:32:29Z",
+      "user": "InfoTrust",
+      "userid": 16123594,
+      "size": 4904,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 481559723,
+      "parentid": 472221727,
+      "timestamp": "2012-03-12T19:23:37Z",
+      "user": "98.226.130.98",
+      "userid": 0,
+      "size": 4856,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499441593,
+      "parentid": 481559723,
+      "timestamp": "2012-06-26T13:21:46Z",
+      "user": "138.88.169.77",
+      "userid": 0,
+      "size": 4827,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499442037,
+      "parentid": 499441593,
+      "timestamp": "2012-06-26T13:25:36Z",
+      "user": "138.88.169.77",
+      "userid": 0,
+      "size": 4839,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 514785901,
+      "parentid": 499442037,
+      "timestamp": "2012-09-27T11:05:13Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 4876,
+      "comment": "/* External links */Category Updating (birth/death) + General Fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 516563070,
+      "parentid": 514785901,
+      "timestamp": "2012-10-08T01:48:17Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 4866,
+      "comment": "dab fixes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518697387,
+      "parentid": 516563070,
+      "timestamp": "2012-10-19T12:59:00Z",
+      "user": "Snorkelman",
+      "userid": 1081784,
+      "size": 5124,
+      "comment": "partial repair of dead link via archived site",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518698701,
+      "parentid": 518697387,
+      "timestamp": "2012-10-19T13:09:28Z",
+      "user": "Snorkelman",
+      "userid": 1081784,
+      "size": 5323,
+      "comment": "partial repair of dead link via archived site",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518699280,
+      "parentid": 518698701,
+      "timestamp": "2012-10-19T13:14:22Z",
+      "user": "Snorkelman",
+      "userid": 1081784,
+      "size": 5221,
+      "comment": "Removed duplicated link to campaign web site",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518699969,
+      "parentid": 518699280,
+      "timestamp": "2012-10-19T13:20:01Z",
+      "user": "Snorkelman",
+      "userid": 1081784,
+      "size": 5115,
+      "comment": "Sourcewatch profile page is empty, no value there",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518700375,
+      "parentid": 518699969,
+      "timestamp": "2012-10-19T13:23:23Z",
+      "user": "Snorkelman",
+      "userid": 1081784,
+      "size": 5146,
+      "comment": "Marked DMOZ link as dead",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 532073116,
+      "parentid": 518700375,
+      "timestamp": "2013-01-09T01:36:14Z",
+      "user": "Addbot",
+      "userid": 6569922,
+      "size": 5118,
+      "comment": "[[User:Addbot|Bot:]] Removing Orphan Tag (Nolonger an Orphan) ([[User_talk:Addbot|Report Errors]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 601617485,
+      "parentid": 532073116,
+      "timestamp": "2014-03-28T06:53:04Z",
+      "user": "Lebaronet",
+      "userid": 20964196,
+      "size": 5166,
+      "comment": "+ cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 613334137,
+      "parentid": 601617485,
+      "timestamp": "2014-06-17T20:49:29Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 5185,
+      "comment": "/* External links */add persondata short description using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632472814,
+      "parentid": 613334137,
+      "timestamp": "2014-11-04T21:40:04Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 5226,
+      "comment": "added [[Category:People from Jasper, Indiana]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632472851,
+      "parentid": 632472814,
+      "timestamp": "2014-11-04T21:40:23Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 5227,
+      "comment": "removed [[Category:People from Jasper, Indiana]]; added [[Category:People from Bristol, Indiana]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715314348,
+      "parentid": 632472851,
+      "timestamp": "2016-04-15T00:51:26Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 4966,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Mike Montagano|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719634363,
+      "parentid": 715314348,
+      "timestamp": "2016-05-10T21:33:26Z",
+      "user": "Bender235",
+      "userid": 88026,
+      "size": 4967,
+      "comment": "clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 772698311,
+      "parentid": 719634363,
+      "timestamp": "2017-03-28T20:16:10Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 4905,
+      "comment": "Reformat 2 archive links. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 786090325,
+      "parentid": 772698311,
+      "timestamp": "2017-06-17T06:27:58Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 4825,
+      "comment": "update to remove article from [[:Category:Pages using Template:CongLinks with unknown parameters]] (via JWB)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 837021899,
+      "parentid": 786090325,
+      "timestamp": "2018-04-18T06:59:56Z",
+      "user": "Updatewizard",
+      "userid": 33554265,
+      "size": 5009,
+      "comment": "Bio updates",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 837864153,
+      "parentid": 837021899,
+      "timestamp": "2018-04-23T14:09:03Z",
+      "user": "Rfl0216",
+      "userid": 27738727,
+      "size": 4977,
+      "comment": "Fix image syntax per [[WP:INFOBOXIMAGE]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867356545,
+      "parentid": 837864153,
+      "timestamp": "2018-11-05T05:05:18Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 5020,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta9)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982199117,
+      "parentid": 867356545,
+      "timestamp": "2020-10-06T18:36:21Z",
+      "user": "ExecutiveBiographyUpdater",
+      "userid": 40306096,
+      "size": 13348,
+      "comment": "Updated biography",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 982493217,
+      "parentid": 982199117,
+      "timestamp": "2020-10-08T14:02:22Z",
+      "user": "ExecutiveBiographyUpdater",
+      "userid": 40306096,
+      "size": 13643,
+      "comment": "Added citations.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 982494227,
+      "parentid": 982493217,
+      "timestamp": "2020-10-08T14:10:25Z",
+      "user": "ExecutiveBiographyUpdater",
+      "userid": 40306096,
+      "size": 14000,
+      "comment": "Added citations.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 985983886,
+      "parentid": 982494227,
+      "timestamp": "2020-10-29T03:11:22Z",
+      "user": "FrescoBot",
+      "userid": 9021902,
+      "size": 13986,
+      "comment": "Bot: [[User:FrescoBot/Links|link syntax]] and minor changes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 994287101,
+      "parentid": 985983886,
+      "timestamp": "2020-12-14T23:19:16Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 13779,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 16 templates: del empty params (12×); hyphenate params (3×); del |url-status= (5×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 994369685,
+      "parentid": 994287101,
+      "timestamp": "2020-12-15T10:51:03Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 13779,
+      "comment": "v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1017041174,
+      "parentid": 994369685,
+      "timestamp": "2021-04-10T13:13:02Z",
+      "user": "PearBOT II",
+      "userid": 38179619,
+      "size": 13841,
+      "comment": "Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1039013256,
+      "parentid": 1017041174,
+      "timestamp": "2021-08-16T04:46:45Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 13822,
+      "comment": "/* top */replaced: Board of directors|Board of Directors → board of directors",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1039383483,
+      "parentid": 1039013256,
+      "timestamp": "2021-08-18T11:27:49Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 13867,
+      "comment": "Alter: url, title. URLs might have been anonymized. Add: archive-date, archive-url, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Eastmain | [[Category:DePauw University alumni]] | #UCB_Category 214/292",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1072320194,
+      "parentid": 1039383483,
+      "timestamp": "2022-02-17T03:17:34Z",
+      "user": "MrJ567",
+      "userid": 33245792,
+      "size": 13889,
+      "comment": "/* 2008 Election */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1077183690,
+      "parentid": 1072320194,
+      "timestamp": "2022-03-14T23:25:24Z",
+      "user": "2601:205:3:DEE2:940A:DA59:35B9:4D1F",
+      "userid": 0,
+      "size": 13873,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1088704020,
+      "parentid": 1077183690,
+      "timestamp": "2022-05-19T17:32:34Z",
+      "user": "Hello8972",
+      "userid": 43530343,
+      "size": 13894,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1112688470,
+      "parentid": 1088704020,
+      "timestamp": "2022-09-27T15:11:04Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13894,
+      "comment": "/* 2008 Election */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1185684622,
+      "parentid": 1112688470,
+      "timestamp": "2023-11-18T10:33:28Z",
+      "user": "RestaurantBiographer",
+      "userid": 46909438,
+      "size": 15019,
+      "comment": "update to biography based on position change",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1185686889,
+      "parentid": 1185684622,
+      "timestamp": "2023-11-18T10:59:44Z",
+      "user": "RestaurantBiographer",
+      "userid": 46909438,
+      "size": 15770,
+      "comment": "Biography updates",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1185687992,
+      "parentid": 1185686889,
+      "timestamp": "2023-11-18T11:12:21Z",
+      "user": "RestaurantBiographer",
+      "userid": 46909438,
+      "size": 16173,
+      "comment": "Biography updates",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1187280354,
+      "parentid": 1185687992,
+      "timestamp": "2023-11-28T07:49:40Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 16173,
+      "comment": "v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1192795386,
+      "parentid": 1187280354,
+      "timestamp": "2023-12-31T10:27:45Z",
+      "user": "IntentionallyDense",
+      "userid": 46242311,
+      "size": 16157,
+      "comment": "v2.05b - WPCleaner - Fix errors for [[WP:WCW|CW project]] (Link with encoded space)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1231809482,
+      "parentid": 1192795386,
+      "timestamp": "2024-06-30T11:20:41Z",
+      "user": "FieldMarine",
+      "userid": 5113002,
+      "size": 15834,
+      "comment": "Format edits.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1231810342,
+      "parentid": 1231809482,
+      "timestamp": "2024-06-30T11:28:39Z",
+      "user": "FieldMarine",
+      "userid": 5113002,
+      "size": 15879,
+      "comment": "More specific school name.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1251995163,
+      "parentid": 1231810342,
+      "timestamp": "2024-10-19T06:31:54Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 15697,
+      "comment": "[[User:PrimeBOT/24|Task 24]]: elink template removal following [[Wikipedia:Templates_for_discussion/Log/2024_September_20|a TFD]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Montagano"
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Marilyn_Singleton",
+  "candidate_name": "Marilyn Singleton",
+  "collection_date": "2025-12-28T16:47:43.473416",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-09-30T04:30:25Z",
+      "end": "2018-12-08T18:58:59Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 515255401,
+      "parentid": 0,
+      "timestamp": "2012-09-30T04:30:25Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 118,
+      "comment": "Redirecting header delineating American [no party preference] congressional candidate in [[California's 13th congressional district]], [[Marilyn Singleton]], to article, [[United States House of Representatives elections in California, 2012#District 13]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872715725,
+      "parentid": 515255401,
+      "timestamp": "2018-12-08T18:58:59Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 117,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in California]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marilyn_Singleton"
+}

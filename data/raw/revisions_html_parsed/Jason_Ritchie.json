@@ -1,0 +1,44 @@
+{
+  "page_title": "Jason_Ritchie",
+  "candidate_name": "Jason Ritchie",
+  "collection_date": "2025-12-28T16:41:19.364112",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-06-25T02:31:33Z",
+      "end": "2018-12-08T17:48:35Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 614307125,
+      "parentid": 0,
+      "timestamp": "2014-06-25T02:31:33Z",
+      "user": "Simonslt",
+      "userid": 17018194,
+      "size": 93,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Washington, 2014#District 8]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872705718,
+      "parentid": 614307125,
+      "timestamp": "2018-12-08T17:48:35Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 92,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in Washington]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Ritchie"
+}

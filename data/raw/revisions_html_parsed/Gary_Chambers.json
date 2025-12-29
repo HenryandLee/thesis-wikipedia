@@ -1,0 +1,1253 @@
+{
+  "page_title": "Gary_Chambers",
+  "candidate_name": "Gary Chambers",
+  "collection_date": "2025-12-28T16:39:22.828002",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 94,
+    "unique_editors": 47,
+    "date_range": {
+      "start": "2021-01-04T22:17:53Z",
+      "end": "2024-11-27T18:31:27Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 998330264,
+      "parentid": 0,
+      "timestamp": "2021-01-04T22:17:53Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 213,
+      "comment": "[[WP:AES|←]]Redirected page to [[2021 Louisiana's 2nd congressional district special election#Democratic Party]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1067189315,
+      "parentid": 998330264,
+      "timestamp": "2022-01-22T06:09:56Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 11549,
+      "comment": "expand to article",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 1067189482,
+      "parentid": 1067189315,
+      "timestamp": "2022-01-22T06:11:16Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 15640,
+      "comment": "Alter: template type. Add: website, newspaper, date, magazine, title, authors 1-1. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Levivich | #UCB_toolbar",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067190026,
+      "parentid": 1067189482,
+      "timestamp": "2022-01-22T06:15:46Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 15723,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"Activist and US Senate candidate from Baton Rouge, Louisiana\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067228370,
+      "parentid": 1067190026,
+      "timestamp": "2022-01-22T11:27:34Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 15771,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (notability)",
+      "minor": false,
+      "tags": [
+        "pagetriage",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1067244023,
+      "parentid": 1067228370,
+      "timestamp": "2022-01-22T13:36:05Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 15723,
+      "comment": "Removing notability tag. Feature story bios in Rolling Stone and LA's largest newspaper; int'l coverage; multi-year coverage; definitely passes GNG. Take it to AfD or at least post on the talk page, don't just drive-by tag as part of page curation please.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1067272573,
+      "parentid": 1067244023,
+      "timestamp": "2022-01-22T16:46:31Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 15717,
+      "comment": "[[MOS:CONTEXTBIO]]",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1067273189,
+      "parentid": 1067272573,
+      "timestamp": "2022-01-22T16:51:00Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 15723,
+      "comment": "Undid revision 1067272573 by [[Special:Contributions/KidAd|KidAd]] ([[User talk:KidAd|talk]]) his being Black is a key part of his notability, mentioned in every source; he's an activist for racial justice",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1067274602,
+      "parentid": 1067273189,
+      "timestamp": "2022-01-22T16:59:58Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 15948,
+      "comment": "Filling in 1 references using [[WP:REFLINKS|Reflinks]], date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1067274632,
+      "parentid": 1067274602,
+      "timestamp": "2022-01-22T17:00:07Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 15996,
+      "comment": "added [[Category:People from Baton Rouge, Louisiana]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067274669,
+      "parentid": 1067274632,
+      "timestamp": "2022-01-22T17:00:18Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 15998,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1067274700,
+      "parentid": 1067274669,
+      "timestamp": "2022-01-22T17:00:27Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 16023,
+      "comment": "added [[Category:1985 births]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067274786,
+      "parentid": 1067274700,
+      "timestamp": "2022-01-22T17:00:54Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 16209,
+      "comment": "Filled in 3 bare reference(s) with reFill 2",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1067275777,
+      "parentid": 1067274786,
+      "timestamp": "2022-01-22T17:06:31Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 16203,
+      "comment": "Violates [[MOS:ETHNICITY]]",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1067278434,
+      "parentid": 1067275777,
+      "timestamp": "2022-01-22T17:20:45Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16567,
+      "comment": "/* Early life and career */ +Adweek, ordained minister",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1067278666,
+      "parentid": 1067278434,
+      "timestamp": "2022-01-22T17:21:50Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16664,
+      "comment": "/* 2022 US Senate campaign */ +Adweek, slight expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067278768,
+      "parentid": 1067278666,
+      "timestamp": "2022-01-22T17:22:21Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16664,
+      "comment": "/* 2022 US Senate campaign */ cite order",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1067279188,
+      "parentid": 1067278768,
+      "timestamp": "2022-01-22T17:24:42Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16632,
+      "comment": "/* 2021 special election campaign */ fix cite order",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067279428,
+      "parentid": 1067279188,
+      "timestamp": "2022-01-22T17:25:47Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16599,
+      "comment": "/* 2021 special election campaign */ rmv dup cites in same para",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1067279684,
+      "parentid": 1067279428,
+      "timestamp": "2022-01-22T17:26:53Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16599,
+      "comment": "/* 2021 special election campaign */ cite order",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1067279771,
+      "parentid": 1067279684,
+      "timestamp": "2022-01-22T17:27:17Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16599,
+      "comment": "/* 2021 special election campaign */ I think I got it this time",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1067283917,
+      "parentid": 1067279771,
+      "timestamp": "2022-01-22T17:48:20Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16600,
+      "comment": "/*  */ grammar",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067290358,
+      "parentid": 1067283917,
+      "timestamp": "2022-01-22T18:20:13Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 16728,
+      "comment": "/* 2022 US Senate campaign */ +1st candidate to openly smoke marijuana in an ad",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067297751,
+      "parentid": 1067290358,
+      "timestamp": "2022-01-22T18:59:04Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 17626,
+      "comment": "copyedits and structuring",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1067300643,
+      "parentid": 1067297751,
+      "timestamp": "2022-01-22T19:16:30Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 17193,
+      "comment": "midcitymessenger is an op-ed, not an RS; the RS (the Bridges March 1, 2021 piece) says he graduated in Baton Rouge, not Jacksonville, so restoring that.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067300825,
+      "parentid": 1067300643,
+      "timestamp": "2022-01-22T19:17:30Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 17209,
+      "comment": "/* Early life and education */ +date to cite",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1067352236,
+      "parentid": 1067300825,
+      "timestamp": "2022-01-23T01:41:42Z",
+      "user": "Levivich",
+      "userid": 35116869,
+      "size": 17209,
+      "comment": "/* Career */ lvl2 headings instead of lvl3 for mobile readers, esp. short articles",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067714496,
+      "parentid": 1067352236,
+      "timestamp": "2022-01-24T20:17:53Z",
+      "user": "Zeddawg",
+      "userid": 29686516,
+      "size": 17305,
+      "comment": "Adding image of Chambers.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1070866005,
+      "parentid": 1067714496,
+      "timestamp": "2022-02-09T17:49:25Z",
+      "user": "Johnclark9821",
+      "userid": 35320231,
+      "size": 17305,
+      "comment": "/* Early life and education */ corrected grammar",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1070866102,
+      "parentid": 1070866005,
+      "timestamp": "2022-02-09T17:50:03Z",
+      "user": "Johnclark9821",
+      "userid": 35320231,
+      "size": 17307,
+      "comment": "/* Early life and education */ better phrasing",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1070866670,
+      "parentid": 1070866102,
+      "timestamp": "2022-02-09T17:53:17Z",
+      "user": "66.44.8.162",
+      "userid": 0,
+      "size": 17305,
+      "comment": "/* Early life and education */ changed language \"committed suicide\" to \"died by suicide\"",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1070874908,
+      "parentid": 1070866670,
+      "timestamp": "2022-02-09T18:40:28Z",
+      "user": "68.91.254.91",
+      "userid": 0,
+      "size": 16977,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1070880828,
+      "parentid": 1070874908,
+      "timestamp": "2022-02-09T19:17:26Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 17305,
+      "comment": "Reverted edits by [[Special:Contribs/68.91.254.91|68.91.254.91]] ([[User talk:68.91.254.91|talk]]) to last version by 66.44.8.162",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1071069480,
+      "parentid": 1070880828,
+      "timestamp": "2022-02-10T18:16:32Z",
+      "user": "Pikamander2",
+      "userid": 4743453,
+      "size": 17309,
+      "comment": "/* Early career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1071249260,
+      "parentid": 1071069480,
+      "timestamp": "2022-02-11T16:22:11Z",
+      "user": "84.213.47.239",
+      "userid": 0,
+      "size": 17309,
+      "comment": "/* 2021 special election campaign */ fixed typo",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1071729132,
+      "parentid": 1071249260,
+      "timestamp": "2022-02-14T02:29:29Z",
+      "user": "2600:1700:A50:B40:A984:5D9A:4111:113D",
+      "userid": 0,
+      "size": 17144,
+      "comment": "Removed False Information",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1071729942,
+      "parentid": 1071729132,
+      "timestamp": "2022-02-14T02:36:08Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 17309,
+      "comment": "that information is sourced",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1071729995,
+      "parentid": 1071729942,
+      "timestamp": "2022-02-14T02:36:45Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 17309,
+      "comment": "structuring",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1071730673,
+      "parentid": 1071729995,
+      "timestamp": "2022-02-14T02:43:20Z",
+      "user": "ChristianJackson8018",
+      "userid": 43373195,
+      "size": 17312,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1071731035,
+      "parentid": 1071730673,
+      "timestamp": "2022-02-14T02:46:48Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 17240,
+      "comment": "Fix infobox image syntax",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1071738497,
+      "parentid": 1071731035,
+      "timestamp": "2022-02-14T03:43:09Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 17240,
+      "comment": "cleanup",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1071921531,
+      "parentid": 1071738497,
+      "timestamp": "2022-02-15T02:05:29Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 17222,
+      "comment": "Removing [[:c:File:Gary-chambers.jpg|Gary-chambers.jpg]]; it has been deleted from Commons by [[:c:User:King of Hearts|King of Hearts]] because: [[:c:COM:L|Copyright violation]]: https://chambersforlouisiana.com/.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1071937410,
+      "parentid": 1071921531,
+      "timestamp": "2022-02-15T04:15:20Z",
+      "user": "98.155.8.5",
+      "userid": 0,
+      "size": 17292,
+      "comment": "/* External links */ link added",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1071938115,
+      "parentid": 1071937410,
+      "timestamp": "2022-02-15T04:21:35Z",
+      "user": "98.155.8.5",
+      "userid": 0,
+      "size": 17373,
+      "comment": "campaign website added",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1071938732,
+      "parentid": 1071938115,
+      "timestamp": "2022-02-15T04:26:37Z",
+      "user": "98.155.8.5",
+      "userid": 0,
+      "size": 17366,
+      "comment": "link corrected",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1073052113,
+      "parentid": 1071938732,
+      "timestamp": "2022-02-20T19:47:32Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 17367,
+      "comment": "Alter: template type. Add: newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 495/2582",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1074008959,
+      "parentid": 1073052113,
+      "timestamp": "2022-02-25T22:25:35Z",
+      "user": "70.119.81.95",
+      "userid": 0,
+      "size": 17741,
+      "comment": "/* 2022 U.S. Senate campaign */Added content relating to chamber’s viral “Scars and Bars” ad.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1074064673,
+      "parentid": 1074008959,
+      "timestamp": "2022-02-26T06:33:12Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 17367,
+      "comment": "Unsourced",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1075807386,
+      "parentid": 1074064673,
+      "timestamp": "2022-03-07T20:01:46Z",
+      "user": "Benjamin.P.L",
+      "userid": 33099098,
+      "size": 17398,
+      "comment": "Added image from senate article",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1081595198,
+      "parentid": 1075807386,
+      "timestamp": "2022-04-08T12:13:19Z",
+      "user": "C933103",
+      "userid": 7205089,
+      "size": 17404,
+      "comment": "/* top */Other people raised question about the characterization of this person as a civil right activist, and indeed the page contain no mention of this person participating in civil right activity. Google search also only show result about political career of h",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1081597337,
+      "parentid": 1081595198,
+      "timestamp": "2022-04-08T12:33:48Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 17420,
+      "comment": "Dating maintenance tags: {{CN}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1086433210,
+      "parentid": 1081597337,
+      "timestamp": "2022-05-06T04:29:58Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 17378,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091256771,
+      "parentid": 1086433210,
+      "timestamp": "2022-06-03T04:56:43Z",
+      "user": "98.155.8.5",
+      "userid": 0,
+      "size": 18935,
+      "comment": "citations added",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095085143,
+      "parentid": 1091256771,
+      "timestamp": "2022-06-26T07:35:46Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 18946,
+      "comment": "/* 2021 special election campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095085172,
+      "parentid": 1095085143,
+      "timestamp": "2022-06-26T07:36:18Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 18955,
+      "comment": "/* 2021 special election campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095085301,
+      "parentid": 1095085172,
+      "timestamp": "2022-06-26T07:38:07Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 18961,
+      "comment": "/* 2022 U.S. Senate campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1116532493,
+      "parentid": 1095085301,
+      "timestamp": "2022-10-17T01:52:35Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 18963,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1117784458,
+      "parentid": 1116532493,
+      "timestamp": "2022-10-23T15:26:15Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 18970,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120375522,
+      "parentid": 1117784458,
+      "timestamp": "2022-11-06T17:46:59Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 18903,
+      "comment": "removed [[Category:Candidates in the 2022 United States Senate elections]] using [[WP:HC|HotCat]] This should not be added until after the election, if he loses",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120549985,
+      "parentid": 1120375522,
+      "timestamp": "2022-11-07T16:04:47Z",
+      "user": "74.231.235.4",
+      "userid": 0,
+      "size": 18944,
+      "comment": "how he was raised",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1120550193,
+      "parentid": 1120549985,
+      "timestamp": "2022-11-07T16:05:54Z",
+      "user": "ButterCashier",
+      "userid": 41363991,
+      "size": 18903,
+      "comment": "Reverting edit(s) by [[Special:Contributions/74.231.235.4|74.231.235.4]] ([[User_talk:74.231.235.4|talk]]) to rev. 1120375522 by Sunshineisles2: non-constructive [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn"
+      ]
+    },
+    {
+      "revid": 1120550351,
+      "parentid": 1120550193,
+      "timestamp": "2022-11-07T16:06:49Z",
+      "user": "74.231.235.4",
+      "userid": 0,
+      "size": 19008,
+      "comment": "what his neighborhood was like",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1120550406,
+      "parentid": 1120550351,
+      "timestamp": "2022-11-07T16:07:09Z",
+      "user": "Eridian314",
+      "userid": 40513412,
+      "size": 18903,
+      "comment": "Reverted 1 edit by [[Special:Contributions/74.231.235.4|74.231.235.4]] ([[User talk:74.231.235.4|talk]]) to last revision by ButterCashier",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1120551212,
+      "parentid": 1120550406,
+      "timestamp": "2022-11-07T16:12:32Z",
+      "user": "74.231.235.4",
+      "userid": 0,
+      "size": 18967,
+      "comment": "stuff",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1120551235,
+      "parentid": 1120551212,
+      "timestamp": "2022-11-07T16:12:42Z",
+      "user": "ButterCashier",
+      "userid": 41363991,
+      "size": 18903,
+      "comment": "Reverting edit(s) by [[Special:Contributions/74.231.235.4|74.231.235.4]] ([[User_talk:74.231.235.4|talk]]) to rev. 1120550406 by Eridian314: non-constructive [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn"
+      ]
+    },
+    {
+      "revid": 1120551460,
+      "parentid": 1120551235,
+      "timestamp": "2022-11-07T16:14:15Z",
+      "user": "74.231.235.4",
+      "userid": 0,
+      "size": 18944,
+      "comment": "stufffff",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1120551476,
+      "parentid": 1120551460,
+      "timestamp": "2022-11-07T16:14:19Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 18903,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/74.231.235.4|74.231.235.4]] to version by ButterCashier. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4188601) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1120929832,
+      "parentid": 1120551476,
+      "timestamp": "2022-11-09T15:58:09Z",
+      "user": "74.231.235.8",
+      "userid": 0,
+      "size": 18899,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1120963741,
+      "parentid": 1120929832,
+      "timestamp": "2022-11-09T19:42:52Z",
+      "user": "Liamthereal",
+      "userid": 43028133,
+      "size": 18872,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121906209,
+      "parentid": 1120963741,
+      "timestamp": "2022-11-14T19:59:39Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 18992,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125112539,
+      "parentid": 1121906209,
+      "timestamp": "2022-12-02T07:11:17Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 19059,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1130943512,
+      "parentid": 1125112539,
+      "timestamp": "2023-01-01T19:33:46Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 19084,
+      "comment": "/* 2021 special election campaign */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133730916,
+      "parentid": 1130943512,
+      "timestamp": "2023-01-15T07:00:52Z",
+      "user": "Wozal",
+      "userid": 43918024,
+      "size": 27406,
+      "comment": "Rescuing 36 sources and tagging 0 as dead.) #IABot (v2.0.9.3",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 1804"
+      ]
+    },
+    {
+      "revid": 1140055427,
+      "parentid": 1133730916,
+      "timestamp": "2023-02-18T05:38:00Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 27411,
+      "comment": "Move to more specific subcategory",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140056316,
+      "parentid": 1140055427,
+      "timestamp": "2023-02-18T05:46:18Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 27470,
+      "comment": "Expand on my previous edit",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1146012922,
+      "parentid": 1140056316,
+      "timestamp": "2023-03-22T07:44:32Z",
+      "user": "Cpotisch",
+      "userid": 31957816,
+      "size": 27929,
+      "comment": "/* 2022 U.S. Senate campaign */ Additional info about election results",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1157594491,
+      "parentid": 1146012922,
+      "timestamp": "2023-05-29T17:26:48Z",
+      "user": "BernieS24",
+      "userid": 46006598,
+      "size": 27925,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1157594615,
+      "parentid": 1157594491,
+      "timestamp": "2023-05-29T17:27:56Z",
+      "user": "BernieS24",
+      "userid": 46006598,
+      "size": 27903,
+      "comment": "Wrong party",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1157594635,
+      "parentid": 1157594615,
+      "timestamp": "2023-05-29T17:28:04Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 27929,
+      "comment": "Reverted 2 edits by [[Special:Contributions/BernieS24|BernieS24]] ([[User talk:BernieS24|talk]]) to last revision by Cpotisch",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1159159842,
+      "parentid": 1157594635,
+      "timestamp": "2023-06-08T16:51:50Z",
+      "user": "91.223.100.41",
+      "userid": 0,
+      "size": 27807,
+      "comment": "/* 2022 U.S. Senate campaign */Removed hypothetical",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1162144239,
+      "parentid": 1159159842,
+      "timestamp": "2023-06-27T07:32:51Z",
+      "user": "166.205.147.47",
+      "userid": 0,
+      "size": 28271,
+      "comment": "Some claims mentioned in this section have been characterized by fact checkers as false. Updated to reflect this",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162197754,
+      "parentid": 1162144239,
+      "timestamp": "2023-06-27T15:57:42Z",
+      "user": "Ixtal",
+      "userid": 40249159,
+      "size": 27807,
+      "comment": "Undid revision 1162144239 by [[Special:Contributions/166.205.147.47|166.205.147.47]] ([[User talk:166.205.147.47|talk]]) cited article says the claims are, at most, outdated to 2010 or misword marijuana-related to marijuana possession-related. The source only calls the \"every x seconds\" one mostly false because it is considered to be every 46 seconds rather than 37 using the more current data.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1165863735,
+      "parentid": 1162197754,
+      "timestamp": "2023-07-17T22:26:16Z",
+      "user": "2603:8001:8500:5461:687F:DA1B:BF19:31CD",
+      "userid": 0,
+      "size": 27835,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1173218234,
+      "parentid": 1165863735,
+      "timestamp": "2023-09-01T01:12:42Z",
+      "user": "Bcon73",
+      "userid": 15751537,
+      "size": 27834,
+      "comment": "/* 2020 school board meeting */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1180470399,
+      "parentid": 1173218234,
+      "timestamp": "2023-10-16T21:06:00Z",
+      "user": "Charles Maigret",
+      "userid": 38544378,
+      "size": 27834,
+      "comment": "/* Early life and education */ Correct punctuation.  Following an adverb ending in -ly, a hyphen is not needed.  Also, \"two months\" old is a simple phrase and not a unit modifier, so it takes no hyphens.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1180470718,
+      "parentid": 1180470399,
+      "timestamp": "2023-10-16T21:08:38Z",
+      "user": "Charles Maigret",
+      "userid": 38544378,
+      "size": 27834,
+      "comment": "/* 2021 special election campaign */ Punctuation:  Quotation marks ALWAYS belong outside a period ending a sentence.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1199387230,
+      "parentid": 1180470718,
+      "timestamp": "2024-01-26T23:24:49Z",
+      "user": "Faolin42",
+      "userid": 11526809,
+      "size": 27832,
+      "comment": "run-off -> runoff",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236154738,
+      "parentid": 1199387230,
+      "timestamp": "2024-07-23T05:55:37Z",
+      "user": "ProfessorKaiFlai",
+      "userid": 42108076,
+      "size": 27902,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1239689729,
+      "parentid": 1236154738,
+      "timestamp": "2024-08-10T21:53:43Z",
+      "user": "ProfessorKaiFlai",
+      "userid": 42108076,
+      "size": 27982,
+      "comment": "/* References */ Added See also section",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1245743182,
+      "parentid": 1239689729,
+      "timestamp": "2024-09-14T20:24:10Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 27966,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"Activist and US Senate candidate from Baton Rouge, Louisiana\" to \"American activist and politician (born 1985)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1245744849,
+      "parentid": 1245743182,
+      "timestamp": "2024-09-14T20:35:29Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 28291,
+      "comment": "Altered title. Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Losipov | [[Category:Candidates in the 2022 United States Senate elections]] | #UCB_Category 7/71",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1259565836,
+      "parentid": 1245744849,
+      "timestamp": "2024-11-25T21:22:40Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 28244,
+      "comment": "Removing from [[Category:21st-century American politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1259895942,
+      "parentid": 1259565836,
+      "timestamp": "2024-11-27T17:53:17Z",
+      "user": "104.62.161.70",
+      "userid": 0,
+      "size": 28233,
+      "comment": "\"died by suicide\" is not at all necessary to provide information on the fact that his mother died at 2 months old. that is incredibly traumatic and this individual probably reviews his wikipedia page and has probably dealt with a great deal of lifelong trauma revealed to this. it is sufficient to say his mother died at 2 months old. thank you.",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259901254,
+      "parentid": 1259895942,
+      "timestamp": "2024-11-27T18:31:27Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 28244,
+      "comment": "Undid revision [[Special:Diff/1259895942|1259895942]] by [[Special:Contributions/104.62.161.70|104.62.161.70]] ([[User talk:104.62.161.70|talk]]) Removal of valid content, pretty sure the subject doesn't care about his wiki bio",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gary_Chambers"
+}

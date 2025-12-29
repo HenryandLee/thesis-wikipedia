@@ -1,0 +1,494 @@
+{
+  "page_title": "Debbie_Holmes",
+  "candidate_name": "Debbie Holmes",
+  "collection_date": "2025-12-28T16:37:19.712887",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 42,
+    "unique_editors": 25,
+    "date_range": {
+      "start": "2008-06-10T00:29:06Z",
+      "end": "2024-06-18T03:53:42Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 218296914,
+      "parentid": 0,
+      "timestamp": "2008-06-10T00:29:06Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 1971,
+      "comment": "created stub",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218296992,
+      "parentid": 218296914,
+      "timestamp": "2008-06-10T00:29:30Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 1908,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 218297077,
+      "parentid": 218296992,
+      "timestamp": "2008-06-10T00:29:55Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 1908,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 218297132,
+      "parentid": 218297077,
+      "timestamp": "2008-06-10T00:30:17Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 1901,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 218298382,
+      "parentid": 218297132,
+      "timestamp": "2008-06-10T00:37:47Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 1943,
+      "comment": "Category:Binghamton University alumni",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218446339,
+      "parentid": 218298382,
+      "timestamp": "2008-06-10T18:11:17Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 2130,
+      "comment": "2008 primar",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218453095,
+      "parentid": 218446339,
+      "timestamp": "2008-06-10T18:45:27Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 2411,
+      "comment": "background",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218478612,
+      "parentid": 218453095,
+      "timestamp": "2008-06-10T20:48:57Z",
+      "user": "12.152.169.130",
+      "userid": 0,
+      "size": 2410,
+      "comment": "She was a lecturer at BSU, not C of I",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218478716,
+      "parentid": 218478612,
+      "timestamp": "2008-06-10T20:49:27Z",
+      "user": "12.152.169.130",
+      "userid": 0,
+      "size": 2403,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218478787,
+      "parentid": 218478716,
+      "timestamp": "2008-06-10T20:49:52Z",
+      "user": "12.152.169.130",
+      "userid": 0,
+      "size": 2377,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218495561,
+      "parentid": 218478787,
+      "timestamp": "2008-06-10T22:15:05Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 2406,
+      "comment": "[[Category:Idaho Democrats]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218784091,
+      "parentid": 218495561,
+      "timestamp": "2008-06-12T04:02:02Z",
+      "user": "70.58.129.126",
+      "userid": 0,
+      "size": 2408,
+      "comment": "new website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221786365,
+      "parentid": 218784091,
+      "timestamp": "2008-06-26T02:41:05Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 2417,
+      "comment": "duplicate categorization",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 235888948,
+      "parentid": 221786365,
+      "timestamp": "2008-09-02T20:44:54Z",
+      "user": "Toffile",
+      "userid": 290968,
+      "size": 2416,
+      "comment": "clean up  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 249926180,
+      "parentid": 235888948,
+      "timestamp": "2008-11-05T22:47:39Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 2597,
+      "comment": "results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 261829217,
+      "parentid": 249926180,
+      "timestamp": "2009-01-04T04:38:24Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 2594,
+      "comment": "Removed category \"American women in politics\"; Quick-adding category \"Women in Idaho politics\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 269814986,
+      "parentid": 261829217,
+      "timestamp": "2009-02-10T18:22:32Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 2622,
+      "comment": "{{reflist}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 305663886,
+      "parentid": 269814986,
+      "timestamp": "2009-08-02T17:39:58Z",
+      "user": "Dthomsen8",
+      "userid": 6277327,
+      "size": 2756,
+      "comment": "/* References */ Added See also *[[Idaho's 2nd congressional district]] *[[United States House of Representatives elections in Idaho, 2008#District 2]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 320092003,
+      "parentid": 305663886,
+      "timestamp": "2009-10-15T21:32:24Z",
+      "user": "Mwares212",
+      "userid": 10788391,
+      "size": 2735,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333048614,
+      "parentid": 320092003,
+      "timestamp": "2009-12-21T12:33:57Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 2727,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 368708243,
+      "parentid": 333048614,
+      "timestamp": "2010-06-18T01:32:38Z",
+      "user": "Faustus37",
+      "userid": 251194,
+      "size": 2667,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 393225180,
+      "parentid": 368708243,
+      "timestamp": "2010-10-27T15:26:23Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 2992,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7333)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416472393,
+      "parentid": 393225180,
+      "timestamp": "2011-03-01T00:29:38Z",
+      "user": "96.241.60.160",
+      "userid": 0,
+      "size": 3196,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 431665200,
+      "parentid": 416472393,
+      "timestamp": "2011-05-30T15:21:29Z",
+      "user": "Mxcvi",
+      "userid": 14497262,
+      "size": 3081,
+      "comment": "Use surname only, after first mention of subject. Remove uncited \"interesting\" fact. Multiple citations needed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 431665295,
+      "parentid": 431665200,
+      "timestamp": "2011-05-30T15:22:07Z",
+      "user": "Mxcvi",
+      "userid": 14497262,
+      "size": 3080,
+      "comment": "Remove my own typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 431666242,
+      "parentid": 431665295,
+      "timestamp": "2011-05-30T15:28:18Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3182,
+      "comment": "Dated {{Citation needed}} x 4. (Build p612)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459071942,
+      "parentid": 431666242,
+      "timestamp": "2011-11-05T01:49:26Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3202,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 714473428,
+      "parentid": 459071942,
+      "timestamp": "2016-04-09T23:57:27Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 2858,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Debbie Holmes|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753885170,
+      "parentid": 714473428,
+      "timestamp": "2016-12-09T18:46:02Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 2960,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 758463446,
+      "parentid": 753885170,
+      "timestamp": "2017-01-05T16:13:26Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 3010,
+      "comment": "Reformat 1 wayback link. [[User:Green Cardamom/WaybackMedic_2|Wayback Medic 2]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 779729082,
+      "parentid": 758463446,
+      "timestamp": "2017-05-10T17:08:00Z",
+      "user": "209.210.130.140",
+      "userid": 0,
+      "size": 3147,
+      "comment": "source",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 784007778,
+      "parentid": 779729082,
+      "timestamp": "2017-06-05T23:36:51Z",
+      "user": "IdahoPolitics",
+      "userid": 30705589,
+      "size": 3198,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 837606118,
+      "parentid": 784007778,
+      "timestamp": "2018-04-21T21:49:24Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 3218,
+      "comment": "+{{[[Template:Authority control|Authority control]]}} (2 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 851360417,
+      "parentid": 837606118,
+      "timestamp": "2018-07-21T19:15:51Z",
+      "user": "Gene Wilson",
+      "userid": 6713489,
+      "size": 3187,
+      "comment": "/* top */The religion parameter is NOT recognized in the 'Infobox Person' template.) https://en.wikipedia.org/w/index.php?title=Category:Infobox_person_using_religi using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 907177467,
+      "parentid": 851360417,
+      "timestamp": "2019-07-21T01:59:41Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3235,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta15)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984218709,
+      "parentid": 907177467,
+      "timestamp": "2020-10-18T22:10:52Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 3156,
+      "comment": "/* top */[[User:PrimeBOT/30|Task 30]] - rmv bad params in [[Template:Infobox person]] (+genfixes)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1027210915,
+      "parentid": 984218709,
+      "timestamp": "2021-06-06T18:42:42Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 3172,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1056363335,
+      "parentid": 1027210915,
+      "timestamp": "2021-11-21T09:48:53Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3213,
+      "comment": "/* External links */add category [[Category:21st-century American women]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1067736136,
+      "parentid": 1056363335,
+      "timestamp": "2022-01-24T22:48:14Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 3255,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1143005878,
+      "parentid": 1067736136,
+      "timestamp": "2023-03-05T12:26:38Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3415,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.3) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 12586",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1161476609,
+      "parentid": 1143005878,
+      "timestamp": "2023-06-22T23:58:22Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 3420,
+      "comment": "Moving from [[Category:People from Boise, Idaho]] to [[Category:Politicians from Boise, Idaho]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1229680130,
+      "parentid": 1161476609,
+      "timestamp": "2024-06-18T03:53:42Z",
+      "user": "Beland",
+      "userid": 57939,
+      "size": 3377,
+      "comment": "[[WP:INFONAT]] cleanup - omit nationality/citizenship if same as birth country (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Debbie_Holmes"
+}

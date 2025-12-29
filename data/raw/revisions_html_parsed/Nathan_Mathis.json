@@ -1,0 +1,486 @@
+{
+  "page_title": "Nathan_Mathis",
+  "candidate_name": "Nathan Mathis",
+  "collection_date": "2025-12-28T16:50:33.029469",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 37,
+    "unique_editors": 23,
+    "date_range": {
+      "start": "2016-06-28T15:00:28Z",
+      "end": "2024-12-08T20:54:59Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 727370885,
+      "parentid": 0,
+      "timestamp": "2016-06-28T15:00:28Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 68,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections, 2016]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 839860201,
+      "parentid": 727370885,
+      "timestamp": "2018-05-06T05:05:43Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 9413,
+      "comment": "[[WP:AES|←]]Removed redirect to [[United States House of Representatives elections, 2016]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 839860423,
+      "parentid": 839860201,
+      "timestamp": "2018-05-06T05:08:44Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 9461,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 843718105,
+      "parentid": 839860423,
+      "timestamp": "2018-05-31T00:28:37Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 9467,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847243655,
+      "parentid": 843718105,
+      "timestamp": "2018-06-23T22:24:03Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 9444,
+      "comment": "/* Personal life */[[Wikipedia:Bots/Requests for approval/PrimeBOT 17|Task 17]] - remove [[UTM parameters]] (Google analytics) from URLs",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 871995814,
+      "parentid": 847243655,
+      "timestamp": "2018-12-04T17:12:21Z",
+      "user": "Harry.breault",
+      "userid": 29768769,
+      "size": 9444,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 871995972,
+      "parentid": 871995814,
+      "timestamp": "2018-12-04T17:13:34Z",
+      "user": "Harry.breault",
+      "userid": 29768769,
+      "size": 9392,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 871996837,
+      "parentid": 871995972,
+      "timestamp": "2018-12-04T17:20:36Z",
+      "user": "Harry.breault",
+      "userid": 29768769,
+      "size": 9620,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 871996923,
+      "parentid": 871996837,
+      "timestamp": "2018-12-04T17:21:16Z",
+      "user": "Harry.breault",
+      "userid": 29768769,
+      "size": 9638,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 874201927,
+      "parentid": 871996923,
+      "timestamp": "2018-12-17T20:06:20Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 9641,
+      "comment": "Robot - Speedily moving category Candidates in United States elections, 2016 to [[:Category:Candidates in the 2016 United States elections]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 927746472,
+      "parentid": 874201927,
+      "timestamp": "2019-11-24T14:25:21Z",
+      "user": "Unlgirl",
+      "userid": 37907824,
+      "size": 10191,
+      "comment": "Updated information about advocacy after viral video",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 927746690,
+      "parentid": 927746472,
+      "timestamp": "2019-11-24T14:27:30Z",
+      "user": "Unlgirl",
+      "userid": 37907824,
+      "size": 9642,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 927746860,
+      "parentid": 927746690,
+      "timestamp": "2019-11-24T14:29:18Z",
+      "user": "Unlgirl",
+      "userid": 37907824,
+      "size": 10194,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 927747404,
+      "parentid": 927746860,
+      "timestamp": "2019-11-24T14:35:17Z",
+      "user": "Unlgirl",
+      "userid": 37907824,
+      "size": 10446,
+      "comment": "Update running for office",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 927748408,
+      "parentid": 927747404,
+      "timestamp": "2019-11-24T14:45:12Z",
+      "user": "Unlgirl",
+      "userid": 37907824,
+      "size": 10490,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 931452829,
+      "parentid": 927748408,
+      "timestamp": "2019-12-19T00:11:27Z",
+      "user": "2600:1700:3560:1530:AC28:3849:B850:226F",
+      "userid": 0,
+      "size": 10483,
+      "comment": "/* Biography */Facts changed & he now has a democratic challenger. Originally it said he was the sole democratic candidate.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 955248444,
+      "parentid": 931452829,
+      "timestamp": "2020-05-06T19:16:32Z",
+      "user": "50.53.107.80",
+      "userid": 0,
+      "size": 10467,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 963988503,
+      "parentid": 955248444,
+      "timestamp": "2020-06-22T23:15:41Z",
+      "user": "ALRollTide21",
+      "userid": 39561586,
+      "size": 10883,
+      "comment": "/* Electoral history */ added 2020 AL-02 primary election data and cleaned up text to be more consistent.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 973024043,
+      "parentid": 963988503,
+      "timestamp": "2020-08-15T00:01:59Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 10943,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 999498091,
+      "parentid": 973024043,
+      "timestamp": "2021-01-10T14:00:28Z",
+      "user": "66.44.22.49",
+      "userid": 0,
+      "size": 10936,
+      "comment": "I changed \"committed suicide\" to \"killed herself\". Apologies for the sensitive edit, but AP style guide and others discourage the use of the phrase \"commit suicide\" because \"commit\" implies a crime and hence may stigmatize an already at-risk population.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 999498601,
+      "parentid": 999498091,
+      "timestamp": "2021-01-10T14:04:18Z",
+      "user": "IdreamofJeanie",
+      "userid": 4555919,
+      "size": 10940,
+      "comment": "/* top */ tense",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 999498671,
+      "parentid": 999498601,
+      "timestamp": "2021-01-10T14:04:51Z",
+      "user": "IdreamofJeanie",
+      "userid": 4555919,
+      "size": 10993,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American politician, born 1943\", overriding Wikidata description \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042707657,
+      "parentid": 999498671,
+      "timestamp": "2021-09-06T10:15:29Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 11103,
+      "comment": "Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 647/2146",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1051496183,
+      "parentid": 1042707657,
+      "timestamp": "2021-10-23T21:26:31Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 11125,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1123087570,
+      "parentid": 1051496183,
+      "timestamp": "2022-11-21T19:19:12Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 11068,
+      "comment": "rm redundant category",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1149292846,
+      "parentid": 1123087570,
+      "timestamp": "2023-04-11T09:45:54Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 11110,
+      "comment": "Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Candidates in the 2020 United States elections]] | #UCB_Category 52/150",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1171896247,
+      "parentid": 1149292846,
+      "timestamp": "2023-08-23T20:02:01Z",
+      "user": "Cyfal",
+      "userid": 4637213,
+      "size": 11110,
+      "comment": "spelling ([[WP:Typo Team]])",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1178319671,
+      "parentid": 1171896247,
+      "timestamp": "2023-10-02T22:34:16Z",
+      "user": "Sam11333",
+      "userid": 11121466,
+      "size": 11142,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1179908395,
+      "parentid": 1178319671,
+      "timestamp": "2023-10-13T06:36:25Z",
+      "user": "104.160.99.15",
+      "userid": 0,
+      "size": 11148,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1186901349,
+      "parentid": 1179908395,
+      "timestamp": "2023-11-26T05:35:40Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 11148,
+      "comment": "/* Electoral history */replaced: Primary → primary (9)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1215415907,
+      "parentid": 1186901349,
+      "timestamp": "2024-03-25T00:31:10Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 11173,
+      "comment": "removed [[Category:Candidates in the 2020 United States elections]]; added [[Category:Candidates in the 2020 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1243502865,
+      "parentid": 1215415907,
+      "timestamp": "2024-09-01T21:00:38Z",
+      "user": "Reppop",
+      "userid": 31211555,
+      "size": 11214,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243502946,
+      "parentid": 1243502865,
+      "timestamp": "2024-09-01T21:01:08Z",
+      "user": "Reppop",
+      "userid": 31211555,
+      "size": 11252,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1252962526,
+      "parentid": 1243502946,
+      "timestamp": "2024-10-23T18:44:18Z",
+      "user": "71.167.150.49",
+      "userid": 0,
+      "size": 11403,
+      "comment": "Worth mentioning he only lost by 8 points while Trump won it by 30.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259567189,
+      "parentid": 1252962526,
+      "timestamp": "2024-11-25T21:29:18Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 11356,
+      "comment": "Removing from [[Category:21st-century American politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261945847,
+      "parentid": 1259567189,
+      "timestamp": "2024-12-08T20:46:05Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 11417,
+      "comment": "added [[:Category:20th-century members of the Alabama Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1261947440,
+      "parentid": 1261945847,
+      "timestamp": "2024-12-08T20:54:59Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 11370,
+      "comment": "Removing from [[Category:20th-century American politicians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Mathis"
+}

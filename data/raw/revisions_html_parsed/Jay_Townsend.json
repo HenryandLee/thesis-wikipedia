@@ -1,0 +1,44 @@
+{
+  "page_title": "Jay_Townsend",
+  "candidate_name": "Jay Townsend",
+  "collection_date": "2025-12-28T16:41:24.952992",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-11-29T06:50:09Z",
+      "end": "2018-12-06T19:49:08Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 525501637,
+      "parentid": 0,
+      "timestamp": "2012-11-29T06:50:09Z",
+      "user": "MavsFan28",
+      "userid": 16107737,
+      "size": 61,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States Senate election in New York, 2010]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872350016,
+      "parentid": 525501637,
+      "timestamp": "2018-12-06T19:49:08Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 60,
+      "comment": "Bot: Fixing double redirect to [[2010 United States Senate election in New York]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jay_Townsend"
+}

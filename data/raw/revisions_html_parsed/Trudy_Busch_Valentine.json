@@ -1,0 +1,108 @@
+{
+  "page_title": "Trudy_Busch_Valentine",
+  "candidate_name": "Trudy Busch Valentine",
+  "collection_date": "2025-12-28T16:57:04.661036",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 6,
+    "unique_editors": 4,
+    "date_range": {
+      "start": "2022-08-03T03:44:44Z",
+      "end": "2022-10-28T04:25:44Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1102046629,
+      "parentid": 0,
+      "timestamp": "2022-08-03T03:44:44Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 170,
+      "comment": "[[WP:AES|←]]Redirected page to [[2022 United States Senate election in Missouri#Democratic primary]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107595539,
+      "parentid": 1102046629,
+      "timestamp": "2022-08-30T20:59:44Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 4121,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "deprecated source",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1107595614,
+      "parentid": 1107595539,
+      "timestamp": "2022-08-30T21:00:16Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 4139,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1107618389,
+      "parentid": 1107595614,
+      "timestamp": "2022-08-30T23:37:48Z",
+      "user": "AndreJustAndre",
+      "userid": 13732,
+      "size": 158,
+      "comment": "[[WP:AES|←]]Replaced content with '#REDIRECT [[2022 United States Senate election in Missouri#Democratic primary]] {{Rcat shell| {{R with history}} {{R with possibilities}} {{R printworthy}} }}'",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "mw-replace"
+      ]
+    },
+    {
+      "revid": 1118650785,
+      "parentid": 1107618389,
+      "timestamp": "2022-10-28T04:12:42Z",
+      "user": "Conmccool",
+      "userid": 44744138,
+      "size": 613,
+      "comment": "Added a page for a politician",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1118652679,
+      "parentid": 1118650785,
+      "timestamp": "2022-10-28T04:25:44Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 158,
+      "comment": "Undid revision 1118650785 by [[Special:Contributions/Conmccool|Conmccool]] ([[User talk:Conmccool|talk]]) that's not a page, there's an active draft",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Trudy_Busch_Valentine"
+}

@@ -1,0 +1,368 @@
+{
+  "page_title": "Don_Brown_(American_politician)",
+  "candidate_name": "Donald Brown",
+  "collection_date": "2025-12-28T16:37:55.957633",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 27,
+    "unique_editors": 9,
+    "date_range": {
+      "start": "2024-01-13T06:31:06Z",
+      "end": "2024-06-21T04:28:18Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1195290314,
+      "parentid": 0,
+      "timestamp": "2024-01-13T06:31:06Z",
+      "user": "StandardPolicy",
+      "userid": 47124197,
+      "size": 7152,
+      "comment": "Created Don Brown (Colorado) Article",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-references",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1195313286,
+      "parentid": 1195290314,
+      "timestamp": "2024-01-13T09:49:55Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7136,
+      "comment": "formatting, grammar",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195313555,
+      "parentid": 1195313286,
+      "timestamp": "2024-01-13T09:51:59Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6932,
+      "comment": "only if notable",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195313586,
+      "parentid": 1195313555,
+      "timestamp": "2024-01-13T09:52:17Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6908,
+      "comment": "unncessary subheader",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195313869,
+      "parentid": 1195313586,
+      "timestamp": "2024-01-13T09:54:51Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6909,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195313979,
+      "parentid": 1195313869,
+      "timestamp": "2024-01-13T09:55:36Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6924,
+      "comment": "formatting",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195314002,
+      "parentid": 1195313979,
+      "timestamp": "2024-01-13T09:55:50Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6927,
+      "comment": "fix typo",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195314068,
+      "parentid": 1195314002,
+      "timestamp": "2024-01-13T09:56:26Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6961,
+      "comment": "added [[Category:Colorado politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1195314720,
+      "parentid": 1195314068,
+      "timestamp": "2024-01-13T10:01:18Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7026,
+      "comment": "copyedit",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195315205,
+      "parentid": 1195314720,
+      "timestamp": "2024-01-13T10:04:03Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7026,
+      "comment": "Yeeno moved page [[Don Brown (Colorado)]] to [[Don Brown (politician)]]: Disambiguation by occupation is more common",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1195315292,
+      "parentid": 1195315205,
+      "timestamp": "2024-01-13T10:04:51Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7039,
+      "comment": "add politician since it is what made him notable",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195315572,
+      "parentid": 1195315292,
+      "timestamp": "2024-01-13T10:06:40Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7039,
+      "comment": "Yeeno moved page [[Don Brown (politician)]] to [[Don Brown (American politician)]]: [[Don Brown (Australian politician)]] already exists",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1195316488,
+      "parentid": 1195315572,
+      "timestamp": "2024-01-13T10:14:17Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7023,
+      "comment": "per [[MOS:JOBTITLE]]",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195316584,
+      "parentid": 1195316488,
+      "timestamp": "2024-01-13T10:15:02Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7045,
+      "comment": "add businessman to infobox",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1195317070,
+      "parentid": 1195316584,
+      "timestamp": "2024-01-13T10:19:13Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7098,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician and farmer\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1195317097,
+      "parentid": 1195317070,
+      "timestamp": "2024-01-13T10:19:25Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 7110,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician and farmer\" to \"American politician and farmer (born 1954)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1195474260,
+      "parentid": 1195317097,
+      "timestamp": "2024-01-14T00:22:30Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 7161,
+      "comment": "added [[Category:State cabinet secretaries of Colorado]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1195475220,
+      "parentid": 1195474260,
+      "timestamp": "2024-01-14T00:27:12Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 7140,
+      "comment": "/* Early life and education */ removed link to Yuma High School (it was to Arizona); ce",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1195698242,
+      "parentid": 1195475220,
+      "timestamp": "2024-01-14T22:43:10Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 7140,
+      "comment": "recieve > receive",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1196072638,
+      "parentid": 1195698242,
+      "timestamp": "2024-01-16T06:06:19Z",
+      "user": "Melcous",
+      "userid": 20472590,
+      "size": 7116,
+      "comment": "[[MOS:SURNAME]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1201382981,
+      "parentid": 1196072638,
+      "timestamp": "2024-01-31T14:07:18Z",
+      "user": "Adflatuss",
+      "userid": 16120725,
+      "size": 6874,
+      "comment": "Improved citations",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1201389630,
+      "parentid": 1201382981,
+      "timestamp": "2024-01-31T14:28:19Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 6892,
+      "comment": "Dating maintenance tags: {{Use mdy dates}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1204685610,
+      "parentid": 1201389630,
+      "timestamp": "2024-02-07T18:36:39Z",
+      "user": "NOLA1982",
+      "userid": 28021428,
+      "size": 6891,
+      "comment": "/* Early life and education */ fix insignificant typo in ref title, verified in source; replace curly quotation marks, per [[MOS:CURLY]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1211189981,
+      "parentid": 1204685610,
+      "timestamp": "2024-03-01T08:09:24Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6898,
+      "comment": "proper field for multiple schools",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1217959126,
+      "parentid": 1211189981,
+      "timestamp": "2024-04-08T22:36:56Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 6864,
+      "comment": "Remove parent category",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1217999833,
+      "parentid": 1217959126,
+      "timestamp": "2024-04-09T04:36:43Z",
+      "user": "Yeeno",
+      "userid": 16635116,
+      "size": 6973,
+      "comment": "add image",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1230175001,
+      "parentid": 1217999833,
+      "timestamp": "2024-06-21T04:28:18Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 7020,
+      "comment": "Add category relevant to career",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Don_Brown_(American_politician)"
+}

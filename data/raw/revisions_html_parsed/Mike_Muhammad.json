@@ -1,0 +1,44 @@
+{
+  "page_title": "Mike_Muhammad",
+  "candidate_name": "Mike Muhammad",
+  "collection_date": "2025-12-28T16:49:37.064555",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2008-11-14T06:08:39Z",
+      "end": "2018-12-08T19:22:30Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 251720633,
+      "parentid": 0,
+      "timestamp": "2008-11-14T06:08:39Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 95,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Pennsylvania, 2008#District 1]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872718471,
+      "parentid": 251720633,
+      "timestamp": "2018-12-08T19:22:30Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 94,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Pennsylvania]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Muhammad"
+}

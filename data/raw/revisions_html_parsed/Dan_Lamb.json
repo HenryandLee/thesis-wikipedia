@@ -1,0 +1,44 @@
+{
+  "page_title": "Dan_Lamb",
+  "candidate_name": "Dan Lamb",
+  "collection_date": "2025-12-28T16:36:24.570952",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-09-19T18:35:17Z",
+      "end": "2018-12-08T12:44:22Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 513572994,
+      "parentid": 0,
+      "timestamp": "2012-09-19T18:35:17Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 92,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in New York, 2012#District 22]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872666411,
+      "parentid": 513572994,
+      "timestamp": "2018-12-08T12:44:22Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in New York]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Lamb"
+}

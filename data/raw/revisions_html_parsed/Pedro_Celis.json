@@ -1,0 +1,895 @@
+{
+  "page_title": "Pedro_Celis",
+  "candidate_name": "Pedro Celis",
+  "collection_date": "2025-12-28T16:51:23.144476",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 77,
+    "unique_editors": 43,
+    "date_range": {
+      "start": "2009-10-26T19:30:53Z",
+      "end": "2024-11-13T03:52:05Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 322192100,
+      "parentid": 0,
+      "timestamp": "2009-10-26T19:30:53Z",
+      "user": "Choquita",
+      "userid": 10869373,
+      "size": 6418,
+      "comment": "Page creation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 322806378,
+      "parentid": 322192100,
+      "timestamp": "2009-10-29T21:36:55Z",
+      "user": "131.107.0.73",
+      "userid": 0,
+      "size": 6485,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 327520353,
+      "parentid": 322806378,
+      "timestamp": "2009-11-23T19:20:22Z",
+      "user": "131.107.0.73",
+      "userid": 0,
+      "size": 6644,
+      "comment": "Add a reference to the article at el universal",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 331051312,
+      "parentid": 327520353,
+      "timestamp": "2009-12-11T08:10:58Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 6600,
+      "comment": "Correct cap in header and/or general fixes. using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 338242648,
+      "parentid": 331051312,
+      "timestamp": "2010-01-16T21:13:00Z",
+      "user": "71.231.42.14",
+      "userid": 0,
+      "size": 6851,
+      "comment": "Added a reference to the Congressional Record",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 353423582,
+      "parentid": 338242648,
+      "timestamp": "2010-04-01T21:13:13Z",
+      "user": "FleetCommand",
+      "userid": 1069316,
+      "size": 6851,
+      "comment": "~",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 353569971,
+      "parentid": 353423582,
+      "timestamp": "2010-04-02T16:36:16Z",
+      "user": "131.107.0.73",
+      "userid": 0,
+      "size": 7018,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 355875906,
+      "parentid": 353569971,
+      "timestamp": "2010-04-14T01:42:16Z",
+      "user": "131.107.0.73",
+      "userid": 0,
+      "size": 7337,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 372933579,
+      "parentid": 355875906,
+      "timestamp": "2010-07-11T17:27:35Z",
+      "user": "Jared Preston",
+      "userid": 262550,
+      "size": 7364,
+      "comment": "+cat; typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 392900408,
+      "parentid": 372933579,
+      "timestamp": "2010-10-26T00:57:56Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 7481,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 401716667,
+      "parentid": 392900408,
+      "timestamp": "2010-12-11T02:49:16Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 7559,
+      "comment": "/* Other activities */CiteCompletion, authors: 3, using [[Project:AWB|AWB]] (7455)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 405478306,
+      "parentid": 401716667,
+      "timestamp": "2011-01-02T11:09:08Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 7832,
+      "comment": "[[WP:CHECKWIKI]] error 61 fixes + [[WP:GENFIXES|general fixes]], References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (7510)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 425677460,
+      "parentid": 405478306,
+      "timestamp": "2011-04-24T15:48:00Z",
+      "user": "98.237.198.28",
+      "userid": 0,
+      "size": 7825,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 438646394,
+      "parentid": 425677460,
+      "timestamp": "2011-07-09T21:58:43Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 7824,
+      "comment": "Updated infobox (BRFA 15) using [[Project:AWB|AWB]] (7782)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 439825503,
+      "parentid": 438646394,
+      "timestamp": "2011-07-16T19:32:22Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 7694,
+      "comment": "Updated infobox (removed placeholder image) (BRFA 15) using [[Project:AWB|AWB]] (7784)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 486360873,
+      "parentid": 439825503,
+      "timestamp": "2012-04-09T02:34:24Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 7693,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 535152435,
+      "parentid": 486360873,
+      "timestamp": "2013-01-27T11:26:41Z",
+      "user": "The Harsh Song of Space",
+      "userid": 18072548,
+      "size": 7737,
+      "comment": "added [[Category:Washington (state) Republicans]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 563278051,
+      "parentid": 535152435,
+      "timestamp": "2013-07-07T19:53:15Z",
+      "user": "PKT",
+      "userid": 1382933,
+      "size": 7732,
+      "comment": "Unlinked ambiguous name: [[Ian Munro]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 588018283,
+      "parentid": 563278051,
+      "timestamp": "2013-12-28T03:48:03Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 7728,
+      "comment": "fixed [[:Category:CS1 errors: dates|CS1 errors: dates]] & [[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]] (9816)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 589546282,
+      "parentid": 588018283,
+      "timestamp": "2014-01-07T04:07:04Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 7693,
+      "comment": "Fix link to El Universal",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 597917342,
+      "parentid": 589546282,
+      "timestamp": "2014-03-03T05:33:51Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 7695,
+      "comment": "Correcting some facts on the bio.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 598648652,
+      "parentid": 597917342,
+      "timestamp": "2014-03-08T05:00:22Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 7719,
+      "comment": "Adding link to Ian Munro",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599067623,
+      "parentid": 598648652,
+      "timestamp": "2014-03-11T00:59:47Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 7885,
+      "comment": "400,000 Hottest Men",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599083258,
+      "parentid": 599067623,
+      "timestamp": "2014-03-11T03:37:25Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8284,
+      "comment": "Database Researchers book",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599084084,
+      "parentid": 599083258,
+      "timestamp": "2014-03-11T03:48:25Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8284,
+      "comment": "Moving reference to book up",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599084583,
+      "parentid": 599084084,
+      "timestamp": "2014-03-11T03:55:20Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8284,
+      "comment": "Undid revision 599084084 by [[Special:Contributions/67.182.145.9|67.182.145.9]] ([[User talk:67.182.145.9|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599529710,
+      "parentid": 599084583,
+      "timestamp": "2014-03-14T02:56:51Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8183,
+      "comment": "Replaced \"Theoretical Computer Science Genealogy\" with \"Mathematics Genealogy Project\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599530425,
+      "parentid": 599529710,
+      "timestamp": "2014-03-14T03:05:04Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8154,
+      "comment": "Book Link to Google Books",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599626673,
+      "parentid": 599530425,
+      "timestamp": "2014-03-14T19:59:26Z",
+      "user": "64.134.134.84",
+      "userid": 0,
+      "size": 8157,
+      "comment": "Updated link to Social Security Tale of Two Problems",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599817794,
+      "parentid": 599626673,
+      "timestamp": "2014-03-16T04:26:51Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8620,
+      "comment": "Adding two PITAC documents",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599818141,
+      "parentid": 599817794,
+      "timestamp": "2014-03-16T04:31:47Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8620,
+      "comment": "Moving \".\" past links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599819063,
+      "parentid": 599818141,
+      "timestamp": "2014-03-16T04:43:56Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8662,
+      "comment": "Adding patents",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599819658,
+      "parentid": 599819063,
+      "timestamp": "2014-03-16T04:52:05Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8718,
+      "comment": "Explaining CTO office",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599920337,
+      "parentid": 599819658,
+      "timestamp": "2014-03-16T21:46:49Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8719,
+      "comment": "Minor wording changes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599992682,
+      "parentid": 599920337,
+      "timestamp": "2014-03-17T11:05:56Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 8706,
+      "comment": "[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (9991)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 600030005,
+      "parentid": 599992682,
+      "timestamp": "2014-03-17T16:42:45Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8719,
+      "comment": "Undid revision 599992682 by [[Special:Contributions/Yobot|Yobot]] ([[User talk:Yobot|talk]]) Previous edit removed reference to Cyber Security",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 600030217,
+      "parentid": 600030005,
+      "timestamp": "2014-03-17T16:44:11Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8719,
+      "comment": "date=>year",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 600273403,
+      "parentid": 600030217,
+      "timestamp": "2014-03-19T07:24:53Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 8706,
+      "comment": "[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (9985)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 600425408,
+      "parentid": 600273403,
+      "timestamp": "2014-03-20T09:00:52Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 8698,
+      "comment": "clean up using [[Project:AWB|AWB]] (9995)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 602822052,
+      "parentid": 600425408,
+      "timestamp": "2014-04-05T05:18:15Z",
+      "user": "Vycl1994",
+      "userid": 19014806,
+      "size": 8714,
+      "comment": "/* References */ persondata shortdesc",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 602894695,
+      "parentid": 602822052,
+      "timestamp": "2014-04-05T18:07:39Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8714,
+      "comment": "Patents vs applications and foreign patents",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 604086189,
+      "parentid": 602894695,
+      "timestamp": "2014-04-14T00:35:34Z",
+      "user": "67.182.145.9",
+      "userid": 0,
+      "size": 8711,
+      "comment": "Fix repeated \"ref name\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 604934262,
+      "parentid": 604086189,
+      "timestamp": "2014-04-19T21:38:41Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 8710,
+      "comment": "/* Education and career */fixed [[Help:CS1 errors#bad_date|CS1 errors: dates]] to meet [[MOS:DATEFORMAT]] (also [[WP:AWB/GF|General fixes]]) using [[Project:AWB|AWB]] (10069)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 614251616,
+      "parentid": 604934262,
+      "timestamp": "2014-06-24T17:24:32Z",
+      "user": "Bmyrick007",
+      "userid": 6070706,
+      "size": 9085,
+      "comment": "Added text and citation regarding subject's fun for U.S. Congress.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 614252383,
+      "parentid": 614251616,
+      "timestamp": "2014-06-24T17:30:40Z",
+      "user": "Bmyrick007",
+      "userid": 6070706,
+      "size": 9176,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 614413347,
+      "parentid": 614252383,
+      "timestamp": "2014-06-25T20:26:50Z",
+      "user": "Bgwhite",
+      "userid": 264323,
+      "size": 9126,
+      "comment": "[[WP:CHECKWIKI]] error fix. Broken bracket problem. Do [[Wikipedia:GENFIXES|general fixes]] and cleanup if needed. - using [[Project:AWB|AWB]] (10242)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 618421450,
+      "parentid": 614413347,
+      "timestamp": "2014-07-25T14:27:21Z",
+      "user": "OccultZone",
+      "userid": 19583588,
+      "size": 9128,
+      "comment": "b → born",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 624887370,
+      "parentid": 618421450,
+      "timestamp": "2014-09-10T02:20:52Z",
+      "user": "José Gnudista",
+      "userid": 91825,
+      "size": 9168,
+      "comment": "added [[Category:Politicians from Monterrey]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 627888348,
+      "parentid": 624887370,
+      "timestamp": "2014-10-01T23:56:40Z",
+      "user": "50.132.26.173",
+      "userid": 0,
+      "size": 9303,
+      "comment": "Adding Pedro Celis Patent Map",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 627927974,
+      "parentid": 627888348,
+      "timestamp": "2014-10-02T08:23:31Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 9301,
+      "comment": "[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10476)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 651666649,
+      "parentid": 627927974,
+      "timestamp": "2015-03-16T18:26:56Z",
+      "user": "Safehaven86",
+      "userid": 15469129,
+      "size": 9305,
+      "comment": "wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 659960808,
+      "parentid": 651666649,
+      "timestamp": "2015-04-29T23:37:04Z",
+      "user": "50.132.26.173",
+      "userid": 0,
+      "size": 9384,
+      "comment": "Updated the link to the MSFT press release",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 717359766,
+      "parentid": 659960808,
+      "timestamp": "2016-04-27T06:52:31Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 9139,
+      "comment": "/* References */Migrating Persondata to Wikidata + other fixes, removed: {{Persondata \n| NAME              = Celis, Pedro\n| ALTERNATIVE NAMES =\n| SHORT DESCRIPTION = Computer engineer\n| DATE OF BIRTH     =\n| PLACE O using [[Project:AWB|AWB]] (12006)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 719634512,
+      "parentid": 717359766,
+      "timestamp": "2016-05-10T21:34:27Z",
+      "user": "Bender235",
+      "userid": 88026,
+      "size": 9142,
+      "comment": "clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 819413221,
+      "parentid": 719634512,
+      "timestamp": "2018-01-09T06:33:51Z",
+      "user": "Killiondude",
+      "userid": 7694628,
+      "size": 9120,
+      "comment": "Removing link(s): [[Wikipedia:Articles for deletion/Hispanic Business]] closed as delete ([[WP:XFDC|XFDcloser]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 830869321,
+      "parentid": 819413221,
+      "timestamp": "2018-03-17T10:44:19Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 9582,
+      "comment": "Rescuing 2 sources and tagging 2 as dead. #IABot (v1.6.5)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836790119,
+      "parentid": 830869321,
+      "timestamp": "2018-04-16T21:17:53Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 9796,
+      "comment": "Rescued 2 archive links; remove 2 links. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 838266041,
+      "parentid": 836790119,
+      "timestamp": "2018-04-25T23:26:34Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 9819,
+      "comment": "+{{[[Template:Authority control|Authority control]]}} (2 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 868301104,
+      "parentid": 838266041,
+      "timestamp": "2018-11-11T09:24:25Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 9832,
+      "comment": "/* External links */recategorize",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 889823899,
+      "parentid": 868301104,
+      "timestamp": "2019-03-28T05:37:53Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 9883,
+      "comment": "/* External links */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 918149180,
+      "parentid": 889823899,
+      "timestamp": "2019-09-27T08:02:53Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 9888,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (4×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 930164069,
+      "parentid": 918149180,
+      "timestamp": "2019-12-10T17:26:22Z",
+      "user": "Haparsi",
+      "userid": 21360652,
+      "size": 9521,
+      "comment": "/* Education and career */ Wikipedia is not a source. This is clearly an exaggeration.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 954552508,
+      "parentid": 930164069,
+      "timestamp": "2020-05-03T01:25:04Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 9980,
+      "comment": "Rescuing 3 sources and tagging 1 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 960218823,
+      "parentid": 954552508,
+      "timestamp": "2020-06-01T19:17:24Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 9980,
+      "comment": "v2.02b - [[User:WikiCleanerBot#T17|Bot T17]] - [[WP:WCW]] project (Internal link inside external link)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 984356126,
+      "parentid": 960218823,
+      "timestamp": "2020-10-19T17:57:18Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 9927,
+      "comment": "Alter: title, url. URLs might have been internationalized/anonymized. Add: isbn. Correct ISBN10 to ISBN13. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked 1290/5333",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1025164739,
+      "parentid": 984356126,
+      "timestamp": "2021-05-26T02:56:36Z",
+      "user": "Sev16r",
+      "userid": 40917878,
+      "size": 9928,
+      "comment": "added a space",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1031153070,
+      "parentid": 1025164739,
+      "timestamp": "2021-06-30T02:58:15Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 9927,
+      "comment": "/* top */[[WP:GENFIX|General fixes]], removed [[WP:REFPUNCT|erroneous]] space",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1058711901,
+      "parentid": 1031153070,
+      "timestamp": "2021-12-05T03:58:01Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 9930,
+      "comment": "/* Other activities */archive link repair, may include: archive.* -> archive.today, and http->https for ghostarchive.org and archive.org ([[wp:el#Specifying_protocols]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1061824589,
+      "parentid": 1058711901,
+      "timestamp": "2021-12-24T06:10:50Z",
+      "user": "Seasurprise",
+      "userid": 43075692,
+      "size": 10562,
+      "comment": "I added context about the results of his congressional campaign.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1062716956,
+      "parentid": 1061824589,
+      "timestamp": "2021-12-30T03:05:30Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 10562,
+      "comment": "v2.04b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1065437377,
+      "parentid": 1062716956,
+      "timestamp": "2022-01-13T15:00:47Z",
+      "user": "Randy Kryn",
+      "userid": 4796325,
+      "size": 10568,
+      "comment": "direct link, italics",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1071561190,
+      "parentid": 1065437377,
+      "timestamp": "2022-02-13T07:13:59Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 10567,
+      "comment": "/* Education and career */Fixed [[MOS:CONSECUTIVE|consecutive punctuation error]] and [[WP:GENFIX|general fixes]] ([[Wikipedia:Bots/Requests for approval/SdkbBot 3|task 3]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1084200245,
+      "parentid": 1071561190,
+      "timestamp": "2022-04-23T03:41:05Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 10567,
+      "comment": "/* Education and career */replaced: Assistant Professor → assistant professor",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1140126692,
+      "parentid": 1084200245,
+      "timestamp": "2023-02-18T15:59:34Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 10608,
+      "comment": "/* top */[[User:PrimeBOT/30|Task 30]]: deprecated parameter removal from [[Template:infobox scientist]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1147952284,
+      "parentid": 1140126692,
+      "timestamp": "2023-04-03T06:14:26Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 10798,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1248311150,
+      "parentid": 1147952284,
+      "timestamp": "2024-09-28T20:30:39Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 10831,
+      "comment": "v2.05 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Paul Larson]]",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1257081647,
+      "parentid": 1248311150,
+      "timestamp": "2024-11-13T03:52:05Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 10909,
+      "comment": "Move 3 urls. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#community.seattletimes.nwsource.com]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Celis"
+}

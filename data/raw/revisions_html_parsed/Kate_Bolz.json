@@ -1,0 +1,665 @@
+{
+  "page_title": "Kate_Bolz",
+  "candidate_name": "Kate Bolz",
+  "collection_date": "2025-12-28T16:45:12.325205",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 55,
+    "unique_editors": 39,
+    "date_range": {
+      "start": "2013-09-28T19:49:45Z",
+      "end": "2024-12-05T03:41:11Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 574910581,
+      "parentid": 0,
+      "timestamp": "2013-09-28T19:49:45Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 2428,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox State Senator |name=Kate Bolz |image = |state_senate=Nebraska |state=Nebraska |district=29th |term_start=2013 |term_end=Present |preceded= |succeeded=I...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 574923574,
+      "parentid": 574910581,
+      "timestamp": "2013-09-28T21:55:05Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 2672,
+      "comment": "category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 574978577,
+      "parentid": 574923574,
+      "timestamp": "2013-09-29T09:10:30Z",
+      "user": "Racklever",
+      "userid": 623903,
+      "size": 2697,
+      "comment": "Add Persondata using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 609256610,
+      "parentid": 574978577,
+      "timestamp": "2014-05-19T16:27:41Z",
+      "user": "164.119.71.168",
+      "userid": 0,
+      "size": 2697,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 634728986,
+      "parentid": 609256610,
+      "timestamp": "2014-11-20T19:30:17Z",
+      "user": "Safehaven86",
+      "userid": 15469129,
+      "size": 2648,
+      "comment": "[[WP:ELNO]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 645373915,
+      "parentid": 634728986,
+      "timestamp": "2015-02-02T23:16:02Z",
+      "user": "FlyOverGirl",
+      "userid": 14847781,
+      "size": 2861,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 645374563,
+      "parentid": 645373915,
+      "timestamp": "2015-02-02T23:21:09Z",
+      "user": "FlyOverGirl",
+      "userid": 14847781,
+      "size": 2892,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 646370272,
+      "parentid": 645374563,
+      "timestamp": "2015-02-09T17:08:35Z",
+      "user": "Ammodramus",
+      "userid": 10747469,
+      "size": 2896,
+      "comment": "/* top */ Fix infobox: state legislature, not state senate",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 648403395,
+      "parentid": 646370272,
+      "timestamp": "2015-02-23T00:46:53Z",
+      "user": "Ammodramus",
+      "userid": 10747469,
+      "size": 2734,
+      "comment": "Added predecessor to infobox; killed succession box, which duplicates material in infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723604009,
+      "parentid": 648403395,
+      "timestamp": "2016-06-04T01:11:21Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 2451,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Kate Bolz|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727192232,
+      "parentid": 723604009,
+      "timestamp": "2016-06-27T08:48:41Z",
+      "user": "Dewritech",
+      "userid": 11498870,
+      "size": 2450,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: Master's Degree → master's degree using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 740217989,
+      "parentid": 727192232,
+      "timestamp": "2016-09-19T19:32:10Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 2454,
+      "comment": "removed [[Category:People from Omaha, Nebraska]]; added [[Category:Politiciansfrom Omaha, Nebraska]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 740218007,
+      "parentid": 740217989,
+      "timestamp": "2016-09-19T19:32:17Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 2455,
+      "comment": "removed [[Category:Politiciansfrom Omaha, Nebraska]]; added [[Category:Politicians from Omaha, Nebraska]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756267263,
+      "parentid": 740218007,
+      "timestamp": "2016-12-23T02:31:14Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2502,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756821707,
+      "parentid": 756267263,
+      "timestamp": "2016-12-27T01:26:31Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2546,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 861051469,
+      "parentid": 756821707,
+      "timestamp": "2018-09-24T19:59:12Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 2546,
+      "comment": "Robot - Moving category Nebraska State Senators to [[:Category:Nebraska state senators]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 September 17]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 864268601,
+      "parentid": 861051469,
+      "timestamp": "2018-10-16T05:30:21Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2555,
+      "comment": "/* External links */recategorize",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 892370666,
+      "parentid": 864268601,
+      "timestamp": "2019-04-14T02:18:28Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 2662,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920082029,
+      "parentid": 892370666,
+      "timestamp": "2019-10-07T15:40:15Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 2628,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920082054,
+      "parentid": 920082029,
+      "timestamp": "2019-10-07T15:40:22Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 2670,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920082109,
+      "parentid": 920082054,
+      "timestamp": "2019-10-07T15:40:39Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 2709,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 920084254,
+      "parentid": 920082109,
+      "timestamp": "2019-10-07T15:54:39Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 3065,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920418669,
+      "parentid": 920084254,
+      "timestamp": "2019-10-09T17:38:31Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 3087,
+      "comment": "removed [[Category:University of Michigan alumni]]; added [[Category:University of Michigan School of Social Work alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 940721143,
+      "parentid": 920418669,
+      "timestamp": "2020-02-14T05:12:43Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3241,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 964387197,
+      "parentid": 940721143,
+      "timestamp": "2020-06-25T06:19:37Z",
+      "user": "Flophabib",
+      "userid": 39599681,
+      "size": 4054,
+      "comment": "added info under career",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 964603967,
+      "parentid": 964387197,
+      "timestamp": "2020-06-26T13:36:14Z",
+      "user": "Diannaa",
+      "userid": 10728040,
+      "size": 3508,
+      "comment": "remove copyright content copied from https://newdealleaders.org/leaders/kate-bolz/",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 965860241,
+      "parentid": 964603967,
+      "timestamp": "2020-07-03T20:48:04Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 3577,
+      "comment": "/* External links */ expanded links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 965864887,
+      "parentid": 965860241,
+      "timestamp": "2020-07-03T21:22:37Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 3797,
+      "comment": "Added office navbox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 971710360,
+      "parentid": 965864887,
+      "timestamp": "2020-08-07T19:15:03Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 4138,
+      "comment": "copyedits and fixes",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 974009191,
+      "parentid": 971710360,
+      "timestamp": "2020-08-20T15:19:07Z",
+      "user": "66.84.136.217",
+      "userid": 0,
+      "size": 4135,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 983071649,
+      "parentid": 974009191,
+      "timestamp": "2020-10-12T02:16:10Z",
+      "user": "Iseult",
+      "userid": 17692156,
+      "size": 4137,
+      "comment": "reunify",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 987118873,
+      "parentid": 983071649,
+      "timestamp": "2020-11-05T01:12:40Z",
+      "user": "98.171.203.8",
+      "userid": 0,
+      "size": 4138,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 989749152,
+      "parentid": 987118873,
+      "timestamp": "2020-11-20T20:27:44Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 4184,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 990100579,
+      "parentid": 989749152,
+      "timestamp": "2020-11-22T20:36:24Z",
+      "user": "Urve",
+      "userid": 27201043,
+      "size": 4797,
+      "comment": "/* Career */ she lost, add new job",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 990100625,
+      "parentid": 990100579,
+      "timestamp": "2020-11-22T20:36:47Z",
+      "user": "Urve",
+      "userid": 27201043,
+      "size": 4798,
+      "comment": "/* Career */ typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 990458440,
+      "parentid": 990100625,
+      "timestamp": "2020-11-24T16:09:11Z",
+      "user": "Kahtar",
+      "userid": 19297870,
+      "size": 4785,
+      "comment": "Repair CS1 error(s), replaced: website=https://www. → website=",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1003429867,
+      "parentid": 990458440,
+      "timestamp": "2021-01-28T23:20:23Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 4787,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 5 templates: hyphenate params (2×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1025108313,
+      "parentid": 1003429867,
+      "timestamp": "2021-05-25T19:26:18Z",
+      "user": "Johnjoshua1",
+      "userid": 41246879,
+      "size": 4822,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1027520813,
+      "parentid": 1025108313,
+      "timestamp": "2021-06-08T11:52:00Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4820,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:21st-century American women politicians]] | #UCB_Category 1311/4064",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028321899,
+      "parentid": 1027520813,
+      "timestamp": "2021-06-13T08:13:10Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 4806,
+      "comment": "Removing [[:c:File:Kate_Bolz.jpg|Kate_Bolz.jpg]]; it has been deleted from Commons by [[:c:User:Racconish|Racconish]] because: per [[:c:Commons:Deletion requests/Files uploaded by Johnjoshua1 and sockpuppets|]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1034455418,
+      "parentid": 1028321899,
+      "timestamp": "2021-07-19T23:52:57Z",
+      "user": "Johnato3126",
+      "userid": 42089687,
+      "size": 4817,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1035359911,
+      "parentid": 1034455418,
+      "timestamp": "2021-07-25T06:17:10Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4907,
+      "comment": "Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1374/1979",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1045126074,
+      "parentid": 1035359911,
+      "timestamp": "2021-09-18T23:55:32Z",
+      "user": "765ywth",
+      "userid": 42502135,
+      "size": 4926,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1045183761,
+      "parentid": 1045126074,
+      "timestamp": "2021-09-19T08:36:54Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 4907,
+      "comment": "Removing [[:c:File:Kate_Bolz.jpg|Kate_Bolz.jpg]]; it has been deleted from Commons by [[:c:User:Yann|Yann]] because: Copyright violation, see [[:c:Commons:Licensing|]].",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1047303933,
+      "parentid": 1045183761,
+      "timestamp": "2021-09-30T04:21:57Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 4935,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1062223925,
+      "parentid": 1047303933,
+      "timestamp": "2021-12-27T03:47:20Z",
+      "user": "TrufForEveryone",
+      "userid": 34825072,
+      "size": 5384,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1117708375,
+      "parentid": 1062223925,
+      "timestamp": "2022-10-23T04:48:16Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 5433,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118126151,
+      "parentid": 1117708375,
+      "timestamp": "2022-10-25T09:44:16Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 5409,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1118126247,
+      "parentid": 1118126151,
+      "timestamp": "2022-10-25T09:45:17Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 5378,
+      "comment": "/* External links */no longer a current member",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1118126559,
+      "parentid": 1118126247,
+      "timestamp": "2022-10-25T09:48:06Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 5410,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1124255831,
+      "parentid": 1118126559,
+      "timestamp": "2022-11-28T02:01:25Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 5395,
+      "comment": "intersect Democratic and Nebraska representatives categories",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1205903307,
+      "parentid": 1124255831,
+      "timestamp": "2024-02-10T18:38:52Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5395,
+      "comment": "move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1215505604,
+      "parentid": 1205903307,
+      "timestamp": "2024-03-25T15:12:55Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 5480,
+      "comment": "added [[Category:Candidates in the 2020 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261263313,
+      "parentid": 1215505604,
+      "timestamp": "2024-12-05T03:35:35Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 5542,
+      "comment": "added [[Category:21st-century members of the Nebraska Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261263997,
+      "parentid": 1261263313,
+      "timestamp": "2024-12-05T03:41:11Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 5495,
+      "comment": "Removing from [[Category:21st-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kate_Bolz"
+}

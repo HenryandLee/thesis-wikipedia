@@ -1,0 +1,77 @@
+{
+  "page_title": "Thad_McCotter",
+  "candidate_name": "Thad McCotter",
+  "collection_date": "2025-12-28T16:55:53.970068",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 5,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2011-07-03T05:37:18Z",
+      "end": "2023-12-03T11:21:44Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 437507515,
+      "parentid": 0,
+      "timestamp": "2011-07-03T05:37:18Z",
+      "user": "JayJasper",
+      "userid": 2643895,
+      "size": 31,
+      "comment": "moved [[Thad McCotter]] to [[Thaddeus McCotter]] over redirect: this is the name by which he is most referred to by the media and the name given on his campaign website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 453655140,
+      "parentid": 437507515,
+      "timestamp": "2011-10-03T06:58:34Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 69,
+      "comment": "added [[Category:Unprintworthy redirects]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 453655350,
+      "parentid": 453655140,
+      "timestamp": "2011-10-03T07:00:46Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 115,
+      "comment": "added [[Category:Redirects from alternative names]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1188109873,
+      "parentid": 453655350,
+      "timestamp": "2023-12-03T11:21:11Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 168,
+      "comment": "Modifying [[WP:RCAT|redirect categories]] using [[User:Wugapodes/Capricorn|Capricorn ♑]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1188109940,
+      "parentid": 1188109873,
+      "timestamp": "2023-12-03T11:21:44Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 100,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thad_McCotter"
+}

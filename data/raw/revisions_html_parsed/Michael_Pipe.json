@@ -1,0 +1,55 @@
+{
+  "page_title": "Michael_Pipe",
+  "candidate_name": "Michael Pipe",
+  "collection_date": "2025-12-28T16:49:01.774159",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2010-11-01T02:59:11Z",
+      "end": "2018-12-08T19:16:49Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 394098083,
+      "parentid": 0,
+      "timestamp": "2010-11-01T02:59:11Z",
+      "user": "Lukewitmer",
+      "userid": 12538880,
+      "size": 2198,
+      "comment": "Created Political Candidate Page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 394100070,
+      "parentid": 394098083,
+      "timestamp": "2010-11-01T03:14:09Z",
+      "user": "Ttonyb1",
+      "userid": 4037795,
+      "size": 95,
+      "comment": "Redirected to [[United_States_House_of_Representatives_elections_in_Pennsylvania,_2010#District_5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872717817,
+      "parentid": 394100070,
+      "timestamp": "2018-12-08T19:16:49Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 94,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Pennsylvania]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Pipe"
+}

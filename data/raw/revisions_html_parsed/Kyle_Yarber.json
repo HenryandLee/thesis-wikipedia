@@ -1,0 +1,44 @@
+{
+  "page_title": "Kyle_Yarber",
+  "candidate_name": "Kyle Yarber",
+  "collection_date": "2025-12-28T16:46:08.158352",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-05-25T11:57:55Z",
+      "end": "2018-12-08T18:27:36Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 610062180,
+      "parentid": 0,
+      "timestamp": "2014-05-25T11:57:55Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Missouri, 2010#District 6]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872711377,
+      "parentid": 610062180,
+      "timestamp": "2018-12-08T18:27:36Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Missouri]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kyle_Yarber"
+}

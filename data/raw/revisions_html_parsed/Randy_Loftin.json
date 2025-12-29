@@ -1,0 +1,44 @@
+{
+  "page_title": "Randy_Loftin",
+  "candidate_name": "Randy Loftin",
+  "collection_date": "2025-12-28T16:51:57.008304",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-09-30T01:58:41Z",
+      "end": "2018-12-08T20:16:22Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 515241651,
+      "parentid": 0,
+      "timestamp": "2012-09-30T01:58:41Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 117,
+      "comment": "Redirecting main title header delineating American Republican congressional candidate in [[California's 5th congressional district]], [[Randy ]], to the article, [[United States House of Representatives elections in California, 2012#District 4]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872725313,
+      "parentid": 515241651,
+      "timestamp": "2018-12-08T20:16:22Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 116,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in California]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Loftin"
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Sam_Bennett_(Pennsylvania_politician)",
+  "candidate_name": "Sam Bennett",
+  "collection_date": "2025-12-28T16:53:31.091218",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2008-10-02T03:47:40Z",
+      "end": "2018-12-08T20:40:43Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 242415300,
+      "parentid": 0,
+      "timestamp": "2008-10-02T03:47:40Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 95,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Pennsylvania, 2008#District 15]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872729334,
+      "parentid": 242415300,
+      "timestamp": "2018-12-08T20:40:43Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 95,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Pennsylvania]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sam_Bennett_(Pennsylvania_politician)"
+}

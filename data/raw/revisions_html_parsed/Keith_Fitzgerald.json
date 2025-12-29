@@ -1,0 +1,942 @@
+{
+  "page_title": "Keith_Fitzgerald",
+  "candidate_name": "Keith Fitzgerald",
+  "collection_date": "2025-12-28T16:45:29.881931",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 81,
+    "unique_editors": 58,
+    "date_range": {
+      "start": "2006-11-09T01:44:57Z",
+      "end": "2024-11-30T23:33:47Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 86622616,
+      "parentid": 78125760,
+      "timestamp": "2006-11-09T01:44:57Z",
+      "user": "EMAN1355",
+      "userid": 2700283,
+      "size": 1450,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86622793,
+      "parentid": 86622616,
+      "timestamp": "2006-11-09T01:45:52Z",
+      "user": "EMAN1355",
+      "userid": 2700283,
+      "size": 1469,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86623082,
+      "parentid": 86622793,
+      "timestamp": "2006-11-09T01:47:31Z",
+      "user": "EMAN1355",
+      "userid": 2700283,
+      "size": 1469,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86716338,
+      "parentid": 86623082,
+      "timestamp": "2006-11-09T14:28:45Z",
+      "user": "Nsb3000",
+      "userid": 510834,
+      "size": 1369,
+      "comment": "updated with info about Tuesday's election",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 113500258,
+      "parentid": 86716338,
+      "timestamp": "2007-03-08T04:26:22Z",
+      "user": "Nsb3000",
+      "userid": 510834,
+      "size": 1363,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 133411249,
+      "parentid": 113500258,
+      "timestamp": "2007-05-25T13:29:05Z",
+      "user": "Æthelwold",
+      "userid": 4091267,
+      "size": 1400,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 134928255,
+      "parentid": 133411249,
+      "timestamp": "2007-05-31T21:55:43Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 1454,
+      "comment": "stub sort",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 142791834,
+      "parentid": 134928255,
+      "timestamp": "2007-07-06T00:57:31Z",
+      "user": "Kirijini",
+      "userid": 4797670,
+      "size": 1462,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 152286451,
+      "parentid": 142791834,
+      "timestamp": "2007-08-19T18:09:14Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 1417,
+      "comment": "Defaultsort for people stubs (and/or gen fixes)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 166979651,
+      "parentid": 152286451,
+      "timestamp": "2007-10-25T14:04:29Z",
+      "user": "161.253.37.233",
+      "userid": 0,
+      "size": 1448,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 169824103,
+      "parentid": 166979651,
+      "timestamp": "2007-11-07T08:48:33Z",
+      "user": "MetsBot",
+      "userid": 2030868,
+      "size": 1463,
+      "comment": "clean up and adding [[Category:Year of birth missing (living people)]]  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 195606222,
+      "parentid": 169824103,
+      "timestamp": "2008-03-03T18:48:55Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2669,
+      "comment": "infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195608788,
+      "parentid": 195606222,
+      "timestamp": "2008-03-03T19:00:40Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2661,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195610822,
+      "parentid": 195608788,
+      "timestamp": "2008-03-03T19:08:54Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2699,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195616632,
+      "parentid": 195610822,
+      "timestamp": "2008-03-03T19:34:15Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2707,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 196840954,
+      "parentid": 195616632,
+      "timestamp": "2008-03-08T20:10:29Z",
+      "user": "Guat6",
+      "userid": 795279,
+      "size": 2743,
+      "comment": "/* External links */ added [[Category:Grinnell College people]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 196841014,
+      "parentid": 196840954,
+      "timestamp": "2008-03-08T20:10:46Z",
+      "user": "Guat6",
+      "userid": 795279,
+      "size": 2788,
+      "comment": "/* External links */ added [[Category:University of Louisville alumni]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 196841078,
+      "parentid": 196841014,
+      "timestamp": "2008-03-08T20:11:10Z",
+      "user": "Guat6",
+      "userid": 795279,
+      "size": 2827,
+      "comment": "/* External links */ added [[Category:Indiana University alumni]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201317727,
+      "parentid": 196841078,
+      "timestamp": "2008-03-27T13:39:01Z",
+      "user": "DumZiBoT",
+      "userid": 6085301,
+      "size": 2902,
+      "comment": "Bot: Converting bare references, see [[User:DumZiBoT/refLinks|FAQ]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 206061340,
+      "parentid": 201317727,
+      "timestamp": "2008-04-16T17:39:04Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 2901,
+      "comment": "clean up, remove redundant cat.  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 234137551,
+      "parentid": 206061340,
+      "timestamp": "2008-08-25T14:09:02Z",
+      "user": "86.42.65.252",
+      "userid": 0,
+      "size": 112,
+      "comment": "[[WP:AES|←]] Replaced content with 'keith fitzgerald is the best eva \nhe lives in ireland in skerries\n\n\nvisit www.bebo.com/keithf33\nfor more details'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 234750059,
+      "parentid": 234137551,
+      "timestamp": "2008-08-28T09:34:51Z",
+      "user": "Ræve",
+      "userid": 4656569,
+      "size": 2901,
+      "comment": "Reverted edits by [[Special:Contributions/86.42.65.252|86.42.65.252]] ([[User talk:86.42.65.252|talk]]) to last version by Koavf",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 235540714,
+      "parentid": 234750059,
+      "timestamp": "2008-09-01T07:06:32Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 2898,
+      "comment": "no 'of' between a month and a year per [[Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Longer_periods|MOS]]  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 238025640,
+      "parentid": 235540714,
+      "timestamp": "2008-09-12T22:15:10Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 2894,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 246659239,
+      "parentid": 238025640,
+      "timestamp": "2008-10-21T04:33:26Z",
+      "user": "209.6.159.88",
+      "userid": 0,
+      "size": 2886,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 263902137,
+      "parentid": 246659239,
+      "timestamp": "2009-01-13T22:07:26Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 2931,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 290752239,
+      "parentid": 263902137,
+      "timestamp": "2009-05-18T17:25:11Z",
+      "user": "Radiomullet",
+      "userid": 525700,
+      "size": 2931,
+      "comment": "moved [[Keith Fitzgerald]] to [[Keith Fitzgerald (Politician)]]:&#32;disambiguation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 294669102,
+      "parentid": 290752239,
+      "timestamp": "2009-06-05T22:28:54Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 2931,
+      "comment": "moved [[Keith Fitzgerald (Politician)]] to [[Keith Fitzgerald (politician)]]:&#32;caps",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 310673816,
+      "parentid": 294669102,
+      "timestamp": "2009-08-29T06:39:16Z",
+      "user": "169.229.151.88",
+      "userid": 0,
+      "size": 3004,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 336737829,
+      "parentid": 310673816,
+      "timestamp": "2010-01-09T04:01:46Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 2983,
+      "comment": "Removing deleted [[:File:Fitzgerald Keith.jpg|image]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 387008992,
+      "parentid": 336737829,
+      "timestamp": "2010-09-25T21:28:47Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 3251,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7192)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 421938101,
+      "parentid": 387008992,
+      "timestamp": "2011-04-02T05:56:18Z",
+      "user": "147.9.224.143",
+      "userid": 0,
+      "size": 3397,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421938279,
+      "parentid": 421938101,
+      "timestamp": "2011-04-02T05:58:11Z",
+      "user": "147.9.224.143",
+      "userid": 0,
+      "size": 3404,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 422020869,
+      "parentid": 421938279,
+      "timestamp": "2011-04-02T19:19:56Z",
+      "user": "147.9.68.131",
+      "userid": 0,
+      "size": 3437,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 426057273,
+      "parentid": 422020869,
+      "timestamp": "2011-04-26T18:29:41Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 3437,
+      "comment": "moved [[Keith Fitzgerald (politician)]] to [[Keith Fitzgerald]]: no need for dab",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 429858734,
+      "parentid": 426057273,
+      "timestamp": "2011-05-19T10:13:42Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3427,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7708)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 430368090,
+      "parentid": 429858734,
+      "timestamp": "2011-05-22T16:30:33Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 3406,
+      "comment": "update infobox, remove obsolete blank params",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 454300216,
+      "parentid": 430368090,
+      "timestamp": "2011-10-06T22:14:31Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 3966,
+      "comment": "reorganise & + congressional campaign",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 459209375,
+      "parentid": 454300216,
+      "timestamp": "2011-11-05T22:49:26Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3987,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 495375843,
+      "parentid": 459209375,
+      "timestamp": "2012-05-31T23:30:56Z",
+      "user": "72.187.2.193",
+      "userid": 0,
+      "size": 4172,
+      "comment": "/* Political science */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 495376007,
+      "parentid": 495375843,
+      "timestamp": "2012-05-31T23:32:27Z",
+      "user": "72.187.2.193",
+      "userid": 0,
+      "size": 4169,
+      "comment": "/* Political science */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 495387846,
+      "parentid": 495376007,
+      "timestamp": "2012-06-01T01:16:46Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 3987,
+      "comment": "Reverted to revision 459209375 by Waacstats: revert controversial uncited info. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 510763248,
+      "parentid": 495387846,
+      "timestamp": "2012-09-04T14:31:43Z",
+      "user": "Jmaiella",
+      "userid": 1295734,
+      "size": 8903,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 510763328,
+      "parentid": 510763248,
+      "timestamp": "2012-09-04T14:32:23Z",
+      "user": "Jmaiella",
+      "userid": 1295734,
+      "size": 8903,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 510764177,
+      "parentid": 510763328,
+      "timestamp": "2012-09-04T14:39:54Z",
+      "user": "Jmaiella",
+      "userid": 1295734,
+      "size": 8901,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 510962797,
+      "parentid": 510764177,
+      "timestamp": "2012-09-05T19:57:00Z",
+      "user": "Jmaiella",
+      "userid": 1295734,
+      "size": 9420,
+      "comment": "/* Polling */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 516929210,
+      "parentid": 510962797,
+      "timestamp": "2012-10-10T01:50:42Z",
+      "user": "Richard Gere's Gerbil",
+      "userid": 17667847,
+      "size": 6918,
+      "comment": "/* Ethics Controversies */ removing BLP issues. Not a subject of any formal investigations, just partisan ads",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 517204700,
+      "parentid": 516929210,
+      "timestamp": "2012-10-11T14:13:27Z",
+      "user": "VIAFbot",
+      "userid": 17215358,
+      "size": 6954,
+      "comment": "Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 33912384.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 519105930,
+      "parentid": 517204700,
+      "timestamp": "2012-10-21T23:50:11Z",
+      "user": "N359705",
+      "userid": 17740190,
+      "size": 7308,
+      "comment": "Tristan!!!!!!!!!!!!!!!!!!!!!",
+      "minor": false,
+      "tags": [
+        "repeating characters"
+      ]
+    },
+    {
+      "revid": 519106059,
+      "parentid": 519105930,
+      "timestamp": "2012-10-21T23:51:12Z",
+      "user": "Σ",
+      "userid": 9951654,
+      "size": 6954,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/N359705|N359705]] ([[User talk:N359705|talk]]) to last version by VIAFbot",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 519304419,
+      "parentid": 519106059,
+      "timestamp": "2012-10-23T00:57:30Z",
+      "user": "N359705",
+      "userid": 17740190,
+      "size": 8189,
+      "comment": "info about step son",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 519345678,
+      "parentid": 519304419,
+      "timestamp": "2012-10-23T07:22:25Z",
+      "user": "CactusWriter",
+      "userid": 6869042,
+      "size": 6954,
+      "comment": "Reverted 1 edit by [[Special:Contributions/N359705|N359705]] ([[User talk:N359705|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Σ. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 521312162,
+      "parentid": 519345678,
+      "timestamp": "2012-11-04T05:13:46Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 6792,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 521312378,
+      "parentid": 521312162,
+      "timestamp": "2012-11-04T05:16:30Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 6876,
+      "comment": "/* 2012 Campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 521312992,
+      "parentid": 521312378,
+      "timestamp": "2012-11-04T05:23:48Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 6732,
+      "comment": "Formatting, copyediting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 577392692,
+      "parentid": 521312992,
+      "timestamp": "2013-10-16T06:46:32Z",
+      "user": "129.2.129.27",
+      "userid": 0,
+      "size": 6802,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 585859579,
+      "parentid": 577392692,
+      "timestamp": "2013-12-13T04:25:19Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 6748,
+      "comment": "Remove stub template(s). Page is start class or higher. Also check for and do General Fixes + Checkwiki fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 630293301,
+      "parentid": 585859579,
+      "timestamp": "2014-10-19T21:59:15Z",
+      "user": "StefenTower",
+      "userid": 53396,
+      "size": 6746,
+      "comment": "/* 2012 U.S. House campaign */clean up for [[Wikipedia:WikiProject Louisville]] using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 660301484,
+      "parentid": 630293301,
+      "timestamp": "2015-05-01T19:40:23Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 6732,
+      "comment": "authority control moved to wikidata",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680695654,
+      "parentid": 660301484,
+      "timestamp": "2015-09-12T15:56:37Z",
+      "user": "Bender235",
+      "userid": 88026,
+      "size": 6745,
+      "comment": "[[Wikipedia:Authority control]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680761736,
+      "parentid": 680695654,
+      "timestamp": "2015-09-13T00:48:42Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 6727,
+      "comment": "Authority control moved to Wikidata",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 706478592,
+      "parentid": 680761736,
+      "timestamp": "2016-02-23T15:29:49Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 6440,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Keith Fitzgerald|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785979218,
+      "parentid": 706478592,
+      "timestamp": "2017-06-16T15:07:12Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 6708,
+      "comment": "update to remove article from [[:Category:Pages using Template:CongLinks with unknown parameters]] (via JWB)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 934833892,
+      "parentid": 785979218,
+      "timestamp": "2020-01-08T19:37:06Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 7001,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 940876519,
+      "parentid": 934833892,
+      "timestamp": "2020-02-15T04:47:56Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 7596,
+      "comment": "Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 990902599,
+      "parentid": 940876519,
+      "timestamp": "2020-11-27T04:34:16Z",
+      "user": "2600:1006:B001:DA68:B3D2:510F:2E79:C207",
+      "userid": 0,
+      "size": 7673,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 990902737,
+      "parentid": 990902599,
+      "timestamp": "2020-11-27T04:35:36Z",
+      "user": "Tayi Arajakate",
+      "userid": 38321710,
+      "size": 7596,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2600:1006:B001:DA68:B3D2:510F:2E79:C207|2600:1006:B001:DA68:B3D2:510F:2E79:C207]] ([[User talk:2600:1006:B001:DA68:B3D2:510F:2E79:C207|talk]]) to last revision by InternetArchiveBot",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 996256489,
+      "parentid": 990902737,
+      "timestamp": "2020-12-25T13:09:18Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 7535,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1066367056,
+      "parentid": 996256489,
+      "timestamp": "2022-01-18T01:44:35Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 7699,
+      "comment": "/* top */Filling completely bare references [[Wikipedia:Bare_URLs]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1072843200,
+      "parentid": 1066367056,
+      "timestamp": "2022-02-19T19:01:05Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7735,
+      "comment": "add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1089637596,
+      "parentid": 1072843200,
+      "timestamp": "2022-05-24T22:23:41Z",
+      "user": "Dicklyon",
+      "userid": 869314,
+      "size": 7737,
+      "comment": "dash fix in bot generated titles (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1104331886,
+      "parentid": 1089637596,
+      "timestamp": "2022-08-14T08:03:10Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 7778,
+      "comment": "Add banner {{[[Template:Cleanup bare URLs|Cleanup bare URLs]]}}. After at least 7 passes by @[[User:Citation bot|Citation bot]] since 20220802 + more before then, this article still has 1 untagged [[WP:Bare URLs|bare URL]] ref",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1105979782,
+      "parentid": 1104331886,
+      "timestamp": "2022-08-22T17:19:13Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 7812,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 2890/3802",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1128997297,
+      "parentid": 1105979782,
+      "timestamp": "2022-12-23T02:38:01Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 7798,
+      "comment": "/* External links */intersect Democratic and Florida representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1180002057,
+      "parentid": 1128997297,
+      "timestamp": "2023-10-13T21:13:44Z",
+      "user": "The Green Star Collector",
+      "userid": 43306454,
+      "size": 8125,
+      "comment": "Fixed bare URL.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1180002094,
+      "parentid": 1180002057,
+      "timestamp": "2023-10-13T21:14:02Z",
+      "user": "The Green Star Collector",
+      "userid": 43306454,
+      "size": 8150,
+      "comment": "DOB.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1182031379,
+      "parentid": 1180002094,
+      "timestamp": "2023-10-26T18:29:00Z",
+      "user": "StefenTower",
+      "userid": 53396,
+      "size": 8151,
+      "comment": "/* 2012 U.S. House campaign */[[WP:AWB/T|Typo fixing]] + cleanups, [[WP:AWB/T|typo(s) fixed]]: September 5, 2012 → September 5, 2012,",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1230303452,
+      "parentid": 1182031379,
+      "timestamp": "2024-06-21T23:05:43Z",
+      "user": "FieldMarine",
+      "userid": 5113002,
+      "size": 8278,
+      "comment": "More specific school name.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1230303662,
+      "parentid": 1230303452,
+      "timestamp": "2024-06-21T23:07:43Z",
+      "user": "FieldMarine",
+      "userid": 5113002,
+      "size": 8368,
+      "comment": "+ cat.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1233954176,
+      "parentid": 1230303662,
+      "timestamp": "2024-07-11T20:09:16Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 8581,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#tampabay.com]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260473620,
+      "parentid": 1233954176,
+      "timestamp": "2024-11-30T23:33:47Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8642,
+      "comment": "added [[:Category:21st-century members of the Florida Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Keith_Fitzgerald"
+}

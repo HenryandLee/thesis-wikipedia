@@ -1,0 +1,533 @@
+{
+  "page_title": "Steven_B._Grant",
+  "candidate_name": "Steven B. Grant",
+  "collection_date": "2025-12-28T16:55:09.535224",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 44,
+    "unique_editors": 27,
+    "date_range": {
+      "start": "2016-04-23T00:59:18Z",
+      "end": "2024-11-25T21:32:42Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 716660009,
+      "parentid": 0,
+      "timestamp": "2016-04-23T00:59:18Z",
+      "user": "MayorGrant",
+      "userid": 28157567,
+      "size": 171,
+      "comment": "[[WP:AES|←]]Created page with 'Steven B. Grant was born on March 7, 1983 at George Washington Hospital, in Washington, D.C.  The Honorable Mayor Grant is the current mayor of Boynton Beach,...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716660294,
+      "parentid": 716660009,
+      "timestamp": "2016-04-23T01:02:27Z",
+      "user": "Wgolf",
+      "userid": 13821812,
+      "size": 199,
+      "comment": "added [[Category:Living people]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716660400,
+      "parentid": 716660294,
+      "timestamp": "2016-04-23T01:03:40Z",
+      "user": "KSFT",
+      "userid": 25361039,
+      "size": 146,
+      "comment": "cleanup, add stub tag, remove uncited birth place",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 716660540,
+      "parentid": 716660400,
+      "timestamp": "2016-04-23T01:05:06Z",
+      "user": "Wgolf",
+      "userid": 13821812,
+      "size": 335,
+      "comment": "Added {{BLP unsourced}}, {{autobiography}}, {{dead end}}, {{notability}} and {{orphan}} tags (within {{multiple issues}}) to article ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716660595,
+      "parentid": 716660540,
+      "timestamp": "2016-04-23T01:05:32Z",
+      "user": "Wgolf",
+      "userid": 13821812,
+      "size": 279,
+      "comment": "Not a orphan and no longer a dead end",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716660684,
+      "parentid": 716660595,
+      "timestamp": "2016-04-23T01:06:27Z",
+      "user": "KSFT",
+      "userid": 25361039,
+      "size": 276,
+      "comment": "typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 716660907,
+      "parentid": 716660684,
+      "timestamp": "2016-04-23T01:08:52Z",
+      "user": "Wgolf",
+      "userid": 13821812,
+      "size": 277,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716661178,
+      "parentid": 716660907,
+      "timestamp": "2016-04-23T01:12:07Z",
+      "user": "JTtheOG",
+      "userid": 17944471,
+      "size": 376,
+      "comment": "Adding cats.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716661247,
+      "parentid": 716661178,
+      "timestamp": "2016-04-23T01:12:47Z",
+      "user": "SwisterTwister",
+      "userid": 7505908,
+      "size": 390,
+      "comment": "None of this suggests a notable article, questionable",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716734706,
+      "parentid": 716661247,
+      "timestamp": "2016-04-23T14:27:49Z",
+      "user": "Hullaballoo Wolfowitz",
+      "userid": 1902946,
+      "size": 376,
+      "comment": "Being mayor of a notable city is clearly sufficient to defeat A7; Undid revision 716661247 by [[Special:Contributions/SwisterTwister|SwisterTwister]] ([[User talk:SwisterTwister|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716853310,
+      "parentid": 716734706,
+      "timestamp": "2016-04-24T09:01:44Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 373,
+      "comment": "/* top */Removed invisible unicode characters + other fixes, removed: ‎ using [[Project:AWB|AWB]] (12004)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 716985955,
+      "parentid": 716853310,
+      "timestamp": "2016-04-25T02:00:12Z",
+      "user": "Wgolf",
+      "userid": 13821812,
+      "size": 335,
+      "comment": "removed [[Category:Washington, D.C. lawyers]] using [[WP:HC|HotCat]] removing this category as it seems to be unreferenced (so is the mayor part, but at least its mentioned in the profile)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 729763604,
+      "parentid": 716985955,
+      "timestamp": "2016-07-14T11:36:34Z",
+      "user": "Racklever",
+      "userid": 623903,
+      "size": 453,
+      "comment": "add ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 729763650,
+      "parentid": 729763604,
+      "timestamp": "2016-07-14T11:37:07Z",
+      "user": "Racklever",
+      "userid": 623903,
+      "size": 571,
+      "comment": "Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 729881295,
+      "parentid": 729763650,
+      "timestamp": "2016-07-15T06:11:54Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 599,
+      "comment": "Removed invisible unicode characters + other fixes, replaced: →, added [[CAT:UL|underlinked]] tag using [[Project:AWB|AWB]] (12052)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 854591224,
+      "parentid": 729881295,
+      "timestamp": "2018-08-12T12:50:29Z",
+      "user": "Moha.Ay",
+      "userid": 34030927,
+      "size": 1509,
+      "comment": "+infos +sources",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "nowiki added"
+      ]
+    },
+    {
+      "revid": 854598670,
+      "parentid": 854591224,
+      "timestamp": "2018-08-12T14:02:39Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 1504,
+      "comment": "disambig attorney; layout; better tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 873137318,
+      "parentid": 854598670,
+      "timestamp": "2018-12-11T09:22:49Z",
+      "user": "I dream of horses",
+      "userid": 9676078,
+      "size": 1540,
+      "comment": "/* top */Cleaning up a [[WP:RANPP|randomly generated list]], added [[CAT:UL|underlinked]] tag",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 873348792,
+      "parentid": 873137318,
+      "timestamp": "2018-12-12T17:08:32Z",
+      "user": "Veryproicelandic",
+      "userid": 23790359,
+      "size": 1539,
+      "comment": "added some links, removed that flag...",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 873686179,
+      "parentid": 873348792,
+      "timestamp": "2018-12-14T13:38:05Z",
+      "user": "Niceguyedc",
+      "userid": 5288432,
+      "size": 1552,
+      "comment": "v2.0 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[J.D.]]",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1016312432,
+      "parentid": 873686179,
+      "timestamp": "2021-04-06T14:18:48Z",
+      "user": "TheHonorable6324",
+      "userid": 41448985,
+      "size": 2497,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1020392969,
+      "parentid": 1016312432,
+      "timestamp": "2021-04-28T20:43:29Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 2538,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020393125,
+      "parentid": 1020392969,
+      "timestamp": "2021-04-28T20:44:18Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 2572,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020393241,
+      "parentid": 1020393125,
+      "timestamp": "2021-04-28T20:45:00Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 2620,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020395468,
+      "parentid": 1020393241,
+      "timestamp": "2021-04-28T20:58:06Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 2677,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020395601,
+      "parentid": 1020395468,
+      "timestamp": "2021-04-28T20:59:03Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 2724,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020395900,
+      "parentid": 1020395601,
+      "timestamp": "2021-04-28T21:00:58Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 2753,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020396125,
+      "parentid": 1020395900,
+      "timestamp": "2021-04-28T21:02:26Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 2796,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023085322,
+      "parentid": 1020396125,
+      "timestamp": "2021-05-14T08:24:26Z",
+      "user": "Curbon7",
+      "userid": 35354423,
+      "size": 2839,
+      "comment": "added image",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 1030253260,
+      "parentid": 1023085322,
+      "timestamp": "2021-06-24T20:22:57Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 2894,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician and attorney\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1070282200,
+      "parentid": 1030253260,
+      "timestamp": "2022-02-06T17:30:14Z",
+      "user": "TheRealJackMarshall",
+      "userid": 36752857,
+      "size": 3040,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093846207,
+      "parentid": 1070282200,
+      "timestamp": "2022-06-19T05:05:00Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 3039,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Curbon7 | [[Category:Florida politician stubs]] | #UCB_Category 255/533",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1102422751,
+      "parentid": 1093846207,
+      "timestamp": "2022-08-05T00:35:42Z",
+      "user": "CzarJobKhaya",
+      "userid": 36595729,
+      "size": 3497,
+      "comment": "Ty Penserga",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119452860,
+      "parentid": 1102422751,
+      "timestamp": "2022-11-01T17:40:21Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 3554,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121217622,
+      "parentid": 1119452860,
+      "timestamp": "2022-11-11T04:03:08Z",
+      "user": "BizarreLoveTriangle",
+      "userid": 14954744,
+      "size": 3621,
+      "comment": "added [[Category:Candidates in the 2022 United States Senate elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1126031732,
+      "parentid": 1121217622,
+      "timestamp": "2022-12-07T04:28:06Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 3685,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1147903610,
+      "parentid": 1126031732,
+      "timestamp": "2023-04-02T22:44:22Z",
+      "user": "TheRealJackMarshall",
+      "userid": 36752857,
+      "size": 4143,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151506604,
+      "parentid": 1147903610,
+      "timestamp": "2023-04-24T13:57:58Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 4143,
+      "comment": "v2.05b - [[User:WikiCleanerBot#T19|Bot T19 CW#83]] - Fix errors for [[WP:WCW|CW project]] (Heading start with three \"=\" and later with level two)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1180114410,
+      "parentid": 1151506604,
+      "timestamp": "2023-10-14T16:40:17Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 4143,
+      "comment": "/* Political career */replaced: Political Career → Political career",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1185742340,
+      "parentid": 1180114410,
+      "timestamp": "2023-11-18T19:01:16Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 4143,
+      "comment": "/* top */replaced: Mayor → mayor",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1234565328,
+      "parentid": 1185742340,
+      "timestamp": "2024-07-15T01:01:48Z",
+      "user": "TheRealJackMarshall",
+      "userid": 36752857,
+      "size": 4155,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1245749825,
+      "parentid": 1234565328,
+      "timestamp": "2024-09-14T21:11:00Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4174,
+      "comment": "Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Losipov | [[Category:Candidates in the 2022 United States Senate elections]] | #UCB_Category 67/71",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1259075694,
+      "parentid": 1245749825,
+      "timestamp": "2024-11-23T06:14:09Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 4174,
+      "comment": "Moving [[:Category:Florida Independents]] to [[:Category:Florida independents]] per [[Wikipedia:Categories for discussion/Log/2024 November 14#US state independents]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1259567836,
+      "parentid": 1259075694,
+      "timestamp": "2024-11-25T21:32:42Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4127,
+      "comment": "Removing from [[Category:21st-century American politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_B._Grant"
+}

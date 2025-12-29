@@ -1,0 +1,344 @@
+{
+  "page_title": "Jevin_Hodge",
+  "candidate_name": "Jevin Hodge",
+  "collection_date": "2025-12-28T16:41:56.770567",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 24,
+    "unique_editors": 16,
+    "date_range": {
+      "start": "2021-05-07T01:02:01Z",
+      "end": "2024-12-04T04:49:42Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1021849920,
+      "parentid": 0,
+      "timestamp": "2021-05-07T01:02:01Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 75,
+      "comment": "redirect",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1102156543,
+      "parentid": 1021849920,
+      "timestamp": "2022-08-03T17:11:01Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 89,
+      "comment": "[[WP:AES|←]]Changed redirect target from [[2022 United States House of Representatives elections#Arizona]] to [[2022 United States House of Representatives elections in Arizona#District 1]]",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1202637279,
+      "parentid": 1102156543,
+      "timestamp": "2024-02-03T05:46:58Z",
+      "user": "Calibrador",
+      "userid": 9071385,
+      "size": 4218,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2022 United States House of Representatives elections in Arizona#District 1]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 1202916395,
+      "parentid": 1202637279,
+      "timestamp": "2024-02-03T20:33:18Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 4304,
+      "comment": "copyedits and structuring",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1202980136,
+      "parentid": 1202916395,
+      "timestamp": "2024-02-03T23:33:24Z",
+      "user": "MoviesandTelevisionFan",
+      "userid": 41646249,
+      "size": 4295,
+      "comment": "fix",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1204451622,
+      "parentid": 1202980136,
+      "timestamp": "2024-02-07T04:34:52Z",
+      "user": "02rufus02",
+      "userid": 33582819,
+      "size": 4375,
+      "comment": "Fixed congressional district",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1205698415,
+      "parentid": 1204451622,
+      "timestamp": "2024-02-10T07:02:11Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4375,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1210356713,
+      "parentid": 1205698415,
+      "timestamp": "2024-02-26T06:16:16Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4421,
+      "comment": "/* External links */add [[Category:21st-century Arizona politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1214394903,
+      "parentid": 1210356713,
+      "timestamp": "2024-03-18T18:08:32Z",
+      "user": "Iamtheoneaz",
+      "userid": 47554672,
+      "size": 6383,
+      "comment": "Included public information about his sexual assault allegations",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1214410470,
+      "parentid": 1214394903,
+      "timestamp": "2024-03-18T20:01:14Z",
+      "user": "Iamtheoneaz",
+      "userid": 47554672,
+      "size": 6442,
+      "comment": "Added context",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1214551142,
+      "parentid": 1214410470,
+      "timestamp": "2024-03-19T17:09:12Z",
+      "user": "Mcrealpolitik",
+      "userid": 47560299,
+      "size": 7460,
+      "comment": "Added resignation information",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1214555351,
+      "parentid": 1214551142,
+      "timestamp": "2024-03-19T17:36:39Z",
+      "user": "Mcrealpolitik",
+      "userid": 47560299,
+      "size": 8384,
+      "comment": "Resolution to sexual assault controversy",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1214556406,
+      "parentid": 1214555351,
+      "timestamp": "2024-03-19T17:44:21Z",
+      "user": "Noahp2",
+      "userid": 43637531,
+      "size": 8297,
+      "comment": "Updating intro & infobox and removing house template",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1217273595,
+      "parentid": 1214556406,
+      "timestamp": "2024-04-04T21:07:31Z",
+      "user": "Noahp2",
+      "userid": 43637531,
+      "size": 8307,
+      "comment": "Adding successor",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1223089017,
+      "parentid": 1217273595,
+      "timestamp": "2024-05-09T20:34:29Z",
+      "user": "2603:7000:4000:595:A5DA:BF07:DB85:6F3B",
+      "userid": 0,
+      "size": 5362,
+      "comment": "/* Sexual assault allegations */",
+      "minor": false,
+      "tags": [
+        "Section blanking",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1223089081,
+      "parentid": 1223089017,
+      "timestamp": "2024-05-09T20:34:58Z",
+      "user": "Leonidlednev",
+      "userid": 31812356,
+      "size": 8307,
+      "comment": "[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2603:7000:4000:595:A5DA:BF07:DB85:6F3B|2603:7000:4000:595:A5DA:BF07:DB85:6F3B]] ([[User talk:2603:7000:4000:595:A5DA:BF07:DB85:6F3B|talk]]) to last revision by Noahp2: unexplained content removal",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "OAuth CID: 6365"
+      ]
+    },
+    {
+      "revid": 1225060627,
+      "parentid": 1223089081,
+      "timestamp": "2024-05-22T03:29:07Z",
+      "user": "72.83.102.246",
+      "userid": 0,
+      "size": 7219,
+      "comment": "Fixed info",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1225062266,
+      "parentid": 1225060627,
+      "timestamp": "2024-05-22T03:49:28Z",
+      "user": "Adam Black",
+      "userid": 35512187,
+      "size": 8307,
+      "comment": "Reverting edit(s) by [[Special:Contributions/72.83.102.246|72.83.102.246]] ([[User_talk:72.83.102.246|talk]]) to rev. 1223089081 by Leonidlednev: Vandalism ([[w:en:WP:UV|UV 0.1.5]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "Ultraviolet"
+      ]
+    },
+    {
+      "revid": 1243170699,
+      "parentid": 1225062266,
+      "timestamp": "2024-08-30T22:48:20Z",
+      "user": "Kimikel",
+      "userid": 47956767,
+      "size": 8485,
+      "comment": "updating image",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1251917405,
+      "parentid": 1243170699,
+      "timestamp": "2024-10-18T20:25:48Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 8487,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1255709147,
+      "parentid": 1251917405,
+      "timestamp": "2024-11-06T07:19:50Z",
+      "user": "Fennasnogothrim",
+      "userid": 4545333,
+      "size": 8528,
+      "comment": "Added NPOV tag",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1261084707,
+      "parentid": 1255709147,
+      "timestamp": "2024-12-04T04:40:44Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8595,
+      "comment": "added [[Category:21st-century members of the Arizona State Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261085339,
+      "parentid": 1261084707,
+      "timestamp": "2024-12-04T04:46:49Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8549,
+      "comment": "Removing from [[Category:21st-century Arizona politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261085668,
+      "parentid": 1261085339,
+      "timestamp": "2024-12-04T04:49:42Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8502,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jevin_Hodge"
+}

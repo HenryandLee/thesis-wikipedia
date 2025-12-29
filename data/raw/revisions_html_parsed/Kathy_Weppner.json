@@ -1,0 +1,44 @@
+{
+  "page_title": "Kathy_Weppner",
+  "candidate_name": "Kathy Weppner",
+  "collection_date": "2025-12-28T16:45:18.983242",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-11-07T03:44:37Z",
+      "end": "2018-12-08T18:22:16Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 632785311,
+      "parentid": 0,
+      "timestamp": "2014-11-07T03:44:37Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 116,
+      "comment": "Redirecting main header delineating American political figure from [[New York]], [[Kathy Weppner]], to the entry, [[United States House of Representatives elections in New York, 2014]], which mentions her run for [[New York's 26th congressional district]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872710545,
+      "parentid": 632785311,
+      "timestamp": "2018-12-08T18:22:16Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 115,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in New York]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kathy_Weppner"
+}

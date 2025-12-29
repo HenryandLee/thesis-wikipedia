@@ -1,0 +1,57 @@
+{
+  "page_title": "Ray_Wardingley",
+  "candidate_name": "Ray Wardingley",
+  "collection_date": "2025-12-28T16:52:03.501906",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2014-03-27T18:50:29Z",
+      "end": "2020-11-25T07:00:51Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 601543473,
+      "parentid": 0,
+      "timestamp": "2014-03-27T18:50:29Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Illinois, 2010#District 1]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872725493,
+      "parentid": 601543473,
+      "timestamp": "2018-12-08T20:17:42Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Illinois]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 990569440,
+      "parentid": 872725493,
+      "timestamp": "2020-11-25T07:00:51Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 31,
+      "comment": "changing redirect",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ray_Wardingley"
+}

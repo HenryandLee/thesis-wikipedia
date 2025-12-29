@@ -1,0 +1,7112 @@
+{
+  "page_title": "Maxwell_Frost",
+  "candidate_name": "Maxwell Frost",
+  "collection_date": "2025-12-28T16:48:42.202210",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 521,
+    "unique_editors": 255,
+    "date_range": {
+      "start": "2022-08-23T23:34:57Z",
+      "end": "2024-12-31T20:54:49Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1106285407,
+      "parentid": 0,
+      "timestamp": "2022-08-23T23:34:57Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 92,
+      "comment": "redirect",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1106319844,
+      "parentid": 1106285407,
+      "timestamp": "2022-08-24T02:38:59Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 9839,
+      "comment": "Moving out of draftspace",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106320408,
+      "parentid": 1106319844,
+      "timestamp": "2022-08-24T02:41:55Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 10312,
+      "comment": "/* Personal life */ Seguro Que Sí, citation (Politico)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106320532,
+      "parentid": 1106320408,
+      "timestamp": "2022-08-24T02:42:37Z",
+      "user": "Ganesha811",
+      "userid": 19637353,
+      "size": 7789,
+      "comment": "improve NPOV, organization",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1106320711,
+      "parentid": 1106320532,
+      "timestamp": "2022-08-24T02:43:20Z",
+      "user": "Ganesha811",
+      "userid": 19637353,
+      "size": 7814,
+      "comment": "tweak lead",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1106321870,
+      "parentid": 1106320711,
+      "timestamp": "2022-08-24T02:49:23Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 7849,
+      "comment": "added [[Category:American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1106323304,
+      "parentid": 1106321870,
+      "timestamp": "2022-08-24T02:56:15Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 7979,
+      "comment": "/* Political positions */ Cawthorn, citation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106325762,
+      "parentid": 1106323304,
+      "timestamp": "2022-08-24T03:08:40Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 7979,
+      "comment": "/* 2022 congressional election */ Style",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106325979,
+      "parentid": 1106325762,
+      "timestamp": "2022-08-24T03:09:50Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 8077,
+      "comment": "External links",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106329479,
+      "parentid": 1106325979,
+      "timestamp": "2022-08-24T03:27:43Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 8487,
+      "comment": "/* top */ Birth month, citation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106329835,
+      "parentid": 1106329479,
+      "timestamp": "2022-08-24T03:29:49Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 8789,
+      "comment": "/* Early life */ Osceola County School for the Arts, citation (NPR)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106330375,
+      "parentid": 1106329835,
+      "timestamp": "2022-08-24T03:32:47Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 8918,
+      "comment": "/* Personal life */ More info, citations",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106330586,
+      "parentid": 1106330375,
+      "timestamp": "2022-08-24T03:33:52Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 8943,
+      "comment": "/* Activism and organizing */ Citation",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106331081,
+      "parentid": 1106330586,
+      "timestamp": "2022-08-24T03:36:33Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 8951,
+      "comment": "/* Early life */ Birth month",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106331894,
+      "parentid": 1106331081,
+      "timestamp": "2022-08-24T03:40:43Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 9607,
+      "comment": "/* 2022 congressional election */ Spanglish ad, citation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106332057,
+      "parentid": 1106331894,
+      "timestamp": "2022-08-24T03:41:35Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 9711,
+      "comment": "/* Personal life */ Languages, citation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106333829,
+      "parentid": 1106332057,
+      "timestamp": "2022-08-24T03:52:11Z",
+      "user": "216.165.95.140",
+      "userid": 0,
+      "size": 9744,
+      "comment": "added link and clarification around formation of Newtown Action Alliance",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106334249,
+      "parentid": 1106333829,
+      "timestamp": "2022-08-24T03:54:31Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 9744,
+      "comment": "/* 2022 congressional election */ Capitalization",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106337704,
+      "parentid": 1106334249,
+      "timestamp": "2022-08-24T04:14:13Z",
+      "user": "Robert McClenon",
+      "userid": 318807,
+      "size": 10168,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Maxwell Frost]].",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1106339147,
+      "parentid": 1106337704,
+      "timestamp": "2022-08-24T04:22:11Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 10331,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106339571,
+      "parentid": 1106339147,
+      "timestamp": "2022-08-24T04:24:33Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 10358,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106339756,
+      "parentid": 1106339571,
+      "timestamp": "2022-08-24T04:25:38Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 10404,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106340138,
+      "parentid": 1106339756,
+      "timestamp": "2022-08-24T04:27:55Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 10443,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106340233,
+      "parentid": 1106340138,
+      "timestamp": "2022-08-24T04:28:28Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 10442,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106340493,
+      "parentid": 1106340233,
+      "timestamp": "2022-08-24T04:30:08Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 10497,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106354339,
+      "parentid": 1106340493,
+      "timestamp": "2022-08-24T05:49:52Z",
+      "user": "Zeddawg",
+      "userid": 29686516,
+      "size": 10500,
+      "comment": "Specifying Frost's month of birth.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106420255,
+      "parentid": 1106354339,
+      "timestamp": "2022-08-24T14:16:11Z",
+      "user": "2603:9001:E01:4D6D:C87A:17AD:29B7:2CCA",
+      "userid": 0,
+      "size": 10474,
+      "comment": "Removing reference to Madison Cawthorn being Gen Z as Cawthorn is a Millennial. He was born in 1995 and both Wikipedia and Pew Research Center defines generation Z as 1997 and onwards.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106423694,
+      "parentid": 1106420255,
+      "timestamp": "2022-08-24T14:37:15Z",
+      "user": "Cerebral726",
+      "userid": 21831939,
+      "size": 10808,
+      "comment": "/* 2022 Congressional election */ add sourc",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106423841,
+      "parentid": 1106423694,
+      "timestamp": "2022-08-24T14:38:14Z",
+      "user": "Cerebral726",
+      "userid": 21831939,
+      "size": 10875,
+      "comment": "/* 2022 Congressional election */ added archive",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106424241,
+      "parentid": 1106423841,
+      "timestamp": "2022-08-24T14:40:44Z",
+      "user": "Cerebral726",
+      "userid": 21831939,
+      "size": 11219,
+      "comment": "/* Political positions */ add source",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106440313,
+      "parentid": 1106424241,
+      "timestamp": "2022-08-24T16:22:20Z",
+      "user": "MAINEiac4434",
+      "userid": 12375899,
+      "size": 11660,
+      "comment": "/* 2022 Congressional election */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1106441949,
+      "parentid": 1106440313,
+      "timestamp": "2022-08-24T16:32:47Z",
+      "user": "Fadesga",
+      "userid": 5042921,
+      "size": 11664,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106466087,
+      "parentid": 1106441949,
+      "timestamp": "2022-08-24T19:10:07Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 11641,
+      "comment": "Removed/fixed incorrect author parameters ([[Condé Nast]] is a a global mass media company), performed [[WP:AWB/GF|general fixes]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1106480142,
+      "parentid": 1106466087,
+      "timestamp": "2022-08-24T20:42:30Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11622,
+      "comment": "removed [[Category:21st-century African-American people]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106480505,
+      "parentid": 1106480142,
+      "timestamp": "2022-08-24T20:44:48Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11644,
+      "comment": "{{Authority control}}",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1106486060,
+      "parentid": 1106480505,
+      "timestamp": "2022-08-24T21:22:12Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11591,
+      "comment": "external links",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1106486163,
+      "parentid": 1106486060,
+      "timestamp": "2022-08-24T21:23:07Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11607,
+      "comment": "/* External links */ IMDb",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1106486662,
+      "parentid": 1106486163,
+      "timestamp": "2022-08-24T21:27:23Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11667,
+      "comment": "Electoral history",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1106487154,
+      "parentid": 1106486662,
+      "timestamp": "2022-08-24T21:31:12Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11855,
+      "comment": "lead",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1106487268,
+      "parentid": 1106487154,
+      "timestamp": "2022-08-24T21:32:06Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11891,
+      "comment": "added [[Category:Activists from Florida]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1106487312,
+      "parentid": 1106487268,
+      "timestamp": "2022-08-24T21:32:30Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11931,
+      "comment": "added [[Category:African-American activists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1106487390,
+      "parentid": 1106487312,
+      "timestamp": "2022-08-24T21:33:18Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11936,
+      "comment": "removed [[Category:American people of Cuban descent]]; added [[Category:American politicians of Cuban descent]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1106487480,
+      "parentid": 1106487390,
+      "timestamp": "2022-08-24T21:34:08Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 11993,
+      "comment": "added [[Category:African-American people in Florida politics]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106510109,
+      "parentid": 1106487480,
+      "timestamp": "2022-08-25T00:25:02Z",
+      "user": "38.42.5.188",
+      "userid": 0,
+      "size": 12013,
+      "comment": "/* Activism and organizing */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106632508,
+      "parentid": 1106510109,
+      "timestamp": "2022-08-25T16:40:54Z",
+      "user": "Liljimbo",
+      "userid": 43320418,
+      "size": 12013,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1106632565,
+      "parentid": 1106632508,
+      "timestamp": "2022-08-25T16:41:13Z",
+      "user": "Liljimbo",
+      "userid": 43320418,
+      "size": 12025,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1106825016,
+      "parentid": 1106632565,
+      "timestamp": "2022-08-26T17:11:59Z",
+      "user": "Nielsoncaetanosalmeron",
+      "userid": 32003391,
+      "size": 12031,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106825119,
+      "parentid": 1106825016,
+      "timestamp": "2022-08-26T17:12:38Z",
+      "user": "Nielsoncaetanosalmeron",
+      "userid": 32003391,
+      "size": 12048,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1106844902,
+      "parentid": 1106825119,
+      "timestamp": "2022-08-26T19:29:42Z",
+      "user": "Sal2100",
+      "userid": 35140259,
+      "size": 12057,
+      "comment": "/* Electoral history */ hiding an empty section, can be easily restored when content is added",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106845274,
+      "parentid": 1106844902,
+      "timestamp": "2022-08-26T19:32:05Z",
+      "user": "Sal2100",
+      "userid": 35140259,
+      "size": 12057,
+      "comment": "re-sorting alphabetically",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106922217,
+      "parentid": 1106845274,
+      "timestamp": "2022-08-27T05:12:45Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 12056,
+      "comment": "/* Personal life */ Spacing",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107740458,
+      "parentid": 1106922217,
+      "timestamp": "2022-08-31T16:39:38Z",
+      "user": "El cid, el campeador",
+      "userid": 28857043,
+      "size": 11632,
+      "comment": "[[Wikipedia:Articles for deletion/Maxwell Frost]] closed as keep ([[WP:XFDC#4.0.13|XFDcloser]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1107992800,
+      "parentid": 1107740458,
+      "timestamp": "2022-09-02T00:09:43Z",
+      "user": "Jenny Death",
+      "userid": 24152474,
+      "size": 11812,
+      "comment": "adding full DOB per his twitter",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1108111767,
+      "parentid": 1107992800,
+      "timestamp": "2022-09-02T16:09:27Z",
+      "user": "Cerebral726",
+      "userid": 21831939,
+      "size": 11800,
+      "comment": "reducing length to closer to 40 characters",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1108186771,
+      "parentid": 1108111767,
+      "timestamp": "2022-09-03T00:58:07Z",
+      "user": "Zeddawg",
+      "userid": 29686516,
+      "size": 11903,
+      "comment": "Adding image of Frost.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108209478,
+      "parentid": 1108186771,
+      "timestamp": "2022-09-03T03:42:05Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 11901,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108789462,
+      "parentid": 1108209478,
+      "timestamp": "2022-09-06T08:03:19Z",
+      "user": "Teefoay",
+      "userid": 44247855,
+      "size": 11812,
+      "comment": "Being adopted by someone who is Cuban does not mean you are Cuban",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108789653,
+      "parentid": 1108789462,
+      "timestamp": "2022-09-06T08:05:09Z",
+      "user": "Teefoay",
+      "userid": 44247855,
+      "size": 11901,
+      "comment": "Undid revision 1108789462 by [[Special:Contributions/Teefoay|Teefoay]] ([[User talk:Teefoay|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108789826,
+      "parentid": 1108789653,
+      "timestamp": "2022-09-06T08:06:55Z",
+      "user": "Teefoay",
+      "userid": 44247855,
+      "size": 11812,
+      "comment": "His adopted father is white and his birth parents are african-american. Just because his adopted mother is Cuban dies not make him cuban.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108826200,
+      "parentid": 1108789826,
+      "timestamp": "2022-09-06T13:20:54Z",
+      "user": "El cid, el campeador",
+      "userid": 28857043,
+      "size": 11808,
+      "comment": "/* Political views */Make title clearer",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1108829621,
+      "parentid": 1108826200,
+      "timestamp": "2022-09-06T13:45:16Z",
+      "user": "El cid, el campeador",
+      "userid": 28857043,
+      "size": 11704,
+      "comment": "/* Political views */ calling someone racist is not a political view. I do not see the comment as warranting inclusion",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1108838753,
+      "parentid": 1108829621,
+      "timestamp": "2022-09-06T14:47:06Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11855,
+      "comment": "Added commons link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108839219,
+      "parentid": 1108838753,
+      "timestamp": "2022-09-06T14:49:04Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11883,
+      "comment": "/* External links */ added FEC",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108839518,
+      "parentid": 1108839219,
+      "timestamp": "2022-09-06T14:50:45Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11900,
+      "comment": "/* External links */ added Vote Smart link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108841314,
+      "parentid": 1108839518,
+      "timestamp": "2022-09-06T15:00:20Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11901,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1109098412,
+      "parentid": 1108841314,
+      "timestamp": "2022-09-07T23:26:53Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 11832,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1109404652,
+      "parentid": 1109098412,
+      "timestamp": "2022-09-09T16:55:30Z",
+      "user": "Paleontologist99",
+      "userid": 26597445,
+      "size": 11858,
+      "comment": "added [[Category:Generation Z]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1109404733,
+      "parentid": 1109404652,
+      "timestamp": "2022-09-09T16:56:03Z",
+      "user": "Paleontologist99",
+      "userid": 26597445,
+      "size": 11906,
+      "comment": "added [[Category:Progressivism in the United States]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1109405795,
+      "parentid": 1109404733,
+      "timestamp": "2022-09-09T17:03:03Z",
+      "user": "Paleontologist99",
+      "userid": 26597445,
+      "size": 11993,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1109464789,
+      "parentid": 1109405795,
+      "timestamp": "2022-09-10T01:18:34Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11926,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1109734198,
+      "parentid": 1109464789,
+      "timestamp": "2022-09-11T16:04:44Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11922,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1110434104,
+      "parentid": 1109734198,
+      "timestamp": "2022-09-15T12:55:25Z",
+      "user": "167.104.7.4",
+      "userid": 0,
+      "size": 11932,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1110434366,
+      "parentid": 1110434104,
+      "timestamp": "2022-09-15T12:57:29Z",
+      "user": "Cerebral726",
+      "userid": 21831939,
+      "size": 11922,
+      "comment": "Undid revision 1110434104 by [[Special:Contributions/167.104.7.4|167.104.7.4]] ([[User talk:167.104.7.4|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1114911834,
+      "parentid": 1110434366,
+      "timestamp": "2022-10-08T22:31:26Z",
+      "user": "2601:152:880:C810:D4FC:F37B:F5E3:72AB",
+      "userid": 0,
+      "size": 11923,
+      "comment": "Moved previously misplaced modifier so entry says what the author means",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117310149,
+      "parentid": 1114911834,
+      "timestamp": "2022-10-21T01:22:34Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 16302,
+      "comment": "Added former pro-Palestine activism, foreign policy position on Israel-Palestine, controversy on pro-Palestine reversal",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117311853,
+      "parentid": 1117310149,
+      "timestamp": "2022-10-21T01:31:14Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 16305,
+      "comment": "/* Foreign policy */ Grammatical correction.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117347778,
+      "parentid": 1117311853,
+      "timestamp": "2022-10-21T06:52:19Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 16250,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1117410053,
+      "parentid": 1117347778,
+      "timestamp": "2022-10-21T15:47:03Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 16250,
+      "comment": "/* Pro-Palestine position reversal controversy */ Typo correction, year should be 2022 not 2020.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120822849,
+      "parentid": 1117410053,
+      "timestamp": "2022-11-09T00:42:26Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 16701,
+      "comment": "/* top */ AP called election for Frost",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120823208,
+      "parentid": 1120822849,
+      "timestamp": "2022-11-09T00:44:59Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 16754,
+      "comment": "/* top */ Style",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120827007,
+      "parentid": 1120823208,
+      "timestamp": "2022-11-09T01:12:30Z",
+      "user": "Shipping address",
+      "userid": 41025607,
+      "size": 16901,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1120827727,
+      "parentid": 1120827007,
+      "timestamp": "2022-11-09T01:17:37Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 17370,
+      "comment": "/* 2022 Congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1120827771,
+      "parentid": 1120827727,
+      "timestamp": "2022-11-09T01:17:56Z",
+      "user": "Trillfendi",
+      "userid": 20588153,
+      "size": 17344,
+      "comment": "to say one person represents a generation is… crazy",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120828178,
+      "parentid": 1120827771,
+      "timestamp": "2022-11-09T01:20:39Z",
+      "user": "Hayden64",
+      "userid": 35043271,
+      "size": 17343,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120831838,
+      "parentid": 1120828178,
+      "timestamp": "2022-11-09T01:45:47Z",
+      "user": "2601:704:200:959:14AD:139D:22F:303F",
+      "userid": 0,
+      "size": 17338,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1120831979,
+      "parentid": 1120831838,
+      "timestamp": "2022-11-09T01:46:54Z",
+      "user": "2601:704:200:959:14AD:139D:22F:303F",
+      "userid": 0,
+      "size": 17338,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible birth or death date change"
+      ]
+    },
+    {
+      "revid": 1120832026,
+      "parentid": 1120831979,
+      "timestamp": "2022-11-09T01:47:18Z",
+      "user": "2600:6C4A:427F:ED56:558A:C9CB:AC76:F129",
+      "userid": 0,
+      "size": 17337,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1120832125,
+      "parentid": 1120832026,
+      "timestamp": "2022-11-09T01:48:01Z",
+      "user": "136.167.244.208",
+      "userid": 0,
+      "size": 17343,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120832151,
+      "parentid": 1120832125,
+      "timestamp": "2022-11-09T01:48:16Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 17350,
+      "comment": "sections",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120832179,
+      "parentid": 1120832151,
+      "timestamp": "2022-11-09T01:48:34Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 17356,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1120832365,
+      "parentid": 1120832179,
+      "timestamp": "2022-11-09T01:50:16Z",
+      "user": "190.7.207.233",
+      "userid": 0,
+      "size": 17355,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "Possible vandalism"
+      ]
+    },
+    {
+      "revid": 1120834014,
+      "parentid": 1120832365,
+      "timestamp": "2022-11-09T02:03:37Z",
+      "user": "69.162.231.10",
+      "userid": 0,
+      "size": 17351,
+      "comment": "/* U.S. House of Representatives (2023–present) */ Updated tenses",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1120849569,
+      "parentid": 1120834014,
+      "timestamp": "2022-11-09T04:18:49Z",
+      "user": "85.23.72.30",
+      "userid": 0,
+      "size": 17336,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120849624,
+      "parentid": 1120849569,
+      "timestamp": "2022-11-09T04:19:14Z",
+      "user": "85.23.72.30",
+      "userid": 0,
+      "size": 17329,
+      "comment": "/* U.S. House of Representatives (2023–present) */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120855917,
+      "parentid": 1120849624,
+      "timestamp": "2022-11-09T05:17:10Z",
+      "user": "Zedonathin2020",
+      "userid": 36749038,
+      "size": 17344,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1120859232,
+      "parentid": 1120855917,
+      "timestamp": "2022-11-09T05:48:58Z",
+      "user": "128.84.126.138",
+      "userid": 0,
+      "size": 17340,
+      "comment": "fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 1120859610,
+      "parentid": 1120859232,
+      "timestamp": "2022-11-09T05:53:04Z",
+      "user": "216.165.95.175",
+      "userid": 0,
+      "size": 17358,
+      "comment": "Changed name over photo from \"Yikes\" to \"Maxwell Alejandro Frost\"",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120859947,
+      "parentid": 1120859610,
+      "timestamp": "2022-11-09T05:56:43Z",
+      "user": "Larry Hockett",
+      "userid": 15977090,
+      "size": 17348,
+      "comment": "common name here",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120859997,
+      "parentid": 1120859947,
+      "timestamp": "2022-11-09T05:57:12Z",
+      "user": "128.84.125.83",
+      "userid": 0,
+      "size": 17348,
+      "comment": "Fixed severe typo",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120860539,
+      "parentid": 1120859997,
+      "timestamp": "2022-11-09T06:02:04Z",
+      "user": "2600:1700:4170:9730:C8D6:4AA4:21EA:E929",
+      "userid": 0,
+      "size": 17502,
+      "comment": "Fixed intentional typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1120862593,
+      "parentid": 1120860539,
+      "timestamp": "2022-11-09T06:24:02Z",
+      "user": "2600:100C:A206:278D:C8E6:F9F6:3F80:4253",
+      "userid": 0,
+      "size": 17882,
+      "comment": "/* Early life */Here’s sources",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1120867995,
+      "parentid": 1120862593,
+      "timestamp": "2022-11-09T07:15:33Z",
+      "user": "Clinton Baptiste",
+      "userid": 5115552,
+      "size": 17882,
+      "comment": "/* Early life */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120890448,
+      "parentid": 1120867995,
+      "timestamp": "2022-11-09T10:43:07Z",
+      "user": "2001:BB6:4734:5658:BCB0:7C21:48E3:7D67",
+      "userid": 0,
+      "size": 17927,
+      "comment": "/* Early life */ edit for clarity",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120904925,
+      "parentid": 1120890448,
+      "timestamp": "2022-11-09T12:54:52Z",
+      "user": "Ich",
+      "userid": 43393,
+      "size": 17965,
+      "comment": "{{use mdy dates |date=November 2022}}",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120907768,
+      "parentid": 1120904925,
+      "timestamp": "2022-11-09T13:18:36Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 18125,
+      "comment": "+[[Category:Puerto Rican people in Florida politics]]; +[[Category:American politicians of Lebanese descent]]; +[[Category:American politicians of Haitian descent]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120908313,
+      "parentid": 1120907768,
+      "timestamp": "2022-11-09T13:23:22Z",
+      "user": "Ich",
+      "userid": 43393,
+      "size": 19390,
+      "comment": "ref work",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120912822,
+      "parentid": 1120908313,
+      "timestamp": "2022-11-09T13:58:43Z",
+      "user": "SPECIFICO",
+      "userid": 17428571,
+      "size": 19386,
+      "comment": "/* Pro-Palestine position reversal controversy */ NPOV",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120912970,
+      "parentid": 1120912822,
+      "timestamp": "2022-11-09T13:59:49Z",
+      "user": "SPECIFICO",
+      "userid": 17428571,
+      "size": 19375,
+      "comment": "/* Pro-Palestine position reversal controversy */  positions stated, remove POV adjective",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120915795,
+      "parentid": 1120912970,
+      "timestamp": "2022-11-09T14:20:38Z",
+      "user": "Ich",
+      "userid": 43393,
+      "size": 20051,
+      "comment": "ref work",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120952363,
+      "parentid": 1120915795,
+      "timestamp": "2022-11-09T18:27:51Z",
+      "user": "2600:100C:A206:278D:6DEF:5321:20:A646",
+      "userid": 0,
+      "size": 20099,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120978275,
+      "parentid": 1120952363,
+      "timestamp": "2022-11-09T21:23:52Z",
+      "user": "Sobriquet2016",
+      "userid": 28295786,
+      "size": 20095,
+      "comment": "/* Guns */ Deleted the word “for.” You “advocate” a cause; you don’t “advocate FOR” it (“She advocates free health care”).  The preposition FOR is redundant. A prepositional sense (“in favor of”) is part of the verb. Any additional preposition is unnecessary.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120982990,
+      "parentid": 1120978275,
+      "timestamp": "2022-11-09T21:57:30Z",
+      "user": "2600:1702:CC4:20F0:506F:77CD:59CF:E9E8",
+      "userid": 0,
+      "size": 20122,
+      "comment": "/* Elections */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120983061,
+      "parentid": 1120982990,
+      "timestamp": "2022-11-09T21:58:01Z",
+      "user": "2600:1702:CC4:20F0:506F:77CD:59CF:E9E8",
+      "userid": 0,
+      "size": 20110,
+      "comment": "/* Guns */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121015952,
+      "parentid": 1120983061,
+      "timestamp": "2022-11-10T01:59:07Z",
+      "user": "BlueShirtz",
+      "userid": 30696319,
+      "size": 20100,
+      "comment": "/* U.S. House of Representatives (2023–) */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121019948,
+      "parentid": 1121015952,
+      "timestamp": "2022-11-10T02:25:17Z",
+      "user": "KConWiki",
+      "userid": 1994682,
+      "size": 20140,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121021375,
+      "parentid": 1121019948,
+      "timestamp": "2022-11-10T02:36:19Z",
+      "user": "2600:4041:4229:D00:383B:4764:2DD4:7107",
+      "userid": 0,
+      "size": 19732,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121021478,
+      "parentid": 1121021375,
+      "timestamp": "2022-11-10T02:37:08Z",
+      "user": "Dmartin969",
+      "userid": 9127245,
+      "size": 20140,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2600:4041:4229:D00:383B:4764:2DD4:7107|2600:4041:4229:D00:383B:4764:2DD4:7107]] ([[User talk:2600:4041:4229:D00:383B:4764:2DD4:7107|talk]]) to last revision by KConWiki",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1121032105,
+      "parentid": 1121021478,
+      "timestamp": "2022-11-10T04:05:43Z",
+      "user": "Liljimbo",
+      "userid": 43320418,
+      "size": 20152,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1121052165,
+      "parentid": 1121032105,
+      "timestamp": "2022-11-10T07:11:57Z",
+      "user": "CookieMonster755",
+      "userid": 22164567,
+      "size": 20583,
+      "comment": "first Gen Z member-elect of Congress",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121078851,
+      "parentid": 1121052165,
+      "timestamp": "2022-11-10T11:13:58Z",
+      "user": "Barnacles14",
+      "userid": 39270824,
+      "size": 20587,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121113441,
+      "parentid": 1121078851,
+      "timestamp": "2022-11-10T15:40:51Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 20551,
+      "comment": "/* Early life */ revert unsourced content",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121114865,
+      "parentid": 1121113441,
+      "timestamp": "2022-11-10T15:50:28Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 20690,
+      "comment": "See also",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121119446,
+      "parentid": 1121114865,
+      "timestamp": "2022-11-10T16:21:39Z",
+      "user": "Heavy Water",
+      "userid": 38907238,
+      "size": 20239,
+      "comment": "Unnecessary to say in the lead that they called the race for him on election night.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121120931,
+      "parentid": 1121119446,
+      "timestamp": "2022-11-10T16:30:47Z",
+      "user": "Pennsylvania2",
+      "userid": 30782049,
+      "size": 20157,
+      "comment": "/* U.S. House of Representatives */ Wording",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121121283,
+      "parentid": 1121120931,
+      "timestamp": "2022-11-10T16:33:00Z",
+      "user": "Pennsylvania2",
+      "userid": 30782049,
+      "size": 19235,
+      "comment": "/* Political positions */ None of this is relevant to his political positions, which this section is titled",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121143957,
+      "parentid": 1121121283,
+      "timestamp": "2022-11-10T18:58:44Z",
+      "user": "Philotam",
+      "userid": 31031784,
+      "size": 19239,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1121144046,
+      "parentid": 1121143957,
+      "timestamp": "2022-11-10T18:59:25Z",
+      "user": "Philotam",
+      "userid": 31031784,
+      "size": 19235,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1121152403,
+      "parentid": 1121144046,
+      "timestamp": "2022-11-10T19:56:44Z",
+      "user": "2601:644:4200:E250:E8AA:7FB4:DE08:65E9",
+      "userid": 0,
+      "size": 19245,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1121155095,
+      "parentid": 1121152403,
+      "timestamp": "2022-11-10T20:14:46Z",
+      "user": "Cerebral726",
+      "userid": 21831939,
+      "size": 19235,
+      "comment": "Undid revision 1121152403 by [[Special:Contributions/2601:644:4200:E250:E8AA:7FB4:DE08:65E9|2601:644:4200:E250:E8AA:7FB4:DE08:65E9]] ([[User talk:2601:644:4200:E250:E8AA:7FB4:DE08:65E9|talk]]) Does not agree with sources, altered title of source",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121178255,
+      "parentid": 1121155095,
+      "timestamp": "2022-11-10T22:38:58Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 19317,
+      "comment": "Undid revision 1121120931 by [[Special:Contributions/Pennsylvania2|Pennsylvania2]] ([[User talk:Pennsylvania2|talk]]), removal of this section is erasure of important criticism that is notable in nature.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121178341,
+      "parentid": 1121178255,
+      "timestamp": "2022-11-10T22:39:38Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 20239,
+      "comment": "Undid revision 1121121283 by [[Special:Contributions/Pennsylvania2|Pennsylvania2]] ([[User talk:Pennsylvania2|talk]]), removal of this section is erasure of important criticism that is notable in nature.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121187981,
+      "parentid": 1121178341,
+      "timestamp": "2022-11-10T23:54:03Z",
+      "user": "Cullen328",
+      "userid": 10006598,
+      "size": 20235,
+      "comment": "/* Early life */ Remove overlinking",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121299861,
+      "parentid": 1121187981,
+      "timestamp": "2022-11-11T15:40:35Z",
+      "user": "Cerebral726",
+      "userid": 21831939,
+      "size": 19702,
+      "comment": "/* Pro-Palestine position reversal controversy */ Mondoweiss is not being used per the guidelines at [[WP:RSP]]. there is significant editorializing in this section, and the length is not [[WP:DUE]] compared to the length of the article. Cutting in length and putting criticism in the mouths of who said them.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121300643,
+      "parentid": 1121299861,
+      "timestamp": "2022-11-11T15:45:38Z",
+      "user": "75.13.79.50",
+      "userid": 0,
+      "size": 19623,
+      "comment": "/* Guns */",
+      "minor": false,
+      "tags": [
+        "Section blanking",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121300695,
+      "parentid": 1121300643,
+      "timestamp": "2022-11-11T15:45:59Z",
+      "user": "75.13.79.50",
+      "userid": 0,
+      "size": 17093,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "Section blanking",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121302255,
+      "parentid": 1121300695,
+      "timestamp": "2022-11-11T15:56:17Z",
+      "user": "Larry Hockett",
+      "userid": 15977090,
+      "size": 19702,
+      "comment": "Reverted edits by [[Special:Contribs/75.13.79.50|75.13.79.50]] ([[User talk:75.13.79.50|talk]]) to last version by Cerebral726",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1121334354,
+      "parentid": 1121302255,
+      "timestamp": "2022-11-11T18:53:33Z",
+      "user": "2603:8001:8006:9D7D:B057:68AD:CA86:5D81",
+      "userid": 0,
+      "size": 19695,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121355424,
+      "parentid": 1121334354,
+      "timestamp": "2022-11-11T21:20:23Z",
+      "user": "2603:9001:8300:60C9:3C5E:9BEC:A5B9:B517",
+      "userid": 0,
+      "size": 19701,
+      "comment": "/* Early life */Corrected where his High School is located... NOT Orlando but Kissimmee,  Fl",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1121368401,
+      "parentid": 1121355424,
+      "timestamp": "2022-11-11T22:52:49Z",
+      "user": "188.146.135.2",
+      "userid": 0,
+      "size": 19673,
+      "comment": "/* Foreign policy */Rhetoric, aid is not \"unconditional\"",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1121371806,
+      "parentid": 1121368401,
+      "timestamp": "2022-11-11T23:18:46Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 19701,
+      "comment": "Undid revision 1121368401 by [[Special:Contributions/188.146.135.2|188.146.135.2]] ([[User talk:188.146.135.2|talk]]), the position paper sourced from his campaign specifically declares a call for unconditional aid to Israel: \"The threat to Israel from them is far too grave to condition the aid already agreed upon in the MOU.\"",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121373332,
+      "parentid": 1121371806,
+      "timestamp": "2022-11-11T23:30:39Z",
+      "user": "Reppop",
+      "userid": 31211555,
+      "size": 19699,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121376733,
+      "parentid": 1121373332,
+      "timestamp": "2022-11-11T23:58:10Z",
+      "user": "79.163.225.72",
+      "userid": 0,
+      "size": 19671,
+      "comment": "/* Foreign policy */The source does not state aid is \"unconditional\" - mou is conditional itself. This is an editorial inference and not supported by the reference.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1121524482,
+      "parentid": 1121376733,
+      "timestamp": "2022-11-12T19:22:12Z",
+      "user": "Bwefler",
+      "userid": 24136,
+      "size": 19596,
+      "comment": "/* Elections */ Updates since Frost was elected Nov 2022",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121532829,
+      "parentid": 1121524482,
+      "timestamp": "2022-11-12T20:18:57Z",
+      "user": "Bwefler",
+      "userid": 24136,
+      "size": 19936,
+      "comment": "/* Elections */ Added who Frost defeated in 2022",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121563317,
+      "parentid": 1121532829,
+      "timestamp": "2022-11-12T23:45:44Z",
+      "user": "Kgrad",
+      "userid": 10242667,
+      "size": 19936,
+      "comment": "/* Early life */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121592559,
+      "parentid": 1121563317,
+      "timestamp": "2022-11-13T03:12:08Z",
+      "user": "Bwefler",
+      "userid": 24136,
+      "size": 19952,
+      "comment": "/* Guns */ Added wikilink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121608911,
+      "parentid": 1121592559,
+      "timestamp": "2022-11-13T05:27:54Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 19959,
+      "comment": "what the source says",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121609285,
+      "parentid": 1121608911,
+      "timestamp": "2022-11-13T05:30:45Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 21695,
+      "comment": "/* Electoral history */ add",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121609551,
+      "parentid": 1121609285,
+      "timestamp": "2022-11-13T05:32:38Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 21923,
+      "comment": "/* Electoral history */ ref",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121610481,
+      "parentid": 1121609551,
+      "timestamp": "2022-11-13T05:40:12Z",
+      "user": "PickleG13",
+      "userid": 23762609,
+      "size": 21960,
+      "comment": "Added links",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1121640098,
+      "parentid": 1121610481,
+      "timestamp": "2022-11-13T10:06:26Z",
+      "user": "2603:9001:6002:80E6:575:678F:D942:A1E8",
+      "userid": 0,
+      "size": 21912,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1121641012,
+      "parentid": 1121640098,
+      "timestamp": "2022-11-13T10:14:28Z",
+      "user": "Saejal",
+      "userid": 42345261,
+      "size": 21916,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121671241,
+      "parentid": 1121641012,
+      "timestamp": "2022-11-13T14:30:58Z",
+      "user": "92.2.149.55",
+      "userid": 0,
+      "size": 21928,
+      "comment": "Sources clearly state his birth mother was Puerto Rican",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121853532,
+      "parentid": 1121671241,
+      "timestamp": "2022-11-14T13:54:09Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 21956,
+      "comment": "Undid revision 1121376733 by [[Special:Contributions/79.163.225.72|79.163.225.72]] ([[User talk:79.163.225.72|talk]]), do not make revisions if you aren't understanding the the sources clearly. The line was cited in a previous reversal of your revision. Conditional aid to Israel is specified.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122049466,
+      "parentid": 1121853532,
+      "timestamp": "2022-11-15T15:46:16Z",
+      "user": "2603:9001:6F02:94C6:A5F2:18CF:685F:2FFC",
+      "userid": 0,
+      "size": 21943,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122127187,
+      "parentid": 1122049466,
+      "timestamp": "2022-11-16T00:21:49Z",
+      "user": "MaviLight",
+      "userid": 37216458,
+      "size": 21956,
+      "comment": "Undid revision 1122049466 by [[Special:Contributions/2603:9001:6F02:94C6:A5F2:18CF:685F:2FFC|2603:9001:6F02:94C6:A5F2:18CF:685F:2FFC]] ([[User talk:2603:9001:6F02:94C6:A5F2:18CF:685F:2FFC|talk]]), reference cited states subject's maternal ethnicity.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122728171,
+      "parentid": 1122127187,
+      "timestamp": "2022-11-19T08:48:03Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 21982,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1122729977,
+      "parentid": 1122728171,
+      "timestamp": "2022-11-19T09:11:13Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 21952,
+      "comment": "v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation - Title linked in text - Link equal to linktext)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1124551631,
+      "parentid": 1122729977,
+      "timestamp": "2022-11-29T08:11:02Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 21952,
+      "comment": "Alter: title. Add: authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 2466/3540",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1124940309,
+      "parentid": 1124551631,
+      "timestamp": "2022-12-01T09:47:37Z",
+      "user": "Ffffrr",
+      "userid": 41865877,
+      "size": 21943,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American activist and political candidate (born 1997)\" to \"American activist and politician (born 1997)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1125376878,
+      "parentid": 1124940309,
+      "timestamp": "2022-12-03T17:56:46Z",
+      "user": "Abjanssen2023",
+      "userid": 43159950,
+      "size": 22180,
+      "comment": "Added his membership to the congressional progressive caucus since he will be joining it in january.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1125382369,
+      "parentid": 1125376878,
+      "timestamp": "2022-12-03T18:26:08Z",
+      "user": "Derick23457",
+      "userid": 44950382,
+      "size": 22189,
+      "comment": "Updated political leaning",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1125798568,
+      "parentid": 1125382369,
+      "timestamp": "2022-12-05T22:20:56Z",
+      "user": "2601:58A:8881:ABD0:F4AF:84C:2CA:1D97",
+      "userid": 0,
+      "size": 22198,
+      "comment": "Political leaning.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1125812844,
+      "parentid": 1125798568,
+      "timestamp": "2022-12-06T00:23:56Z",
+      "user": "2601:182:D17F:9000:401D:D7E1:8FE0:B713",
+      "userid": 0,
+      "size": 22201,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1125845170,
+      "parentid": 1125812844,
+      "timestamp": "2022-12-06T04:59:51Z",
+      "user": "2600:1700:7750:6DB0:193B:DE0C:43A2:1D43",
+      "userid": 0,
+      "size": 22180,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125846083,
+      "parentid": 1125845170,
+      "timestamp": "2022-12-06T05:07:37Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 22180,
+      "comment": "/* Caucus Memberships */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126278519,
+      "parentid": 1125846083,
+      "timestamp": "2022-12-08T13:46:17Z",
+      "user": "2001:818:E810:AF00:A86C:12A3:B35E:BBFF",
+      "userid": 0,
+      "size": 22179,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126278664,
+      "parentid": 1126278519,
+      "timestamp": "2022-12-08T13:47:28Z",
+      "user": "2001:818:E810:AF00:A86C:12A3:B35E:BBFF",
+      "userid": 0,
+      "size": 22188,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126341257,
+      "parentid": 1126278664,
+      "timestamp": "2022-12-08T21:00:29Z",
+      "user": "71.178.187.25",
+      "userid": 0,
+      "size": 22340,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126344146,
+      "parentid": 1126341257,
+      "timestamp": "2022-12-08T21:21:00Z",
+      "user": "Vuerqex",
+      "userid": 7960074,
+      "size": 22188,
+      "comment": "Undid revision 1126341257 by [[Special:Contributions/71.178.187.25|71.178.187.25]] ([[User talk:71.178.187.25|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126472622,
+      "parentid": 1126344146,
+      "timestamp": "2022-12-09T14:34:02Z",
+      "user": "Whoisjohngalt",
+      "userid": 272397,
+      "size": 22809,
+      "comment": "/* Personal life */ Added information on being denied an apartment in DC due to poor credit history.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126497135,
+      "parentid": 1126472622,
+      "timestamp": "2022-12-09T17:27:46Z",
+      "user": "186.65.36.28",
+      "userid": 0,
+      "size": 23044,
+      "comment": "https://thehill.com/homenews/house/3767342-first-gen-z-congressman-elect-says-he-was-denied-dc-apartment-noting-really-bad-credit/",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126497351,
+      "parentid": 1126497135,
+      "timestamp": "2022-12-09T17:28:45Z",
+      "user": "186.65.36.28",
+      "userid": 0,
+      "size": 22809,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126497431,
+      "parentid": 1126497351,
+      "timestamp": "2022-12-09T17:29:21Z",
+      "user": "186.65.36.28",
+      "userid": 0,
+      "size": 23306,
+      "comment": "/* Criminal justice */  ===Credit score, not good enough to rent an apartment=== First Gen Z congressman-elect says he was denied DC apartment, noting ‘really bad’ credit<ref>https://thehill.com/homenews/house/3767342-first-gen-z-congressman-elect-says-he-was-denied-dc-apartment-noting-really-bad-credit/</ref> Mr. Frost said his application was denied and he lost the apartment and the application fee. He said his credit is so poor because he “ran up a lot of debt running for Congress for a year",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126497533,
+      "parentid": 1126497431,
+      "timestamp": "2022-12-09T17:30:11Z",
+      "user": "186.65.36.28",
+      "userid": 0,
+      "size": 23448,
+      "comment": "Maxwell Frost went into debt running for his historic congressional win. It's now making it difficult for him to get a home near the House.",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126497576,
+      "parentid": 1126497533,
+      "timestamp": "2022-12-09T17:30:27Z",
+      "user": "186.65.36.28",
+      "userid": 0,
+      "size": 22828,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126497718,
+      "parentid": 1126497576,
+      "timestamp": "2022-12-09T17:31:27Z",
+      "user": "186.65.36.28",
+      "userid": 0,
+      "size": 23341,
+      "comment": "/* Credit score, not good enough to rent an apartment */ https://www.cbsnews.com/news/maxwell-frost-congressman-elect-denied-apartment-washington-dc-bad-credit/",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126497855,
+      "parentid": 1126497718,
+      "timestamp": "2022-12-09T17:32:26Z",
+      "user": "186.65.36.28",
+      "userid": 0,
+      "size": 23541,
+      "comment": "/* Credit score, not good enough to rent an apartment */ https://www.yahoo.com/news/first-gen-z-congressman-elect-025802193.html   https://www.express.co.uk/news/us/1707499/Maxwell-frost-washington-dc-rent-congress-bad-credit-housing-dxus",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126500171,
+      "parentid": 1126497855,
+      "timestamp": "2022-12-09T17:50:14Z",
+      "user": "Dobbyelf62",
+      "userid": 17973603,
+      "size": 22189,
+      "comment": "/* Political positions */ Not a political position",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1126501735,
+      "parentid": 1126500171,
+      "timestamp": "2022-12-09T18:01:16Z",
+      "user": "Dobbyelf62",
+      "userid": 17973603,
+      "size": 22809,
+      "comment": "Largely reverted back to the version dated December 9th 09:34",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1126558367,
+      "parentid": 1126501735,
+      "timestamp": "2022-12-10T00:21:13Z",
+      "user": "66.254.230.172",
+      "userid": 0,
+      "size": 22760,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126569143,
+      "parentid": 1126558367,
+      "timestamp": "2022-12-10T01:43:26Z",
+      "user": "173.79.126.178",
+      "userid": 0,
+      "size": 22815,
+      "comment": "/* Foreign policy */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1126569269,
+      "parentid": 1126569143,
+      "timestamp": "2022-12-10T01:44:20Z",
+      "user": "173.79.126.178",
+      "userid": 0,
+      "size": 22808,
+      "comment": "/* Foreign policy */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1126574424,
+      "parentid": 1126569269,
+      "timestamp": "2022-12-10T02:27:18Z",
+      "user": "2600:6C50:6500:19A7:99F:994C:854B:F157",
+      "userid": 0,
+      "size": 22818,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1126577245,
+      "parentid": 1126574424,
+      "timestamp": "2022-12-10T02:51:35Z",
+      "user": "Xamgerg",
+      "userid": 34505421,
+      "size": 22753,
+      "comment": "Nothing cited indicates that Frost is \"anti Palestinian,\" and a two state solution explicitly means that he supports a Palestinian state.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1126663400,
+      "parentid": 1126577245,
+      "timestamp": "2022-12-10T15:28:45Z",
+      "user": "AZED21",
+      "userid": 44990203,
+      "size": 22745,
+      "comment": "/* Foreign policy */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1126764929,
+      "parentid": 1126663400,
+      "timestamp": "2022-12-11T03:23:49Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 22720,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127113048,
+      "parentid": 1126764929,
+      "timestamp": "2022-12-12T23:50:27Z",
+      "user": "AZED21",
+      "userid": 44990203,
+      "size": 23017,
+      "comment": "/* Foreign policy */  I made the change because he signed his name to a pledge and ran for federal office. He did not call for a reversal (which is a complete 360 from the pledge) until the middle of his campaign for federal office. It is noteworthy to include his prior support in detail.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1127113512,
+      "parentid": 1127113048,
+      "timestamp": "2022-12-12T23:54:11Z",
+      "user": "AZED21",
+      "userid": 44990203,
+      "size": 23333,
+      "comment": "/* Foreign policy */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127113950,
+      "parentid": 1127113512,
+      "timestamp": "2022-12-12T23:57:45Z",
+      "user": "AZED21",
+      "userid": 44990203,
+      "size": 23598,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127144926,
+      "parentid": 1127113950,
+      "timestamp": "2022-12-13T03:56:22Z",
+      "user": "174.243.34.247",
+      "userid": 0,
+      "size": 23152,
+      "comment": "He’s not Gen Z. There’s no factual evidence to deem him so. It’s debated what year Gen Z starts.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127155391,
+      "parentid": 1127144926,
+      "timestamp": "2022-12-13T05:30:27Z",
+      "user": "75.137.117.167",
+      "userid": 0,
+      "size": 23179,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1127155780,
+      "parentid": 1127155391,
+      "timestamp": "2022-12-13T05:34:07Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 23152,
+      "comment": "Reverted 1 edit by [[Special:Contributions/75.137.117.167|75.137.117.167]] ([[User talk:75.137.117.167|talk]]) to last revision by 174.243.34.247",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1127362618,
+      "parentid": 1127155780,
+      "timestamp": "2022-12-14T08:18:37Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 24170,
+      "comment": "Sam Bankman-Fried’s SuperPac contributed to Maxwell Frost’s campaign.",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127362944,
+      "parentid": 1127362618,
+      "timestamp": "2022-12-14T08:20:25Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 23542,
+      "comment": "Removed bad links.",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127362977,
+      "parentid": 1127362944,
+      "timestamp": "2022-12-14T08:20:44Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 23152,
+      "comment": "Reverted edits by [[Special:Contributions/Lokisandal34|Lokisandal34]] ([[User talk:Lokisandal34|talk]]) ([[WP:AntiVandal|AV]])",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1127364007,
+      "parentid": 1127362977,
+      "timestamp": "2022-12-14T08:31:13Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 24262,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 1127364828,
+      "parentid": 1127364007,
+      "timestamp": "2022-12-14T08:40:10Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 25200,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "possible unreferenced addition to BLP",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127364857,
+      "parentid": 1127364828,
+      "timestamp": "2022-12-14T08:40:27Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 25190,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127367192,
+      "parentid": 1127364857,
+      "timestamp": "2022-12-14T09:02:34Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25546,
+      "comment": "Update to Frost’s maternal biography based on primary quotes from notable publisher.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 1127367387,
+      "parentid": 1127367192,
+      "timestamp": "2022-12-14T09:04:33Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25491,
+      "comment": "Change to the direct quotes for accuracy.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127380127,
+      "parentid": 1127367387,
+      "timestamp": "2022-12-14T11:10:19Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25817,
+      "comment": "Proper citation for quotes.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127380270,
+      "parentid": 1127380127,
+      "timestamp": "2022-12-14T11:11:29Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25808,
+      "comment": "More concise verbiage.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127381006,
+      "parentid": 1127380270,
+      "timestamp": "2022-12-14T11:17:35Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25830,
+      "comment": "Concise verbiage.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127381263,
+      "parentid": 1127381006,
+      "timestamp": "2022-12-14T11:19:19Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25826,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127520644,
+      "parentid": 1127381263,
+      "timestamp": "2022-12-15T05:28:23Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 25759,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127582081,
+      "parentid": 1127520644,
+      "timestamp": "2022-12-15T14:49:30Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25699,
+      "comment": "Frost addressed his relationship with Bankman-Fried over Twitter.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127737508,
+      "parentid": 1127582081,
+      "timestamp": "2022-12-16T10:47:36Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25693,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127738291,
+      "parentid": 1127737508,
+      "timestamp": "2022-12-16T10:54:56Z",
+      "user": "Lokisandal34",
+      "userid": 45012226,
+      "size": 25694,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1127865005,
+      "parentid": 1127738291,
+      "timestamp": "2022-12-17T02:29:56Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 25680,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1128523203,
+      "parentid": 1127865005,
+      "timestamp": "2022-12-20T15:56:39Z",
+      "user": "AZED21",
+      "userid": 44990203,
+      "size": 25684,
+      "comment": "/* Foreign policy */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1128551484,
+      "parentid": 1128523203,
+      "timestamp": "2022-12-20T19:01:12Z",
+      "user": "AZED21",
+      "userid": 44990203,
+      "size": 26158,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1128847319,
+      "parentid": 1128551484,
+      "timestamp": "2022-12-22T08:02:07Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 26098,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1129678091,
+      "parentid": 1128847319,
+      "timestamp": "2022-12-26T16:33:24Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 26052,
+      "comment": "De-link common terms ([[User:Ohconfucius/script/Common Terms.js|by script]]) per [[MOS:OVERLINK]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1129678247,
+      "parentid": 1129678091,
+      "timestamp": "2022-12-26T16:34:22Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 26083,
+      "comment": "added [[Category:American adoptees]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1129679598,
+      "parentid": 1129678247,
+      "timestamp": "2022-12-26T16:42:07Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 26091,
+      "comment": "removed [[Category:American adoptees]]; added [[Category:African American adoptees]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1130535074,
+      "parentid": 1129679598,
+      "timestamp": "2022-12-30T17:19:07Z",
+      "user": "Trappist the monk",
+      "userid": 10289486,
+      "size": 26022,
+      "comment": "/* Personal life */parameter misuse;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1130728548,
+      "parentid": 1130535074,
+      "timestamp": "2022-12-31T17:43:45Z",
+      "user": "71.43.132.42",
+      "userid": 0,
+      "size": 26068,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1130728579,
+      "parentid": 1130728548,
+      "timestamp": "2022-12-31T17:43:55Z",
+      "user": "Felida97",
+      "userid": 25112844,
+      "size": 26022,
+      "comment": "Reverted edits by [[Special:Contributions/71.43.132.42|71.43.132.42]] ([[User talk:71.43.132.42|talk]]): not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.4.9)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1130728942,
+      "parentid": 1130728579,
+      "timestamp": "2022-12-31T17:46:28Z",
+      "user": "71.43.132.42",
+      "userid": 0,
+      "size": 26068,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1130728988,
+      "parentid": 1130728942,
+      "timestamp": "2022-12-31T17:46:42Z",
+      "user": "Felida97",
+      "userid": 25112844,
+      "size": 26022,
+      "comment": "Reverted edits by [[Special:Contributions/71.43.132.42|71.43.132.42]] ([[User talk:71.43.132.42|talk]]) ([[WP:HG|HG]]) (3.4.9)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1130729270,
+      "parentid": 1130728988,
+      "timestamp": "2022-12-31T17:48:33Z",
+      "user": "71.43.132.42",
+      "userid": 0,
+      "size": 26151,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1130729339,
+      "parentid": 1130729270,
+      "timestamp": "2022-12-31T17:48:57Z",
+      "user": "Felida97",
+      "userid": 25112844,
+      "size": 26022,
+      "comment": "Reverted edits by [[Special:Contributions/71.43.132.42|71.43.132.42]] ([[User talk:71.43.132.42|talk]]) ([[WP:HG|HG]]) (3.4.9)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1130789051,
+      "parentid": 1130729339,
+      "timestamp": "2023-01-01T00:09:07Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 26026,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1130938621,
+      "parentid": 1130789051,
+      "timestamp": "2023-01-01T19:03:38Z",
+      "user": "70.27.35.160",
+      "userid": 0,
+      "size": 26122,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131317460,
+      "parentid": 1130938621,
+      "timestamp": "2023-01-03T16:21:31Z",
+      "user": "MASMI92",
+      "userid": 40892711,
+      "size": 26127,
+      "comment": "Portrait",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131325952,
+      "parentid": 1131317460,
+      "timestamp": "2023-01-03T17:07:40Z",
+      "user": "Yeagvr",
+      "userid": 22572481,
+      "size": 26122,
+      "comment": "It's noon EST",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1131326876,
+      "parentid": 1131325952,
+      "timestamp": "2023-01-03T17:12:28Z",
+      "user": "TRJ2008",
+      "userid": 39985278,
+      "size": 26093,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131327583,
+      "parentid": 1131326876,
+      "timestamp": "2023-01-03T17:16:25Z",
+      "user": "Yeagvr",
+      "userid": 22572481,
+      "size": 25912,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1131354654,
+      "parentid": 1131327583,
+      "timestamp": "2023-01-03T19:55:45Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 26552,
+      "comment": "Adding succession box and template",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131361982,
+      "parentid": 1131354654,
+      "timestamp": "2023-01-03T20:38:40Z",
+      "user": "68.175.93.110",
+      "userid": 0,
+      "size": 26584,
+      "comment": "The organization, not the 2018 event",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131392265,
+      "parentid": 1131361982,
+      "timestamp": "2023-01-03T23:33:32Z",
+      "user": "Jushejisr1",
+      "userid": 45112223,
+      "size": 26915,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1131409792,
+      "parentid": 1131392265,
+      "timestamp": "2023-01-04T01:13:59Z",
+      "user": "Mcleanm302",
+      "userid": 31737956,
+      "size": 26915,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131452919,
+      "parentid": 1131409792,
+      "timestamp": "2023-01-04T06:25:13Z",
+      "user": "2601:404:D680:20D0:FC9E:1901:D918:CACE",
+      "userid": 0,
+      "size": 26969,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131453038,
+      "parentid": 1131452919,
+      "timestamp": "2023-01-04T06:26:13Z",
+      "user": "2601:404:D680:20D0:FC9E:1901:D918:CACE",
+      "userid": 0,
+      "size": 26986,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131453784,
+      "parentid": 1131453038,
+      "timestamp": "2023-01-04T06:32:15Z",
+      "user": "2601:404:D680:20D0:FC9E:1901:D918:CACE",
+      "userid": 0,
+      "size": 26964,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131479071,
+      "parentid": 1131453784,
+      "timestamp": "2023-01-04T09:57:56Z",
+      "user": "Sunnyboi18",
+      "userid": 41232639,
+      "size": 26984,
+      "comment": "/* Foreign policy */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1131526692,
+      "parentid": 1131479071,
+      "timestamp": "2023-01-04T14:45:28Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 26982,
+      "comment": "/* 2022 */replaced: January 3rd → January 3",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1131526733,
+      "parentid": 1131526692,
+      "timestamp": "2023-01-04T14:45:39Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 27157,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131604955,
+      "parentid": 1131526733,
+      "timestamp": "2023-01-04T22:52:38Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 27149,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131631221,
+      "parentid": 1131604955,
+      "timestamp": "2023-01-05T01:40:03Z",
+      "user": "Willform",
+      "userid": 40692139,
+      "size": 27432,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131631595,
+      "parentid": 1131631221,
+      "timestamp": "2023-01-05T01:42:25Z",
+      "user": "Willform",
+      "userid": 40692139,
+      "size": 27445,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131662758,
+      "parentid": 1131631595,
+      "timestamp": "2023-01-05T05:21:51Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 27115,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1131891249,
+      "parentid": 1131662758,
+      "timestamp": "2023-01-06T07:39:45Z",
+      "user": "Willsteve2000",
+      "userid": 42739994,
+      "size": 28229,
+      "comment": "As mentioned in previous edits and on other articles, due to the unresolved Speaker election, no business may be conducted in the House until the election is resolved. Therefore, Frost has yet to be sworn in and remains a member-elect.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1131891452,
+      "parentid": 1131891249,
+      "timestamp": "2023-01-06T07:41:43Z",
+      "user": "Willsteve2000",
+      "userid": 42739994,
+      "size": 28218,
+      "comment": "grammatical fix",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1131892957,
+      "parentid": 1131891452,
+      "timestamp": "2023-01-06T07:55:58Z",
+      "user": "Willsteve2000",
+      "userid": 42739994,
+      "size": 28231,
+      "comment": "notefoot added",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132001844,
+      "parentid": 1131892957,
+      "timestamp": "2023-01-06T20:32:53Z",
+      "user": "2605:A601:AA22:2E00:2882:DED9:43FA:FA9E",
+      "userid": 0,
+      "size": 27744,
+      "comment": "/* Early career */ removed opinion based statement regarding \"pro palestinian\" beliefs that Frost supposedly reversed",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132089146,
+      "parentid": 1132001844,
+      "timestamp": "2023-01-07T05:50:48Z",
+      "user": "47.205.116.13",
+      "userid": 0,
+      "size": 27744,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1132095328,
+      "parentid": 1132089146,
+      "timestamp": "2023-01-07T06:42:06Z",
+      "user": "24.10.48.153",
+      "userid": 0,
+      "size": 27718,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132095390,
+      "parentid": 1132095328,
+      "timestamp": "2023-01-07T06:42:37Z",
+      "user": "24.10.48.153",
+      "userid": 0,
+      "size": 27419,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132095422,
+      "parentid": 1132095390,
+      "timestamp": "2023-01-07T06:42:56Z",
+      "user": "24.10.48.153",
+      "userid": 0,
+      "size": 26709,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132095466,
+      "parentid": 1132095422,
+      "timestamp": "2023-01-07T06:43:17Z",
+      "user": "24.10.48.153",
+      "userid": 0,
+      "size": 26630,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132095531,
+      "parentid": 1132095466,
+      "timestamp": "2023-01-07T06:43:50Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 27744,
+      "comment": "Reverted edits by [[Special:Contributions/24.10.48.153|24.10.48.153]] ([[User talk:24.10.48.153|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.11)",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132095728,
+      "parentid": 1132095531,
+      "timestamp": "2023-01-07T06:45:38Z",
+      "user": "24.10.48.153",
+      "userid": 0,
+      "size": 26630,
+      "comment": "The Speaker of the House has been sworn in, along with all members-elects.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "references removed",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1132098210,
+      "parentid": 1132095728,
+      "timestamp": "2023-01-07T07:06:03Z",
+      "user": "GoodDay",
+      "userid": 589223,
+      "size": 26347,
+      "comment": "No consensus for that",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1132102090,
+      "parentid": 1132098210,
+      "timestamp": "2023-01-07T07:37:51Z",
+      "user": "Willsteve2000",
+      "userid": 42739994,
+      "size": 27413,
+      "comment": "added note on start date of house term; added dedicated notes section",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132163803,
+      "parentid": 1132102090,
+      "timestamp": "2023-01-07T15:32:32Z",
+      "user": "Openmy",
+      "userid": 15904502,
+      "size": 27433,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132237636,
+      "parentid": 1132163803,
+      "timestamp": "2023-01-07T22:53:50Z",
+      "user": "Politicsfan4",
+      "userid": 40629262,
+      "size": 27425,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132257302,
+      "parentid": 1132237636,
+      "timestamp": "2023-01-08T00:58:45Z",
+      "user": "MZMcBride",
+      "userid": 212624,
+      "size": 26349,
+      "comment": "rm unneeded note and switch to template",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132311958,
+      "parentid": 1132257302,
+      "timestamp": "2023-01-08T07:41:16Z",
+      "user": "Politicsfan4",
+      "userid": 40629262,
+      "size": 26176,
+      "comment": "cleanup",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132482181,
+      "parentid": 1132311958,
+      "timestamp": "2023-01-09T02:34:22Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 26186,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1132491916,
+      "parentid": 1132482181,
+      "timestamp": "2023-01-09T03:37:54Z",
+      "user": "Eichy815",
+      "userid": 37949932,
+      "size": 26197,
+      "comment": "/* 2022 */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1132522979,
+      "parentid": 1132491916,
+      "timestamp": "2023-01-09T07:45:46Z",
+      "user": "BMots 7",
+      "userid": 45047587,
+      "size": 26197,
+      "comment": "US House Members were only sworn in on the 7th of January. Due to the various ballots to elect the Speaker delaying the oath being administered until 07 January.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1132637512,
+      "parentid": 1132522979,
+      "timestamp": "2023-01-09T20:42:30Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26306,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132686609,
+      "parentid": 1132637512,
+      "timestamp": "2023-01-10T02:03:35Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 26332,
+      "comment": "per bioguide",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132803641,
+      "parentid": 1132686609,
+      "timestamp": "2023-01-10T17:41:28Z",
+      "user": "EdgarCabreraFariña",
+      "userid": 20546798,
+      "size": 26580,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132818542,
+      "parentid": 1132803641,
+      "timestamp": "2023-01-10T19:11:46Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26601,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132847525,
+      "parentid": 1132818542,
+      "timestamp": "2023-01-10T21:59:45Z",
+      "user": "Kaltenmeyer",
+      "userid": 14703151,
+      "size": 26584,
+      "comment": "edited references, [[WP:AWB/T|typo(s) fixed]]: ’s → 's",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1132902518,
+      "parentid": 1132847525,
+      "timestamp": "2023-01-11T05:14:05Z",
+      "user": "MZMcBride",
+      "userid": 212624,
+      "size": 26584,
+      "comment": "correct date",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133080490,
+      "parentid": 1132902518,
+      "timestamp": "2023-01-12T05:21:51Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 26615,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133081797,
+      "parentid": 1133080490,
+      "timestamp": "2023-01-12T05:31:06Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 26650,
+      "comment": "/* See also */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133082050,
+      "parentid": 1133081797,
+      "timestamp": "2023-01-12T05:32:51Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 26694,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133082092,
+      "parentid": 1133082050,
+      "timestamp": "2023-01-12T05:33:07Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 26650,
+      "comment": "Undid revision 1133082050 by [[Special:Contributions/MagicatthemovieS|MagicatthemovieS]] ([[User talk:MagicatthemovieS|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133286714,
+      "parentid": 1133082092,
+      "timestamp": "2023-01-13T01:27:47Z",
+      "user": "27.253.89.193",
+      "userid": 0,
+      "size": 26583,
+      "comment": "To explain he was not the first gen z to serve that title belongs to Madison Cawthorn which was born in 1995\n\nMultiple sources including the offical Generation Z Wikipedia article state that Gen Z technically starts in 1995 while Cawthorn being on the cusp so how is he not the first?\nhttps://en.m.wikipedia.org/wiki/Generation_Z",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1133315123,
+      "parentid": 1133286714,
+      "timestamp": "2023-01-13T05:06:09Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 26575,
+      "comment": "/* Foreign policy */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133378386,
+      "parentid": 1133315123,
+      "timestamp": "2023-01-13T13:47:50Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 26641,
+      "comment": "removed [[Category:Florida Democrats]]; added [[Category:Democratic Party members of the United States House of Representatives from Florida]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1133378454,
+      "parentid": 1133378386,
+      "timestamp": "2023-01-13T13:48:17Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 26593,
+      "comment": "removed [[Category:Progressivism in the United States]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133378612,
+      "parentid": 1133378454,
+      "timestamp": "2023-01-13T13:49:07Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 26677,
+      "comment": "added [[Category:African-American members of the United States House of Representatives]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1133378677,
+      "parentid": 1133378612,
+      "timestamp": "2023-01-13T13:49:33Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 26757,
+      "comment": "added [[Category:Hispanic and Latino American members of the United States Congress]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1134194702,
+      "parentid": 1133378677,
+      "timestamp": "2023-01-17T12:59:53Z",
+      "user": "JCW-CleanerBot",
+      "userid": 31737083,
+      "size": 26766,
+      "comment": "/* Personal life */[[User:JCW-CleanerBot#Logic|task]], replaced: work=[[The Hill (newspaper)]] → work=[[The Hill (newspaper)|The Hill]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1134302824,
+      "parentid": 1134194702,
+      "timestamp": "2023-01-18T00:39:56Z",
+      "user": "50.227.112.186",
+      "userid": 0,
+      "size": 26504,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1134448711,
+      "parentid": 1134302824,
+      "timestamp": "2023-01-18T19:16:03Z",
+      "user": "AuH2ORepublican",
+      "userid": 1877623,
+      "size": 26766,
+      "comment": "Undid revision 1134302824 by [[Special:Contributions/50.227.112.186|50.227.112.186]] ([[User talk:50.227.112.186|talk]])  Reverting POV edits.  The sourced article indicates that Frost is Afro-Cuban, and considers himself as such.  Please note that race is genetic (so his sub-Saharan African ancestry from his biological father makes him black), while ethnicity is not genetic (so his being adopted from birth by his Cuban-American mother makes him Cuban-American).",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1134523557,
+      "parentid": 1134448711,
+      "timestamp": "2023-01-19T03:14:39Z",
+      "user": "ProfessorKaiFlai",
+      "userid": 42108076,
+      "size": 27228,
+      "comment": "Added a citation",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1134834576,
+      "parentid": 1134523557,
+      "timestamp": "2023-01-20T23:22:01Z",
+      "user": "50.227.112.182",
+      "userid": 0,
+      "size": 26966,
+      "comment": "Undid revision 1134448711 by [[Special:Contributions/AuH2ORepublican|AuH2ORepublican]] ([[User talk:AuH2ORepublican|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "references removed",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1134964499,
+      "parentid": 1134834576,
+      "timestamp": "2023-01-21T19:41:07Z",
+      "user": "2605:B100:D09:1407:D440:35FE:C148:294B",
+      "userid": 0,
+      "size": 27061,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1134964752,
+      "parentid": 1134964499,
+      "timestamp": "2023-01-21T19:43:17Z",
+      "user": "2605:B100:D09:1407:D440:35FE:C148:294B",
+      "userid": 0,
+      "size": 27125,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1134984886,
+      "parentid": 1134964752,
+      "timestamp": "2023-01-21T22:16:26Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 27084,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1135038858,
+      "parentid": 1134984886,
+      "timestamp": "2023-01-22T06:51:31Z",
+      "user": "Ornithoptera",
+      "userid": 20430008,
+      "size": 27084,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135687760,
+      "parentid": 1135038858,
+      "timestamp": "2023-01-26T06:00:36Z",
+      "user": "75.171.17.155",
+      "userid": 0,
+      "size": 27055,
+      "comment": "I made that change due to the fact that previous edit stated that Gen Z technically started in 1995. However most reputable sources state that Gen Z starts in 1997 which doesn’t make Madison Cawthorn the first gen Z congress member and instead makes him a Millennial. The title of first gen z in congress goes to Maxwell Frost as that is a title that most major news network and reputable sources label him as.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1136018705,
+      "parentid": 1135687760,
+      "timestamp": "2023-01-28T07:21:34Z",
+      "user": "Animalparty",
+      "userid": 10357594,
+      "size": 27713,
+      "comment": "lead expansion",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1136195663,
+      "parentid": 1136018705,
+      "timestamp": "2023-01-29T05:31:56Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 27443,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1136536904,
+      "parentid": 1136195663,
+      "timestamp": "2023-01-30T20:54:32Z",
+      "user": "2601:58A:8880:6620:39EF:F5E0:5CAD:618E",
+      "userid": 0,
+      "size": 27452,
+      "comment": "Updated political leanings.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1136562615,
+      "parentid": 1136536904,
+      "timestamp": "2023-01-30T23:36:48Z",
+      "user": "64.56.89.59",
+      "userid": 0,
+      "size": 27443,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1136663432,
+      "parentid": 1136562615,
+      "timestamp": "2023-01-31T14:12:54Z",
+      "user": "Micheller1202",
+      "userid": 44905820,
+      "size": 27857,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1136998432,
+      "parentid": 1136663432,
+      "timestamp": "2023-02-02T06:20:53Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 27806,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1137754128,
+      "parentid": 1136998432,
+      "timestamp": "2023-02-06T07:28:39Z",
+      "user": "Welcometothenewmillenium",
+      "userid": 18010532,
+      "size": 27848,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1137754147,
+      "parentid": 1137754128,
+      "timestamp": "2023-02-06T07:28:49Z",
+      "user": "Welcometothenewmillenium",
+      "userid": 18010532,
+      "size": 27841,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1137837125,
+      "parentid": 1137754147,
+      "timestamp": "2023-02-06T18:23:30Z",
+      "user": "Welcometothenewmillenium",
+      "userid": 18010532,
+      "size": 27873,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1138609222,
+      "parentid": 1137837125,
+      "timestamp": "2023-02-10T16:05:34Z",
+      "user": "Aquila89",
+      "userid": 8168717,
+      "size": 28068,
+      "comment": "citation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1139381621,
+      "parentid": 1138609222,
+      "timestamp": "2023-02-14T21:14:43Z",
+      "user": "Aquila89",
+      "userid": 8168717,
+      "size": 27761,
+      "comment": "citations",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140331344,
+      "parentid": 1139381621,
+      "timestamp": "2023-02-19T16:22:56Z",
+      "user": "Jenny Death",
+      "userid": 24152474,
+      "size": 27730,
+      "comment": "removed [[Category:American Zionists]] using [[WP:HC|HotCat]] this seems like a stretch",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140450789,
+      "parentid": 1140331344,
+      "timestamp": "2023-02-20T03:31:27Z",
+      "user": "217.180.196.86",
+      "userid": 0,
+      "size": 27761,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1142004848,
+      "parentid": 1140450789,
+      "timestamp": "2023-02-28T00:57:20Z",
+      "user": "Potato152",
+      "userid": 43141180,
+      "size": 27809,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1142526479,
+      "parentid": 1142004848,
+      "timestamp": "2023-03-02T22:21:34Z",
+      "user": "75.108.70.88",
+      "userid": 0,
+      "size": 27836,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1142526500,
+      "parentid": 1142526479,
+      "timestamp": "2023-03-02T22:21:43Z",
+      "user": "Moops",
+      "userid": 43345522,
+      "size": 27809,
+      "comment": "Reverted edits by [[Special:Contributions/75.108.70.88|75.108.70.88]] ([[User talk:75.108.70.88|talk]]) ([[WP:AntiVandal|AV]])",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1142662319,
+      "parentid": 1142526500,
+      "timestamp": "2023-03-03T18:21:17Z",
+      "user": "2601:940:C180:3DB0:D5A4:3F52:6DCB:668E",
+      "userid": 0,
+      "size": 27761,
+      "comment": "Removed pointless sentence. The majority of news media identifies Maxwell as the first Generation Z member, such as NPR and PBS. The United States Library of Congress and U.S. Census specifically states 1997 as the the first Gen Z year.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1142828188,
+      "parentid": 1142662319,
+      "timestamp": "2023-03-04T16:03:05Z",
+      "user": "2600:8803:EA00:F100:69B6:21CF:6443:50D",
+      "userid": 0,
+      "size": 27985,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1143348640,
+      "parentid": 1142828188,
+      "timestamp": "2023-03-07T05:47:41Z",
+      "user": "2603:7000:8800:3574:F0F4:7C63:4375:267C",
+      "userid": 0,
+      "size": 28727,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1143348820,
+      "parentid": 1143348640,
+      "timestamp": "2023-03-07T05:49:24Z",
+      "user": "2603:7000:8800:3574:F0F4:7C63:4375:267C",
+      "userid": 0,
+      "size": 29008,
+      "comment": "/* Crypto Regulation */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1143822276,
+      "parentid": 1143348820,
+      "timestamp": "2023-03-10T03:25:11Z",
+      "user": "Mmh62531",
+      "userid": 44526021,
+      "size": 29002,
+      "comment": "Removed bold effect from table of contents",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1144168036,
+      "parentid": 1143822276,
+      "timestamp": "2023-03-12T05:20:37Z",
+      "user": "HochulStan",
+      "userid": 45540265,
+      "size": 29114,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1144168087,
+      "parentid": 1144168036,
+      "timestamp": "2023-03-12T05:21:07Z",
+      "user": "InvadingInvader",
+      "userid": 34651759,
+      "size": 29002,
+      "comment": "Reverting edit(s) by [[Special:Contributions/HochulStan|HochulStan]] ([[User_talk:HochulStan|talk]]) to rev. 1143822276 by Mmh62531: [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn"
+      ]
+    },
+    {
+      "revid": 1144261369,
+      "parentid": 1144168087,
+      "timestamp": "2023-03-12T18:56:23Z",
+      "user": "Unknown-Tree",
+      "userid": 40115807,
+      "size": 28998,
+      "comment": "/* Crypto Regulation */ remove stray \"the\"",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1144381789,
+      "parentid": 1144261369,
+      "timestamp": "2023-03-13T13:10:11Z",
+      "user": "KingEuronIIIGreyjoy",
+      "userid": 33450425,
+      "size": 29030,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1144531239,
+      "parentid": 1144381789,
+      "timestamp": "2023-03-14T07:01:02Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 29015,
+      "comment": "/* Crypto Regulation */ ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1145063716,
+      "parentid": 1144531239,
+      "timestamp": "2023-03-17T02:39:10Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 29010,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145193649,
+      "parentid": 1145063716,
+      "timestamp": "2023-03-17T18:49:53Z",
+      "user": "96.94.70.193",
+      "userid": 0,
+      "size": 29015,
+      "comment": "changed worked for volunteer. The source might say worked full time but this is not accurate, it's a UK blog. All sources indicate he was a volunteer during this period.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145400505,
+      "parentid": 1145193649,
+      "timestamp": "2023-03-18T23:57:04Z",
+      "user": "2601:404:D680:20D0:4D80:DC87:DBD6:6A02",
+      "userid": 0,
+      "size": 29002,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1145429207,
+      "parentid": 1145400505,
+      "timestamp": "2023-03-19T03:09:47Z",
+      "user": "WikiFazBear1984",
+      "userid": 43671374,
+      "size": 29050,
+      "comment": "Ce",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1145429248,
+      "parentid": 1145429207,
+      "timestamp": "2023-03-19T03:10:11Z",
+      "user": "WikiFazBear1984",
+      "userid": 43671374,
+      "size": 29054,
+      "comment": "Ce",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1145746121,
+      "parentid": 1145429248,
+      "timestamp": "2023-03-20T19:09:41Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 29085,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145746541,
+      "parentid": 1145746121,
+      "timestamp": "2023-03-20T19:12:50Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 29111,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1146477181,
+      "parentid": 1145746541,
+      "timestamp": "2023-03-25T03:38:43Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 29063,
+      "comment": "not a copyedit",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148445467,
+      "parentid": 1146477181,
+      "timestamp": "2023-04-06T05:54:49Z",
+      "user": "2603:9001:6F02:94C6:B81A:65F0:FC4A:241D",
+      "userid": 0,
+      "size": 28840,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1149238738,
+      "parentid": 1148445467,
+      "timestamp": "2023-04-11T00:36:14Z",
+      "user": "2600:1702:CC4:20F0:6E8B:1252:DCA2:9116",
+      "userid": 0,
+      "size": 28861,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1149372524,
+      "parentid": 1149238738,
+      "timestamp": "2023-04-11T20:33:02Z",
+      "user": "143.231.249.150",
+      "userid": 0,
+      "size": 28937,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "congressedits",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150140967,
+      "parentid": 1149372524,
+      "timestamp": "2023-04-16T14:59:31Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 28988,
+      "comment": "Alter: template type, title. Add: title, agency, date, authors 1-1. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Mako001 | Linked from User:Mako001/Missingtitle2 | #UCB_webform_linked 598/2392",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1150336240,
+      "parentid": 1150140967,
+      "timestamp": "2023-04-17T15:31:41Z",
+      "user": "Krisgabwoosh",
+      "userid": 40292988,
+      "size": 28536,
+      "comment": "/* Electoral history */ Condensed electoral history.",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1150384150,
+      "parentid": 1150336240,
+      "timestamp": "2023-04-17T21:37:30Z",
+      "user": "Krisgabwoosh",
+      "userid": 40292988,
+      "size": 28536,
+      "comment": "/* Electoral history */",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1150447520,
+      "parentid": 1150384150,
+      "timestamp": "2023-04-18T07:11:43Z",
+      "user": "27.253.89.193",
+      "userid": 0,
+      "size": 28090,
+      "comment": "madison cawthorn has that right not maxwell\ncawthorn was born 1995 and check the offical gen z wikipedia page\nhttps://en.m.wikipedia.org/wiki/Generation_Z",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1150448437,
+      "parentid": 1150447520,
+      "timestamp": "2023-04-18T07:23:34Z",
+      "user": "27.253.89.193",
+      "userid": 0,
+      "size": 28091,
+      "comment": "If you want to get technical and act like your right here are multiple sources claiming Maddison is gen z or ‘the first gen z in congress’ now all of a sudden these same multiple sources are claiming Maxwell is.\n\nhttps://mccrindle.com.au/article/topic/generation-z/gen-z-and-gen-alpha-infographic-update/\n\nhttps://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/true-gen-generation-z-and-its-implications-for-companies\n\nhttps://www.buzzfeednews.com/amphtml/davidmack/madison-cawth...",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1150932813,
+      "parentid": 1150448437,
+      "timestamp": "2023-04-20T21:44:14Z",
+      "user": "WaterLightning",
+      "userid": 45789837,
+      "size": 28090,
+      "comment": "Undid revision 1150448437 by [[Special:Contributions/27.253.89.193|27.253.89.193]] ([[User talk:27.253.89.193|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150933496,
+      "parentid": 1150932813,
+      "timestamp": "2023-04-20T21:50:20Z",
+      "user": "WaterLightning",
+      "userid": 45789837,
+      "size": 28536,
+      "comment": "Undid revision 1150447520 by [[Special:Contributions/27.253.89.193|27.253.89.193]] ([[User talk:27.253.89.193|talk]])Undid disruptive editing. The Generation Z Wikipedia article clearly states that the United States government (US Library of Congress and Census) officially cite Pew Research Center to define Millennials and Generation Z. Most American media have covered Maxwell as the first Gen Z congressmen. There is no official Generation Z date range yet with 1997 as the most popular start.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150944112,
+      "parentid": 1150933496,
+      "timestamp": "2023-04-20T23:32:35Z",
+      "user": "27.253.89.193",
+      "userid": 0,
+      "size": 28480,
+      "comment": "Stop acting like a 25 year old is very different to a 27 year old they both went to school together and pew are not government bodies they can’t make things offical like they think and not all scientists or people agree with the dates they use, generations are not a science the dates are not offical or fixed\n\nIf you looked closely 1995 is used in many sources too its not if its not used at all mid-late 90s is roughly where it starts as the offical gen z wiki page states too technically making...",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1150944594,
+      "parentid": 1150944112,
+      "timestamp": "2023-04-20T23:36:35Z",
+      "user": "27.253.89.193",
+      "userid": 0,
+      "size": 28481,
+      "comment": "Pew also mentioned that it’s not an exact science and the dates vary but it’s just their “offical” opinion.\nMcCrindle another popular one starts gen z at 1995.\n\nIf you wanna change it back again or block me and spread misinformation go for it but Maddison Cawthorn is technically always be the first gen z in congress the media just wanted people to forget the article they made about him being the first so keep spreading lies.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1150949771,
+      "parentid": 1150944594,
+      "timestamp": "2023-04-21T00:16:47Z",
+      "user": "27.253.89.193",
+      "userid": 0,
+      "size": 28482,
+      "comment": "Other news outlets have used 1995 as the starting birth year of Generation Z,[e] Psychologist Jean Twenge defines Generation Z as the \"iGeneration\" with range of those born between 1995 and 2012.[88] as do various management and consulting firms.[f] The Australian Bureau of Statistics use 1996 to 2010 to define Generation Z in a 2021 Census report.[91] Similarly, various management and consulting firms have used 1996 as a starting date for Generation Z.[g]",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1152229788,
+      "parentid": 1150949771,
+      "timestamp": "2023-04-28T23:53:59Z",
+      "user": "Dfeprqp3",
+      "userid": 43885856,
+      "size": 28457,
+      "comment": "/* Elections */ He did not upset anyone, he was leading in the polls and fundraising throughout the whole raise. Two of the biggest indicators of winning a race",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1152229953,
+      "parentid": 1152229788,
+      "timestamp": "2023-04-28T23:55:32Z",
+      "user": "Dfeprqp3",
+      "userid": 43885856,
+      "size": 28457,
+      "comment": "/* Israel */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1152235506,
+      "parentid": 1152229953,
+      "timestamp": "2023-04-29T00:33:18Z",
+      "user": "2603:9001:7500:B776:212B:6B71:8118:3C88",
+      "userid": 0,
+      "size": 28455,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1152658865,
+      "parentid": 1152235506,
+      "timestamp": "2023-05-01T15:11:01Z",
+      "user": "InFinch",
+      "userid": 45182098,
+      "size": 28501,
+      "comment": "added hyperlink",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1152659109,
+      "parentid": 1152658865,
+      "timestamp": "2023-05-01T15:12:14Z",
+      "user": "InFinch",
+      "userid": 45182098,
+      "size": 28505,
+      "comment": "added hyperlink",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1152659413,
+      "parentid": 1152659109,
+      "timestamp": "2023-05-01T15:13:59Z",
+      "user": "InFinch",
+      "userid": 45182098,
+      "size": 28544,
+      "comment": "added hyperlink",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1153069228,
+      "parentid": 1152659413,
+      "timestamp": "2023-05-04T01:20:32Z",
+      "user": "Skm989898",
+      "userid": 22682958,
+      "size": 29006,
+      "comment": "/* U.S. House of Representatives */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1153189913,
+      "parentid": 1153069228,
+      "timestamp": "2023-05-04T19:01:34Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 29004,
+      "comment": "Removed [[wikipedia:REFPUNCT|erroneous]] space and [[wikipedia:GENFIX|general fixes]] ([[wikipedia:Bots/Requests_for_approval/SdkbBot|task 1]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1156456829,
+      "parentid": 1153189913,
+      "timestamp": "2023-05-22T23:33:53Z",
+      "user": "Ernestrubio",
+      "userid": 26492623,
+      "size": 29088,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-references"
+      ]
+    },
+    {
+      "revid": 1157965103,
+      "parentid": 1156456829,
+      "timestamp": "2023-06-01T03:03:03Z",
+      "user": "2607:F010:2A7:1004:4859:581:AA11:D863",
+      "userid": 0,
+      "size": 29082,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1158003493,
+      "parentid": 1157965103,
+      "timestamp": "2023-06-01T10:31:39Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 29082,
+      "comment": "update seniority (Cicilline resigned)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158300083,
+      "parentid": 1158003493,
+      "timestamp": "2023-06-03T06:06:09Z",
+      "user": "PickleG13",
+      "userid": 23762609,
+      "size": 29095,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158364969,
+      "parentid": 1158300083,
+      "timestamp": "2023-06-03T16:39:22Z",
+      "user": "Cornmazes",
+      "userid": 43283345,
+      "size": 29143,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1158365955,
+      "parentid": 1158364969,
+      "timestamp": "2023-06-03T16:47:15Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 29155,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158645739,
+      "parentid": 1158365955,
+      "timestamp": "2023-06-05T10:21:24Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 29248,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158645810,
+      "parentid": 1158645739,
+      "timestamp": "2023-06-05T10:22:03Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 29065,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158645955,
+      "parentid": 1158645810,
+      "timestamp": "2023-06-05T10:23:25Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 29066,
+      "comment": "Why does Wikipedia support misinformation just because it’s mainstream?\n1995 is both gen z & millennial there’s no official start date and Maddison Cawthorn is born 1995",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158646880,
+      "parentid": 1158645955,
+      "timestamp": "2023-06-05T10:31:26Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 29267,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158647060,
+      "parentid": 1158646880,
+      "timestamp": "2023-06-05T10:33:04Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 29155,
+      "comment": "Reverted edits by [[Special:Contributions/49.191.59.20|49.191.59.20]] ([[User talk:49.191.59.20|talk]]) ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158649197,
+      "parentid": 1158647060,
+      "timestamp": "2023-06-05T10:52:32Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 29065,
+      "comment": "Im sorry but yous are wrong multiple news sources start gen z at 1995 stop lying \n\nhttps://www.aph.gov.au/DocumentStore.ashx?id=75065acc-0e97-4881-a2ed-dc48ec003b27&subId=698462\n\nhttps://mccrindle.com.au/article/topic/generation-z/gen-z-and-gen-alpha-infographic-update/\n\nhttps://amp.9news.com.au/article/36cc6981-2189-45b1-b6c2-16323e43993b",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158649381,
+      "parentid": 1158649197,
+      "timestamp": "2023-06-05T10:54:13Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 29066,
+      "comment": "I would appreciate if the media and people stop the cap even Jean Twenge starts gen z at 1995 which is Maddison Cawthorn birth year",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1158673854,
+      "parentid": 1158649381,
+      "timestamp": "2023-06-05T14:53:45Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 28936,
+      "comment": "restoring stable version",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158675026,
+      "parentid": 1158673854,
+      "timestamp": "2023-06-05T15:03:25Z",
+      "user": "American Money",
+      "userid": 19480448,
+      "size": 28973,
+      "comment": "added [[Category:Valencia College alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1158724566,
+      "parentid": 1158675026,
+      "timestamp": "2023-06-05T21:36:23Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 28883,
+      "comment": "No he’s not i will keep editing it out idc",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158724759,
+      "parentid": 1158724566,
+      "timestamp": "2023-06-05T21:38:10Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 28884,
+      "comment": "To say Maxwell Frost is the first gen z in congress isn’t correct and is miss information the Wikipedia page states mid-late 90s and many sources including McCrindle, Jean Twenge and others start gen z at 1995\n\nyou can argue that it starts 1997 but again this wouldn’t be fair to say he’s the first since sources vary and Maddison Cawthorn was born 1995 and calls himself gen z.\n\nfunny how this article sounds similar to the ones being made about Maxwell Frost https://www.buzzfeednews.com/amphtml...",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158724845,
+      "parentid": 1158724759,
+      "timestamp": "2023-06-05T21:38:48Z",
+      "user": "49.191.59.20",
+      "userid": 0,
+      "size": 28884,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158738254,
+      "parentid": 1158724845,
+      "timestamp": "2023-06-05T23:25:30Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 28973,
+      "comment": "no",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1161593249,
+      "parentid": 1158738254,
+      "timestamp": "2023-06-23T18:52:46Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 28995,
+      "comment": "Add: date. | [[WP:UCB|Use this tool]]. [[WP:DBUG|Report bugs]]. | #UCB_Gadget",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1161978042,
+      "parentid": 1161593249,
+      "timestamp": "2023-06-26T07:02:37Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 30888,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1161978396,
+      "parentid": 1161978042,
+      "timestamp": "2023-06-26T07:06:09Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 30884,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162067637,
+      "parentid": 1161978396,
+      "timestamp": "2023-06-26T20:21:32Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 30955,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162070243,
+      "parentid": 1162067637,
+      "timestamp": "2023-06-26T20:41:33Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 31470,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162070422,
+      "parentid": 1162070243,
+      "timestamp": "2023-06-26T20:42:47Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 31636,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162070582,
+      "parentid": 1162070422,
+      "timestamp": "2023-06-26T20:44:12Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 31650,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162071103,
+      "parentid": 1162070582,
+      "timestamp": "2023-06-26T20:48:32Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 31703,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted",
+        "editcheck-references"
+      ]
+    },
+    {
+      "revid": 1162071413,
+      "parentid": 1162071103,
+      "timestamp": "2023-06-26T20:50:57Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 31969,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162071569,
+      "parentid": 1162071413,
+      "timestamp": "2023-06-26T20:52:14Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 32356,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162071606,
+      "parentid": 1162071569,
+      "timestamp": "2023-06-26T20:52:30Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 32357,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162071650,
+      "parentid": 1162071606,
+      "timestamp": "2023-06-26T20:53:01Z",
+      "user": "MotionActivated435",
+      "userid": 46127701,
+      "size": 32367,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162077143,
+      "parentid": 1162071650,
+      "timestamp": "2023-06-26T21:38:11Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 28995,
+      "comment": "Reverted 11 edits by [[Special:Contributions/MotionActivated435|MotionActivated435]] ([[User talk:MotionActivated435|talk]]): [[WP:NPOV]] and [[WP:RS]]: what is \"Middle East Eye\"? Facebook is a no-go",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1163262475,
+      "parentid": 1162077143,
+      "timestamp": "2023-07-03T21:37:16Z",
+      "user": "76.147.228.103",
+      "userid": 0,
+      "size": 29005,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1163276046,
+      "parentid": 1163262475,
+      "timestamp": "2023-07-03T23:20:54Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 28995,
+      "comment": "LTA",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1164523153,
+      "parentid": 1163276046,
+      "timestamp": "2023-07-09T16:30:39Z",
+      "user": "QuietHere",
+      "userid": 30699314,
+      "size": 28739,
+      "comment": "/* Personal life */Trivial and based on a likely self-published dead link YouTube video.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1165537668,
+      "parentid": 1164523153,
+      "timestamp": "2023-07-15T20:28:08Z",
+      "user": "2603:9001:6F02:94C6:31D6:E457:6BE6:421B",
+      "userid": 0,
+      "size": 28740,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1165601005,
+      "parentid": 1165537668,
+      "timestamp": "2023-07-16T06:28:41Z",
+      "user": "12.186.170.150",
+      "userid": 0,
+      "size": 28867,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1165601164,
+      "parentid": 1165601005,
+      "timestamp": "2023-07-16T06:30:37Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 28740,
+      "comment": "Reverted edits by [[Special:Contributions/12.186.170.150|12.186.170.150]] ([[User talk:12.186.170.150|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1165995729,
+      "parentid": 1165601164,
+      "timestamp": "2023-07-18T19:00:34Z",
+      "user": "SoniaSotomayorFan",
+      "userid": 46256348,
+      "size": 29019,
+      "comment": "/* Early life */",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1166007380,
+      "parentid": 1165995729,
+      "timestamp": "2023-07-18T20:29:00Z",
+      "user": "BaduFerreira",
+      "userid": 43384930,
+      "size": 29016,
+      "comment": "/* top */Fixed grammar",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1167879646,
+      "parentid": 1166007380,
+      "timestamp": "2023-07-30T11:27:25Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 28991,
+      "comment": "/* Early life */Removed/fixed incorrect author parameters ([[Condé Nast]] is a a global mass media company), performed [[WP:AWB/GF|general fixes]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1174217197,
+      "parentid": 1167879646,
+      "timestamp": "2023-09-07T01:46:50Z",
+      "user": "Dwitt01",
+      "userid": 34893410,
+      "size": 29130,
+      "comment": "Added a detail of his personal life",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1174219480,
+      "parentid": 1174217197,
+      "timestamp": "2023-09-07T02:02:56Z",
+      "user": "Dwitt01",
+      "userid": 34893410,
+      "size": 29325,
+      "comment": "Added a citation",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "editcheck-references",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1174219775,
+      "parentid": 1174219480,
+      "timestamp": "2023-09-07T02:04:32Z",
+      "user": "Dwitt01",
+      "userid": 34893410,
+      "size": 29293,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1174219951,
+      "parentid": 1174219775,
+      "timestamp": "2023-09-07T02:05:45Z",
+      "user": "Dwitt01",
+      "userid": 34893410,
+      "size": 29221,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1174221913,
+      "parentid": 1174219951,
+      "timestamp": "2023-09-07T02:20:16Z",
+      "user": "Dwitt01",
+      "userid": 34893410,
+      "size": 29440,
+      "comment": "/* Personal life */Finished an edit about Frost’s personal life",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1174221983,
+      "parentid": 1174221913,
+      "timestamp": "2023-09-07T02:20:45Z",
+      "user": "Dwitt01",
+      "userid": 34893410,
+      "size": 29441,
+      "comment": "/* Personal life */Fixed citation",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1174427100,
+      "parentid": 1174221983,
+      "timestamp": "2023-09-08T10:58:12Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 29542,
+      "comment": "Reformat 1 URL ([[en:User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1175603755,
+      "parentid": 1174427100,
+      "timestamp": "2023-09-16T05:00:26Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 29548,
+      "comment": "Reformat 2 URLs ([[en:User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1175719281,
+      "parentid": 1175603755,
+      "timestamp": "2023-09-16T23:27:37Z",
+      "user": "2601:410:8480:1420:481F:B18C:906:3871",
+      "userid": 0,
+      "size": 29684,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1175729216,
+      "parentid": 1175719281,
+      "timestamp": "2023-09-17T01:10:52Z",
+      "user": "Ohnoitsjamie",
+      "userid": 507787,
+      "size": 29548,
+      "comment": "unsourced",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1176713815,
+      "parentid": 1175729216,
+      "timestamp": "2023-09-23T14:43:26Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 29548,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1177256294,
+      "parentid": 1176713815,
+      "timestamp": "2023-09-26T22:58:49Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 29514,
+      "comment": "Removed parameters. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1178557579,
+      "parentid": 1177256294,
+      "timestamp": "2023-10-04T12:10:16Z",
+      "user": "Thrakkx",
+      "userid": 37763648,
+      "size": 29504,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1179485523,
+      "parentid": 1178557579,
+      "timestamp": "2023-10-10T12:36:17Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 29757,
+      "comment": "Added picture.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1179642290,
+      "parentid": 1179485523,
+      "timestamp": "2023-10-11T13:42:34Z",
+      "user": "Soibangla",
+      "userid": 19992161,
+      "size": 29748,
+      "comment": "/* top */ unsourced; his father was a musician; confused with [[Max Frost]]?",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1181661847,
+      "parentid": 1179642290,
+      "timestamp": "2023-10-24T13:13:29Z",
+      "user": "173.54.142.231",
+      "userid": 0,
+      "size": 30266,
+      "comment": "Update to Congress member's Israel positions.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1181663573,
+      "parentid": 1181661847,
+      "timestamp": "2023-10-24T13:27:10Z",
+      "user": "Ohnoitsjamie",
+      "userid": 507787,
+      "size": 29748,
+      "comment": "rv commentary",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1181667516,
+      "parentid": 1181663573,
+      "timestamp": "2023-10-24T14:00:25Z",
+      "user": "173.54.142.231",
+      "userid": 0,
+      "size": 30266,
+      "comment": "Undid revision 1181663573 by [[Special:Contributions/Ohnoitsjamie|Ohnoitsjamie]] ([[User talk:Ohnoitsjamie|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "possible unreferenced addition to BLP",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1181667642,
+      "parentid": 1181667516,
+      "timestamp": "2023-10-24T14:01:17Z",
+      "user": "Ohnoitsjamie",
+      "userid": 507787,
+      "size": 29748,
+      "comment": "Reverted edit by [[Special:Contribs/173.54.142.231|173.54.142.231]] ([[User talk:173.54.142.231|talk]]) to last version by Ohnoitsjamie",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1181743912,
+      "parentid": 1181667642,
+      "timestamp": "2023-10-24T23:24:33Z",
+      "user": "50.221.46.90",
+      "userid": 0,
+      "size": 29974,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1181746325,
+      "parentid": 1181743912,
+      "timestamp": "2023-10-24T23:45:38Z",
+      "user": "50.221.46.90",
+      "userid": 0,
+      "size": 30012,
+      "comment": "Fixing reference error raised by [[User:Qwerfjkl (bot)|Qwerfjkl (bot)]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1181746429,
+      "parentid": 1181746325,
+      "timestamp": "2023-10-24T23:46:33Z",
+      "user": "50.221.46.90",
+      "userid": 0,
+      "size": 30008,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1181967420,
+      "parentid": 1181746429,
+      "timestamp": "2023-10-26T08:58:07Z",
+      "user": "2603:7000:2101:AA00:447A:EC2E:3949:FB8E",
+      "userid": 0,
+      "size": 29968,
+      "comment": "/* Israel */ ce",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1181968011,
+      "parentid": 1181967420,
+      "timestamp": "2023-10-26T09:05:38Z",
+      "user": "2603:7000:2101:AA00:447A:EC2E:3949:FB8E",
+      "userid": 0,
+      "size": 30816,
+      "comment": "/* Criminal justice */ add",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1181968102,
+      "parentid": 1181968011,
+      "timestamp": "2023-10-26T09:06:42Z",
+      "user": "2603:7000:2101:AA00:447A:EC2E:3949:FB8E",
+      "userid": 0,
+      "size": 30829,
+      "comment": "/* Iran */ add",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1182100907,
+      "parentid": 1181968102,
+      "timestamp": "2023-10-27T03:39:41Z",
+      "user": "Paul Vaurie",
+      "userid": 37309401,
+      "size": 30569,
+      "comment": "/* Personal life */ Not reliable source",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1182193817,
+      "parentid": 1182100907,
+      "timestamp": "2023-10-27T18:40:52Z",
+      "user": "209.53.180.139",
+      "userid": 0,
+      "size": 30755,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1182193913,
+      "parentid": 1182193817,
+      "timestamp": "2023-10-27T18:41:41Z",
+      "user": "SWR159014",
+      "userid": 45454186,
+      "size": 30569,
+      "comment": "Reverted 1 edit by [[Special:Contributions/209.53.180.139|209.53.180.139]] ([[User talk:209.53.180.139|talk]]) to last revision by Paul Vaurie",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1182195128,
+      "parentid": 1182193913,
+      "timestamp": "2023-10-27T18:52:12Z",
+      "user": "209.53.180.139",
+      "userid": 0,
+      "size": 30420,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism",
+        "references removed",
+        "mw-reverted",
+        "editcheck-references",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1182195669,
+      "parentid": 1182195128,
+      "timestamp": "2023-10-27T18:56:32Z",
+      "user": "209.53.180.139",
+      "userid": 0,
+      "size": 29358,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1182196395,
+      "parentid": 1182195669,
+      "timestamp": "2023-10-27T19:02:32Z",
+      "user": "Cosmic6811",
+      "userid": 39250678,
+      "size": 30569,
+      "comment": "Reverting edit(s) by [[Special:Contributions/209.53.180.139|209.53.180.139]] ([[User_talk:209.53.180.139|talk]]) to rev. 1182193913 by SWR159014: [[WP:RS|Not providing a reliable source]] [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1182199711,
+      "parentid": 1182196395,
+      "timestamp": "2023-10-27T19:30:16Z",
+      "user": "209.53.180.59",
+      "userid": 0,
+      "size": 30420,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism",
+        "references removed",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1182199750,
+      "parentid": 1182199711,
+      "timestamp": "2023-10-27T19:30:38Z",
+      "user": "Asparagusus",
+      "userid": 43603280,
+      "size": 30569,
+      "comment": "Reverting edit(s) by [[Special:Contributions/209.53.180.59|209.53.180.59]] ([[User_talk:209.53.180.59|talk]]) to rev. 1182196395 by Cosmic6811: Fails [[WP:BLP]] [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn"
+      ]
+    },
+    {
+      "revid": 1182605682,
+      "parentid": 1182199750,
+      "timestamp": "2023-10-30T08:35:12Z",
+      "user": "Thmymerc",
+      "userid": 46468629,
+      "size": 31512,
+      "comment": "/* Israel */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1182607070,
+      "parentid": 1182605682,
+      "timestamp": "2023-10-30T08:51:49Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 31325,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1183234084,
+      "parentid": 1182607070,
+      "timestamp": "2023-11-03T00:56:04Z",
+      "user": "Jbrehove",
+      "userid": 6136243,
+      "size": 32002,
+      "comment": "/* Israel */ Added 11/2/23 vote on house resolution on antisemitism on college campuses",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1183235591,
+      "parentid": 1183234084,
+      "timestamp": "2023-11-03T01:07:04Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 31325,
+      "comment": "Undid revision 1183234084 by [[Special:Contributions/Jbrehove|Jbrehove]] ([[User talk:Jbrehove|talk]]) [[WP:FOXNEWSPOLITICS]] and general [[WP:POV]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1183420293,
+      "parentid": 1183235591,
+      "timestamp": "2023-11-04T05:42:33Z",
+      "user": "Appleguy01",
+      "userid": 33305799,
+      "size": 31505,
+      "comment": "Frost uses his middle name",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1183872245,
+      "parentid": 1183420293,
+      "timestamp": "2023-11-07T00:51:24Z",
+      "user": "207.102.255.210",
+      "userid": 0,
+      "size": 31162,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1183873660,
+      "parentid": 1183872245,
+      "timestamp": "2023-11-07T00:59:52Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 31505,
+      "comment": "Undid revision 1183872245 by [[Special:Contributions/207.102.255.210|207.102.255.210]] ([[User talk:207.102.255.210|talk]]) -- likely vandalism, seems to basically reverse the entire section",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184070834,
+      "parentid": 1183873660,
+      "timestamp": "2023-11-08T04:27:49Z",
+      "user": "Jenny Death",
+      "userid": 24152474,
+      "size": 31474,
+      "comment": "removed [[Category:American Zionists]] using [[WP:HC|HotCat]] again, unsourced and excessive",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1186062152,
+      "parentid": 1184070834,
+      "timestamp": "2023-11-20T18:15:40Z",
+      "user": "The Green Star Collector",
+      "userid": 43306454,
+      "size": 31478,
+      "comment": "/* Israel */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1187992751,
+      "parentid": 1186062152,
+      "timestamp": "2023-12-02T19:00:31Z",
+      "user": "Beastmaster1994",
+      "userid": 31089035,
+      "size": 31533,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1187993660,
+      "parentid": 1187992751,
+      "timestamp": "2023-12-02T19:06:26Z",
+      "user": "Beastmaster1994",
+      "userid": 31089035,
+      "size": 31528,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188698842,
+      "parentid": 1187993660,
+      "timestamp": "2023-12-07T03:02:17Z",
+      "user": "NBS13QRS",
+      "userid": 43684340,
+      "size": 31540,
+      "comment": "/* Guns */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188698856,
+      "parentid": 1188698842,
+      "timestamp": "2023-12-07T03:02:28Z",
+      "user": "NBS13QRS",
+      "userid": 43684340,
+      "size": 31539,
+      "comment": "/* Guns */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188701960,
+      "parentid": 1188698856,
+      "timestamp": "2023-12-07T03:35:55Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 31891,
+      "comment": "Add: date, website, title, authors 1-1. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Andrevan | #UCB_toolbar",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1193586288,
+      "parentid": 1188701960,
+      "timestamp": "2024-01-04T15:40:54Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 31891,
+      "comment": "/* External links */ https://www.cbsnews.com/news/kevin-mccarthy-retire-end-of-december-2023-historic-ouster/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1194013513,
+      "parentid": 1193586288,
+      "timestamp": "2024-01-06T19:44:55Z",
+      "user": "Mazewaxie",
+      "userid": 25082147,
+      "size": 31621,
+      "comment": "formatting",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1196840880,
+      "parentid": 1194013513,
+      "timestamp": "2024-01-18T17:34:05Z",
+      "user": "24.227.139.82",
+      "userid": 0,
+      "size": 31645,
+      "comment": "/* Criminal justice */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1196842644,
+      "parentid": 1196840880,
+      "timestamp": "2024-01-18T17:39:43Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 31621,
+      "comment": "Reverted edit by [[Special:Contribs/24.227.139.82|24.227.139.82]] ([[User talk:24.227.139.82|talk]]) to last version by Mazewaxie",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1197433420,
+      "parentid": 1196842644,
+      "timestamp": "2024-01-20T13:38:43Z",
+      "user": "Danielcmalloy",
+      "userid": 31477550,
+      "size": 32142,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1197433955,
+      "parentid": 1197433420,
+      "timestamp": "2024-01-20T13:42:14Z",
+      "user": "Danielcmalloy",
+      "userid": 31477550,
+      "size": 32233,
+      "comment": "/* Immigration */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1200655513,
+      "parentid": 1197433955,
+      "timestamp": "2024-01-30T00:15:19Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 32233,
+      "comment": "/* External links */ update seniority (Johnson resigned)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1202480929,
+      "parentid": 1200655513,
+      "timestamp": "2024-02-02T21:37:51Z",
+      "user": "Packer1028",
+      "userid": 16495000,
+      "size": 32235,
+      "comment": "Fixed typo",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1206587958,
+      "parentid": 1202480929,
+      "timestamp": "2024-02-12T15:33:02Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 32223,
+      "comment": "/* Committee assignments */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1206782411,
+      "parentid": 1206587958,
+      "timestamp": "2024-02-13T03:21:27Z",
+      "user": "TDKR Chicago 101",
+      "userid": 17209722,
+      "size": 32213,
+      "comment": "Full name already covered",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1207283616,
+      "parentid": 1206782411,
+      "timestamp": "2024-02-14T12:13:20Z",
+      "user": "Polly Tunnel",
+      "userid": 12202748,
+      "size": 32238,
+      "comment": "Adding/removing wikilink(s)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1208024157,
+      "parentid": 1207283616,
+      "timestamp": "2024-02-16T08:33:27Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 32725,
+      "comment": "Add: website, date, title. Changed bare reference to CS1/2. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Mako001 | Linked from User:Mako001/Missingtitle | #UCB_webform_linked 2183/2854",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1208185974,
+      "parentid": 1208024157,
+      "timestamp": "2024-02-16T18:18:52Z",
+      "user": "AuH2ORepublican",
+      "userid": 1877623,
+      "size": 32725,
+      "comment": "/* 2022 */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1210529496,
+      "parentid": 1208185974,
+      "timestamp": "2024-02-27T02:17:52Z",
+      "user": "Coolroomba",
+      "userid": 39033148,
+      "size": 32796,
+      "comment": "/* Early life */ Added content",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1211355283,
+      "parentid": 1210529496,
+      "timestamp": "2024-03-02T03:14:51Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 32796,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1213550994,
+      "parentid": 1211355283,
+      "timestamp": "2024-03-13T18:40:34Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 32780,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215111565,
+      "parentid": 1213550994,
+      "timestamp": "2024-03-23T04:37:12Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 32810,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215500845,
+      "parentid": 1215111565,
+      "timestamp": "2024-03-25T14:38:43Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 32811,
+      "comment": "removed [[Category:American Zionist]]; added [[Category:American Zionists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1215500973,
+      "parentid": 1215500845,
+      "timestamp": "2024-03-25T14:39:42Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 32780,
+      "comment": "basis for inclusion in this category not properly supported",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215553539,
+      "parentid": 1215500973,
+      "timestamp": "2024-03-25T20:44:41Z",
+      "user": "Paul Vaurie",
+      "userid": 37309401,
+      "size": 32779,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1215805992,
+      "parentid": 1215553539,
+      "timestamp": "2024-03-27T06:40:16Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 32810,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215883509,
+      "parentid": 1215805992,
+      "timestamp": "2024-03-27T18:24:22Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 32810,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1216409499,
+      "parentid": 1215883509,
+      "timestamp": "2024-03-30T20:52:48Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 32695,
+      "comment": "use wikitable",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1218362321,
+      "parentid": 1216409499,
+      "timestamp": "2024-04-11T08:13:43Z",
+      "user": "FortunateSons",
+      "userid": 46554458,
+      "size": 32348,
+      "comment": "Per [[Wikipedia:Reliable sources/Noticeboard#Closing (archived) RfC: Mondoweiss|this RFC]], use of Mondoweiss for BLP should be avoided. As the citation is of limited significance, I have removed it without replacement",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1218528994,
+      "parentid": 1218362321,
+      "timestamp": "2024-04-12T07:19:52Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 32382,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1218678603,
+      "parentid": 1218528994,
+      "timestamp": "2024-04-13T04:02:28Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 32294,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1219433828,
+      "parentid": 1218678603,
+      "timestamp": "2024-04-17T18:44:22Z",
+      "user": "12.104.86.186",
+      "userid": 0,
+      "size": 32294,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1219433932,
+      "parentid": 1219433828,
+      "timestamp": "2024-04-17T18:45:10Z",
+      "user": "12.104.86.186",
+      "userid": 0,
+      "size": 32294,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1219433995,
+      "parentid": 1219433932,
+      "timestamp": "2024-04-17T18:45:37Z",
+      "user": "Ohnoitsjamie",
+      "userid": 507787,
+      "size": 32294,
+      "comment": "Reverted edits by [[Special:Contribs/12.104.86.186|12.104.86.186]] ([[User talk:12.104.86.186|talk]]) to last version by BottleOfChocolateMilk",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1219812194,
+      "parentid": 1219433995,
+      "timestamp": "2024-04-20T00:08:21Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 32325,
+      "comment": "Copying from [[Category:African American adoptees]] to [[Category:American adoptees]] Diffusing per [[WP:DIFFUSE]] and/or [[WP:ALLINCLUDED]]  using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1220335863,
+      "parentid": 1219812194,
+      "timestamp": "2024-04-23T04:13:54Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 32371,
+      "comment": "Add category relevant to career",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1220678593,
+      "parentid": 1220335863,
+      "timestamp": "2024-04-25T07:21:41Z",
+      "user": "Anomalocaris",
+      "userid": 299039,
+      "size": 32732,
+      "comment": "sp. JCPOA; straight apostrophes; logical quotes;improve <ref>s and <ref name>s",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1220773077,
+      "parentid": 1220678593,
+      "timestamp": "2024-04-25T20:43:38Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 32732,
+      "comment": "/* External links */ https://www.wbay.com/2024/04/19/rep-gallagher-resigns-saturday/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1220879046,
+      "parentid": 1220773077,
+      "timestamp": "2024-04-26T13:54:15Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 32732,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221855660,
+      "parentid": 1220879046,
+      "timestamp": "2024-05-02T11:43:32Z",
+      "user": "Packer1028",
+      "userid": 16495000,
+      "size": 32732,
+      "comment": "Fixed typo #article-select-source-editor",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1223996659,
+      "parentid": 1221855660,
+      "timestamp": "2024-05-15T16:55:18Z",
+      "user": "Aaronm90",
+      "userid": 30514662,
+      "size": 32813,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1224010006,
+      "parentid": 1223996659,
+      "timestamp": "2024-05-15T18:28:03Z",
+      "user": "Ryanisbetter",
+      "userid": 16406607,
+      "size": 32815,
+      "comment": "Added period",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1224010191,
+      "parentid": 1224010006,
+      "timestamp": "2024-05-15T18:29:24Z",
+      "user": "Ohnoitsjamie",
+      "userid": 507787,
+      "size": 32732,
+      "comment": "already in article",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1226943435,
+      "parentid": 1224010191,
+      "timestamp": "2024-06-02T18:22:00Z",
+      "user": "IJVin",
+      "userid": 13511889,
+      "size": 32732,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1228470268,
+      "parentid": 1226943435,
+      "timestamp": "2024-06-11T12:02:40Z",
+      "user": "Cxsj1997",
+      "userid": 47114674,
+      "size": 32782,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1231226290,
+      "parentid": 1228470268,
+      "timestamp": "2024-06-27T05:05:39Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 32780,
+      "comment": "Added work. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Losipov | [[Category:American gun control activists]] | #UCB_Category 122/141",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1231937386,
+      "parentid": 1231226290,
+      "timestamp": "2024-07-01T02:31:18Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 32779,
+      "comment": "fixed [[Template:Broken ref/cite error list|invalid ref position]] using [[User:TheJJJunk/ARA|ARA]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1233366012,
+      "parentid": 1231937386,
+      "timestamp": "2024-07-08T18:14:49Z",
+      "user": "Appleguy01",
+      "userid": 33305799,
+      "size": 32831,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1233533381,
+      "parentid": 1233366012,
+      "timestamp": "2024-07-09T15:50:59Z",
+      "user": "Jenny Death",
+      "userid": 24152474,
+      "size": 32800,
+      "comment": "removed [[Category:American Zionists]] using [[WP:HC|HotCat]] unsourced",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1234013055,
+      "parentid": 1233533381,
+      "timestamp": "2024-07-12T03:32:40Z",
+      "user": "TheInevitables",
+      "userid": 40370466,
+      "size": 32809,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1234837949,
+      "parentid": 1234013055,
+      "timestamp": "2024-07-16T11:31:09Z",
+      "user": "Polly Tunnel",
+      "userid": 12202748,
+      "size": 32808,
+      "comment": "more usual formulation/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1235361026,
+      "parentid": 1234837949,
+      "timestamp": "2024-07-18T22:09:45Z",
+      "user": "2605:BA00:3227:F30F:74B5:463B:BA46:A0EB",
+      "userid": 0,
+      "size": 32755,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235599657,
+      "parentid": 1235361026,
+      "timestamp": "2024-07-20T04:47:19Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 32755,
+      "comment": "/* External links */ update seniority ([[Sheila Jackson Lee]] died)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1237312928,
+      "parentid": 1235599657,
+      "timestamp": "2024-07-29T04:35:14Z",
+      "user": "Vinnylospo",
+      "userid": 31057982,
+      "size": 32812,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1239237867,
+      "parentid": 1237312928,
+      "timestamp": "2024-08-08T03:11:33Z",
+      "user": "2603:7080:8600:26C1:5C10:1E3:A6A9:3A05",
+      "userid": 0,
+      "size": 32812,
+      "comment": "I changed the date from January 3 (the commencement of the Congress) to January 7 (the day Kevin McCarthy was elected as Speaker).",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1239315742,
+      "parentid": 1239237867,
+      "timestamp": "2024-08-08T15:59:38Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 32812,
+      "comment": "Undid revision [[Special:Diff/1239237867|1239237867]] by [[Special:Contributions/2603:7080:8600:26C1:5C10:1E3:A6A9:3A05|2603:7080:8600:26C1:5C10:1E3:A6A9:3A05]] ([[User talk:2603:7080:8600:26C1:5C10:1E3:A6A9:3A05|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile app edit",
+        "android app edit",
+        "app-undo"
+      ]
+    },
+    {
+      "revid": 1239479183,
+      "parentid": 1239315742,
+      "timestamp": "2024-08-09T14:43:59Z",
+      "user": "24.113.171.174",
+      "userid": 0,
+      "size": 32822,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241218470,
+      "parentid": 1239479183,
+      "timestamp": "2024-08-20T00:34:06Z",
+      "user": "Reppop",
+      "userid": 31211555,
+      "size": 32812,
+      "comment": "Undid revision [[Special:Diff/1239479183|1239479183]] by [[Special:Contributions/24.113.171.174|24.113.171.174]] ([[User talk:24.113.171.174|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241402761,
+      "parentid": 1241218470,
+      "timestamp": "2024-08-20T23:30:12Z",
+      "user": "PickleG13",
+      "userid": 23762609,
+      "size": 32777,
+      "comment": "/* See also */ Removed possible vandalism. No need for \"Progressive except Palestine\" to be under \"See also,\" especially when Frost has gone back and forth on this issue.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241420817,
+      "parentid": 1241402761,
+      "timestamp": "2024-08-21T02:06:53Z",
+      "user": "2600:100A:B050:C9D0:E9AB:771A:5B9C:441A",
+      "userid": 0,
+      "size": 32828,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1241420864,
+      "parentid": 1241420817,
+      "timestamp": "2024-08-21T02:07:23Z",
+      "user": "Discospinster",
+      "userid": 82432,
+      "size": 32777,
+      "comment": "Reverted edits by [[Special:Contributions/2600:100A:B050:C9D0:E9AB:771A:5B9C:441A|2600:100A:B050:C9D0:E9AB:771A:5B9C:441A]] ([[User talk:2600:100A:B050:C9D0:E9AB:771A:5B9C:441A|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1241560185,
+      "parentid": 1241420864,
+      "timestamp": "2024-08-21T21:40:50Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 32720,
+      "comment": "Removing [[:Category:Members of the 118th United States Congress]] per [[Wikipedia:Categories for discussion/Log/2024 August 3#Category:Members of the 118th United States Congress]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1241705553,
+      "parentid": 1241560185,
+      "timestamp": "2024-08-22T18:11:09Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 32720,
+      "comment": "/* External links */ https://newjerseyglobe.com/congress/bill-pascrell-14-term-congressman-and-son-of-paterson-dies-at-87/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241759182,
+      "parentid": 1241705553,
+      "timestamp": "2024-08-23T00:32:05Z",
+      "user": "MAINEiac4434",
+      "userid": 12375899,
+      "size": 32720,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242852436,
+      "parentid": 1241759182,
+      "timestamp": "2024-08-29T03:20:01Z",
+      "user": "Reflord",
+      "userid": 40157863,
+      "size": 33433,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1242943222,
+      "parentid": 1242852436,
+      "timestamp": "2024-08-29T16:25:23Z",
+      "user": "Ohnoitsjamie",
+      "userid": 507787,
+      "size": 33422,
+      "comment": "not how we format",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1243147289,
+      "parentid": 1242943222,
+      "timestamp": "2024-08-30T20:01:24Z",
+      "user": "Sebbog13",
+      "userid": 44555953,
+      "size": 33396,
+      "comment": "removed [[Category:Generation Z]] using [[WP:HC|HotCat]], should every politician to be first in Generation Z to join something get this category? Maybe there could be one for people whom are Generation Z but that would just contain the birth year categories instead, right?",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243367651,
+      "parentid": 1243147289,
+      "timestamp": "2024-09-01T02:01:53Z",
+      "user": "Eyer",
+      "userid": 12608568,
+      "size": 33416,
+      "comment": "ce, [[MOS:JOBTITLES]]",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1244797569,
+      "parentid": 1243367651,
+      "timestamp": "2024-09-09T07:16:56Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 33416,
+      "comment": "v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1245322344,
+      "parentid": 1244797569,
+      "timestamp": "2024-09-12T09:59:24Z",
+      "user": "TiWash",
+      "userid": 19527891,
+      "size": 33678,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1253762553,
+      "parentid": 1245322344,
+      "timestamp": "2024-10-27T19:18:02Z",
+      "user": "TheXuitts",
+      "userid": 33065317,
+      "size": 34247,
+      "comment": "Israel-Palestine section was very outdated #article-section-source-editor",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1253762756,
+      "parentid": 1253762553,
+      "timestamp": "2024-10-27T19:19:19Z",
+      "user": "TheXuitts",
+      "userid": 33065317,
+      "size": 34257,
+      "comment": "No longer true since he has voted against aid to Israel #article-section-source-editor",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1253763233,
+      "parentid": 1253762756,
+      "timestamp": "2024-10-27T19:22:20Z",
+      "user": "TheXuitts",
+      "userid": 33065317,
+      "size": 34254,
+      "comment": "#article-section-source-editor",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1253764806,
+      "parentid": 1253763233,
+      "timestamp": "2024-10-27T19:32:06Z",
+      "user": "TheXuitts",
+      "userid": 33065317,
+      "size": 34165,
+      "comment": "Can’t find the third claim in the sources #article-section-source-editor",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1254402238,
+      "parentid": 1253764806,
+      "timestamp": "2024-10-30T20:52:19Z",
+      "user": "50.81.19.235",
+      "userid": 0,
+      "size": 34175,
+      "comment": "/* Personal life */Corrected title for person.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1254954531,
+      "parentid": 1254402238,
+      "timestamp": "2024-11-02T13:10:51Z",
+      "user": "EdTre",
+      "userid": 25356227,
+      "size": 34194,
+      "comment": "/* Israel-Palestine */ fixed disambiguation link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256805243,
+      "parentid": 1254954531,
+      "timestamp": "2024-11-11T17:28:10Z",
+      "user": "24.172.154.107",
+      "userid": 0,
+      "size": 34191,
+      "comment": "/* Early career */ The gang committed the violence, not the gun",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256818525,
+      "parentid": 1256805243,
+      "timestamp": "2024-11-11T18:47:17Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 34194,
+      "comment": "Undid revision [[Special:Diff/1256805243|1256805243]] by [[Special:Contributions/24.172.154.107|24.172.154.107]] ([[User talk:24.172.154.107|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256890583,
+      "parentid": 1256818525,
+      "timestamp": "2024-11-12T02:12:40Z",
+      "user": "Quxyz",
+      "userid": 41030369,
+      "size": 34210,
+      "comment": "Needs update",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1256890642,
+      "parentid": 1256890583,
+      "timestamp": "2024-11-12T02:13:03Z",
+      "user": "Quxyz",
+      "userid": 41030369,
+      "size": 34211,
+      "comment": "Comma",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1256893650,
+      "parentid": 1256890642,
+      "timestamp": "2024-11-12T02:33:36Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 34230,
+      "comment": "Dating maintenance tags: {{Needs update}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1257383545,
+      "parentid": 1256893650,
+      "timestamp": "2024-11-14T17:03:05Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 34230,
+      "comment": "/* External links */ https://thehill.com/homenews/house/4989579-matt-gaetz-resigns-attorney-general/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257818908,
+      "parentid": 1257383545,
+      "timestamp": "2024-11-16T20:09:28Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 34269,
+      "comment": "Copying from [[Category:Prison abolitionists]] to [[Category:American prison reformers]] Diffusing per [[WP:DIFFUSE]] and/or [[WP:ALLINCLUDED ]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1258089900,
+      "parentid": 1257818908,
+      "timestamp": "2024-11-18T02:28:55Z",
+      "user": "2600:100C:A217:4AA9:9041:C064:10F4:AFA5",
+      "userid": 0,
+      "size": 34346,
+      "comment": "/* See also */He has some Lebanese ancestry",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1260507704,
+      "parentid": 1258089900,
+      "timestamp": "2024-12-01T04:23:11Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 34426,
+      "comment": "added [[:Category:21st-century members of the United States House of Representatives]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260514757,
+      "parentid": 1260507704,
+      "timestamp": "2024-12-01T05:22:21Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 34379,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261424361,
+      "parentid": 1260514757,
+      "timestamp": "2024-12-06T01:12:07Z",
+      "user": "VSA72",
+      "userid": 35220187,
+      "size": 34375,
+      "comment": "/* Housing */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261424452,
+      "parentid": 1261424361,
+      "timestamp": "2024-12-06T01:12:47Z",
+      "user": "VSA72",
+      "userid": 35220187,
+      "size": 34375,
+      "comment": "/* Housing */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261424826,
+      "parentid": 1261424452,
+      "timestamp": "2024-12-06T01:15:06Z",
+      "user": "VSA72",
+      "userid": 35220187,
+      "size": 34416,
+      "comment": "/* Housing */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261737720,
+      "parentid": 1261424826,
+      "timestamp": "2024-12-07T18:30:03Z",
+      "user": "Appleguy01",
+      "userid": 33305799,
+      "size": 34489,
+      "comment": "Signature added",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1262471165,
+      "parentid": 1261737720,
+      "timestamp": "2024-12-11T16:18:56Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 34489,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263460078,
+      "parentid": 1262471165,
+      "timestamp": "2024-12-16T20:08:09Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 34489,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1265687355,
+      "parentid": 1263460078,
+      "timestamp": "2024-12-28T04:36:46Z",
+      "user": "Ms.Lain",
+      "userid": 48966452,
+      "size": 34824,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1266480446,
+      "parentid": 1265687355,
+      "timestamp": "2024-12-31T20:54:49Z",
+      "user": "GoodDay",
+      "userid": 589223,
+      "size": 34649,
+      "comment": "/* External links */ too trivial",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Maxwell_Frost"
+}

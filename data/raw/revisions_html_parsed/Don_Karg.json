@@ -1,0 +1,44 @@
+{
+  "page_title": "Don_Karg",
+  "candidate_name": "Don Karg",
+  "collection_date": "2025-12-28T16:37:58.052138",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2008-11-16T01:25:27Z",
+      "end": "2018-12-08T15:21:48Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 252068339,
+      "parentid": 0,
+      "timestamp": "2008-11-16T01:25:27Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 90,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Arizona, 2008#District 4]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872686522,
+      "parentid": 252068339,
+      "timestamp": "2018-12-08T15:21:48Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 89,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Arizona]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Don_Karg"
+}

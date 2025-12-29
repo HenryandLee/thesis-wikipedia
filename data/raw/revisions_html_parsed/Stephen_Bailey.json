@@ -1,0 +1,975 @@
+{
+  "page_title": "Stephen_Bailey",
+  "candidate_name": "Stephen Bailey",
+  "collection_date": "2025-12-28T16:54:36.954225",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 72,
+    "unique_editors": 26,
+    "date_range": {
+      "start": "2021-09-04T17:47:25Z",
+      "end": "2024-11-22T22:41:16Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1042378575,
+      "parentid": 0,
+      "timestamp": "2021-09-04T17:47:25Z",
+      "user": "RichardATaylor",
+      "userid": 42443944,
+      "size": 3173,
+      "comment": "[[WP:AES|←]]Created page with '{{subst:AfC submission/draftnew}}<!-- Important, do not remove this line before article has been created. -->  Stephen Bailey (born 20 June 1986) is an English stand-up comedian, presenter and actor <ref>https://www.comedy.co.uk/people/news/3184/stephen_bailey_hosts_the_farm/</ref><ref>https://www.chortle.co.uk/news/2018/11/05/41613/stephen_bailey_joins_coronation_street/</ref>  =Early Life=  Bailey was born in 1986 in Denton, Manchester <ref>https://vivama...'",
+      "minor": false,
+      "tags": [
+        "deprecated source"
+      ]
+    },
+    {
+      "revid": 1042378814,
+      "parentid": 1042378575,
+      "timestamp": "2021-09-04T17:49:08Z",
+      "user": "RichardATaylor",
+      "userid": 42443944,
+      "size": 3170,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1042380212,
+      "parentid": 1042378814,
+      "timestamp": "2021-09-04T17:57:49Z",
+      "user": "RichardATaylor",
+      "userid": 42443944,
+      "size": 3160,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042380528,
+      "parentid": 1042380212,
+      "timestamp": "2021-09-04T17:59:34Z",
+      "user": "RichardATaylor",
+      "userid": 42443944,
+      "size": 3224,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042381885,
+      "parentid": 1042380528,
+      "timestamp": "2021-09-04T18:06:46Z",
+      "user": "KylieTastic",
+      "userid": 2790592,
+      "size": 5029,
+      "comment": "Filled in 13 bare reference(s) with reFill 2",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042382633,
+      "parentid": 1042381885,
+      "timestamp": "2021-09-04T18:10:40Z",
+      "user": "KylieTastic",
+      "userid": 2790592,
+      "size": 5045,
+      "comment": "+",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042464824,
+      "parentid": 1042382633,
+      "timestamp": "2021-09-05T04:06:55Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 5043,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Eastmain | [[Category:AfC submissions by date/04 September 2021]] | #UCB_Category 64/139",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042652762,
+      "parentid": 1042464824,
+      "timestamp": "2021-09-06T02:49:44Z",
+      "user": "Perryprog",
+      "userid": 30056403,
+      "size": 4410,
+      "comment": "Remove two [[WP:DEPS|deprecated sources]], remove unnecessary external links, clean up headers",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1042652799,
+      "parentid": 1042652762,
+      "timestamp": "2021-09-06T02:49:57Z",
+      "user": "Perryprog",
+      "userid": 30056403,
+      "size": 4290,
+      "comment": "Cleaning up submission ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042653192,
+      "parentid": 1042652799,
+      "timestamp": "2021-09-06T02:53:08Z",
+      "user": "Perryprog",
+      "userid": 30056403,
+      "size": 4286,
+      "comment": "Punctation adjustments",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1052524648,
+      "parentid": 1042653192,
+      "timestamp": "2021-10-29T17:16:09Z",
+      "user": "S0091",
+      "userid": 35056011,
+      "size": 4629,
+      "comment": "Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines and v - Submission is improperly sourced ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1055392821,
+      "parentid": 1052524648,
+      "timestamp": "2021-11-15T16:36:22Z",
+      "user": "RichardATaylor",
+      "userid": 42443944,
+      "size": 4375,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1055394541,
+      "parentid": 1055392821,
+      "timestamp": "2021-11-15T16:48:53Z",
+      "user": "RichardATaylor",
+      "userid": 42443944,
+      "size": 4559,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "deprecated source"
+      ]
+    },
+    {
+      "revid": 1055394669,
+      "parentid": 1055394541,
+      "timestamp": "2021-11-15T16:49:56Z",
+      "user": "RichardATaylor",
+      "userid": 42443944,
+      "size": 4726,
+      "comment": "Submitting using [[WP:AFCSW|AfC-submit-wizard]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1055601281,
+      "parentid": 1055394669,
+      "timestamp": "2021-11-16T19:59:12Z",
+      "user": "Calliopejen1",
+      "userid": 4045206,
+      "size": 4724,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1056254617,
+      "parentid": 1055601281,
+      "timestamp": "2021-11-20T18:10:44Z",
+      "user": "S0091",
+      "userid": 35056011,
+      "size": 4601,
+      "comment": "/* Career */ The Sun is not a reliable source (see [[WP:RSP]])",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1058997483,
+      "parentid": 1056254617,
+      "timestamp": "2021-12-06T20:42:16Z",
+      "user": "Slywriter",
+      "userid": 14494991,
+      "size": 4844,
+      "comment": "Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1079544100,
+      "parentid": 1058997483,
+      "timestamp": "2022-03-27T10:11:31Z",
+      "user": "Dave.Dunford",
+      "userid": 144047,
+      "size": 5480,
+      "comment": "italics on shows, mostly; House of Games, Bloke is clearly notable.",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1079544202,
+      "parentid": 1079544100,
+      "timestamp": "2022-03-27T10:12:35Z",
+      "user": "Dave.Dunford",
+      "userid": 144047,
+      "size": 5485,
+      "comment": "/* Personal life */ c/e",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1083553835,
+      "parentid": 1079544202,
+      "timestamp": "2022-04-19T12:05:21Z",
+      "user": "90.203.130.70",
+      "userid": 0,
+      "size": 7934,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1083554038,
+      "parentid": 1083553835,
+      "timestamp": "2022-04-19T12:07:28Z",
+      "user": "90.203.130.70",
+      "userid": 0,
+      "size": 9890,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1083554098,
+      "parentid": 1083554038,
+      "timestamp": "2022-04-19T12:08:05Z",
+      "user": "90.203.130.70",
+      "userid": 0,
+      "size": 9942,
+      "comment": "Submitting using [[WP:AFCSW|AfC-submit-wizard]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1083572683,
+      "parentid": 1083554098,
+      "timestamp": "2022-04-19T14:26:56Z",
+      "user": "Meena",
+      "userid": 34532625,
+      "size": 10116,
+      "comment": "c/u before accepting.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1083572794,
+      "parentid": 1083572683,
+      "timestamp": "2022-04-19T14:27:33Z",
+      "user": "Meena",
+      "userid": 34532625,
+      "size": 10116,
+      "comment": "DarkGlow moved page [[Draft:Stephen Bailey]] to [[Stephen Bailey]]: Publishing accepted [[Wikipedia:Articles for creation|Articles for creation]] submission ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": true,
+      "tags": [
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1083572804,
+      "parentid": 1083572794,
+      "timestamp": "2022-04-19T14:27:34Z",
+      "user": "Meena",
+      "userid": 34532625,
+      "size": 9110,
+      "comment": "Cleaning up accepted [[Wikipedia:Articles for creation|Articles for creation]] submission ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1083572859,
+      "parentid": 1083572804,
+      "timestamp": "2022-04-19T14:28:01Z",
+      "user": "Meena",
+      "userid": 34532625,
+      "size": 9114,
+      "comment": "disambig",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1083620435,
+      "parentid": 1083572859,
+      "timestamp": "2022-04-19T20:02:08Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 9113,
+      "comment": "Duplicate word reworded",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1083622944,
+      "parentid": 1083620435,
+      "timestamp": "2022-04-19T20:21:16Z",
+      "user": "Meena",
+      "userid": 34532625,
+      "size": 14997,
+      "comment": "Rescuing 29 sources and tagging 0 as dead.) #IABot (v2.0.8.7",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 1804"
+      ]
+    },
+    {
+      "revid": 1084070859,
+      "parentid": 1083622944,
+      "timestamp": "2022-04-22T11:27:12Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 14943,
+      "comment": "v2.04b - [[User:WikiCleanerBot#T5|Bot T5 CW#17]] - Fix errors for [[WP:WCW|CW project]] (Category duplication - Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1084503108,
+      "parentid": 1084070859,
+      "timestamp": "2022-04-24T21:57:38Z",
+      "user": "Dave.Dunford",
+      "userid": 144047,
+      "size": 14947,
+      "comment": "/* Life and career */ italic on show",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1084503181,
+      "parentid": 1084503108,
+      "timestamp": "2022-04-24T21:58:15Z",
+      "user": "Dave.Dunford",
+      "userid": 144047,
+      "size": 14948,
+      "comment": "/* Life and career */ comma",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1101269202,
+      "parentid": 1084503181,
+      "timestamp": "2022-07-30T04:30:58Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 14946,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | [[Category:Gay comedians]] | #UCB_Category 164/181",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1124396032,
+      "parentid": 1101269202,
+      "timestamp": "2022-11-28T18:20:21Z",
+      "user": "31.205.97.243",
+      "userid": 0,
+      "size": 14052,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124396416,
+      "parentid": 1124396032,
+      "timestamp": "2022-11-28T18:23:04Z",
+      "user": "ARandomName123",
+      "userid": 44428614,
+      "size": 14946,
+      "comment": "Reverted 1 edit by [[Special:Contributions/31.205.97.243|31.205.97.243]] ([[User talk:31.205.97.243|talk]]): Unexplained removal of sources",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1124536402,
+      "parentid": 1124396416,
+      "timestamp": "2022-11-29T06:05:02Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 4467,
+      "comment": "dies",
+      "minor": false,
+      "tags": [
+        "Section blanking",
+        "blanking",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124537763,
+      "parentid": 1124536402,
+      "timestamp": "2022-11-29T06:17:17Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 4469,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124538030,
+      "parentid": 1124537763,
+      "timestamp": "2022-11-29T06:19:24Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 4469,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124538093,
+      "parentid": 1124538030,
+      "timestamp": "2022-11-29T06:19:56Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 4469,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "possible birth or death date change",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124602106,
+      "parentid": 1124538093,
+      "timestamp": "2022-11-29T15:17:24Z",
+      "user": "ARandomName123",
+      "userid": 44428614,
+      "size": 14946,
+      "comment": "Reverted 4 edits by [[Special:Contributions/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]): Unexplained removal of content, birth change",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1124602599,
+      "parentid": 1124602106,
+      "timestamp": "2022-11-29T15:20:55Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 14953,
+      "comment": "Change sexualised",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124602860,
+      "parentid": 1124602599,
+      "timestamp": "2022-11-29T15:22:50Z",
+      "user": "ARandomName123",
+      "userid": 44428614,
+      "size": 14946,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]): Birth date change",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1124602975,
+      "parentid": 1124602860,
+      "timestamp": "2022-11-29T15:23:43Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 14845,
+      "comment": "Name change",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124603587,
+      "parentid": 1124602975,
+      "timestamp": "2022-11-29T15:28:12Z",
+      "user": "ARandomName123",
+      "userid": 44428614,
+      "size": 14946,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]): Unexplained removal of content",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1124603798,
+      "parentid": 1124603587,
+      "timestamp": "2022-11-29T15:29:37Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 14770,
+      "comment": "Name change",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124605410,
+      "parentid": 1124603798,
+      "timestamp": "2022-11-29T15:38:42Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 14664,
+      "comment": "Name",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124606092,
+      "parentid": 1124605410,
+      "timestamp": "2022-11-29T15:42:58Z",
+      "user": "ARandomName123",
+      "userid": 44428614,
+      "size": 14946,
+      "comment": "Reverted 2 edits by [[Special:Contributions/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]): Provide a reason for your content change",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1124606838,
+      "parentid": 1124606092,
+      "timestamp": "2022-11-29T15:47:19Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 14946,
+      "comment": "Name change",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124606963,
+      "parentid": 1124606838,
+      "timestamp": "2022-11-29T15:48:11Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 10122,
+      "comment": "Life",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124606989,
+      "parentid": 1124606963,
+      "timestamp": "2022-11-29T15:48:19Z",
+      "user": "Silikonz-alt",
+      "userid": 40327848,
+      "size": 14946,
+      "comment": "Reverted edits by [[Special:Contributions/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]) ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1124607097,
+      "parentid": 1124606989,
+      "timestamp": "2022-11-29T15:49:04Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 14744,
+      "comment": "Life",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124607193,
+      "parentid": 1124607097,
+      "timestamp": "2022-11-29T15:49:40Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 7142,
+      "comment": "Life.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124607241,
+      "parentid": 1124607193,
+      "timestamp": "2022-11-29T15:50:03Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 7129,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124607250,
+      "parentid": 1124607241,
+      "timestamp": "2022-11-29T15:50:06Z",
+      "user": "Silikonz-alt",
+      "userid": 40327848,
+      "size": 14946,
+      "comment": "Reverted edits by [[Special:Contributions/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]) ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1124607519,
+      "parentid": 1124607250,
+      "timestamp": "2022-11-29T15:51:54Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 14745,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124607632,
+      "parentid": 1124607519,
+      "timestamp": "2022-11-29T15:52:36Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 5636,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible libel or vandalism",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124607831,
+      "parentid": 1124607632,
+      "timestamp": "2022-11-29T15:53:51Z",
+      "user": "ARandomName123",
+      "userid": 44428614,
+      "size": 14946,
+      "comment": "Reverted 2 edits by [[Special:Contributions/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]) to last revision by Silikonz-alt",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1124608145,
+      "parentid": 1124607831,
+      "timestamp": "2022-11-29T15:55:48Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 5780,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124608222,
+      "parentid": 1124608145,
+      "timestamp": "2022-11-29T15:56:13Z",
+      "user": "Michaelthompson1333",
+      "userid": 43962336,
+      "size": 5582,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124608434,
+      "parentid": 1124608222,
+      "timestamp": "2022-11-29T15:57:44Z",
+      "user": "Bbb23",
+      "userid": 7583140,
+      "size": 14946,
+      "comment": "Reverted edits by [[Special:Contribs/Michaelthompson1333|Michaelthompson1333]] ([[User talk:Michaelthompson1333|talk]]) to last version by ARandomName123",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1147879933,
+      "parentid": 1124608434,
+      "timestamp": "2023-04-02T19:34:02Z",
+      "user": "OGBC1992",
+      "userid": 19300763,
+      "size": 14998,
+      "comment": "/* External links */Added category",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1147954617,
+      "parentid": 1147879933,
+      "timestamp": "2023-04-03T06:37:42Z",
+      "user": "OGBC1992",
+      "userid": 19300763,
+      "size": 15108,
+      "comment": "/* External links */Added categories",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1159721092,
+      "parentid": 1147954617,
+      "timestamp": "2023-06-12T03:51:11Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 15108,
+      "comment": "Moving from [[Category:British television presenters]] to [[Category:English television presenters]] Diffusing using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1168030287,
+      "parentid": 1159721092,
+      "timestamp": "2023-07-31T10:05:54Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 15111,
+      "comment": "Moving from [[Category:People from London]] to [[Category:Comedians from London]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1187081436,
+      "parentid": 1168030287,
+      "timestamp": "2023-11-27T10:02:29Z",
+      "user": "Ernsanchez00",
+      "userid": 45293124,
+      "size": 15158,
+      "comment": "added [[Category:Comedians from Greater Manchester]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1212430051,
+      "parentid": 1187081436,
+      "timestamp": "2024-03-07T21:07:39Z",
+      "user": "Ernsanchez00",
+      "userid": 45293124,
+      "size": 15230,
+      "comment": "Added new categories",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1212699435,
+      "parentid": 1212430051,
+      "timestamp": "2024-03-09T04:32:04Z",
+      "user": "BlueboyLINY",
+      "userid": 39079878,
+      "size": 15228,
+      "comment": "Cleaned up using [[WP:AutoEd|AutoEd]], sorted categories alphabetically via [[User:Epicgenius/sortcategories|script]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1247399781,
+      "parentid": 1212699435,
+      "timestamp": "2024-09-24T03:47:16Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 15229,
+      "comment": "Moving [[:Category:20th-century English LGBT people]] to [[:Category:20th-century English LGBTQ people]] per [[Wikipedia:Categories for discussion/Log/2024 September 11#LGBT nominations which were opposed at CFDS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1247435504,
+      "parentid": 1247399781,
+      "timestamp": "2024-09-24T08:02:13Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 15230,
+      "comment": "Moving [[:Category:21st-century English LGBT people]] to [[:Category:21st-century English LGBTQ people]] per [[Wikipedia:Categories for discussion/Log/2024 September 11#LGBT nominations which were opposed at CFDS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1247634833,
+      "parentid": 1247435504,
+      "timestamp": "2024-09-25T05:22:57Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 15231,
+      "comment": "Moving [[:Category:English LGBT comedians]] to [[:Category:English LGBTQ comedians]] per [[Wikipedia:Categories for discussion/Log/2024 September 11#LGBT nominations which were opposed at CFDS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1253715202,
+      "parentid": 1247634833,
+      "timestamp": "2024-10-27T14:09:05Z",
+      "user": "DirkJandeGeer",
+      "userid": 41814252,
+      "size": 15235,
+      "comment": "Added similar names template to [[Steven Bailey]] disambig page, removed previous \"not to be confused with\" template.",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1254482854,
+      "parentid": 1253715202,
+      "timestamp": "2024-10-31T05:20:51Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 15279,
+      "comment": "/* External links */ add [[Category:21st-century English sportsmen]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1259014958,
+      "parentid": 1254482854,
+      "timestamp": "2024-11-22T22:41:16Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 15296,
+      "comment": "fix per [[WP:INTDABLINK]]",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Bailey"
+}

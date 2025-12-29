@@ -1,0 +1,44 @@
+{
+  "page_title": "Spencer_Morgan",
+  "candidate_name": "Spencer Morgan",
+  "collection_date": "2025-12-28T16:54:32.760376",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-09-19T10:51:08Z",
+      "end": "2018-12-08T20:59:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 513512985,
+      "parentid": 0,
+      "timestamp": "2012-09-19T10:51:08Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 90,
+      "comment": "Redirecting main header delineating American Democratic congressional candidate in [[Arizona's 5th congressional district]], [[Spencer Morgan]], to article which describes the contest, [[United States House of Representatives elections in Arizona, 2012]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872731728,
+      "parentid": 513512985,
+      "timestamp": "2018-12-08T20:59:15Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 89,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in Arizona]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spencer_Morgan"
+}

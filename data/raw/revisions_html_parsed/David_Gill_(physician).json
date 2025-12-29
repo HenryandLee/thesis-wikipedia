@@ -1,0 +1,55 @@
+{
+  "page_title": "David_Gill_(physician)",
+  "candidate_name": "David Gill",
+  "collection_date": "2025-12-28T16:36:56.873660",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2012-10-01T14:27:45Z",
+      "end": "2018-12-08T13:51:14Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 515469055,
+      "parentid": 0,
+      "timestamp": "2012-10-01T14:27:45Z",
+      "user": "Lesbianadvocate",
+      "userid": 11847414,
+      "size": 27,
+      "comment": "Lesbianadvocate moved page [[David Gill (physician)]] to [[David M. Gill]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523930763,
+      "parentid": 515469055,
+      "timestamp": "2012-11-19T23:51:11Z",
+      "user": "AvicBot",
+      "userid": 11952314,
+      "size": 92,
+      "comment": "Robot: Fixing double redirect to [[United States House of Representatives elections in Illinois, 2012#District 13]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872674095,
+      "parentid": 523930763,
+      "timestamp": "2018-12-08T13:51:14Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in Illinois]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Gill_(physician)"
+}

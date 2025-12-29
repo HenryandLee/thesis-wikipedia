@@ -1,0 +1,69 @@
+{
+  "page_title": "Erin_McClelland",
+  "candidate_name": "Erin McClelland",
+  "collection_date": "2025-12-28T16:38:55.610732",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 4,
+    "unique_editors": 4,
+    "date_range": {
+      "start": "2014-06-14T18:49:52Z",
+      "end": "2024-04-24T15:11:06Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 612920959,
+      "parentid": 0,
+      "timestamp": "2014-06-14T18:49:52Z",
+      "user": "Tyrol5",
+      "userid": 8356159,
+      "size": 96,
+      "comment": "create redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 746516917,
+      "parentid": 612920959,
+      "timestamp": "2016-10-27T22:05:06Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 96,
+      "comment": "she's running again",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872693665,
+      "parentid": 746516917,
+      "timestamp": "2018-12-08T16:13:40Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 95,
+      "comment": "Bot: Fixing double redirect to [[2016 United States House of Representatives elections in Pennsylvania]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1220557408,
+      "parentid": 872693665,
+      "timestamp": "2024-04-24T15:11:06Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 56,
+      "comment": "updated to latest campaign",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target",
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Erin_McClelland"
+}

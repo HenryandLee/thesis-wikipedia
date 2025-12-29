@@ -1,0 +1,1884 @@
+{
+  "page_title": "George_T._Whitesides",
+  "candidate_name": "George Whitesides",
+  "collection_date": "2025-12-28T16:39:40.721915",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 154,
+    "unique_editors": 90,
+    "date_range": {
+      "start": "2007-02-03T22:57:22Z",
+      "end": "2024-12-07T16:48:54Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 105433909,
+      "parentid": 0,
+      "timestamp": "2007-02-03T22:57:22Z",
+      "user": "Brockert",
+      "userid": 50095,
+      "size": 300,
+      "comment": "a start",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 105434269,
+      "parentid": 105433909,
+      "timestamp": "2007-02-03T22:58:57Z",
+      "user": "J Milburn",
+      "userid": 1062840,
+      "size": 330,
+      "comment": "Unreferenced",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 105442499,
+      "parentid": 105434269,
+      "timestamp": "2007-02-03T23:35:34Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 334,
+      "comment": "stub sort",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 105505675,
+      "parentid": 105442499,
+      "timestamp": "2007-02-04T05:07:29Z",
+      "user": "Brockert",
+      "userid": 50095,
+      "size": 1132,
+      "comment": "references. and it'd be nice if the stub sorters paid a little bit of attention.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 105546006,
+      "parentid": 105505675,
+      "timestamp": "2007-02-04T10:40:51Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 1150,
+      "comment": "stub sort",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 108578467,
+      "parentid": 105546006,
+      "timestamp": "2007-02-16T10:41:29Z",
+      "user": "Brockert",
+      "userid": 50095,
+      "size": 1342,
+      "comment": "Possibly the most heavily referenced stub in all of Wikipedia. I should be proud.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108937567,
+      "parentid": 108578467,
+      "timestamp": "2007-02-17T22:41:32Z",
+      "user": "68.50.111.9",
+      "userid": 0,
+      "size": 1676,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108938603,
+      "parentid": 108937567,
+      "timestamp": "2007-02-17T22:46:04Z",
+      "user": "68.50.111.9",
+      "userid": 0,
+      "size": 1928,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108938835,
+      "parentid": 108938603,
+      "timestamp": "2007-02-17T22:47:09Z",
+      "user": "68.50.111.9",
+      "userid": 0,
+      "size": 1930,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108939123,
+      "parentid": 108938835,
+      "timestamp": "2007-02-17T22:48:24Z",
+      "user": "68.50.111.9",
+      "userid": 0,
+      "size": 1934,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108939413,
+      "parentid": 108939123,
+      "timestamp": "2007-02-17T22:49:47Z",
+      "user": "68.50.111.9",
+      "userid": 0,
+      "size": 1936,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108939561,
+      "parentid": 108939413,
+      "timestamp": "2007-02-17T22:50:29Z",
+      "user": "68.50.111.9",
+      "userid": 0,
+      "size": 1947,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108940289,
+      "parentid": 108939561,
+      "timestamp": "2007-02-17T22:53:38Z",
+      "user": "68.50.111.9",
+      "userid": 0,
+      "size": 2030,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 122209197,
+      "parentid": 108940289,
+      "timestamp": "2007-04-12T13:06:28Z",
+      "user": "Nyttend",
+      "userid": 1960810,
+      "size": 2201,
+      "comment": "Categorised",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 152541246,
+      "parentid": 122209197,
+      "timestamp": "2007-08-20T20:30:43Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 2171,
+      "comment": "Defaultsort for people stubs (and/or gen fixes)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 169783276,
+      "parentid": 152541246,
+      "timestamp": "2007-11-07T04:27:24Z",
+      "user": "MetsBot",
+      "userid": 2030868,
+      "size": 2185,
+      "comment": "clean up and adding [[Category:Year of birth missing (living people)]]  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 191387375,
+      "parentid": 169783276,
+      "timestamp": "2008-02-14T09:47:24Z",
+      "user": "Argo Navis",
+      "userid": 400644,
+      "size": 2384,
+      "comment": "image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 200213118,
+      "parentid": 191387375,
+      "timestamp": "2008-03-23T02:24:58Z",
+      "user": "68.49.5.146",
+      "userid": 0,
+      "size": 2776,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210445446,
+      "parentid": 200213118,
+      "timestamp": "2008-05-05T23:30:05Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 2771,
+      "comment": "accessdate compliance to [[Template:Cite_web#Required_parameters|Template:Cite_web]], Replaced: accessdate = 4 February 2007 → accessdate = 2007-02-04  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 211215970,
+      "parentid": 210445446,
+      "timestamp": "2008-05-09T08:15:12Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 2752,
+      "comment": "accessdate compliance to [[Template:Cite_web#Required_parameters|Template:Cite_web]], Replaced: accessdate =  4 February 2007 → accessdate =  2007-02-04 (2)  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 221074662,
+      "parentid": 211215970,
+      "timestamp": "2008-06-22T23:10:23Z",
+      "user": "98.218.239.35",
+      "userid": 0,
+      "size": 2890,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221736218,
+      "parentid": 221074662,
+      "timestamp": "2008-06-25T21:25:39Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 2920,
+      "comment": "gen fixes + link/fix date fields in cite templates (explanation [[User:Rjwilmsi#My_correction_of_dates_in_templates|here]])  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 225001633,
+      "parentid": 221736218,
+      "timestamp": "2008-07-11T11:59:10Z",
+      "user": "Argo Navis",
+      "userid": 400644,
+      "size": 2949,
+      "comment": "[[hr:George T. Whitesides]] Hi, Goerge :). Better late than never :)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225005791,
+      "parentid": 225001633,
+      "timestamp": "2008-07-11T12:33:55Z",
+      "user": "Argo Navis",
+      "userid": 400644,
+      "size": 2977,
+      "comment": "+ bosnian",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249375943,
+      "parentid": 225005791,
+      "timestamp": "2008-11-03T10:32:09Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 2973,
+      "comment": "[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) format cite template dates (1),  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 249385475,
+      "parentid": 249375943,
+      "timestamp": "2008-11-03T11:49:44Z",
+      "user": "Lightmouse",
+      "userid": 4469495,
+      "size": 2949,
+      "comment": "Date links per [[wp:mosnum]]/Other  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 266645160,
+      "parentid": 249385475,
+      "timestamp": "2009-01-27T00:16:22Z",
+      "user": "96.231.0.234",
+      "userid": 0,
+      "size": 3251,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 266645841,
+      "parentid": 266645160,
+      "timestamp": "2009-01-27T00:19:23Z",
+      "user": "96.231.0.234",
+      "userid": 0,
+      "size": 3251,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 268074612,
+      "parentid": 266645841,
+      "timestamp": "2009-02-02T18:28:49Z",
+      "user": "RussBot",
+      "userid": 279219,
+      "size": 3264,
+      "comment": "Robot: [[WP:DPL|disambiguating]] links to [[Split]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 319131545,
+      "parentid": 268074612,
+      "timestamp": "2009-10-10T23:16:07Z",
+      "user": "Calibrador",
+      "userid": 9071385,
+      "size": 3136,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 319131626,
+      "parentid": 319131545,
+      "timestamp": "2009-10-10T23:16:38Z",
+      "user": "Calibrador",
+      "userid": 9071385,
+      "size": 3135,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 323907812,
+      "parentid": 319131626,
+      "timestamp": "2009-11-04T16:01:43Z",
+      "user": "131.182.176.54",
+      "userid": 0,
+      "size": 3081,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 348325206,
+      "parentid": 323907812,
+      "timestamp": "2010-03-07T13:20:02Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3085,
+      "comment": "Stub-sorting. [[Wikipedia:WikiProject Stub sorting|You can help!]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 355624467,
+      "parentid": 348325206,
+      "timestamp": "2010-04-12T21:44:06Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3113,
+      "comment": "Adding category [[:Category:NASA personnel]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 355624500,
+      "parentid": 355624467,
+      "timestamp": "2010-04-12T21:44:15Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3157,
+      "comment": "Adding category [[:Category:Obama Administration personnel]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 362700263,
+      "parentid": 355624500,
+      "timestamp": "2010-05-17T23:11:46Z",
+      "user": "71.109.144.225",
+      "userid": 0,
+      "size": 3504,
+      "comment": "Updated biography to show new position as CEO of Virgin Galactic",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 366283407,
+      "parentid": 362700263,
+      "timestamp": "2010-06-06T00:36:18Z",
+      "user": "68.50.25.121",
+      "userid": 0,
+      "size": 3105,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 366283467,
+      "parentid": 366283407,
+      "timestamp": "2010-06-06T00:36:45Z",
+      "user": "Catgut",
+      "userid": 1998211,
+      "size": 3504,
+      "comment": "Reverted unexplained removal of content ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 389591234,
+      "parentid": 366283467,
+      "timestamp": "2010-10-08T21:27:07Z",
+      "user": "H3llBot",
+      "userid": 12323565,
+      "size": 3548,
+      "comment": "BOT: [[User:H3llBot/T2|Checking dead links]]; Marked 1 link with {{Dead link}} (Further info: [[WP:DEADLINK]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 404367353,
+      "parentid": 389591234,
+      "timestamp": "2010-12-26T23:09:28Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3787,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]], References after punctuation per [[WP:REFPUNC]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (7510)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 412073274,
+      "parentid": 404367353,
+      "timestamp": "2011-02-05T00:31:54Z",
+      "user": "166.187.175.23",
+      "userid": 0,
+      "size": 3801,
+      "comment": "Whitesides assumed president role in addition to CEO following Whitehorn's retirement.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 475233074,
+      "parentid": 412073274,
+      "timestamp": "2012-02-05T15:31:22Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3821,
+      "comment": "persondata",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 486984201,
+      "parentid": 475233074,
+      "timestamp": "2012-04-12T10:56:26Z",
+      "user": "213.246.85.176",
+      "userid": 0,
+      "size": 3715,
+      "comment": "link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 544675006,
+      "parentid": 486984201,
+      "timestamp": "2013-03-16T16:20:49Z",
+      "user": "Addbot",
+      "userid": 6569922,
+      "size": 3658,
+      "comment": "[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q3511804]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 579176134,
+      "parentid": 544675006,
+      "timestamp": "2013-10-28T22:04:18Z",
+      "user": "38.99.246.154",
+      "userid": 0,
+      "size": 3735,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 585452159,
+      "parentid": 579176134,
+      "timestamp": "2013-12-10T16:39:15Z",
+      "user": "John.cumings",
+      "userid": 18119660,
+      "size": 3772,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 585468307,
+      "parentid": 585452159,
+      "timestamp": "2013-12-10T18:39:52Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 3777,
+      "comment": "Dating maintenance tags: {{Citation needed}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592046752,
+      "parentid": 585468307,
+      "timestamp": "2014-01-23T17:20:23Z",
+      "user": "Cantab12",
+      "userid": 17109755,
+      "size": 3740,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 594212115,
+      "parentid": 592046752,
+      "timestamp": "2014-02-06T14:08:06Z",
+      "user": "71.104.62.215",
+      "userid": 0,
+      "size": 3621,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 607587217,
+      "parentid": 594212115,
+      "timestamp": "2014-05-08T05:43:09Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 3619,
+      "comment": "Task 3: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 609501379,
+      "parentid": 607587217,
+      "timestamp": "2014-05-21T09:41:56Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3616,
+      "comment": "Robot - Speedily moving category NASA personnel to [[:Category:NASA people]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 632450310,
+      "parentid": 609501379,
+      "timestamp": "2014-11-04T18:36:24Z",
+      "user": "N2e",
+      "userid": 1143897,
+      "size": 3625,
+      "comment": "+cat; rm bio stub",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 689554977,
+      "parentid": 632450310,
+      "timestamp": "2015-11-07T23:15:47Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 3662,
+      "comment": "removed [[Category:Princeton University alumni]]; added [[Category:Woodrow Wilson School of Public and International Affairs alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 694121577,
+      "parentid": 689554977,
+      "timestamp": "2015-12-07T06:21:21Z",
+      "user": "70.51.44.60",
+      "userid": 0,
+      "size": 3695,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 694134224,
+      "parentid": 694121577,
+      "timestamp": "2015-12-07T08:50:08Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 3698,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 694134299,
+      "parentid": 694134224,
+      "timestamp": "2015-12-07T08:51:10Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 3737,
+      "comment": "added [[Category:American chief executives]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710287330,
+      "parentid": 694134299,
+      "timestamp": "2016-03-16T02:04:39Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3476,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/George T. Whitesides|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 752309801,
+      "parentid": 710287330,
+      "timestamp": "2016-11-30T15:33:58Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3476,
+      "comment": "Robot - Speedily moving category Obama Administration personnel to [[:Category:Obama administration personnel]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 756691153,
+      "parentid": 752309801,
+      "timestamp": "2016-12-26T05:21:29Z",
+      "user": "2602:306:306E:270:D52D:D9AC:389B:A43F",
+      "userid": 0,
+      "size": 3462,
+      "comment": "I deleted \"president\" as he is no longer the president - but is still the CEO",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 758799210,
+      "parentid": 756691153,
+      "timestamp": "2017-01-07T17:27:23Z",
+      "user": "62.202.180.194",
+      "userid": 0,
+      "size": 3470,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 800635261,
+      "parentid": 758799210,
+      "timestamp": "2017-09-14T19:28:00Z",
+      "user": "199.216.163.106",
+      "userid": 0,
+      "size": 3465,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 800635358,
+      "parentid": 800635261,
+      "timestamp": "2017-09-14T19:28:54Z",
+      "user": "199.216.163.106",
+      "userid": 0,
+      "size": 3463,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikilinks removed"
+      ]
+    },
+    {
+      "revid": 801141058,
+      "parentid": 800635358,
+      "timestamp": "2017-09-17T22:28:43Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 3423,
+      "comment": "redundant cat using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 801667967,
+      "parentid": 801141058,
+      "timestamp": "2017-09-21T02:45:01Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3501,
+      "comment": "Rescuing 0 sources and tagging 1 as dead. #IABot (v1.5.3)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 803316418,
+      "parentid": 801667967,
+      "timestamp": "2017-10-01T19:33:09Z",
+      "user": "Jessicapierce",
+      "userid": 2003421,
+      "size": 3521,
+      "comment": "minor copy edits, restored image broken through vandalism, removed other vandalism",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 809399844,
+      "parentid": 803316418,
+      "timestamp": "2017-11-08T21:31:17Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 3525,
+      "comment": "/* Personal */WL 1 first-publisher; [[WP:GenFixes]] on; using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 812871608,
+      "parentid": 809399844,
+      "timestamp": "2017-11-30T10:40:40Z",
+      "user": "Miguel Escribano",
+      "userid": 32462053,
+      "size": 3569,
+      "comment": "Link a su centro escolar",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 829219137,
+      "parentid": 812871608,
+      "timestamp": "2018-03-07T09:44:33Z",
+      "user": "Skitiger76",
+      "userid": 29969860,
+      "size": 3606,
+      "comment": "location",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 871104641,
+      "parentid": 829219137,
+      "timestamp": "2018-11-28T23:22:41Z",
+      "user": "MountainCat",
+      "userid": 33099987,
+      "size": 3644,
+      "comment": "/* Personal */ establishing new section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874407689,
+      "parentid": 871104641,
+      "timestamp": "2018-12-19T02:01:23Z",
+      "user": "2600:387:1:811:0:0:0:C4",
+      "userid": 0,
+      "size": 3647,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 874407729,
+      "parentid": 874407689,
+      "timestamp": "2018-12-19T02:01:45Z",
+      "user": "Hummerrocket",
+      "userid": 31317511,
+      "size": 3644,
+      "comment": "Reverted edits by [[Special:Contributions/2600:387:1:811:0:0:0:C4|2600:387:1:811:0:0:0:C4]] ([[User talk:2600:387:1:811:0:0:0:C4|talk]]) ([[WP:HG|HG]]) (3.4.6)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 877124143,
+      "parentid": 874407729,
+      "timestamp": "2019-01-06T18:56:11Z",
+      "user": "Gazamp",
+      "userid": 34220856,
+      "size": 3668,
+      "comment": "/* References */ Added [[Portal:Virgin Group]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 879690768,
+      "parentid": 877124143,
+      "timestamp": "2019-01-22T20:19:29Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 3713,
+      "comment": "added [[Category:Newton North High School alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 909770746,
+      "parentid": 879690768,
+      "timestamp": "2019-08-07T14:10:55Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 3690,
+      "comment": "remove links to deleted portals",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 924443751,
+      "parentid": 909770746,
+      "timestamp": "2019-11-03T22:14:28Z",
+      "user": "2806:10AE:11:D933:31E5:13A7:BBC:CE4",
+      "userid": 0,
+      "size": 3697,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 924557626,
+      "parentid": 924443751,
+      "timestamp": "2019-11-04T16:01:45Z",
+      "user": "CAPTAIN RAJU",
+      "userid": 25523690,
+      "size": 3690,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2806:10AE:11:D933:31E5:13A7:BBC:CE4|2806:10AE:11:D933:31E5:13A7:BBC:CE4]] identified as test/vandalism using [[WP:STiki|STiki]]",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "STiki"
+      ]
+    },
+    {
+      "revid": 932561751,
+      "parentid": 924557626,
+      "timestamp": "2019-12-26T20:44:16Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 4022,
+      "comment": "Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 935211113,
+      "parentid": 932561751,
+      "timestamp": "2020-01-11T05:50:48Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 4120,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 938569923,
+      "parentid": 935211113,
+      "timestamp": "2020-02-01T00:41:10Z",
+      "user": "Kj cheetham",
+      "userid": 6972236,
+      "size": 4165,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"CEO of Virgin Galactic\", overriding Wikidata description \"NASA Chief of Staff\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 963897300,
+      "parentid": 938569923,
+      "timestamp": "2020-06-22T12:31:50Z",
+      "user": "Uhooep",
+      "userid": 22939902,
+      "size": 4667,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 965397783,
+      "parentid": 963897300,
+      "timestamp": "2020-07-01T02:50:54Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4662,
+      "comment": "Moving from [[Category:Woodrow Wilson School of Public and International Affairs alumni]] to [[Category:Princeton School of Public and International Affairs alumni]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 971230153,
+      "parentid": 965397783,
+      "timestamp": "2020-08-04T22:03:04Z",
+      "user": "AdamT777",
+      "userid": 39033590,
+      "size": 4668,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 972724492,
+      "parentid": 971230153,
+      "timestamp": "2020-08-13T14:30:28Z",
+      "user": "B8tley",
+      "userid": 38270015,
+      "size": 5002,
+      "comment": "No longer CEO, now CSO.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 976446514,
+      "parentid": 972724492,
+      "timestamp": "2020-09-02T23:59:47Z",
+      "user": "92.112.254.67",
+      "userid": 0,
+      "size": 5015,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984443906,
+      "parentid": 976446514,
+      "timestamp": "2020-10-20T03:38:15Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 5013,
+      "comment": "Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:NASA people]] | via #UCB_Category 90/501",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 992544084,
+      "parentid": 984443906,
+      "timestamp": "2020-12-05T20:48:14Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 4297,
+      "comment": "rm claims sourced entirely to deprecated source [[WP:DAILYMAIL]] and to promotional link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994241551,
+      "parentid": 992544084,
+      "timestamp": "2020-12-14T19:26:55Z",
+      "user": "Tom.Bot",
+      "userid": 28901961,
+      "size": 4320,
+      "comment": "[[Wikipedia:Bots/Requests for approval/Tom.Bot 6|Task 6]]: +{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1010532557,
+      "parentid": 994241551,
+      "timestamp": "2021-03-05T23:53:10Z",
+      "user": "Dobblestein",
+      "userid": 39939323,
+      "size": 4723,
+      "comment": "/* Career */ Added update to career section with source.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1018392204,
+      "parentid": 1010532557,
+      "timestamp": "2021-04-17T21:16:15Z",
+      "user": "Bryanlallen",
+      "userid": 1197418,
+      "size": 5139,
+      "comment": "Whitesides has stepped down as the Chief Space Officer at Virgin Galactic.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1085224054,
+      "parentid": 1018392204,
+      "timestamp": "2022-04-29T05:09:41Z",
+      "user": "76.91.74.247",
+      "userid": 0,
+      "size": 5135,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108458500,
+      "parentid": 1085224054,
+      "timestamp": "2022-09-04T14:24:13Z",
+      "user": "Suonii180",
+      "userid": 27089876,
+      "size": 5063,
+      "comment": "removed unknown and deprecated parameters as per [[Template:Infobox person]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140984530,
+      "parentid": 1108458500,
+      "timestamp": "2023-02-22T19:38:08Z",
+      "user": "Gordfather69",
+      "userid": 41248169,
+      "size": 5232,
+      "comment": "Added his congressional campaign annoucement",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1140984744,
+      "parentid": 1140984530,
+      "timestamp": "2023-02-22T19:39:22Z",
+      "user": "Gordfather69",
+      "userid": 41248169,
+      "size": 5225,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1140984824,
+      "parentid": 1140984744,
+      "timestamp": "2023-02-22T19:39:51Z",
+      "user": "Gordfather69",
+      "userid": 41248169,
+      "size": 5270,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1140984975,
+      "parentid": 1140984824,
+      "timestamp": "2023-02-22T19:40:52Z",
+      "user": "Gordfather69",
+      "userid": 41248169,
+      "size": 5354,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1141053790,
+      "parentid": 1140984975,
+      "timestamp": "2023-02-23T03:21:45Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5385,
+      "comment": "/* top */ he's still alive",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1141255984,
+      "parentid": 1141053790,
+      "timestamp": "2023-02-24T04:08:13Z",
+      "user": "Spyglass1",
+      "userid": 45327716,
+      "size": 5456,
+      "comment": "political party",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1141337556,
+      "parentid": 1141255984,
+      "timestamp": "2023-02-24T15:19:22Z",
+      "user": "Drmies",
+      "userid": 5183450,
+      "size": 5385,
+      "comment": "rv socking",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1144887171,
+      "parentid": 1141337556,
+      "timestamp": "2023-03-16T03:39:48Z",
+      "user": "2603:8081:2E00:D0E:8DC8:528C:8998:4F86",
+      "userid": 0,
+      "size": 5456,
+      "comment": "political party",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145406600,
+      "parentid": 1144887171,
+      "timestamp": "2023-03-19T00:39:00Z",
+      "user": "Drmies",
+      "userid": 5183450,
+      "size": 5385,
+      "comment": "rv block evasion, IP socking",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1148665063,
+      "parentid": 1145406600,
+      "timestamp": "2023-04-07T15:28:08Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5396,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148665293,
+      "parentid": 1148665063,
+      "timestamp": "2023-04-07T15:30:10Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5396,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148665337,
+      "parentid": 1148665293,
+      "timestamp": "2023-04-07T15:30:27Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5459,
+      "comment": "[[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148667941,
+      "parentid": 1148665337,
+      "timestamp": "2023-04-07T15:50:54Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 5491,
+      "comment": "Dating maintenance tags: {{When?}} {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1148724480,
+      "parentid": 1148667941,
+      "timestamp": "2023-04-07T22:20:22Z",
+      "user": "C41nb31t",
+      "userid": 39544551,
+      "size": 9211,
+      "comment": "Added sources and updates on Whitesides",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1149478188,
+      "parentid": 1148724480,
+      "timestamp": "2023-04-12T14:06:49Z",
+      "user": "64.253.17.178",
+      "userid": 0,
+      "size": 9295,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150340306,
+      "parentid": 1149478188,
+      "timestamp": "2023-04-17T16:02:14Z",
+      "user": "198.105.45.60",
+      "userid": 0,
+      "size": 10351,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150344388,
+      "parentid": 1150340306,
+      "timestamp": "2023-04-17T16:31:45Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10310,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150344494,
+      "parentid": 1150344388,
+      "timestamp": "2023-04-17T16:32:32Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10269,
+      "comment": "/* 2024 U.S. House campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150344525,
+      "parentid": 1150344494,
+      "timestamp": "2023-04-17T16:32:46Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9824,
+      "comment": "/* 2024 U.S. House campaign */ campaign website",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150577572,
+      "parentid": 1150344525,
+      "timestamp": "2023-04-18T22:44:43Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 9636,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150618975,
+      "parentid": 1150577572,
+      "timestamp": "2023-04-19T04:31:37Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 9676,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150619045,
+      "parentid": 1150618975,
+      "timestamp": "2023-04-19T04:32:43Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 9925,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151537498,
+      "parentid": 1150619045,
+      "timestamp": "2023-04-24T17:27:27Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10595,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]], bio data",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151537648,
+      "parentid": 1151537498,
+      "timestamp": "2023-04-24T17:28:29Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10641,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151537684,
+      "parentid": 1151537648,
+      "timestamp": "2023-04-24T17:28:46Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10642,
+      "comment": "/* 2024 U.S. House campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151538475,
+      "parentid": 1151537684,
+      "timestamp": "2023-04-24T17:34:33Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10748,
+      "comment": "bio data, caption",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151538598,
+      "parentid": 1151538475,
+      "timestamp": "2023-04-24T17:35:28Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10583,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151539290,
+      "parentid": 1151538598,
+      "timestamp": "2023-04-24T17:41:00Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10948,
+      "comment": "award",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151539308,
+      "parentid": 1151539290,
+      "timestamp": "2023-04-24T17:41:12Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10948,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1151539501,
+      "parentid": 1151539308,
+      "timestamp": "2023-04-24T17:42:53Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10984,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1153980723,
+      "parentid": 1151539501,
+      "timestamp": "2023-05-09T13:59:27Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 10854,
+      "comment": "Staff job at an independent agency does not merit infobox inclusion. It's not a resume",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1160069916,
+      "parentid": 1153980723,
+      "timestamp": "2023-06-14T07:13:43Z",
+      "user": "Anomalocaris",
+      "userid": 299039,
+      "size": 11240,
+      "comment": "improve <ref>s; standardize {{cite}} whitespace: unspaced equals; space before not after pipe; <ref name>s quoted and improved; straight quotes and apostrophes; Official website; omit |url-status without |archive-url",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1161795156,
+      "parentid": 1160069916,
+      "timestamp": "2023-06-25T03:45:38Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 11377,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1197583961,
+      "parentid": 1161795156,
+      "timestamp": "2024-01-21T03:44:45Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 11382,
+      "comment": "Altered pages. Added work. Removed parameters. Formatted [[WP:ENDASH|dashes]]. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this tool]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_Gadget",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1212832870,
+      "parentid": 1197583961,
+      "timestamp": "2024-03-09T19:52:19Z",
+      "user": "Windorrum",
+      "userid": 38188006,
+      "size": 11394,
+      "comment": "I found his birth date and page on https://www.joincalifornia.com/candidate/15007",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1226249229,
+      "parentid": 1212832870,
+      "timestamp": "2024-05-29T13:12:18Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 11540,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1231765211,
+      "parentid": 1226249229,
+      "timestamp": "2024-06-30T04:16:05Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 11552,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"CEO of Virgin Galactic\" to \"CEO of Virgin Galactic (born 1974)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1245902354,
+      "parentid": 1231765211,
+      "timestamp": "2024-09-15T20:02:29Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 11713,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 21249",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1246279184,
+      "parentid": 1245902354,
+      "timestamp": "2024-09-18T00:05:18Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 11742,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246280157,
+      "parentid": 1246279184,
+      "timestamp": "2024-09-18T00:11:28Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 11738,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246280225,
+      "parentid": 1246280157,
+      "timestamp": "2024-09-18T00:12:04Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 11738,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1251773737,
+      "parentid": 1246280225,
+      "timestamp": "2024-10-18T00:36:43Z",
+      "user": "100.19.146.32",
+      "userid": 0,
+      "size": 11446,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1251777346,
+      "parentid": 1251773737,
+      "timestamp": "2024-10-18T01:01:23Z",
+      "user": "100.19.146.32",
+      "userid": 0,
+      "size": 11018,
+      "comment": "Updated information and edited site",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 1251777670,
+      "parentid": 1251777346,
+      "timestamp": "2024-10-18T01:03:42Z",
+      "user": "100.19.146.32",
+      "userid": 0,
+      "size": 11018,
+      "comment": "added a semicolon",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1251921343,
+      "parentid": 1251777670,
+      "timestamp": "2024-10-18T20:51:54Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10945,
+      "comment": "right, and it's already an external link here as it should be",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256458870,
+      "parentid": 1251921343,
+      "timestamp": "2024-11-10T01:01:57Z",
+      "user": "PickleG13",
+      "userid": 23762609,
+      "size": 10996,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "app-section-source"
+      ]
+    },
+    {
+      "revid": 1256501178,
+      "parentid": 1256458870,
+      "timestamp": "2024-11-10T06:16:44Z",
+      "user": "50.24.124.12",
+      "userid": 0,
+      "size": 11000,
+      "comment": "/* Personal life */ less personal",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256501624,
+      "parentid": 1256501178,
+      "timestamp": "2024-11-10T06:20:51Z",
+      "user": "50.24.124.12",
+      "userid": 0,
+      "size": 11635,
+      "comment": "/* Personal life */ donations",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256899925,
+      "parentid": 1256501624,
+      "timestamp": "2024-11-12T03:16:23Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 11887,
+      "comment": "Mike Garcia has conceded, updating infobox https://x.com/AndrewSolender/status/1856170214489985376",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256900212,
+      "parentid": 1256899925,
+      "timestamp": "2024-11-12T03:18:28Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 12406,
+      "comment": "adjust lead and add ref for his win",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256900314,
+      "parentid": 1256900212,
+      "timestamp": "2024-11-12T03:19:11Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 12513,
+      "comment": "add wl to lead",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256900930,
+      "parentid": 1256900314,
+      "timestamp": "2024-11-12T03:23:26Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12501,
+      "comment": "He beat Garcia.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256907945,
+      "parentid": 1256900930,
+      "timestamp": "2024-11-12T04:19:42Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 12550,
+      "comment": "added [[Category:21st-century California politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1256915053,
+      "parentid": 1256907945,
+      "timestamp": "2024-11-12T05:24:42Z",
+      "user": "AbelAndCain",
+      "userid": 38805863,
+      "size": 12579,
+      "comment": "/* Early career */Updated page.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1256915213,
+      "parentid": 1256915053,
+      "timestamp": "2024-11-12T05:26:20Z",
+      "user": "AbelAndCain",
+      "userid": 38805863,
+      "size": 12661,
+      "comment": "/* U.S. House of Representatives */Updated page.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1256915273,
+      "parentid": 1256915213,
+      "timestamp": "2024-11-12T05:27:03Z",
+      "user": "AbelAndCain",
+      "userid": 38805863,
+      "size": 12691,
+      "comment": "/* U.S. House of Representatives */Updated page.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1256978920,
+      "parentid": 1256915273,
+      "timestamp": "2024-11-12T15:09:46Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 12673,
+      "comment": "/* U.S. House of Representatives */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257000518,
+      "parentid": 1256978920,
+      "timestamp": "2024-11-12T17:38:27Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 12760,
+      "comment": "/* U.S. House of Representatives */ this section doesnt mention Mike Garcia once -- lets change that",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257166803,
+      "parentid": 1257000518,
+      "timestamp": "2024-11-13T15:53:48Z",
+      "user": "Estar8806",
+      "userid": 36418353,
+      "size": 12773,
+      "comment": "Updated short description",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "app-description-change"
+      ]
+    },
+    {
+      "revid": 1258462869,
+      "parentid": 1257166803,
+      "timestamp": "2024-11-19T21:46:58Z",
+      "user": "Kokaynegeesus",
+      "userid": 43645782,
+      "size": 12752,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258699652,
+      "parentid": 1258462869,
+      "timestamp": "2024-11-21T03:05:42Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 12773,
+      "comment": "/* External links */ c-span",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261140833,
+      "parentid": 1258699652,
+      "timestamp": "2024-12-04T13:48:00Z",
+      "user": "Tomrtn",
+      "userid": 3229905,
+      "size": 12860,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261721943,
+      "parentid": 1261140833,
+      "timestamp": "2024-12-07T16:48:54Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 13486,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_T._Whitesides"
+}

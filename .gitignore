@@ -1,21 +1,26 @@
 # Ignore everything
 *
 
-# Except 
+# Un-ignore specific directories and files
+
+# Notebooks
 !notebooks/
 !notebooks/04_event_study_analysis.ipynb
 
+# Data
 !data/
 !data/raw/
-!data/raw/*
+!data/raw/*/
+!data/raw/**
 data/raw/DUPLICATE_AUDIT_REPORT.md
 data/raw/ELECTION_TYPE_DOCUMENTATION.md
 
+# Scripts
 !scripts/
-!scripts/*
+!scripts/*.py
 scripts/__pycache__/
 
-!readme_011_house_candidate_roster.md
-!readme_012_senate_candidate_roster.md
+!readme_*.md
 
+# Config
 !.gitignore

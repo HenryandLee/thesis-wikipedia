@@ -1,0 +1,53 @@
+{
+  "page_title": "Sean_Sullivan_(politician)",
+  "candidate_name": "Sean Sullivan",
+  "collection_date": "2025-12-28T16:54:10.491558",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2012-08-19T19:56:10Z",
+      "end": "2013-05-28T10:56:03Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 508175498,
+      "parentid": 0,
+      "timestamp": "2012-08-19T19:56:10Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 43,
+      "comment": "[[WP:AES|←]]Redirected page to [[Sean Sullivan (naval officer)]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557111025,
+      "parentid": 508175498,
+      "timestamp": "2013-05-28T02:47:50Z",
+      "user": "AvicBot",
+      "userid": 11952314,
+      "size": 94,
+      "comment": "Robot: Fixing double redirect to [[United States House of Representatives elections in Connecticut, 2008#District 2]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 557152538,
+      "parentid": 557111025,
+      "timestamp": "2013-05-28T10:56:03Z",
+      "user": "Xezbeth",
+      "userid": 86247,
+      "size": 43,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/AvicBot|AvicBot]] ([[User talk:AvicBot|talk]]) to last version by Tassedethe",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sean_Sullivan_(politician)"
+}

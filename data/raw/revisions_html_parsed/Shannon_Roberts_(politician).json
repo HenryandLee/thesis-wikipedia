@@ -1,0 +1,77 @@
+{
+  "page_title": "Shannon_Roberts_(politician)",
+  "candidate_name": "Shannon Roberts",
+  "collection_date": "2025-12-28T16:54:11.921060",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 5,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2010-08-22T15:16:25Z",
+      "end": "2018-12-08T20:49:23Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 380331233,
+      "parentid": 0,
+      "timestamp": "2010-08-22T15:16:25Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 40,
+      "comment": "moved [[Shannon Roberts]] to [[Shannon Roberts (musician)]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 380331512,
+      "parentid": 380331233,
+      "timestamp": "2010-08-22T15:18:30Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Florida, 2010#District 15]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 432437700,
+      "parentid": 380331512,
+      "timestamp": "2011-06-03T23:36:33Z",
+      "user": "DeFaultRyan",
+      "userid": 2866968,
+      "size": 91,
+      "comment": "moved [[Shannon Roberts]] to [[Shannon Roberts (congressman)]]: Disambiguating Shannon Roberts",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 432438469,
+      "parentid": 432437700,
+      "timestamp": "2011-06-03T23:43:08Z",
+      "user": "DeFaultRyan",
+      "userid": 2866968,
+      "size": 91,
+      "comment": "moved [[Shannon Roberts (congressman)]] to [[Shannon Roberts (politician)]]: Probably more appropriate to disambig as politician, rather than congressman, if the individual never won election",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872730429,
+      "parentid": 432438469,
+      "timestamp": "2018-12-08T20:49:23Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Florida]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shannon_Roberts_(politician)"
+}

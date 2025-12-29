@@ -1,0 +1,44 @@
+{
+  "page_title": "Bill_Foster_(Illinois_politician)",
+  "candidate_name": "Bill Foster",
+  "collection_date": "2025-12-28T16:33:31.700410",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-02-01T08:34:35Z",
+      "end": "2021-10-31T04:40:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 593406072,
+      "parentid": 0,
+      "timestamp": "2014-02-01T08:34:35Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 54,
+      "comment": "Arms & Hearts moved page [[Bill Foster (Illinois politician)]] to [[Bill Foster (politician)]] over redirect: per the Queen example at [[WP:NATURAL]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1052802929,
+      "parentid": 593406072,
+      "timestamp": "2021-10-31T04:40:02Z",
+      "user": "Senator2029",
+      "userid": 13054498,
+      "size": 116,
+      "comment": "Added {{[[:Template:R from other disambiguation|R from other disambiguation]]}} tag  to redirect",
+      "minor": true,
+      "tags": [
+        "twinkle"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Foster_(Illinois_politician)"
+}

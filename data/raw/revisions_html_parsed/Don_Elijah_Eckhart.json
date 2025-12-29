@@ -1,0 +1,44 @@
+{
+  "page_title": "Don_Elijah_Eckhart",
+  "candidate_name": "Don Elijah Eckhart",
+  "collection_date": "2025-12-28T16:37:57.765299",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2008-11-14T01:05:46Z",
+      "end": "2018-12-08T15:20:18Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 251676606,
+      "parentid": 0,
+      "timestamp": "2008-11-14T01:05:46Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 88,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Ohio, 2008#District 15]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872686309,
+      "parentid": 251676606,
+      "timestamp": "2018-12-08T15:20:18Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 87,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Ohio]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Don_Elijah_Eckhart"
+}

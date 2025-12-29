@@ -1,0 +1,44 @@
+{
+  "page_title": "Delinda_Morgan",
+  "candidate_name": "Delinda Morgan",
+  "collection_date": "2025-12-28T16:37:26.126979",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2016-09-10T23:06:27Z",
+      "end": "2018-12-04T19:42:27Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 738765052,
+      "parentid": 0,
+      "timestamp": "2016-09-10T23:06:27Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 78,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Oregon, 2016]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872026195,
+      "parentid": 738765052,
+      "timestamp": "2018-12-04T19:42:27Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 77,
+      "comment": "Bot: Fixing double redirect to [[2016 United States House of Representatives elections in Oregon]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Delinda_Morgan"
+}

@@ -1,0 +1,61 @@
+{
+  "page_title": "Nathan_Larson_(politician)",
+  "candidate_name": "Nathan Larson",
+  "collection_date": "2025-12-28T16:50:32.799751",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2023-03-15T13:38:57Z",
+      "end": "2023-03-20T21:33:00Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1144770686,
+      "parentid": 0,
+      "timestamp": "2023-03-15T13:38:57Z",
+      "user": "Wes sideman",
+      "userid": 40255366,
+      "size": 85,
+      "comment": "Wes sideman moved page [[Nathan Larson (politician)]] to [[Nathan Larson (criminal)]]: Far more notability as a convicted felon than as a politician",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1145762355,
+      "parentid": 1144770686,
+      "timestamp": "2023-03-20T21:03:57Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 86,
+      "comment": "Bot: Fixing double redirect to [[Nathan Larson (extremist)]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1145765978,
+      "parentid": 1145762355,
+      "timestamp": "2023-03-20T21:33:00Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 85,
+      "comment": "Bot: Fixing double redirect to [[Nathan Larson (criminal)]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "mw-manual-revert"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nathan_Larson_(politician)"
+}

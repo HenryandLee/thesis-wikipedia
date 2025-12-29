@@ -1,0 +1,59 @@
+{
+  "page_title": "Robert_Dold",
+  "candidate_name": "Robert Dold",
+  "collection_date": "2025-12-28T16:52:41.157268",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2018-01-22T02:56:28Z",
+      "end": "2021-06-08T02:35:37Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 821700157,
+      "parentid": 0,
+      "timestamp": "2018-01-22T02:56:28Z",
+      "user": "Arbor to SJ",
+      "userid": 4322169,
+      "size": 39,
+      "comment": "Arbor to SJ moved page [[Robert Dold]] to [[Bob Dold]] over redirect: \"Bob\" is the more [[WP:COMMONNAME]] in news media, and he used it in his congressional website [[WP:SELFIDENTITY]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1027464312,
+      "parentid": 821700157,
+      "timestamp": "2021-06-08T02:34:29Z",
+      "user": "2601:601:1300:B130:D118:85B2:6169:11FD",
+      "userid": 0,
+      "size": 29,
+      "comment": "[[WP:AES|←]]Removed redirect to [[Bob Dold]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1027464410,
+      "parentid": 1027464312,
+      "timestamp": "2021-06-08T02:35:37Z",
+      "user": "WhoAteMyButter",
+      "userid": 37918255,
+      "size": 39,
+      "comment": "Rollback edit(s) by [[Special:Contributions/2601:601:1300:B130:D118:85B2:6169:11FD|2601:601:1300:B130:D118:85B2:6169:11FD]] ([[User_talk:2601:601:1300:B130:D118:85B2:6169:11FD|talk]]):  (from [[WP:UCP|contribs]]) [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-new-redirect"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Dold"
+}

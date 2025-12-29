@@ -1,0 +1,55 @@
+{
+  "page_title": "Alieta_Eck",
+  "candidate_name": "Alieta Eck",
+  "collection_date": "2025-12-28T16:32:00.052171",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2013-06-21T00:03:00Z",
+      "end": "2018-11-29T22:01:09Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 560823098,
+      "parentid": 0,
+      "timestamp": "2013-06-21T00:03:00Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 64,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States special election in New Jersey, 2013]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 560823179,
+      "parentid": 560823098,
+      "timestamp": "2013-06-21T00:03:43Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 71,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States Senate special election in New Jersey, 2013]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 871257010,
+      "parentid": 560823179,
+      "timestamp": "2018-11-29T22:01:09Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 70,
+      "comment": "Bot: Fixing double redirect to [[2013 United States Senate special election in New Jersey]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alieta_Eck"
+}

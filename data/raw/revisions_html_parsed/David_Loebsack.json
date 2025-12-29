@@ -1,0 +1,53 @@
+{
+  "page_title": "David_Loebsack",
+  "candidate_name": "David Loebsack",
+  "collection_date": "2025-12-28T16:37:00.053259",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2014-11-17T05:31:02Z",
+      "end": "2017-06-12T09:15:07Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 634185326,
+      "parentid": 0,
+      "timestamp": "2014-11-17T05:31:02Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 43,
+      "comment": "Nevermore27 moved page [[David Loebsack]] to [[Dave Loebsack]] over redirect: WP:Commonname. If he goes by Dave, that should be the page title.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 634461607,
+      "parentid": 634185326,
+      "timestamp": "2014-11-19T00:55:59Z",
+      "user": "Philosopher",
+      "userid": 532775,
+      "size": 64,
+      "comment": "+ r from long name",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785229771,
+      "parentid": 634461607,
+      "timestamp": "2017-06-12T09:15:07Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 97,
+      "comment": "+{{[[Template:Redirect category shell|Redirect category shell]]}} for multiple-{{R}} #Rs using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Loebsack"
+}

@@ -1,0 +1,923 @@
+{
+  "page_title": "Tom_Houghton",
+  "candidate_name": "Tom Houghton",
+  "collection_date": "2025-12-28T16:56:38.071080",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 78,
+    "unique_editors": 32,
+    "date_range": {
+      "start": "2009-03-08T19:37:36Z",
+      "end": "2024-12-05T00:46:21Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 275867669,
+      "parentid": 0,
+      "timestamp": "2009-03-08T19:37:36Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 4375,
+      "comment": "Created Page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 275867958,
+      "parentid": 275867669,
+      "timestamp": "2009-03-08T19:39:02Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 4376,
+      "comment": "adjustments",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 275938062,
+      "parentid": 275867958,
+      "timestamp": "2009-03-09T01:25:35Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 4472,
+      "comment": "adjustments",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 276348700,
+      "parentid": 275938062,
+      "timestamp": "2009-03-10T20:05:41Z",
+      "user": "Bashen",
+      "userid": 2865844,
+      "size": 4473,
+      "comment": "fixed typo in info box",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 284273007,
+      "parentid": 276348700,
+      "timestamp": "2009-04-16T20:09:41Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 4470,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 288532573,
+      "parentid": 284273007,
+      "timestamp": "2009-05-07T19:38:43Z",
+      "user": "Bashen",
+      "userid": 2865844,
+      "size": 4549,
+      "comment": "added alumni cats",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 288731897,
+      "parentid": 288532573,
+      "timestamp": "2009-05-08T19:35:22Z",
+      "user": "RussBot",
+      "userid": 279219,
+      "size": 4556,
+      "comment": "Robot-assisted fix [[WP:DPL|links to disambiguation page]] Attorney",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 302478264,
+      "parentid": 288731897,
+      "timestamp": "2009-07-16T20:20:00Z",
+      "user": "Blargh29",
+      "userid": 9656687,
+      "size": 4817,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 314273657,
+      "parentid": 302478264,
+      "timestamp": "2009-09-16T04:22:31Z",
+      "user": "Blargh29",
+      "userid": 9656687,
+      "size": 4832,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 314274418,
+      "parentid": 314273657,
+      "timestamp": "2009-09-16T04:27:08Z",
+      "user": "Blargh29",
+      "userid": 9656687,
+      "size": 4872,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 314274481,
+      "parentid": 314274418,
+      "timestamp": "2009-09-16T04:27:31Z",
+      "user": "Blargh29",
+      "userid": 9656687,
+      "size": 4832,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 330995358,
+      "parentid": 314274481,
+      "timestamp": "2009-12-11T01:37:00Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 4811,
+      "comment": "Correct cap in header and/or general fixes. using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 350734406,
+      "parentid": 330995358,
+      "timestamp": "2010-03-19T04:38:25Z",
+      "user": "216.80.75.152",
+      "userid": 0,
+      "size": 8069,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 350734615,
+      "parentid": 350734406,
+      "timestamp": "2010-03-19T04:40:28Z",
+      "user": "216.80.75.152",
+      "userid": 0,
+      "size": 8073,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 350734837,
+      "parentid": 350734615,
+      "timestamp": "2010-03-19T04:42:40Z",
+      "user": "216.80.75.152",
+      "userid": 0,
+      "size": 8113,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 350735056,
+      "parentid": 350734837,
+      "timestamp": "2010-03-19T04:44:46Z",
+      "user": "216.80.75.152",
+      "userid": 0,
+      "size": 8174,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 350736026,
+      "parentid": 350735056,
+      "timestamp": "2010-03-19T04:55:02Z",
+      "user": "Dangabor",
+      "userid": 11953373,
+      "size": 8286,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 350736087,
+      "parentid": 350736026,
+      "timestamp": "2010-03-19T04:55:54Z",
+      "user": "Dangabor",
+      "userid": 11953373,
+      "size": 8201,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 350922148,
+      "parentid": 350736087,
+      "timestamp": "2010-03-20T04:24:37Z",
+      "user": "Dangabor",
+      "userid": 11953373,
+      "size": 8286,
+      "comment": "Undid revision 350736087 by [[Special:Contributions/Dangabor|Dangabor]] ([[User talk:Dangabor|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 350939843,
+      "parentid": 350922148,
+      "timestamp": "2010-03-20T07:12:43Z",
+      "user": "216.80.75.152",
+      "userid": 0,
+      "size": 8201,
+      "comment": "Undid revision 350922148 by [[Special:Contributions/Dangabor|Dangabor]] ([[User talk:Dangabor|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 352682819,
+      "parentid": 350939843,
+      "timestamp": "2010-03-29T05:38:08Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 8174,
+      "comment": "Removing \"RepTomHoughton.jpg\", it has been deleted from Commons by [[commons:User:Kved|Kved]] because: In category [[commons::category:Media without a license as of 19 March 2010|Media without a license as of 19 March 2010]]; no license.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 371006126,
+      "parentid": 352682819,
+      "timestamp": "2010-06-30T13:14:50Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 8151,
+      "comment": "Correct cap in header and/or general fixes.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 387861267,
+      "parentid": 371006126,
+      "timestamp": "2010-09-30T05:31:24Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 8413,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7192)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 395627347,
+      "parentid": 387861267,
+      "timestamp": "2010-11-08T22:34:00Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 6258,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 395627481,
+      "parentid": 395627347,
+      "timestamp": "2010-11-08T22:34:52Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 6315,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 396443031,
+      "parentid": 395627481,
+      "timestamp": "2010-11-13T03:38:49Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 6315,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 396443619,
+      "parentid": 396443031,
+      "timestamp": "2010-11-13T03:44:07Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 6345,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 402241654,
+      "parentid": 396443619,
+      "timestamp": "2010-12-14T00:24:08Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 6349,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 405641056,
+      "parentid": 402241654,
+      "timestamp": "2011-01-03T06:11:33Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 6155,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 405641114,
+      "parentid": 405641056,
+      "timestamp": "2011-01-03T06:11:59Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 6173,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 405970138,
+      "parentid": 405641114,
+      "timestamp": "2011-01-04T22:04:57Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 6155,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 405970224,
+      "parentid": 405970138,
+      "timestamp": "2011-01-04T22:05:28Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 6071,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 405992248,
+      "parentid": 405970224,
+      "timestamp": "2011-01-05T00:27:12Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 5983,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 406206957,
+      "parentid": 405992248,
+      "timestamp": "2011-01-06T02:46:05Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 5990,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 406209028,
+      "parentid": 406206957,
+      "timestamp": "2011-01-06T03:01:44Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 5994,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 406215523,
+      "parentid": 406209028,
+      "timestamp": "2011-01-06T03:50:01Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 5974,
+      "comment": "cat. includes current and former. cleanup wording.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 408714296,
+      "parentid": 406215523,
+      "timestamp": "2011-01-19T02:52:33Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 5985,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 408714630,
+      "parentid": 408714296,
+      "timestamp": "2011-01-19T02:55:02Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 5992,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 408714728,
+      "parentid": 408714630,
+      "timestamp": "2011-01-19T02:55:54Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 5999,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 408715060,
+      "parentid": 408714728,
+      "timestamp": "2011-01-19T02:58:54Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 5992,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 408715729,
+      "parentid": 408715060,
+      "timestamp": "2011-01-19T03:04:03Z",
+      "user": "Divineshadow",
+      "userid": 13416519,
+      "size": 6002,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 408725766,
+      "parentid": 408715729,
+      "timestamp": "2011-01-19T04:25:20Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 5995,
+      "comment": "not necessary",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 408726339,
+      "parentid": 408725766,
+      "timestamp": "2011-01-19T04:30:38Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 5991,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 430350639,
+      "parentid": 408726339,
+      "timestamp": "2011-05-22T14:16:58Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 5970,
+      "comment": "update infobox, remove obsolete blank params",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 469941694,
+      "parentid": 430350639,
+      "timestamp": "2012-01-06T18:27:49Z",
+      "user": "EATC",
+      "userid": 2418777,
+      "size": 6796,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 482355787,
+      "parentid": 469941694,
+      "timestamp": "2012-03-17T12:11:02Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 6779,
+      "comment": "Correct persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592744828,
+      "parentid": 482355787,
+      "timestamp": "2014-01-28T04:29:27Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 7297,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 603678166,
+      "parentid": 592744828,
+      "timestamp": "2014-04-11T00:50:55Z",
+      "user": "69.181.99.223",
+      "userid": 0,
+      "size": 7477,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 607698540,
+      "parentid": 603678166,
+      "timestamp": "2014-05-08T22:46:46Z",
+      "user": "Go Phightins!",
+      "userid": 13947331,
+      "size": 7505,
+      "comment": "fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 607698588,
+      "parentid": 607698540,
+      "timestamp": "2014-05-08T22:47:11Z",
+      "user": "Go Phightins!",
+      "userid": 13947331,
+      "size": 7510,
+      "comment": "/* Political future */ tweak",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716106954,
+      "parentid": 607698588,
+      "timestamp": "2016-04-19T23:03:08Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 7228,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Tom Houghton|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 848759127,
+      "parentid": 716106954,
+      "timestamp": "2018-07-04T03:30:31Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 7673,
+      "comment": "Rescuing 2 sources and tagging 1 as dead. #IABot (v2.0beta)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 854673826,
+      "parentid": 848759127,
+      "timestamp": "2018-08-13T01:21:04Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 7667,
+      "comment": "standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 867553409,
+      "parentid": 854673826,
+      "timestamp": "2018-11-06T13:23:45Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 7907,
+      "comment": "Rescuing 1 sources and tagging 1 as dead. #IABot (v2.0beta9)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867885844,
+      "parentid": 867553409,
+      "timestamp": "2018-11-08T16:21:44Z",
+      "user": "2600:1002:B004:75B5:389C:ED5A:E2D0:E915",
+      "userid": 0,
+      "size": 7908,
+      "comment": "/* Personal life */Updated ages",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 889956674,
+      "parentid": 867885844,
+      "timestamp": "2019-03-29T02:16:09Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7951,
+      "comment": "add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 918691820,
+      "parentid": 889956674,
+      "timestamp": "2019-09-29T22:15:36Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 7950,
+      "comment": "/* Political future */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 965332872,
+      "parentid": 918691820,
+      "timestamp": "2020-06-30T18:26:10Z",
+      "user": "Quorum816",
+      "userid": 26823709,
+      "size": 8169,
+      "comment": "fixed and added citations; removed promotional/irrelevant info",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 999023824,
+      "parentid": 965332872,
+      "timestamp": "2021-01-08T03:39:04Z",
+      "user": "Chsdrummajor07",
+      "userid": 5623853,
+      "size": 8091,
+      "comment": "/* Political future */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1005968228,
+      "parentid": 999023824,
+      "timestamp": "2021-02-10T09:40:00Z",
+      "user": "William Avery",
+      "userid": 1398,
+      "size": 8085,
+      "comment": "Remove well-known hypocorism - [[MOS:NICKNAME]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1050828729,
+      "parentid": 1005968228,
+      "timestamp": "2021-10-20T04:19:14Z",
+      "user": "Inwind",
+      "userid": 2901026,
+      "size": 8121,
+      "comment": "/* Political future */cleanup, update link",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1051183241,
+      "parentid": 1050828729,
+      "timestamp": "2021-10-22T01:06:49Z",
+      "user": "2601:985:203:89C0:5837:B1B9:DE3F:1B34",
+      "userid": 0,
+      "size": 8147,
+      "comment": "/* Township Supervisor */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1051183335,
+      "parentid": 1051183241,
+      "timestamp": "2021-10-22T01:07:42Z",
+      "user": "2601:985:203:89C0:5837:B1B9:DE3F:1B34",
+      "userid": 0,
+      "size": 8140,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1051183774,
+      "parentid": 1051183335,
+      "timestamp": "2021-10-22T01:11:20Z",
+      "user": "2601:985:203:89C0:5837:B1B9:DE3F:1B34",
+      "userid": 0,
+      "size": 7497,
+      "comment": "/* Personal life */I am divorced. And don’t want my kids’ names listed.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 1051217206,
+      "parentid": 1051183774,
+      "timestamp": "2021-10-22T06:22:08Z",
+      "user": "JPxG",
+      "userid": 21894337,
+      "size": 7729,
+      "comment": "fix reference, rm repetitive section and fix line breaks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1058660027,
+      "parentid": 1051217206,
+      "timestamp": "2021-12-04T22:30:48Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 7732,
+      "comment": "/* Political future */archive link repair, may include: archive.* -> archive.today, and http->https for ghostarchive.org and archive.org ([[wp:el#Specifying_protocols]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1073064266,
+      "parentid": 1058660027,
+      "timestamp": "2022-02-20T21:09:14Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7776,
+      "comment": "add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1125697472,
+      "parentid": 1073064266,
+      "timestamp": "2022-12-05T10:45:35Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 7757,
+      "comment": "/* External links */intersect Democratic and Pennsylvania representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1138047415,
+      "parentid": 1125697472,
+      "timestamp": "2023-02-07T19:17:20Z",
+      "user": "Sam11333",
+      "userid": 11121466,
+      "size": 7822,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1142159597,
+      "parentid": 1138047415,
+      "timestamp": "2023-02-28T21:04:14Z",
+      "user": "Chsdrummajor07",
+      "userid": 5623853,
+      "size": 7966,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1142159647,
+      "parentid": 1142159597,
+      "timestamp": "2023-02-28T21:04:37Z",
+      "user": "Chsdrummajor07",
+      "userid": 5623853,
+      "size": 8000,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1167475057,
+      "parentid": 1142159647,
+      "timestamp": "2023-07-28T00:14:08Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8005,
+      "comment": "Moving from [[Category:People from Philadelphia]] to [[Category:Politicians from Philadelphia]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1206326934,
+      "parentid": 1167475057,
+      "timestamp": "2024-02-11T21:19:34Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 8005,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1206777956,
+      "parentid": 1206326934,
+      "timestamp": "2024-02-13T03:01:11Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 8056,
+      "comment": "/* External links */add [[Category:21st-century Pennsylvania politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1226012864,
+      "parentid": 1206777956,
+      "timestamp": "2024-05-28T02:12:02Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 8055,
+      "comment": "/* Professional career */Clean up spacing around commas and other punctuation fixes, replaced: ,  → ,",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1261238112,
+      "parentid": 1226012864,
+      "timestamp": "2024-12-05T00:40:19Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8126,
+      "comment": "added [[Category:21st-century members of the Pennsylvania General Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261238683,
+      "parentid": 1261238112,
+      "timestamp": "2024-12-05T00:43:49Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8075,
+      "comment": "Removing from [[Category:21st-century Pennsylvania politicians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261239110,
+      "parentid": 1261238683,
+      "timestamp": "2024-12-05T00:46:21Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8028,
+      "comment": "Removing from [[Category:21st-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Houghton"
+}

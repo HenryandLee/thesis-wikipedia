@@ -1,0 +1,951 @@
+{
+  "page_title": "Joel_Dykstra",
+  "candidate_name": "Joel Dykstra",
+  "collection_date": "2025-12-28T16:43:10.589577",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 82,
+    "unique_editors": 61,
+    "date_range": {
+      "start": "2006-11-10T00:58:59Z",
+      "end": "2024-12-13T20:34:44Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 86841446,
+      "parentid": 0,
+      "timestamp": "2006-11-10T00:58:59Z",
+      "user": "Brianhass",
+      "userid": 361822,
+      "size": 922,
+      "comment": "Started article.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86841527,
+      "parentid": 86841446,
+      "timestamp": "2006-11-10T00:59:31Z",
+      "user": "Brianhass",
+      "userid": 361822,
+      "size": 901,
+      "comment": "Corrected typo.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86841586,
+      "parentid": 86841527,
+      "timestamp": "2006-11-10T00:59:58Z",
+      "user": "Brianhass",
+      "userid": 361822,
+      "size": 904,
+      "comment": "Fixed typo.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 92834047,
+      "parentid": 86841586,
+      "timestamp": "2006-12-08T01:49:01Z",
+      "user": "Spiesr",
+      "userid": 2817472,
+      "size": 936,
+      "comment": "{{SouthDakota-politician-stub}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 136374884,
+      "parentid": 92834047,
+      "timestamp": "2007-06-06T15:48:10Z",
+      "user": "Qst",
+      "userid": 4302884,
+      "size": 1106,
+      "comment": "Adding biography infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 142918354,
+      "parentid": 136374884,
+      "timestamp": "2007-07-06T16:15:00Z",
+      "user": "83.249.242.48",
+      "userid": 0,
+      "size": 1239,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 143674610,
+      "parentid": 142918354,
+      "timestamp": "2007-07-10T06:45:41Z",
+      "user": "Superlex",
+      "userid": 538843,
+      "size": 1692,
+      "comment": "added recent controversy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 148796782,
+      "parentid": 143674610,
+      "timestamp": "2007-08-02T20:55:36Z",
+      "user": "Jcbenton",
+      "userid": 4998808,
+      "size": 1800,
+      "comment": "added congresspedia external link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 150730793,
+      "parentid": 148796782,
+      "timestamp": "2007-08-12T08:13:40Z",
+      "user": "Maelgwnbot",
+      "userid": 4594058,
+      "size": 1783,
+      "comment": "Bot: Updating template fields",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 152233415,
+      "parentid": 150730793,
+      "timestamp": "2007-08-19T12:22:48Z",
+      "user": "Jddsd",
+      "userid": 5125223,
+      "size": 5141,
+      "comment": "replaced with official biography",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 152233745,
+      "parentid": 152233415,
+      "timestamp": "2007-08-19T12:25:29Z",
+      "user": "Jddsd",
+      "userid": 5125223,
+      "size": 5170,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 160420156,
+      "parentid": 152233745,
+      "timestamp": "2007-09-26T06:58:21Z",
+      "user": "145.97.201.175",
+      "userid": 0,
+      "size": 1851,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 162492524,
+      "parentid": 160420156,
+      "timestamp": "2007-10-05T17:22:14Z",
+      "user": "Spiesr",
+      "userid": 2817472,
+      "size": 1739,
+      "comment": "removed dead ref",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 162947322,
+      "parentid": 162492524,
+      "timestamp": "2007-10-07T21:23:59Z",
+      "user": "Jddsd",
+      "userid": 5125223,
+      "size": 5006,
+      "comment": "Returned to official biography",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 164420829,
+      "parentid": 162947322,
+      "timestamp": "2007-10-14T03:01:28Z",
+      "user": "Glenn Magus Harvey",
+      "userid": 341343,
+      "size": 5019,
+      "comment": "HOLY CRAP it's all bolded--fixed.  Someone else please fix the text by formatting it correctly and making sure everything's correct.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 165054673,
+      "parentid": 164420829,
+      "timestamp": "2007-10-16T22:25:55Z",
+      "user": "Superlex",
+      "userid": 538843,
+      "size": 2125,
+      "comment": "Tried to fix COI vios and restore lost content and fix refs.  Still needs work.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 165254989,
+      "parentid": 165054673,
+      "timestamp": "2007-10-17T20:15:28Z",
+      "user": "Jddsd",
+      "userid": 5125223,
+      "size": 5057,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 165257905,
+      "parentid": 165254989,
+      "timestamp": "2007-10-17T20:29:45Z",
+      "user": "Hello Control",
+      "userid": 5540452,
+      "size": 2125,
+      "comment": "[[WP:UNDO|Undid]] revision 165254989 by [[Special:Contributions/Jddsd|Jddsd]] ([[User talk:Jddsd|talk]])--rv COI edit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 169455300,
+      "parentid": 165257905,
+      "timestamp": "2007-11-05T21:11:49Z",
+      "user": "Bobboy84",
+      "userid": 5748491,
+      "size": 1756,
+      "comment": "Deleted the last paragraph due to unnecessary biasness",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 169455993,
+      "parentid": 169455300,
+      "timestamp": "2007-11-05T21:15:01Z",
+      "user": "Bobboy84",
+      "userid": 5748491,
+      "size": 1755,
+      "comment": "Named the company Dykstra worked for",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 173600363,
+      "parentid": 169455993,
+      "timestamp": "2007-11-25T01:52:44Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2227,
+      "comment": "added infobox and non-partisan links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 173600600,
+      "parentid": 173600363,
+      "timestamp": "2007-11-25T01:54:28Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2215,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 173631991,
+      "parentid": 173600600,
+      "timestamp": "2007-11-25T05:45:04Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2215,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 183710807,
+      "parentid": 173631991,
+      "timestamp": "2008-01-11T21:25:16Z",
+      "user": "Spiesr",
+      "userid": 2817472,
+      "size": 2231,
+      "comment": "refine cat",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 201686135,
+      "parentid": 183710807,
+      "timestamp": "2008-03-28T22:33:58Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 2384,
+      "comment": "free image please -   using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 205921172,
+      "parentid": 201686135,
+      "timestamp": "2008-04-16T01:07:03Z",
+      "user": "Jmgullickson",
+      "userid": 6903451,
+      "size": 4479,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 206053549,
+      "parentid": 205921172,
+      "timestamp": "2008-04-16T17:01:17Z",
+      "user": "Spiesr",
+      "userid": 2817472,
+      "size": 2384,
+      "comment": "[[WP:UNDO|Undid]] revision 205921172 by [[Special:Contributions/Jmgullickson|Jmgullickson]] ([[User talk:Jmgullickson|talk]]) Remeber NPOV and No Original research!",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 236126183,
+      "parentid": 206053549,
+      "timestamp": "2008-09-03T23:18:08Z",
+      "user": "WillowGrove",
+      "userid": 7715046,
+      "size": 2436,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 237909312,
+      "parentid": 236126183,
+      "timestamp": "2008-09-12T10:47:54Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 2427,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 241381574,
+      "parentid": 237909312,
+      "timestamp": "2008-09-27T19:46:46Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2495,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 244790470,
+      "parentid": 241381574,
+      "timestamp": "2008-10-12T15:41:40Z",
+      "user": "Darth Kalwejt",
+      "userid": 4374206,
+      "size": 2846,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 247201668,
+      "parentid": 244790470,
+      "timestamp": "2008-10-23T16:47:44Z",
+      "user": "192.152.5.250",
+      "userid": 0,
+      "size": 2919,
+      "comment": "/* See also */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 247217411,
+      "parentid": 247201668,
+      "timestamp": "2008-10-23T18:10:24Z",
+      "user": "207.108.15.11",
+      "userid": 0,
+      "size": 1521,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 247217475,
+      "parentid": 247217411,
+      "timestamp": "2008-10-23T18:10:44Z",
+      "user": "Ulric1313",
+      "userid": 7801357,
+      "size": 2919,
+      "comment": "Reverted edits by [[Special:Contributions/207.108.15.11|207.108.15.11]] ([[User talk:207.108.15.11|talk]]) to last version by 192.152.5.250",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 247217688,
+      "parentid": 247217475,
+      "timestamp": "2008-10-23T18:11:55Z",
+      "user": "Ulric1313",
+      "userid": 7801357,
+      "size": 2846,
+      "comment": "removed vandalism",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249214835,
+      "parentid": 247217688,
+      "timestamp": "2008-11-02T16:57:25Z",
+      "user": "Ground Zero",
+      "userid": 232133,
+      "size": 2875,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 249571495,
+      "parentid": 249214835,
+      "timestamp": "2008-11-04T03:50:17Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 2918,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251775502,
+      "parentid": 249571495,
+      "timestamp": "2008-11-14T15:06:41Z",
+      "user": "64.33.241.190",
+      "userid": 0,
+      "size": 3339,
+      "comment": "Updating information on senatorial candidacy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251775796,
+      "parentid": 251775502,
+      "timestamp": "2008-11-14T15:08:20Z",
+      "user": "64.33.241.190",
+      "userid": 0,
+      "size": 3362,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251776423,
+      "parentid": 251775796,
+      "timestamp": "2008-11-14T15:11:26Z",
+      "user": "64.33.241.190",
+      "userid": 0,
+      "size": 3346,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 255991679,
+      "parentid": 251776423,
+      "timestamp": "2008-12-05T05:48:30Z",
+      "user": "Backslash Forwardslash",
+      "userid": 7602541,
+      "size": 3294,
+      "comment": "Remove Future Election Candidate tag  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 270941099,
+      "parentid": 255991679,
+      "timestamp": "2009-02-15T18:59:30Z",
+      "user": "Dormskirk",
+      "userid": 3306290,
+      "size": 3304,
+      "comment": "link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 293010851,
+      "parentid": 270941099,
+      "timestamp": "2009-05-29T02:02:58Z",
+      "user": "63.3.9.129",
+      "userid": 0,
+      "size": 3271,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 295918387,
+      "parentid": 293010851,
+      "timestamp": "2009-06-12T04:51:02Z",
+      "user": "Vegas949",
+      "userid": 6386472,
+      "size": 3275,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 326643056,
+      "parentid": 295918387,
+      "timestamp": "2009-11-19T00:46:25Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 3258,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 330162063,
+      "parentid": 326643056,
+      "timestamp": "2009-12-07T01:37:53Z",
+      "user": "Wredlich",
+      "userid": 501734,
+      "size": 3284,
+      "comment": "/* External links */ Noting campaign website is now former campaign site.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 386730594,
+      "parentid": 330162063,
+      "timestamp": "2010-09-24T12:04:12Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 3560,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7171)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 389512234,
+      "parentid": 386730594,
+      "timestamp": "2010-10-08T13:15:51Z",
+      "user": "H3llBot",
+      "userid": 12323565,
+      "size": 3604,
+      "comment": "BOT: [[User:H3llBot/T2|Checking dead links]]; Marked 1 link with {{Dead link}} (Further info: [[WP:DEADLINK]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 429794336,
+      "parentid": 389512234,
+      "timestamp": "2011-05-18T22:39:22Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3592,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7708)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 439842263,
+      "parentid": 429794336,
+      "timestamp": "2011-07-16T21:30:05Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3453,
+      "comment": "Updated infobox (removed placeholder image) (BRFA 15) using [[Project:AWB|AWB]] (7784)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459114828,
+      "parentid": 439842263,
+      "timestamp": "2011-11-05T10:10:01Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3473,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459246198,
+      "parentid": 459114828,
+      "timestamp": "2011-11-06T04:18:51Z",
+      "user": "24.126.57.74",
+      "userid": 0,
+      "size": 3614,
+      "comment": "Fixed link (was dead, now to an archived version)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 494337825,
+      "parentid": 459246198,
+      "timestamp": "2012-05-25T17:09:08Z",
+      "user": "12.218.238.250",
+      "userid": 0,
+      "size": 3615,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 496992852,
+      "parentid": 494337825,
+      "timestamp": "2012-06-11T01:41:49Z",
+      "user": "Ground Zero",
+      "userid": 232133,
+      "size": 3621,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 531099112,
+      "parentid": 496992852,
+      "timestamp": "2013-01-03T15:33:39Z",
+      "user": "Dr who1975",
+      "userid": 1629712,
+      "size": 3614,
+      "comment": "ridiculo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 611469371,
+      "parentid": 531099112,
+      "timestamp": "2014-06-04T02:57:55Z",
+      "user": "98.206.183.105",
+      "userid": 0,
+      "size": 3615,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 641621674,
+      "parentid": 611469371,
+      "timestamp": "2015-01-08T20:01:44Z",
+      "user": "Srich32977",
+      "userid": 8372814,
+      "size": 3603,
+      "comment": "/* External links */ Congresspedia redirects to sourcewatch",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 665049992,
+      "parentid": 641621674,
+      "timestamp": "2015-06-01T18:12:41Z",
+      "user": "66.231.9.204",
+      "userid": 0,
+      "size": 3598,
+      "comment": "Added end to term.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 665050189,
+      "parentid": 665049992,
+      "timestamp": "2015-06-01T18:14:21Z",
+      "user": "66.231.9.204",
+      "userid": 0,
+      "size": 3602,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 702650348,
+      "parentid": 665050189,
+      "timestamp": "2016-01-31T21:55:21Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 3615,
+      "comment": "v1.38 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Tim Johnson (politician)]]",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 709640694,
+      "parentid": 702650348,
+      "timestamp": "2016-03-12T03:44:44Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3319,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Joel Dykstra|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 789336458,
+      "parentid": 709640694,
+      "timestamp": "2017-07-06T19:44:11Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 3320,
+      "comment": "/* top */HTTP&rarr;HTTPS for [[ProQuest]] newspaper archive, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 801539891,
+      "parentid": 789336458,
+      "timestamp": "2017-09-20T08:37:57Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3363,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.2)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 803931735,
+      "parentid": 801539891,
+      "timestamp": "2017-10-05T16:02:25Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 3608,
+      "comment": "Rescued 1 archive link; remove 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 868789361,
+      "parentid": 803931735,
+      "timestamp": "2018-11-14T13:09:07Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 3600,
+      "comment": "removed [[Category:People from Lincoln County, South Dakota]]; added [[Category:People from Canton, South Dakota]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 918796262,
+      "parentid": 868789361,
+      "timestamp": "2019-09-30T10:26:50Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 3603,
+      "comment": "/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 939238837,
+      "parentid": 918796262,
+      "timestamp": "2020-02-05T06:01:08Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3647,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958811642,
+      "parentid": 939238837,
+      "timestamp": "2020-05-25T20:43:30Z",
+      "user": "2001:48F8:22:D2A:707A:3EC9:2D35:5A53",
+      "userid": 0,
+      "size": 3955,
+      "comment": "updates",
+      "minor": false,
+      "tags": [
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 958811803,
+      "parentid": 958811642,
+      "timestamp": "2020-05-25T20:44:22Z",
+      "user": "Eternal Shadow",
+      "userid": 38784389,
+      "size": 3647,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2001:48F8:22:D2A:707A:3EC9:2D35:5A53|2001:48F8:22:D2A:707A:3EC9:2D35:5A53]] ([[User talk:2001:48F8:22:D2A:707A:3EC9:2D35:5A53|talk]]): Deliberate factual errors  ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 962530914,
+      "parentid": 958811803,
+      "timestamp": "2020-06-14T16:06:44Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 3684,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 988086917,
+      "parentid": 962530914,
+      "timestamp": "2020-11-11T00:01:57Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 3645,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1020173630,
+      "parentid": 988086917,
+      "timestamp": "2021-04-27T16:14:13Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 3719,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1020173677,
+      "parentid": 1020173630,
+      "timestamp": "2021-04-27T16:14:30Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 3718,
+      "comment": "/* See also */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1023947455,
+      "parentid": 1020173677,
+      "timestamp": "2021-05-19T07:22:31Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 3776,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American businessman and politician\", overriding Wikidata description \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1055301394,
+      "parentid": 1023947455,
+      "timestamp": "2021-11-15T02:29:19Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 3997,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1055455798,
+      "parentid": 1055301394,
+      "timestamp": "2021-11-16T00:03:31Z",
+      "user": "Davemck",
+      "userid": 326639,
+      "size": 3982,
+      "comment": "rmv duplicate parm",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1058674275,
+      "parentid": 1055455798,
+      "timestamp": "2021-12-05T00:09:52Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 3985,
+      "comment": "/* top */archive link repair, may include: archive.* -> archive.today, and http->https for ghostarchive.org and archive.org ([[wp:el#Specifying_protocols]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1091718094,
+      "parentid": 1058674275,
+      "timestamp": "2022-06-05T23:20:07Z",
+      "user": "67.173.23.66",
+      "userid": 0,
+      "size": 3984,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1097071462,
+      "parentid": 1091718094,
+      "timestamp": "2022-07-08T12:57:47Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 3984,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127471053,
+      "parentid": 1097071462,
+      "timestamp": "2022-12-14T22:26:04Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 3955,
+      "comment": "intersect Republican and South Dakota representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1196064690,
+      "parentid": 1127471053,
+      "timestamp": "2024-01-16T05:35:23Z",
+      "user": "104.160.97.110",
+      "userid": 0,
+      "size": 3961,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1262942040,
+      "parentid": 1196064690,
+      "timestamp": "2024-12-13T20:34:44Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4027,
+      "comment": "added [[:Category:21st-century members of the South Dakota Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joel_Dykstra"
+}

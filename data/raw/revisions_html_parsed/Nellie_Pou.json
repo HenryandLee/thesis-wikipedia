@@ -1,0 +1,1701 @@
+{
+  "page_title": "Nellie_Pou",
+  "candidate_name": "Nellie Pou",
+  "collection_date": "2025-12-28T16:50:35.743975",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 138,
+    "unique_editors": 82,
+    "date_range": {
+      "start": "2007-01-16T19:35:11Z",
+      "end": "2024-12-25T17:23:19Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 101156672,
+      "parentid": 82967974,
+      "timestamp": "2007-01-16T19:35:11Z",
+      "user": "141.150.60.66",
+      "userid": 0,
+      "size": 2426,
+      "comment": "/* District 35 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 101156904,
+      "parentid": 101156672,
+      "timestamp": "2007-01-16T19:36:25Z",
+      "user": "141.150.60.66",
+      "userid": 0,
+      "size": 2426,
+      "comment": "/* District 35 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 101157415,
+      "parentid": 101156904,
+      "timestamp": "2007-01-16T19:38:52Z",
+      "user": "141.150.60.66",
+      "userid": 0,
+      "size": 2422,
+      "comment": "/* District 35 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 117731339,
+      "parentid": 101157415,
+      "timestamp": "2007-03-25T11:24:27Z",
+      "user": "Jill Teed",
+      "userid": 2171542,
+      "size": 2557,
+      "comment": "updated; spelling corrected",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 157431465,
+      "parentid": 117731339,
+      "timestamp": "2007-09-12T18:29:19Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 3046,
+      "comment": "reflect resignation of [[Alfred E. Steele]]; remove supercat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 169856118,
+      "parentid": 157431465,
+      "timestamp": "2007-11-07T12:49:42Z",
+      "user": "MetsBot",
+      "userid": 2030868,
+      "size": 3042,
+      "comment": "clean up and adding [[Category:Year of birth missing (living people)]]  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 173226141,
+      "parentid": 169856118,
+      "timestamp": "2007-11-23T04:45:37Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 3066,
+      "comment": "reflect election of Assemblywoman [[Elease Evans]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 173227550,
+      "parentid": 173226141,
+      "timestamp": "2007-11-23T04:55:15Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 3755,
+      "comment": "add [[Project Vote Smart]] link, expand bio, add cats",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 194773035,
+      "parentid": 173227550,
+      "timestamp": "2008-02-28T23:29:14Z",
+      "user": "68.193.174.81",
+      "userid": 0,
+      "size": 189,
+      "comment": "[[WP:AES|←]]Replaced page with '[[Image:NelliePou.jpg|frame|right|Assemblywoman Nellie Pou]]''' Nellie Pou''' is an [[United States|American]] [[Democratic Party (United States)|Democratic Party]...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 194773051,
+      "parentid": 194773035,
+      "timestamp": "2008-02-28T23:29:18Z",
+      "user": "ClueBot",
+      "userid": 4928500,
+      "size": 3755,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/68.193.174.81|68.193.174.81]] to version by Alansohn. False positive? [[User:ClueBot/FalsePositives|report it]]. Thanks, [[User:ClueBot]]. (250728) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 204045203,
+      "parentid": 194773051,
+      "timestamp": "2008-04-07T18:59:47Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 3697,
+      "comment": "update committe assignements and NJLEG link, add source re first woman/Hispanic in district, other cleanup",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 207685173,
+      "parentid": 204045203,
+      "timestamp": "2008-04-23T20:04:10Z",
+      "user": "165.230.146.211",
+      "userid": 0,
+      "size": 3697,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 216046337,
+      "parentid": 207685173,
+      "timestamp": "2008-05-30T20:59:09Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 3657,
+      "comment": "add link to 2007 financial disclosure form; other cleanup",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 223276915,
+      "parentid": 216046337,
+      "timestamp": "2008-07-03T10:55:22Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 3689,
+      "comment": "Removing deleted [[:Image:NelliePou.jpg|image]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 235071447,
+      "parentid": 223276915,
+      "timestamp": "2008-08-29T21:53:08Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 3723,
+      "comment": "add cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 261534525,
+      "parentid": 235071447,
+      "timestamp": "2009-01-02T22:04:49Z",
+      "user": "Empire2000",
+      "userid": 3084195,
+      "size": 3769,
+      "comment": "Added category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 261843025,
+      "parentid": 261534525,
+      "timestamp": "2009-01-04T06:24:25Z",
+      "user": "Offenbach",
+      "userid": 6636512,
+      "size": 3774,
+      "comment": "Removed category \"American women state legislators\"; Quick-adding category \"Women state legislators in New Jersey\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 319343511,
+      "parentid": 261843025,
+      "timestamp": "2009-10-12T01:30:19Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 3712,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323358859,
+      "parentid": 319343511,
+      "timestamp": "2009-11-01T22:33:28Z",
+      "user": "67.82.128.177",
+      "userid": 0,
+      "size": 3712,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 325316076,
+      "parentid": 323358859,
+      "timestamp": "2009-11-11T21:27:19Z",
+      "user": "69.115.215.183",
+      "userid": 0,
+      "size": 3716,
+      "comment": "/* District 35 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 325320118,
+      "parentid": 325316076,
+      "timestamp": "2009-11-11T21:50:22Z",
+      "user": "JimMillerJr",
+      "userid": 1603441,
+      "size": 3712,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/69.115.215.183|69.115.215.183]] ([[User talk:69.115.215.183|talk]]) to last version by 67.82.128.177",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 329010508,
+      "parentid": 325320118,
+      "timestamp": "2009-12-01T11:20:25Z",
+      "user": "Full-date unlinking bot",
+      "userid": 10076435,
+      "size": 3680,
+      "comment": "Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AMreg(×4)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 334289066,
+      "parentid": 329010508,
+      "timestamp": "2009-12-27T16:05:05Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3676,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 343439513,
+      "parentid": 334289066,
+      "timestamp": "2010-02-11T23:13:53Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 3768,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 348889478,
+      "parentid": 343439513,
+      "timestamp": "2010-03-10T03:44:49Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3785,
+      "comment": "Robot - Moving category  Cuban Americans to American people of Cuban descent per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2010 February 17]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 392850245,
+      "parentid": 348889478,
+      "timestamp": "2010-10-25T20:03:53Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 4020,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7319)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 411677492,
+      "parentid": 392850245,
+      "timestamp": "2011-02-02T23:37:30Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3972,
+      "comment": "Robot - Removing category American Roman Catholic politicians per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 January 22]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 433083916,
+      "parentid": 411677492,
+      "timestamp": "2011-06-07T19:32:14Z",
+      "user": "YoungDem13",
+      "userid": 14726753,
+      "size": 3915,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 433086875,
+      "parentid": 433083916,
+      "timestamp": "2011-06-07T19:51:21Z",
+      "user": "YoungDem13",
+      "userid": 14726753,
+      "size": 3783,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 433087187,
+      "parentid": 433086875,
+      "timestamp": "2011-06-07T19:53:20Z",
+      "user": "PTJoshua",
+      "userid": 14714753,
+      "size": 3972,
+      "comment": "rv to one with references",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 433105696,
+      "parentid": 433087187,
+      "timestamp": "2011-06-07T21:59:50Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 4249,
+      "comment": "add links to financial disclosure forms for 2008 to 2010; list first name as shown on 2010 disclosure form",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 436951201,
+      "parentid": 433105696,
+      "timestamp": "2011-06-29T23:59:20Z",
+      "user": "108.35.207.62",
+      "userid": 0,
+      "size": 4249,
+      "comment": "/* District 35 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 449284641,
+      "parentid": 436951201,
+      "timestamp": "2011-09-09T07:05:16Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 4257,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7822)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459757952,
+      "parentid": 449284641,
+      "timestamp": "2011-11-09T05:22:04Z",
+      "user": "ChrisP2K5",
+      "userid": 279425,
+      "size": 4541,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 464999031,
+      "parentid": 459757952,
+      "timestamp": "2011-12-09T19:22:33Z",
+      "user": "12.107.80.100",
+      "userid": 0,
+      "size": 5290,
+      "comment": "Added 2011 election results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 470589568,
+      "parentid": 464999031,
+      "timestamp": "2012-01-10T10:15:41Z",
+      "user": "FrescoBot",
+      "userid": 9021902,
+      "size": 5282,
+      "comment": "Bot: [[User:FrescoBot/Links|link syntax/spacing]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 472380669,
+      "parentid": 470589568,
+      "timestamp": "2012-01-21T04:50:58Z",
+      "user": "Offenbach",
+      "userid": 6636512,
+      "size": 5404,
+      "comment": "updates",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 472380781,
+      "parentid": 472380669,
+      "timestamp": "2012-01-21T04:52:03Z",
+      "user": "Offenbach",
+      "userid": 6636512,
+      "size": 5443,
+      "comment": "added [[Category:New Jersey State Senators]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 472745118,
+      "parentid": 472380781,
+      "timestamp": "2012-01-23T04:46:12Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 5655,
+      "comment": "tweak sources and links; add cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 477823159,
+      "parentid": 472745118,
+      "timestamp": "2012-02-20T03:54:28Z",
+      "user": "Tinton5",
+      "userid": 9806113,
+      "size": 5656,
+      "comment": "removed [[Category:People from North Haledon, New Jersey]]; added [[Category:People from Passaic County, New Jersey]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499389746,
+      "parentid": 477823159,
+      "timestamp": "2012-06-26T03:45:15Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 5842,
+      "comment": "add links to financial disclosure forms for 2011; add / update refs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 530058758,
+      "parentid": 499389746,
+      "timestamp": "2012-12-27T23:54:46Z",
+      "user": "Delaywaves",
+      "userid": 13989377,
+      "size": 6648,
+      "comment": "Add photo, infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 551346269,
+      "parentid": 530058758,
+      "timestamp": "2013-04-20T20:20:22Z",
+      "user": "Wavelength",
+      "userid": 271168,
+      "size": 6647,
+      "comment": "\"in to\" ([[adverb]] and [[preposition]]) —> \"into\" (preposition)—[[wikt:in]]—[[wikt:to]]—[[wikt:into]]—http://public.wsu.edu/~brians/errors/into.html",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 580490055,
+      "parentid": 551346269,
+      "timestamp": "2013-11-06T19:07:58Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 6644,
+      "comment": "/* District 35 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 580502157,
+      "parentid": 580490055,
+      "timestamp": "2013-11-06T20:40:05Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6655,
+      "comment": "add section break",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 669988004,
+      "parentid": 580502157,
+      "timestamp": "2015-07-05T01:04:18Z",
+      "user": "Mr. Matté",
+      "userid": 4051399,
+      "size": 9142,
+      "comment": "Add succession box, date of Assembly appointment",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680549615,
+      "parentid": 669988004,
+      "timestamp": "2015-09-11T15:46:45Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 9721,
+      "comment": "add details re hometown, with source; add links to financial disclosure forms; add cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680561269,
+      "parentid": 680549615,
+      "timestamp": "2015-09-11T17:18:57Z",
+      "user": "Mr. Matté",
+      "userid": 4051399,
+      "size": 9721,
+      "comment": "/* External links */ [[Rick Perry|oops]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 706027791,
+      "parentid": 680561269,
+      "timestamp": "2016-02-21T00:55:47Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 9445,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Nellie Pou|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722968514,
+      "parentid": 706027791,
+      "timestamp": "2016-05-31T06:06:07Z",
+      "user": "I dream of horses",
+      "userid": 9676078,
+      "size": 9444,
+      "comment": "clean up using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 749155397,
+      "parentid": 722968514,
+      "timestamp": "2016-11-12T19:39:56Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 9449,
+      "comment": "removed [[Category:People from Paterson, New Jersey]]; added [[Category:Politicians from Paterson, New Jersey]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756110844,
+      "parentid": 749155397,
+      "timestamp": "2016-12-22T02:05:31Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 9496,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756827466,
+      "parentid": 756110844,
+      "timestamp": "2016-12-27T02:13:16Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 9540,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 861054725,
+      "parentid": 756827466,
+      "timestamp": "2018-09-24T20:16:54Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 9540,
+      "comment": "Robot - Moving category New Jersey State Senators to [[:Category:New Jersey state senators]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 September 17]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 864317886,
+      "parentid": 861054725,
+      "timestamp": "2018-10-16T13:23:37Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 9549,
+      "comment": "/* External links */recategorize",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 883496174,
+      "parentid": 864317886,
+      "timestamp": "2019-02-15T19:25:55Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 9592,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 898662066,
+      "parentid": 883496174,
+      "timestamp": "2019-05-25T03:57:06Z",
+      "user": "Akld guy",
+      "userid": 3122361,
+      "size": 9602,
+      "comment": "Fix dashes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 927317233,
+      "parentid": 898662066,
+      "timestamp": "2019-11-21T18:28:57Z",
+      "user": "TopDomino",
+      "userid": 11748235,
+      "size": 10701,
+      "comment": "Replaced original Career heading with (1) Legislative Career and (2) Education and Non-Legislative Career. Expanded on Non-legislative career. Updated Legislative career info with sourcing.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 927333115,
+      "parentid": 927317233,
+      "timestamp": "2019-11-21T20:37:46Z",
+      "user": "TopDomino",
+      "userid": 11748235,
+      "size": 11607,
+      "comment": "/* Election history */ Added 2017 election results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 943012482,
+      "parentid": 927333115,
+      "timestamp": "2020-02-28T08:32:27Z",
+      "user": "ChrisP2K5",
+      "userid": 279425,
+      "size": 11773,
+      "comment": "/* New Jersey General Assembly */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 948414812,
+      "parentid": 943012482,
+      "timestamp": "2020-03-31T22:42:15Z",
+      "user": "WildStar",
+      "userid": 7106101,
+      "size": 11738,
+      "comment": "Cleanup:  Per Wikipedia guidelines, reduced number of duplicate hyperlinks.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 951183930,
+      "parentid": 948414812,
+      "timestamp": "2020-04-15T22:32:47Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 11935,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973504687,
+      "parentid": 951183930,
+      "timestamp": "2020-08-17T16:01:20Z",
+      "user": "FrescoBot",
+      "userid": 9021902,
+      "size": 11913,
+      "comment": "Bot: [[Wikipedia:Linking#Link specificity|link specificity]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 997264863,
+      "parentid": 973504687,
+      "timestamp": "2020-12-30T19:01:42Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 11854,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 6 templates: del empty params (5×); hyphenate params (3×); del |url-status= (1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1004082281,
+      "parentid": 997264863,
+      "timestamp": "2021-02-01T00:20:48Z",
+      "user": "Goszei",
+      "userid": 36510957,
+      "size": 11859,
+      "comment": "Fix headings; [[WP:GENFIXES|general fixes]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1005735744,
+      "parentid": 1004082281,
+      "timestamp": "2021-02-09T04:51:33Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 11842,
+      "comment": "copyedits and structuring",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 1011549996,
+      "parentid": 1005735744,
+      "timestamp": "2021-03-11T14:17:59Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12238,
+      "comment": "/* New Jersey Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1011736640,
+      "parentid": 1011549996,
+      "timestamp": "2021-03-12T15:10:17Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12164,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1011736866,
+      "parentid": 1011736640,
+      "timestamp": "2021-03-12T15:11:49Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12093,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1011948251,
+      "parentid": 1011736866,
+      "timestamp": "2021-03-13T19:15:05Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12267,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1011948853,
+      "parentid": 1011948251,
+      "timestamp": "2021-03-13T19:19:01Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12093,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1011949276,
+      "parentid": 1011948853,
+      "timestamp": "2021-03-13T19:21:43Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12140,
+      "comment": "/* New Jersey Legislative Latino Caucus */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1011949468,
+      "parentid": 1011949276,
+      "timestamp": "2021-03-13T19:22:52Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12110,
+      "comment": "/* New Jersey Legislative Latino Caucus */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1053681892,
+      "parentid": 1011949468,
+      "timestamp": "2021-11-05T11:26:36Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 12110,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1065263712,
+      "parentid": 1053681892,
+      "timestamp": "2022-01-12T17:10:01Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 12585,
+      "comment": "add details re pronunciation, with source; add / update refs",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1068317795,
+      "parentid": 1065263712,
+      "timestamp": "2022-01-27T19:39:44Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 12627,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American politician\", overriding Wikidata description \"Member of the New Jersey Senate\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1068496940,
+      "parentid": 1068317795,
+      "timestamp": "2022-01-28T19:04:47Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 13080,
+      "comment": "add details for the 2022-2023 legislative session, with sources",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1068503457,
+      "parentid": 1068496940,
+      "timestamp": "2022-01-28T19:47:19Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 13089,
+      "comment": "copyedit and/or wikify",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1090562203,
+      "parentid": 1068503457,
+      "timestamp": "2022-05-30T04:35:21Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 13109,
+      "comment": "Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use American English from January 2022]] | #UCB_Category 126/1711",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1127331944,
+      "parentid": 1090562203,
+      "timestamp": "2022-12-14T03:47:25Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 13092,
+      "comment": "combine party and NJ Assembly categories; update cat(s), other cleanup",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1127664958,
+      "parentid": 1127331944,
+      "timestamp": "2022-12-16T00:22:50Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 13109,
+      "comment": "/* External links */intersect Democratic and New Jersey representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1166303878,
+      "parentid": 1127664958,
+      "timestamp": "2023-07-20T18:00:08Z",
+      "user": "Superbrad6",
+      "userid": 41404565,
+      "size": 12980,
+      "comment": "Updated information re: last three election cycles (and current election cycle).",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1200255530,
+      "parentid": 1166303878,
+      "timestamp": "2024-01-29T03:52:41Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 13138,
+      "comment": "copyedit and/or wikify; add / update ref(s); add cat(s) re committee assignments and district composition",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1203062166,
+      "parentid": 1200255530,
+      "timestamp": "2024-02-04T03:40:28Z",
+      "user": "GigachadGigachad",
+      "userid": 43667698,
+      "size": 15166,
+      "comment": "/* Election history */ updated results",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1206040191,
+      "parentid": 1203062166,
+      "timestamp": "2024-02-11T02:12:58Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 15135,
+      "comment": "add / refine cat(s)",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1207211744,
+      "parentid": 1206040191,
+      "timestamp": "2024-02-14T07:18:29Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 15184,
+      "comment": "/* External links */add [[Category:20th-century New Jersey politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1218159589,
+      "parentid": 1207211744,
+      "timestamp": "2024-04-10T02:20:34Z",
+      "user": "Wl219",
+      "userid": 1695634,
+      "size": 15364,
+      "comment": "/* New Jersey Legislative Latino Caucus */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1219497752,
+      "parentid": 1218159589,
+      "timestamp": "2024-04-18T03:10:27Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 15395,
+      "comment": "reorganize re Latino Caucus chair role",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1226151144,
+      "parentid": 1219497752,
+      "timestamp": "2024-05-28T21:18:02Z",
+      "user": "108.53.130.81",
+      "userid": 0,
+      "size": 15374,
+      "comment": "/* New Jersey Senate */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1241609885,
+      "parentid": 1226151144,
+      "timestamp": "2024-08-22T05:27:26Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 15383,
+      "comment": "/* Career */ - better wording",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242078416,
+      "parentid": 1241609885,
+      "timestamp": "2024-08-24T21:56:40Z",
+      "user": "100.1.15.116",
+      "userid": 0,
+      "size": 15383,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242409497,
+      "parentid": 1242078416,
+      "timestamp": "2024-08-26T17:34:43Z",
+      "user": "Pr4ever",
+      "userid": 4511847,
+      "size": 16023,
+      "comment": "Added Pou is running for Congress",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242460635,
+      "parentid": 1242409497,
+      "timestamp": "2024-08-26T22:28:49Z",
+      "user": "AuH2ORepublican",
+      "userid": 1877623,
+      "size": 16061,
+      "comment": "The cited El Nuevo Día article listed Anthony D'Esposito as the sixth U.S. Representative of Puerto Rican descent, and did not list Resident Commissioner Jenniffer González, who is not a voting member of the House (and is running for governor this November)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242462140,
+      "parentid": 1242460635,
+      "timestamp": "2024-08-26T22:40:21Z",
+      "user": "2600:1702:CC4:20F0:25EF:E014:7887:C272",
+      "userid": 0,
+      "size": 16080,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242462235,
+      "parentid": 1242462140,
+      "timestamp": "2024-08-26T22:41:09Z",
+      "user": "2600:1702:CC4:20F0:25EF:E014:7887:C272",
+      "userid": 0,
+      "size": 16067,
+      "comment": "/* New Jersey Senate */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242462328,
+      "parentid": 1242462235,
+      "timestamp": "2024-08-26T22:41:56Z",
+      "user": "2600:1702:CC4:20F0:25EF:E014:7887:C272",
+      "userid": 0,
+      "size": 16086,
+      "comment": "/* New Jersey Senate */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242463549,
+      "parentid": 1242462328,
+      "timestamp": "2024-08-26T22:52:22Z",
+      "user": "Typical wonderer",
+      "userid": 47917602,
+      "size": 16086,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242623885,
+      "parentid": 1242463549,
+      "timestamp": "2024-08-27T20:26:30Z",
+      "user": "Tdl1060",
+      "userid": 646386,
+      "size": 16090,
+      "comment": "added link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242721249,
+      "parentid": 1242623885,
+      "timestamp": "2024-08-28T11:04:31Z",
+      "user": "Qwerfjkl",
+      "userid": 41195652,
+      "size": 16127,
+      "comment": "Added 1 {{[[Template:Bare URL inline|Bare URL inline]]}}   tag(s) using [[User:BrownHairedGirl/BareURLinline.js|a script]]. For other recently-tagged pages with [[WP:Bare URLs|bare URLs]], see [[:Category:Articles with bare URLs for citations from August 2024]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1242729231,
+      "parentid": 1242721249,
+      "timestamp": "2024-08-28T12:06:17Z",
+      "user": "2A02:8440:715A:5D29:C85A:FF:FEE1:1477",
+      "userid": 0,
+      "size": 16529,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1242750256,
+      "parentid": 1242729231,
+      "timestamp": "2024-08-28T14:29:51Z",
+      "user": "Wl219",
+      "userid": 1695634,
+      "size": 16693,
+      "comment": "correction, wikilink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242930342,
+      "parentid": 1242750256,
+      "timestamp": "2024-08-29T14:51:07Z",
+      "user": "Talthiel",
+      "userid": 42906708,
+      "size": 16698,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1243001580,
+      "parentid": 1242930342,
+      "timestamp": "2024-08-29T22:59:15Z",
+      "user": "Social Media Lover",
+      "userid": 39774650,
+      "size": 16397,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1243009898,
+      "parentid": 1243001580,
+      "timestamp": "2024-08-30T00:14:18Z",
+      "user": "Anon423",
+      "userid": 8331790,
+      "size": 17107,
+      "comment": "Added section about congressional run to replace Bill Pascrell",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1243106591,
+      "parentid": 1243009898,
+      "timestamp": "2024-08-30T14:54:39Z",
+      "user": "Wl219",
+      "userid": 1695634,
+      "size": 17211,
+      "comment": "/* U.S. House of Representatives */ wikilink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243376379,
+      "parentid": 1243106591,
+      "timestamp": "2024-09-01T03:13:48Z",
+      "user": "SeekerOfTruth90",
+      "userid": 32143437,
+      "size": 17195,
+      "comment": "added updated photo and selection information",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1243488079,
+      "parentid": 1243376379,
+      "timestamp": "2024-09-01T19:23:22Z",
+      "user": "Raja1011",
+      "userid": 31960973,
+      "size": 17260,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243488104,
+      "parentid": 1243488079,
+      "timestamp": "2024-09-01T19:23:36Z",
+      "user": "Raja1011",
+      "userid": 31960973,
+      "size": 17259,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243488406,
+      "parentid": 1243488104,
+      "timestamp": "2024-09-01T19:25:41Z",
+      "user": "Raja1011",
+      "userid": 31960973,
+      "size": 17284,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243488447,
+      "parentid": 1243488406,
+      "timestamp": "2024-09-01T19:25:59Z",
+      "user": "Raja1011",
+      "userid": 31960973,
+      "size": 17286,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243488604,
+      "parentid": 1243488447,
+      "timestamp": "2024-09-01T19:26:57Z",
+      "user": "Raja1011",
+      "userid": 31960973,
+      "size": 17264,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1244787054,
+      "parentid": 1243488604,
+      "timestamp": "2024-09-09T05:27:33Z",
+      "user": "111.125.72.34",
+      "userid": 0,
+      "size": 17287,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1244845608,
+      "parentid": 1244787054,
+      "timestamp": "2024-09-09T15:03:32Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 17266,
+      "comment": "Removing copyrighted photo of \"Nellie Poe\"",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1245130667,
+      "parentid": 1244845608,
+      "timestamp": "2024-09-11T05:33:46Z",
+      "user": "Reppop",
+      "userid": 31211555,
+      "size": 17236,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1247341708,
+      "parentid": 1245130667,
+      "timestamp": "2024-09-23T22:13:53Z",
+      "user": "Kaltenmeyer",
+      "userid": 14703151,
+      "size": 17236,
+      "comment": "edited ref",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1247365116,
+      "parentid": 1247341708,
+      "timestamp": "2024-09-24T00:22:51Z",
+      "user": "Kaltenmeyer",
+      "userid": 14703151,
+      "size": 17234,
+      "comment": "typo, [[WP:AWB/T|typo(s) fixed]]: from 2002–2005 → from 2002 to 2005 (3)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1250771203,
+      "parentid": 1247365116,
+      "timestamp": "2024-10-12T12:35:32Z",
+      "user": "Pol098",
+      "userid": 169132,
+      "size": 17163,
+      "comment": "drop \"If elected, she will ...\" (left as hidden comment in case she is), wording",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1255853348,
+      "parentid": 1250771203,
+      "timestamp": "2024-11-07T00:14:48Z",
+      "user": "Thurgoodmarshallisbae",
+      "userid": 31793294,
+      "size": 17326,
+      "comment": "infobox reflecting 2024 win",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1255943974,
+      "parentid": 1255853348,
+      "timestamp": "2024-11-07T11:40:06Z",
+      "user": "Flavius Claudius Iulianus",
+      "userid": 30110325,
+      "size": 17541,
+      "comment": "source name",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1255987583,
+      "parentid": 1255943974,
+      "timestamp": "2024-11-07T17:01:47Z",
+      "user": "2600:4809:7270:F800:C5E8:1C44:98A9:7B4",
+      "userid": 0,
+      "size": 17537,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit",
+        "app-full-source"
+      ]
+    },
+    {
+      "revid": 1256161007,
+      "parentid": 1255987583,
+      "timestamp": "2024-11-08T15:07:41Z",
+      "user": "2600:4809:7270:F800:8D0A:6560:CC6B:5714",
+      "userid": 0,
+      "size": 17464,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit",
+        "app-section-source"
+      ]
+    },
+    {
+      "revid": 1256494807,
+      "parentid": 1256161007,
+      "timestamp": "2024-11-10T05:28:02Z",
+      "user": "Reppop",
+      "userid": 31211555,
+      "size": 17463,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257708490,
+      "parentid": 1256494807,
+      "timestamp": "2024-11-16T07:33:15Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 17468,
+      "comment": "Moving from [[Category:American people of Cuban descent]] to [[Category:American politicians of Cuban descent]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1258508586,
+      "parentid": 1257708490,
+      "timestamp": "2024-11-20T03:34:43Z",
+      "user": "Estar8806",
+      "userid": 36418353,
+      "size": 17468,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"Member of the New Jersey Senate\" to \"American politician (born 1956)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1258700992,
+      "parentid": 1258508586,
+      "timestamp": "2024-11-21T03:14:17Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 17487,
+      "comment": "/* External links */ c-span",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260690724,
+      "parentid": 1258700992,
+      "timestamp": "2024-12-02T02:52:54Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 17551,
+      "comment": "added [[:Category:21st-century members of the New Jersey Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260691959,
+      "parentid": 1260690724,
+      "timestamp": "2024-12-02T03:01:22Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 17502,
+      "comment": "Removing from [[Category:21st-century New Jersey politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260693518,
+      "parentid": 1260691959,
+      "timestamp": "2024-12-02T03:11:09Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 17455,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261020887,
+      "parentid": 1260693518,
+      "timestamp": "2024-12-03T21:05:33Z",
+      "user": "Bananah20",
+      "userid": 30594091,
+      "size": 17472,
+      "comment": "IPA Pronunciation Guide",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261246476,
+      "parentid": 1261020887,
+      "timestamp": "2024-12-05T01:33:34Z",
+      "user": "Tomrtn",
+      "userid": 3229905,
+      "size": 17559,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261751935,
+      "parentid": 1261246476,
+      "timestamp": "2024-12-07T20:13:25Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 17623,
+      "comment": "added [[:Category:20th-century members of the New Jersey Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1261754581,
+      "parentid": 1261751935,
+      "timestamp": "2024-12-07T20:32:14Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 17574,
+      "comment": "Removing from [[Category:20th-century New Jersey politicians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261758513,
+      "parentid": 1261754581,
+      "timestamp": "2024-12-07T20:56:32Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 17527,
+      "comment": "Removing from [[Category:20th-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1262015514,
+      "parentid": 1261758513,
+      "timestamp": "2024-12-09T04:30:26Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 17861,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263781597,
+      "parentid": 1262015514,
+      "timestamp": "2024-12-18T16:16:34Z",
+      "user": "2600:4809:7270:F800:D8F5:6E70:6208:D7BD",
+      "userid": 0,
+      "size": 17763,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit",
+        "mw-reverted",
+        "app-full-source"
+      ]
+    },
+    {
+      "revid": 1263785247,
+      "parentid": 1263781597,
+      "timestamp": "2024-12-18T16:43:16Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 17861,
+      "comment": "Undid revision [[Special:Diff/1263781597|1263781597]] by [[Special:Contributions/2600:4809:7270:F800:D8F5:6E70:6208:D7BD|2600:4809:7270:F800:D8F5:6E70:6208:D7BD]] ([[User talk:2600:4809:7270:F800:D8F5:6E70:6208:D7BD|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile app edit",
+        "android app edit",
+        "app-undo"
+      ]
+    },
+    {
+      "revid": 1264813802,
+      "parentid": 1263785247,
+      "timestamp": "2024-12-23T17:28:34Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 17905,
+      "comment": "prose mention dob",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1265197416,
+      "parentid": 1264813802,
+      "timestamp": "2024-12-25T17:23:19Z",
+      "user": "2600:4809:7270:F800:FD1C:78B3:1177:8189",
+      "userid": 0,
+      "size": 17807,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit",
+        "app-full-source"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nellie_Pou"
+}

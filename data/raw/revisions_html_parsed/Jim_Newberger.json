@@ -1,0 +1,1404 @@
+{
+  "page_title": "Jim_Newberger",
+  "candidate_name": "Jim Newberger",
+  "collection_date": "2025-12-28T16:42:21.274683",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 117,
+    "unique_editors": 65,
+    "date_range": {
+      "start": "2013-04-03T19:45:02Z",
+      "end": "2024-11-30T04:50:57Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 548537790,
+      "parentid": 0,
+      "timestamp": "2013-04-03T19:45:02Z",
+      "user": "LightSoup",
+      "userid": 214950,
+      "size": 2493,
+      "comment": "created article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 658635348,
+      "parentid": 548537790,
+      "timestamp": "2015-04-22T18:54:39Z",
+      "user": "Jonathunder",
+      "userid": 112889,
+      "size": 2538,
+      "comment": "Expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 658832184,
+      "parentid": 658635348,
+      "timestamp": "2015-04-23T12:40:01Z",
+      "user": "108.171.131.160",
+      "userid": 0,
+      "size": 3285,
+      "comment": "Entered information on Rep. Newberger's recent dust up over comments he made linking North Minneapolis to the St. Cloud State Prison.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 665982207,
+      "parentid": 658832184,
+      "timestamp": "2015-06-08T03:17:23Z",
+      "user": "Wallypooler",
+      "userid": 25423254,
+      "size": 2682,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 665982297,
+      "parentid": 665982207,
+      "timestamp": "2015-06-08T03:18:32Z",
+      "user": "Wallypooler",
+      "userid": 25423254,
+      "size": 2767,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 665982421,
+      "parentid": 665982297,
+      "timestamp": "2015-06-08T03:19:58Z",
+      "user": "Wallypooler",
+      "userid": 25423254,
+      "size": 1891,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": [
+        "categories removed"
+      ]
+    },
+    {
+      "revid": 665985318,
+      "parentid": 665982421,
+      "timestamp": "2015-06-08T03:51:08Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 3285,
+      "comment": "Reverted edits by [[Special:Contribs/Wallypooler|Wallypooler]] ([[User talk:Wallypooler|talk]]) to last version by 108.171.131.160",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 665994228,
+      "parentid": 665985318,
+      "timestamp": "2015-06-08T05:41:21Z",
+      "user": "Wallypooler",
+      "userid": 25423254,
+      "size": 2579,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 665995507,
+      "parentid": 665994228,
+      "timestamp": "2015-06-08T05:51:56Z",
+      "user": "Amaury",
+      "userid": 8619853,
+      "size": 3285,
+      "comment": "Reverted edits by [[Special:Contributions/Wallypooler|Wallypooler]] ([[User talk:Wallypooler|talk]]) to last revision by Materialscientist ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 687656092,
+      "parentid": 665995507,
+      "timestamp": "2015-10-26T22:58:43Z",
+      "user": "Nsteffel",
+      "userid": 18488006,
+      "size": 3284,
+      "comment": "/* External links */genfixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723009526,
+      "parentid": 687656092,
+      "timestamp": "2016-05-31T12:46:25Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3019,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Jim Newberger|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724570919,
+      "parentid": 723009526,
+      "timestamp": "2016-06-10T03:24:40Z",
+      "user": "APooler",
+      "userid": 28528969,
+      "size": 2313,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 724570975,
+      "parentid": 724570919,
+      "timestamp": "2016-06-10T03:25:12Z",
+      "user": "Padgriffin",
+      "userid": 21035594,
+      "size": 3019,
+      "comment": "Reverted edits by [[Special:Contribs/APooler|APooler]] ([[User talk:APooler|talk]]) to last version by KasparBot",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724570997,
+      "parentid": 724570975,
+      "timestamp": "2016-06-10T03:25:27Z",
+      "user": "APooler",
+      "userid": 28528969,
+      "size": 2860,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724571074,
+      "parentid": 724570997,
+      "timestamp": "2016-06-10T03:26:07Z",
+      "user": "APooler",
+      "userid": 28528969,
+      "size": 2154,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 724622439,
+      "parentid": 724571074,
+      "timestamp": "2016-06-10T12:24:47Z",
+      "user": "Kaobear",
+      "userid": 1739346,
+      "size": 3019,
+      "comment": "Reverted 2 [[WP:AGF|good faith]] edits by [[Special:Contributions/APooler|APooler]] using [[WP:STiki|STiki]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756265054,
+      "parentid": 724622439,
+      "timestamp": "2016-12-23T02:10:35Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3066,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 776317303,
+      "parentid": 756265054,
+      "timestamp": "2017-04-20T07:44:01Z",
+      "user": "John of Reading",
+      "userid": 11308236,
+      "size": 3067,
+      "comment": "/* Minnesota House of Representatives */Typo fixing, replaced: would't → wouldn't using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 778722795,
+      "parentid": 776317303,
+      "timestamp": "2017-05-04T21:37:16Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 2360,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 778723039,
+      "parentid": 778722795,
+      "timestamp": "2017-05-04T21:39:13Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 2095,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 778723175,
+      "parentid": 778723039,
+      "timestamp": "2017-05-04T21:40:27Z",
+      "user": "Lojbanist",
+      "userid": 28279238,
+      "size": 3067,
+      "comment": "Reverted 2 edits by [[Special:Contributions/208.38.99.39|208.38.99.39]] ([[User talk:208.38.99.39|talk]]) to last revision by John of Reading. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 778723314,
+      "parentid": 778723175,
+      "timestamp": "2017-05-04T21:41:37Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 3028,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 778723362,
+      "parentid": 778723314,
+      "timestamp": "2017-05-04T21:42:11Z",
+      "user": "Lojbanist",
+      "userid": 28279238,
+      "size": 3067,
+      "comment": "Reverted 1 edit by [[Special:Contributions/208.38.99.39|208.38.99.39]] ([[User talk:208.38.99.39|talk]]) to last revision by KATMAKROFAN. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 778723412,
+      "parentid": 778723362,
+      "timestamp": "2017-05-04T21:42:34Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 2360,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 778736475,
+      "parentid": 778723412,
+      "timestamp": "2017-05-04T23:30:28Z",
+      "user": "Lojbanist",
+      "userid": 28279238,
+      "size": 3067,
+      "comment": "Reverted 1 edit by [[Special:Contributions/208.38.99.39|208.38.99.39]] ([[User talk:208.38.99.39|talk]]) to last revision by KATMAKROFAN. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 779103202,
+      "parentid": 778736475,
+      "timestamp": "2017-05-07T01:19:59Z",
+      "user": "70.90.112.142",
+      "userid": 0,
+      "size": 3559,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 779107995,
+      "parentid": 779103202,
+      "timestamp": "2017-05-07T01:48:19Z",
+      "user": "70.90.112.142",
+      "userid": 0,
+      "size": 3640,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 784993256,
+      "parentid": 779107995,
+      "timestamp": "2017-06-11T01:36:08Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 3683,
+      "comment": "added [[Category:People from Becker, Minnesota]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 788106685,
+      "parentid": 784993256,
+      "timestamp": "2017-06-29T14:02:04Z",
+      "user": "Necrothesp",
+      "userid": 64853,
+      "size": 3677,
+      "comment": "[[WP:ALTNAME]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793554844,
+      "parentid": 788106685,
+      "timestamp": "2017-08-02T13:47:17Z",
+      "user": "198.179.137.193",
+      "userid": 0,
+      "size": 4073,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793563314,
+      "parentid": 793554844,
+      "timestamp": "2017-08-02T14:56:49Z",
+      "user": "198.179.137.193",
+      "userid": 0,
+      "size": 4206,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794148392,
+      "parentid": 793563314,
+      "timestamp": "2017-08-06T04:37:58Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 4987,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794148676,
+      "parentid": 794148392,
+      "timestamp": "2017-08-06T04:41:01Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 5743,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794148776,
+      "parentid": 794148676,
+      "timestamp": "2017-08-06T04:41:58Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 5743,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794148990,
+      "parentid": 794148776,
+      "timestamp": "2017-08-06T04:44:38Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 6499,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794438373,
+      "parentid": 794148990,
+      "timestamp": "2017-08-08T01:21:27Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 6547,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794438612,
+      "parentid": 794438373,
+      "timestamp": "2017-08-08T01:23:28Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 6472,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794439031,
+      "parentid": 794438612,
+      "timestamp": "2017-08-08T01:26:28Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 6694,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794439142,
+      "parentid": 794439031,
+      "timestamp": "2017-08-08T01:27:30Z",
+      "user": "FlyingMO",
+      "userid": 31634238,
+      "size": 6685,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 795571813,
+      "parentid": 794439142,
+      "timestamp": "2017-08-15T02:42:48Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 5631,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 795571853,
+      "parentid": 795571813,
+      "timestamp": "2017-08-15T02:43:22Z",
+      "user": "NewEnglandYankee",
+      "userid": 2691489,
+      "size": 6685,
+      "comment": "Reverted edits by [[Special:Contribs/208.38.99.39|208.38.99.39]] ([[User talk:208.38.99.39|talk]]) to last version by FlyingMO",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 795571943,
+      "parentid": 795571853,
+      "timestamp": "2017-08-15T02:44:31Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 6525,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 795571978,
+      "parentid": 795571943,
+      "timestamp": "2017-08-15T02:44:55Z",
+      "user": "NewEnglandYankee",
+      "userid": 2691489,
+      "size": 6685,
+      "comment": "Reverted edits by [[Special:Contribs/208.38.99.39|208.38.99.39]] ([[User talk:208.38.99.39|talk]]) to last version by NewEnglandYankee",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 795572553,
+      "parentid": 795571978,
+      "timestamp": "2017-08-15T02:51:11Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 5631,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 795572608,
+      "parentid": 795572553,
+      "timestamp": "2017-08-15T02:51:48Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 5472,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 795572635,
+      "parentid": 795572608,
+      "timestamp": "2017-08-15T02:52:06Z",
+      "user": "Josh3580",
+      "userid": 377389,
+      "size": 6685,
+      "comment": "Reverted edits by [[Special:Contributions/208.38.99.39|208.38.99.39]] ([[User talk:208.38.99.39|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.2.0)",
+      "minor": true,
+      "tags": [
+        "huggle"
+      ]
+    },
+    {
+      "revid": 795573259,
+      "parentid": 795572635,
+      "timestamp": "2017-08-15T02:59:00Z",
+      "user": "208.38.99.39",
+      "userid": 0,
+      "size": 5631,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 795573306,
+      "parentid": 795573259,
+      "timestamp": "2017-08-15T02:59:40Z",
+      "user": "Josh3580",
+      "userid": 377389,
+      "size": 6685,
+      "comment": "Reverted edits by [[Special:Contributions/208.38.99.39|208.38.99.39]] ([[User talk:208.38.99.39|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.2.0)",
+      "minor": true,
+      "tags": [
+        "huggle"
+      ]
+    },
+    {
+      "revid": 799485932,
+      "parentid": 795573306,
+      "timestamp": "2017-09-08T00:45:07Z",
+      "user": "Natg 19",
+      "userid": 3492060,
+      "size": 6637,
+      "comment": "/* Electoral History */ unlink \"other\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 808707022,
+      "parentid": 799485932,
+      "timestamp": "2017-11-04T16:38:30Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 6743,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 823858003,
+      "parentid": 808707022,
+      "timestamp": "2018-02-03T21:38:34Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 6497,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 832752893,
+      "parentid": 823858003,
+      "timestamp": "2018-03-27T20:24:18Z",
+      "user": "Buzz360",
+      "userid": 33403041,
+      "size": 8064,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 833205950,
+      "parentid": 832752893,
+      "timestamp": "2018-03-30T07:12:22Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 8055,
+      "comment": "/* External links */Removed invisible unicode characters + other fixes ([[User:Yobot/55|Task 55]]), replaced: →   (2) using [[Project:AWB|AWB]] (12151)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 833277815,
+      "parentid": 833205950,
+      "timestamp": "2018-03-30T16:42:18Z",
+      "user": "Buzz360",
+      "userid": 33403041,
+      "size": 15321,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 833278513,
+      "parentid": 833277815,
+      "timestamp": "2018-03-30T16:46:28Z",
+      "user": "Velella",
+      "userid": 136926,
+      "size": 8055,
+      "comment": "Undid revision 833277815 by [[Special:Contributions/Buzz360|Buzz360]] ([[User talk:Buzz360|talk]]) - this is Wikipedia , not the US hustings. Not encyclopaedic, and grossly undue weight",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 833278732,
+      "parentid": 833278513,
+      "timestamp": "2018-03-30T16:47:47Z",
+      "user": "Velella",
+      "userid": 136926,
+      "size": 6113,
+      "comment": "/* External links */ rmv external links - just politicking and not encyclopaedic - Wikipedia is neutral with regard to politics",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 833531788,
+      "parentid": 833278732,
+      "timestamp": "2018-04-01T04:11:57Z",
+      "user": "FrescoBot",
+      "userid": 9021902,
+      "size": 6143,
+      "comment": "Bot: [[User:FrescoBot/Links|link syntax]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 834219356,
+      "parentid": 833531788,
+      "timestamp": "2018-04-04T15:11:27Z",
+      "user": "Buzz360",
+      "userid": 33403041,
+      "size": 13409,
+      "comment": "Undid revision 833278513 by [[Special:Contributions/Velella|Velella]] ([[User talk:Velella|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 834258864,
+      "parentid": 834219356,
+      "timestamp": "2018-04-04T19:19:22Z",
+      "user": "Velella",
+      "userid": 136926,
+      "size": 6143,
+      "comment": "Undid revision 834219356 by [[Special:Contributions/Buzz360|Buzz360]] ([[User talk:Buzz360|talk]]) - unsourced POV",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 839826306,
+      "parentid": 834258864,
+      "timestamp": "2018-05-05T22:58:25Z",
+      "user": "Pharexia",
+      "userid": 31342357,
+      "size": 6159,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 854712761,
+      "parentid": 839826306,
+      "timestamp": "2018-08-13T08:04:57Z",
+      "user": "47.223.82.60",
+      "userid": 0,
+      "size": 6170,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 854971774,
+      "parentid": 854712761,
+      "timestamp": "2018-08-15T01:31:25Z",
+      "user": "24.136.10.112",
+      "userid": 0,
+      "size": 6312,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855865416,
+      "parentid": 854971774,
+      "timestamp": "2018-08-21T10:16:11Z",
+      "user": "73.157.13.96",
+      "userid": 0,
+      "size": 6273,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 856581218,
+      "parentid": 855865416,
+      "timestamp": "2018-08-26T06:56:11Z",
+      "user": "Serols",
+      "userid": 9929111,
+      "size": 6312,
+      "comment": "Reverted edits by [[Special:Contributions/73.157.13.96|73.157.13.96]] ([[User talk:73.157.13.96|talk]]) ([[WP:HG|HG]]) (3.4.4)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 856794304,
+      "parentid": 856581218,
+      "timestamp": "2018-08-27T15:41:53Z",
+      "user": "Richelieu94",
+      "userid": 31569845,
+      "size": 6336,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 856798253,
+      "parentid": 856794304,
+      "timestamp": "2018-08-27T16:09:21Z",
+      "user": "Filedelinkerbot",
+      "userid": 20611691,
+      "size": 6296,
+      "comment": "Bot: Removing [[c:File:Jim Newberger 2018 Campaign Portrait.jpg]] , deleted by [[:C:User:De728631|De728631]] ([[Commons:COM:NETCOPYRIGHT|Copyright violation]], no indication of a [[Commons:COM:L|free license]] on the source site ([[Commons:COM:CSD#F1|F1]])).",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 857341580,
+      "parentid": 856798253,
+      "timestamp": "2018-08-31T02:59:49Z",
+      "user": "Pharexia",
+      "userid": 31342357,
+      "size": 6225,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 862633200,
+      "parentid": 857341580,
+      "timestamp": "2018-10-05T17:07:51Z",
+      "user": "64.8.149.190",
+      "userid": 0,
+      "size": 6235,
+      "comment": "Traash",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 862633213,
+      "parentid": 862633200,
+      "timestamp": "2018-10-05T17:07:57Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 6225,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/64.8.149.190|64.8.149.190]] to version by Pharexia. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3498593) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 864044696,
+      "parentid": 862633213,
+      "timestamp": "2018-10-14T18:59:12Z",
+      "user": "Aaronw1109",
+      "userid": 29717583,
+      "size": 6336,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867023688,
+      "parentid": 864044696,
+      "timestamp": "2018-11-03T03:12:28Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6336,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867263441,
+      "parentid": 867023688,
+      "timestamp": "2018-11-04T18:04:23Z",
+      "user": "Wow",
+      "userid": 29534843,
+      "size": 6833,
+      "comment": "/* Electoral History */ 2018",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872185280,
+      "parentid": 867263441,
+      "timestamp": "2018-12-05T18:31:50Z",
+      "user": "64.125.144.40",
+      "userid": 0,
+      "size": 6834,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 874253684,
+      "parentid": 872185280,
+      "timestamp": "2018-12-18T02:24:33Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6834,
+      "comment": "Section heading change: Electoral History → Electoral history using a [[User:The Evil IP address/hdedit|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 874253864,
+      "parentid": 874253684,
+      "timestamp": "2018-12-18T02:26:10Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7366,
+      "comment": "Filled in 4 bare reference(s) with [[:en:WP:REFILL|reFill]] ()",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874253928,
+      "parentid": 874253864,
+      "timestamp": "2018-12-18T02:26:39Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7426,
+      "comment": "added [[Category:Candidates in the 2018 United States elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874410696,
+      "parentid": 874253928,
+      "timestamp": "2018-12-19T02:31:23Z",
+      "user": "Auric",
+      "userid": 31706,
+      "size": 7423,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 877494866,
+      "parentid": 874410696,
+      "timestamp": "2019-01-09T00:49:33Z",
+      "user": "LightSoup",
+      "userid": 214950,
+      "size": 7435,
+      "comment": "no longer a member",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 877494887,
+      "parentid": 877494866,
+      "timestamp": "2019-01-09T00:49:52Z",
+      "user": "LightSoup",
+      "userid": 214950,
+      "size": 7436,
+      "comment": "copy edit",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 892069276,
+      "parentid": 877494887,
+      "timestamp": "2019-04-12T00:11:56Z",
+      "user": "2600:100C:B226:8E34:3091:BEE4:CA9C:B3B4",
+      "userid": 0,
+      "size": 7483,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 899094880,
+      "parentid": 892069276,
+      "timestamp": "2019-05-27T20:49:58Z",
+      "user": "DannyS712 bot",
+      "userid": 35159807,
+      "size": 7465,
+      "comment": "/* Minnesota House of Representatives */Task 39: Use a more specific maintenance tag",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 899266736,
+      "parentid": 899094880,
+      "timestamp": "2019-05-28T22:23:17Z",
+      "user": "Blackforest92",
+      "userid": 21055852,
+      "size": 7446,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 911589171,
+      "parentid": 899266736,
+      "timestamp": "2019-08-19T21:05:15Z",
+      "user": "WallyJMN",
+      "userid": 37166693,
+      "size": 6057,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": true,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 911608863,
+      "parentid": 911589171,
+      "timestamp": "2019-08-20T00:02:15Z",
+      "user": "M.Bitton",
+      "userid": 24134703,
+      "size": 7446,
+      "comment": "Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/WallyJMN|WallyJMN]] using [[WP:STiki|STiki]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "STiki"
+      ]
+    },
+    {
+      "revid": 911737476,
+      "parentid": 911608863,
+      "timestamp": "2019-08-20T20:16:19Z",
+      "user": "WallyJMN",
+      "userid": 37166693,
+      "size": 6041,
+      "comment": "/* Minnesota House of Representatives */ Previous information edited due to being poorly sourced and tabloid in content.",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 911738405,
+      "parentid": 911737476,
+      "timestamp": "2019-08-20T20:24:04Z",
+      "user": "Nosebagbear",
+      "userid": 17340450,
+      "size": 6770,
+      "comment": "/* Minnesota House of Representatives */  most of the criticism had poor sourcing. however this part was sufficiently sourced and should be retained. I've rewritten it to make it self-standing",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 911738526,
+      "parentid": 911738405,
+      "timestamp": "2019-08-20T20:24:50Z",
+      "user": "Nosebagbear",
+      "userid": 17340450,
+      "size": 6763,
+      "comment": "/* Minnesota House of Representatives */  removed an unneeded \"to\" for clarity",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 911927392,
+      "parentid": 911738526,
+      "timestamp": "2019-08-22T02:42:54Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 6756,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 912200761,
+      "parentid": 911927392,
+      "timestamp": "2019-08-23T22:05:00Z",
+      "user": "WallyJMN",
+      "userid": 37166693,
+      "size": 7070,
+      "comment": "Addition of content, citing CBS News report per Patrick Kessler https://twitter.com/PatKessler/status/823721491997061120?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E823721491997061120&ref_url=https%3A%2F%2Fheavy.com%2Fnews%2F2017%2F01%2Fminnesota-governor-mark-dayton-faint-pass-out-video%2F",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 912348735,
+      "parentid": 912200761,
+      "timestamp": "2019-08-24T23:00:39Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 7021,
+      "comment": "/* Minnesota House of Representatives */ ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 913619513,
+      "parentid": 912348735,
+      "timestamp": "2019-09-02T05:03:54Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 7020,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 921311083,
+      "parentid": 913619513,
+      "timestamp": "2019-10-15T01:51:14Z",
+      "user": "174.206.2.19",
+      "userid": 0,
+      "size": 7043,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 922399990,
+      "parentid": 921311083,
+      "timestamp": "2019-10-21T22:03:38Z",
+      "user": "WallyJMN",
+      "userid": 37166693,
+      "size": 7648,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 922561831,
+      "parentid": 922399990,
+      "timestamp": "2019-10-22T22:08:04Z",
+      "user": "WallyJMN",
+      "userid": 37166693,
+      "size": 7706,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 922562045,
+      "parentid": 922561831,
+      "timestamp": "2019-10-22T22:08:56Z",
+      "user": "WallyJMN",
+      "userid": 37166693,
+      "size": 7708,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 922562150,
+      "parentid": 922562045,
+      "timestamp": "2019-10-22T22:09:46Z",
+      "user": "WallyJMN",
+      "userid": 37166693,
+      "size": 7710,
+      "comment": "/* Minnesota House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 922749350,
+      "parentid": 922562150,
+      "timestamp": "2019-10-24T02:03:07Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 7661,
+      "comment": "ce",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 924277242,
+      "parentid": 922749350,
+      "timestamp": "2019-11-02T21:48:36Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 7656,
+      "comment": "Cite cleanup",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 933428022,
+      "parentid": 924277242,
+      "timestamp": "2019-12-31T22:03:21Z",
+      "user": "42Q7",
+      "userid": 21979093,
+      "size": 7665,
+      "comment": "/* Minnesota House of Representatives */ cleaned up reference",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958115885,
+      "parentid": 933428022,
+      "timestamp": "2020-05-22T01:06:52Z",
+      "user": "Sampiresse",
+      "userid": 39143894,
+      "size": 7731,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 996534026,
+      "parentid": 958115885,
+      "timestamp": "2020-12-27T04:34:41Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 7732,
+      "comment": "/* Minnesota House of Representatives */ +",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1013741982,
+      "parentid": 996534026,
+      "timestamp": "2021-03-23T06:17:25Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 7672,
+      "comment": "/* References */ -",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1021879882,
+      "parentid": 1013741982,
+      "timestamp": "2021-05-07T05:42:15Z",
+      "user": "Extraordinary Writ",
+      "userid": 39795743,
+      "size": 7714,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1055502372,
+      "parentid": 1021879882,
+      "timestamp": "2021-11-16T06:55:46Z",
+      "user": "DukeOfDelTaco",
+      "userid": 36908829,
+      "size": 7721,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1063211510,
+      "parentid": 1055502372,
+      "timestamp": "2022-01-01T21:39:27Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 7820,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 339/2195",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1128616952,
+      "parentid": 1063211510,
+      "timestamp": "2022-12-21T02:08:11Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 7802,
+      "comment": "/* External links */intersect Republican and Minnesota representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1172876329,
+      "parentid": 1128616952,
+      "timestamp": "2023-08-29T21:49:20Z",
+      "user": "Cpotisch",
+      "userid": 31957816,
+      "size": 7817,
+      "comment": "Additional context about 2018 senate race",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1205699461,
+      "parentid": 1172876329,
+      "timestamp": "2024-02-10T07:05:35Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7817,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1213740210,
+      "parentid": 1205699461,
+      "timestamp": "2024-03-14T21:28:41Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7865,
+      "comment": "/* External links */add [[Category:21st-century Minnesota politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1226509032,
+      "parentid": 1213740210,
+      "timestamp": "2024-05-31T02:22:24Z",
+      "user": "Wdgaulke",
+      "userid": 47771822,
+      "size": 7865,
+      "comment": "Corrected end of office date",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1226511071,
+      "parentid": 1226509032,
+      "timestamp": "2024-05-31T02:43:08Z",
+      "user": "Wdgaulke",
+      "userid": 47771822,
+      "size": 7992,
+      "comment": "Clarified geography of district",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1226683969,
+      "parentid": 1226511071,
+      "timestamp": "2024-06-01T06:16:26Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 7987,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1240203924,
+      "parentid": 1226683969,
+      "timestamp": "2024-08-14T03:06:54Z",
+      "user": "2607:FEA8:22DE:1F20:3DD6:6CF9:AB32:FF27",
+      "userid": 0,
+      "size": 8002,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1245573638,
+      "parentid": 1240203924,
+      "timestamp": "2024-09-13T19:58:52Z",
+      "user": "Atubofsilverware",
+      "userid": 46998060,
+      "size": 8014,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician\" to \"American politician (born 1964)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1260329311,
+      "parentid": 1245573638,
+      "timestamp": "2024-11-30T04:11:42Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8077,
+      "comment": "added [[:Category:21st-century members of the Minnesota Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260331612,
+      "parentid": 1260329311,
+      "timestamp": "2024-11-30T04:33:37Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8029,
+      "comment": "Removing from [[Category:21st-century Minnesota politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260333550,
+      "parentid": 1260331612,
+      "timestamp": "2024-11-30T04:50:57Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 7982,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Newberger"
+}

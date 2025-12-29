@@ -1,0 +1,2290 @@
+{
+  "page_title": "Garry_Cobb",
+  "candidate_name": "Garry Cobb",
+  "collection_date": "2025-12-28T16:39:22.054715",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 199,
+    "unique_editors": 106,
+    "date_range": {
+      "start": "2006-11-18T10:09:34Z",
+      "end": "2024-11-09T03:13:35Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 88597622,
+      "parentid": 64233575,
+      "timestamp": "2006-11-18T10:09:34Z",
+      "user": "69.139.7.73",
+      "userid": 0,
+      "size": 2842,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 88598978,
+      "parentid": 88597622,
+      "timestamp": "2006-11-18T10:23:56Z",
+      "user": "Looper5920",
+      "userid": 433748,
+      "size": 2844,
+      "comment": "Revert to revision 64233575 dated 2006-07-17 04:45:30 by 58.69.161.58 using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 99788410,
+      "parentid": 88598978,
+      "timestamp": "2007-01-10T16:48:02Z",
+      "user": "204.52.215.28",
+      "userid": 0,
+      "size": 2842,
+      "comment": "/* Professional Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 99788701,
+      "parentid": 99788410,
+      "timestamp": "2007-01-10T16:49:39Z",
+      "user": "204.52.215.28",
+      "userid": 0,
+      "size": 2840,
+      "comment": "/* Professional Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 99789278,
+      "parentid": 99788701,
+      "timestamp": "2007-01-10T16:52:46Z",
+      "user": "204.52.215.28",
+      "userid": 0,
+      "size": 2920,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 126502946,
+      "parentid": 99789278,
+      "timestamp": "2007-04-27T23:00:17Z",
+      "user": "Mehudson1",
+      "userid": 355329,
+      "size": 2988,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 144945958,
+      "parentid": 126502946,
+      "timestamp": "2007-07-16T06:17:40Z",
+      "user": "Ksy92003",
+      "userid": 2767098,
+      "size": 3018,
+      "comment": "Fixed re-direct  using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 147566214,
+      "parentid": 144945958,
+      "timestamp": "2007-07-28T00:18:35Z",
+      "user": "Quadell",
+      "userid": 57108,
+      "size": 3003,
+      "comment": "took out reference to deleted image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 151701866,
+      "parentid": 147566214,
+      "timestamp": "2007-08-16T22:58:39Z",
+      "user": "141.158.25.138",
+      "userid": 0,
+      "size": 3108,
+      "comment": "added his work with The Bulletin",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 152811229,
+      "parentid": 151701866,
+      "timestamp": "2007-08-22T00:38:05Z",
+      "user": "70.20.138.154",
+      "userid": 0,
+      "size": 3092,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 153211153,
+      "parentid": 152811229,
+      "timestamp": "2007-08-23T20:10:21Z",
+      "user": "Jwalte04",
+      "userid": 959529,
+      "size": 3066,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 158027674,
+      "parentid": 153211153,
+      "timestamp": "2007-09-15T10:34:15Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3081,
+      "comment": "Set up birth date/death date template and/or general fixes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 163728462,
+      "parentid": 158027674,
+      "timestamp": "2007-10-11T03:31:13Z",
+      "user": "Fightingirish",
+      "userid": 635427,
+      "size": 3085,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 188014976,
+      "parentid": 163728462,
+      "timestamp": "2008-01-30T22:16:24Z",
+      "user": "12.177.115.248",
+      "userid": 0,
+      "size": 3151,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 188014991,
+      "parentid": 188014976,
+      "timestamp": "2008-01-30T22:16:28Z",
+      "user": "ClueBot",
+      "userid": 4928500,
+      "size": 3085,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/12.177.115.248|12.177.115.248]] to version by Fightingirish. False positive? [[User:ClueBot/FalsePositives|report it]]. Thanks, [[User:ClueBot]]. (191146) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 194846094,
+      "parentid": 188014991,
+      "timestamp": "2008-02-29T06:36:35Z",
+      "user": "129.21.142.148",
+      "userid": 0,
+      "size": 3373,
+      "comment": "/* Radio career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 196359586,
+      "parentid": 194846094,
+      "timestamp": "2008-03-06T20:15:23Z",
+      "user": "Quercus basaseachicensis",
+      "userid": 5517021,
+      "size": 3421,
+      "comment": "add ref section",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 198737893,
+      "parentid": 196359586,
+      "timestamp": "2008-03-16T23:23:57Z",
+      "user": "71.207.94.8",
+      "userid": 0,
+      "size": 3539,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 198738021,
+      "parentid": 198737893,
+      "timestamp": "2008-03-16T23:24:43Z",
+      "user": "71.207.94.8",
+      "userid": 0,
+      "size": 3543,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 198739405,
+      "parentid": 198738021,
+      "timestamp": "2008-03-16T23:31:50Z",
+      "user": "Accurizer",
+      "userid": 804090,
+      "size": 3421,
+      "comment": "Reverted edits by [[Special:Contributions/71.207.94.8|71.207.94.8]] ([[User talk:71.207.94.8|talk]]) to last version by Quercus basaseachicensis",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 200603567,
+      "parentid": 198739405,
+      "timestamp": "2008-03-24T19:05:02Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 3544,
+      "comment": "free image please -   using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201312069,
+      "parentid": 200603567,
+      "timestamp": "2008-03-27T13:02:31Z",
+      "user": "DumZiBoT",
+      "userid": 6085301,
+      "size": 3661,
+      "comment": "Bot: Converting bare references, see [[User:DumZiBoT/refLinks|FAQ]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 210507553,
+      "parentid": 201312069,
+      "timestamp": "2008-05-06T05:34:10Z",
+      "user": "69.116.116.96",
+      "userid": 0,
+      "size": 3795,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210507654,
+      "parentid": 210507553,
+      "timestamp": "2008-05-06T05:34:54Z",
+      "user": "69.116.116.96",
+      "userid": 0,
+      "size": 3661,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210507724,
+      "parentid": 210507654,
+      "timestamp": "2008-05-06T05:35:26Z",
+      "user": "69.116.116.96",
+      "userid": 0,
+      "size": 3810,
+      "comment": "/* Radio career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210584505,
+      "parentid": 210507724,
+      "timestamp": "2008-05-06T15:27:23Z",
+      "user": "Jwalte04",
+      "userid": 959529,
+      "size": 3661,
+      "comment": "[[WP:UNDO|Undid]] revision 210507724 by [[Special:Contributions/69.116.116.96|69.116.116.96]] ([[User talk:69.116.116.96|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 237605440,
+      "parentid": 210584505,
+      "timestamp": "2008-09-10T23:48:48Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 3644,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 257793095,
+      "parentid": 237605440,
+      "timestamp": "2008-12-13T23:44:49Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 3657,
+      "comment": "clean up, Replaced: African American sportspeople → African American American football players  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 259417268,
+      "parentid": 257793095,
+      "timestamp": "2008-12-21T22:19:33Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3660,
+      "comment": "Robot - Moving category African American American football players to African American players of American football per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2008 December 12]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 267274249,
+      "parentid": 259417268,
+      "timestamp": "2009-01-29T21:50:06Z",
+      "user": "JayJasper",
+      "userid": 2643895,
+      "size": 3624,
+      "comment": "/* External links */ revised catsort; recat.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 271632635,
+      "parentid": 267274249,
+      "timestamp": "2009-02-18T19:21:35Z",
+      "user": "Jwalte04",
+      "userid": 959529,
+      "size": 3570,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 271842263,
+      "parentid": 271632635,
+      "timestamp": "2009-02-19T15:15:01Z",
+      "user": "Masonpatriot",
+      "userid": 455767,
+      "size": 3593,
+      "comment": "/* External links */  - added navbox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272113641,
+      "parentid": 271842263,
+      "timestamp": "2009-02-20T18:59:38Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 3729,
+      "comment": "Added GCobb Publishing and GCobb.Com to Intro Information Paragraph.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272114291,
+      "parentid": 272113641,
+      "timestamp": "2009-02-20T19:02:46Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 3784,
+      "comment": "Add Author to Intro Paragraph.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272115298,
+      "parentid": 272114291,
+      "timestamp": "2009-02-20T19:07:16Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 3869,
+      "comment": "Add title of Book - Don't Be Clueless",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272115506,
+      "parentid": 272115298,
+      "timestamp": "2009-02-20T19:08:13Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 3872,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272117730,
+      "parentid": 272115506,
+      "timestamp": "2009-02-20T19:18:48Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4098,
+      "comment": "/* Radio career */ TV made past tense and Website Publishing section added.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272118036,
+      "parentid": 272117730,
+      "timestamp": "2009-02-20T19:20:23Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4098,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272118468,
+      "parentid": 272118036,
+      "timestamp": "2009-02-20T19:22:49Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4252,
+      "comment": "/* Early life */ expanded family imagery.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272118749,
+      "parentid": 272118468,
+      "timestamp": "2009-02-20T19:23:57Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4260,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272120031,
+      "parentid": 272118749,
+      "timestamp": "2009-02-20T19:29:36Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4476,
+      "comment": "/* Professional career */ Expanded comment about Cobb for Montgomery trade.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272120471,
+      "parentid": 272120031,
+      "timestamp": "2009-02-20T19:31:29Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4454,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272121843,
+      "parentid": 272120471,
+      "timestamp": "2009-02-20T19:37:44Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4497,
+      "comment": "Add \"Scoop\" wording and clarifcation re Asante Samuel signing.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272125789,
+      "parentid": 272121843,
+      "timestamp": "2009-02-20T19:56:42Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4661,
+      "comment": "Added \"Speaking to Troubled Youth\" in Personal Section.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272127004,
+      "parentid": 272125789,
+      "timestamp": "2009-02-20T20:02:24Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4794,
+      "comment": "/* Professional career */ Add mention played with White, Brown, Joyner.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272127154,
+      "parentid": 272127004,
+      "timestamp": "2009-02-20T20:03:10Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4801,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272128368,
+      "parentid": 272127154,
+      "timestamp": "2009-02-20T20:08:35Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4861,
+      "comment": "Added reference to QB Randall Cunningham in Professional Career section.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272130156,
+      "parentid": 272128368,
+      "timestamp": "2009-02-20T20:17:12Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4895,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272130605,
+      "parentid": 272130156,
+      "timestamp": "2009-02-20T20:19:16Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4894,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272131677,
+      "parentid": 272130605,
+      "timestamp": "2009-02-20T20:24:24Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4908,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272132306,
+      "parentid": 272131677,
+      "timestamp": "2009-02-20T20:27:28Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4911,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 272135182,
+      "parentid": 272132306,
+      "timestamp": "2009-02-20T20:42:06Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 4983,
+      "comment": "/* Personal */ Reference Wife Gwendolyn per GC.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272622612,
+      "parentid": 272135182,
+      "timestamp": "2009-02-23T01:16:47Z",
+      "user": "Neopedia54",
+      "userid": 8935273,
+      "size": 5014,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 274581407,
+      "parentid": 272622612,
+      "timestamp": "2009-03-03T01:21:17Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 5031,
+      "comment": "Date maintenance tags and general  fixes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 304024590,
+      "parentid": 274581407,
+      "timestamp": "2009-07-24T22:47:17Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 5042,
+      "comment": "Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], improving links, other minor cleanup tasks, Replaced: [[free agency]] → [[Fre using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 313994228,
+      "parentid": 304024590,
+      "timestamp": "2009-09-14T23:44:08Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 5096,
+      "comment": "Birth/death cats from lifetime and general  fixes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 325185331,
+      "parentid": 313994228,
+      "timestamp": "2009-11-11T04:19:17Z",
+      "user": "Ground Zero",
+      "userid": 232133,
+      "size": 4927,
+      "comment": "clean up formatting, remove cliche - all parents are proud",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 328185090,
+      "parentid": 325185331,
+      "timestamp": "2009-11-27T09:48:48Z",
+      "user": "Nedrutland",
+      "userid": 3556578,
+      "size": 4962,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333296629,
+      "parentid": 328185090,
+      "timestamp": "2009-12-22T16:43:21Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 4954,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 371526879,
+      "parentid": 333296629,
+      "timestamp": "2010-07-03T10:50:37Z",
+      "user": "Draggleduck",
+      "userid": 5684709,
+      "size": 4968,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 371527081,
+      "parentid": 371526879,
+      "timestamp": "2010-07-03T10:52:30Z",
+      "user": "Draggleduck",
+      "userid": 5684709,
+      "size": 4968,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 392982416,
+      "parentid": 371527081,
+      "timestamp": "2010-10-26T12:17:41Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 5214,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7319)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 404622323,
+      "parentid": 392982416,
+      "timestamp": "2010-12-28T11:50:36Z",
+      "user": "Schnablebg",
+      "userid": 12856023,
+      "size": 5289,
+      "comment": "Add link to similarly named English footballer Gary Cobb.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 425744714,
+      "parentid": 404622323,
+      "timestamp": "2011-04-25T00:17:29Z",
+      "user": "68.99.10.130",
+      "userid": 0,
+      "size": 5099,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 428469956,
+      "parentid": 425744714,
+      "timestamp": "2011-05-10T20:03:55Z",
+      "user": "Eagles247",
+      "userid": 9792575,
+      "size": 5559,
+      "comment": "/* External links */ succession boxes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 428482893,
+      "parentid": 428469956,
+      "timestamp": "2011-05-10T21:32:17Z",
+      "user": "Eagles247",
+      "userid": 9792575,
+      "size": 5099,
+      "comment": "/* External links */ rmv",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 433315774,
+      "parentid": 428482893,
+      "timestamp": "2011-06-09T01:41:05Z",
+      "user": "Σ",
+      "userid": 9951654,
+      "size": 5121,
+      "comment": "not an infobox template",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 435257700,
+      "parentid": 433315774,
+      "timestamp": "2011-06-20T11:47:17Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5121,
+      "comment": "Updated infobox using [[Project:AWB|AWB]] (7758)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 440737473,
+      "parentid": 435257700,
+      "timestamp": "2011-07-21T23:00:31Z",
+      "user": "Tinton5",
+      "userid": 9806113,
+      "size": 5170,
+      "comment": "cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 449374087,
+      "parentid": 440737473,
+      "timestamp": "2011-09-09T18:52:20Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 5199,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7822)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 467901777,
+      "parentid": 449374087,
+      "timestamp": "2011-12-27T11:47:13Z",
+      "user": "Moe Epsilon",
+      "userid": 327589,
+      "size": 5214,
+      "comment": "{{1978 USC Trojans football navbox}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 475287448,
+      "parentid": 467901777,
+      "timestamp": "2012-02-05T21:16:55Z",
+      "user": "John of Reading",
+      "userid": 11308236,
+      "size": 5215,
+      "comment": "[[WP:AWB/T|Typo]] and [[WP:AWB/GF|General fixing]], replaced: who he met → whom he met using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 481946528,
+      "parentid": 475287448,
+      "timestamp": "2012-03-15T00:44:35Z",
+      "user": "Smg0136",
+      "userid": 16478431,
+      "size": 5241,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 484967714,
+      "parentid": 481946528,
+      "timestamp": "2012-04-01T08:53:46Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5242,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 484968034,
+      "parentid": 484967714,
+      "timestamp": "2012-04-01T08:58:15Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5253,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 484973916,
+      "parentid": 484968034,
+      "timestamp": "2012-04-01T10:06:08Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5319,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 484973927,
+      "parentid": 484973916,
+      "timestamp": "2012-04-01T10:06:12Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 5241,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/24.238.83.9|24.238.83.9]] to version by Smg0136. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (988354) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 484977600,
+      "parentid": 484973927,
+      "timestamp": "2012-04-01T10:47:40Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5252,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 485079523,
+      "parentid": 484977600,
+      "timestamp": "2012-04-02T00:55:11Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5253,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 487623903,
+      "parentid": 485079523,
+      "timestamp": "2012-04-16T06:27:45Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5245,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 487624053,
+      "parentid": 487623903,
+      "timestamp": "2012-04-16T06:29:41Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5252,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 487628213,
+      "parentid": 487624053,
+      "timestamp": "2012-04-16T07:23:04Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5262,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488720779,
+      "parentid": 487628213,
+      "timestamp": "2012-04-22T22:07:49Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5270,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488721205,
+      "parentid": 488720779,
+      "timestamp": "2012-04-22T22:10:51Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5279,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488721949,
+      "parentid": 488721205,
+      "timestamp": "2012-04-22T22:16:16Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5284,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488766610,
+      "parentid": 488721949,
+      "timestamp": "2012-04-23T05:31:30Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5283,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488771358,
+      "parentid": 488766610,
+      "timestamp": "2012-04-23T06:35:24Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5291,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 490266965,
+      "parentid": 488771358,
+      "timestamp": "2012-05-02T08:52:41Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5301,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 490728752,
+      "parentid": 490266965,
+      "timestamp": "2012-05-05T02:08:41Z",
+      "user": "Courcelles",
+      "userid": 1004750,
+      "size": 5330,
+      "comment": "/* External links */Edit to remove from [[Category:Persondata templates without short description parameter]] using [[Project:AWB|AWB]] (8032)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 490853031,
+      "parentid": 490728752,
+      "timestamp": "2012-05-05T22:00:08Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5336,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 495425538,
+      "parentid": 490853031,
+      "timestamp": "2012-06-01T08:24:07Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5350,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 495655745,
+      "parentid": 495425538,
+      "timestamp": "2012-06-02T18:34:36Z",
+      "user": "24.238.83.9",
+      "userid": 0,
+      "size": 5347,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 496039116,
+      "parentid": 495655745,
+      "timestamp": "2012-06-05T01:30:23Z",
+      "user": "Timrollpickering",
+      "userid": 32005,
+      "size": 5347,
+      "comment": "/* External links */move Category:African American players of American football to [[Category:African-American players of American football]] per [[WP:CFDS]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 522777090,
+      "parentid": 496039116,
+      "timestamp": "2012-11-13T06:21:01Z",
+      "user": "VIAFbot",
+      "userid": 17215358,
+      "size": 5383,
+      "comment": "Added the {{[[Template:Authority control|Authority control]]}} template with VIAF number 68384052: http://viaf.org/viaf/68384052 . Please [[WP:VIAF/errors|report any errors]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 594235958,
+      "parentid": 522777090,
+      "timestamp": "2014-02-06T17:25:33Z",
+      "user": "173.15.152.113",
+      "userid": 0,
+      "size": 5484,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 609060652,
+      "parentid": 594235958,
+      "timestamp": "2014-05-18T07:09:28Z",
+      "user": "2601:B:B800:579:99FA:351F:7EBA:710E",
+      "userid": 0,
+      "size": 5751,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 609060989,
+      "parentid": 609060652,
+      "timestamp": "2014-05-18T07:13:15Z",
+      "user": "2601:B:B800:579:99FA:351F:7EBA:710E",
+      "userid": 0,
+      "size": 6014,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 609061329,
+      "parentid": 609060989,
+      "timestamp": "2014-05-18T07:17:44Z",
+      "user": "2601:B:B800:579:99FA:351F:7EBA:710E",
+      "userid": 0,
+      "size": 5997,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 609061894,
+      "parentid": 609061329,
+      "timestamp": "2014-05-18T07:25:44Z",
+      "user": "2601:B:B800:579:99FA:351F:7EBA:710E",
+      "userid": 0,
+      "size": 6421,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 609062304,
+      "parentid": 609061894,
+      "timestamp": "2014-05-18T07:31:17Z",
+      "user": "2601:B:B800:579:99FA:351F:7EBA:710E",
+      "userid": 0,
+      "size": 6681,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 609063289,
+      "parentid": 609062304,
+      "timestamp": "2014-05-18T07:44:42Z",
+      "user": "2601:B:B800:579:99FA:351F:7EBA:710E",
+      "userid": 0,
+      "size": 7018,
+      "comment": "/* Professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 611550479,
+      "parentid": 609063289,
+      "timestamp": "2014-06-04T16:44:58Z",
+      "user": "A wild Rattata",
+      "userid": 13777863,
+      "size": 7524,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 611550670,
+      "parentid": 611550479,
+      "timestamp": "2014-06-04T16:46:50Z",
+      "user": "167.219.88.140",
+      "userid": 0,
+      "size": 7594,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625458413,
+      "parentid": 611550670,
+      "timestamp": "2014-09-14T00:42:32Z",
+      "user": "Tecmo",
+      "userid": 16367040,
+      "size": 11108,
+      "comment": "Added information and references",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625459518,
+      "parentid": 625458413,
+      "timestamp": "2014-09-14T00:53:46Z",
+      "user": "Tecmo",
+      "userid": 16367040,
+      "size": 11191,
+      "comment": "Added information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632648103,
+      "parentid": 625459518,
+      "timestamp": "2014-11-06T03:48:52Z",
+      "user": "68.103.156.8",
+      "userid": 0,
+      "size": 11227,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 637895398,
+      "parentid": 632648103,
+      "timestamp": "2014-12-13T11:09:47Z",
+      "user": "Topbanana",
+      "userid": 20151,
+      "size": 11227,
+      "comment": "Link repair:  Pacific 10 Conference -> Pacific-10 Conference  - [[w:en:WP:RLR|You can help!]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 638162215,
+      "parentid": 637895398,
+      "timestamp": "2014-12-15T07:05:54Z",
+      "user": "ALPolitico",
+      "userid": 20461514,
+      "size": 11228,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 660315485,
+      "parentid": 638162215,
+      "timestamp": "2015-05-01T21:15:35Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 11214,
+      "comment": "authority control moved to wikidata",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 666130401,
+      "parentid": 660315485,
+      "timestamp": "2015-06-09T02:43:54Z",
+      "user": "Tecmo",
+      "userid": 16367040,
+      "size": 11731,
+      "comment": "Added information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 667205549,
+      "parentid": 666130401,
+      "timestamp": "2015-06-16T15:04:18Z",
+      "user": "Bender235",
+      "userid": 88026,
+      "size": 11652,
+      "comment": "clean up; http->https after permanent move of Wikimedia to [[HTTPS]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 669993857,
+      "parentid": 667205549,
+      "timestamp": "2015-07-05T02:03:39Z",
+      "user": "Mlaffs",
+      "userid": 5875630,
+      "size": 11656,
+      "comment": "changed call sign 1 dec 14",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 676684757,
+      "parentid": 669993857,
+      "timestamp": "2015-08-18T14:40:06Z",
+      "user": "ResidueOfDesign",
+      "userid": 5557416,
+      "size": 11655,
+      "comment": "/* College career */ \"Bachelor of Science,\" not \"Bachelor of Sciences\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 678076143,
+      "parentid": 676684757,
+      "timestamp": "2015-08-27T07:36:40Z",
+      "user": "BU RoBOT",
+      "userid": 25993922,
+      "size": 11626,
+      "comment": "Replacing small text footnote with new parameter using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 698541851,
+      "parentid": 678076143,
+      "timestamp": "2016-01-06T19:45:12Z",
+      "user": "Deejayk",
+      "userid": 1333721,
+      "size": 11641,
+      "comment": "clean up infobox parameters: heightft → height_ft, heightin → height_in, weight → weight_lbs, highschool →  high_school, currentteam → current_team using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 706369143,
+      "parentid": 698541851,
+      "timestamp": "2016-02-22T23:03:15Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 11337,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Garry Cobb|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713675777,
+      "parentid": 706369143,
+      "timestamp": "2016-04-05T10:58:12Z",
+      "user": "86.1.1.203",
+      "userid": 0,
+      "size": 11379,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713905523,
+      "parentid": 713675777,
+      "timestamp": "2016-04-06T13:36:21Z",
+      "user": "GCobb57",
+      "userid": 28020592,
+      "size": 11381,
+      "comment": "I changed WTEL to WIP",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 713906262,
+      "parentid": 713905523,
+      "timestamp": "2016-04-06T13:41:27Z",
+      "user": "GCobb57",
+      "userid": 28020592,
+      "size": 11379,
+      "comment": "/* Radio and TV career */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 713909478,
+      "parentid": 713906262,
+      "timestamp": "2016-04-06T14:06:52Z",
+      "user": "GCobb57",
+      "userid": 28020592,
+      "size": 11400,
+      "comment": "/* College career */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 713912815,
+      "parentid": 713909478,
+      "timestamp": "2016-04-06T14:23:20Z",
+      "user": "GCobb57",
+      "userid": 28020592,
+      "size": 11775,
+      "comment": "/* Radio and TV career */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 713917079,
+      "parentid": 713912815,
+      "timestamp": "2016-04-06T14:56:00Z",
+      "user": "GCobb57",
+      "userid": 28020592,
+      "size": 12741,
+      "comment": "/* College career */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 713917697,
+      "parentid": 713917079,
+      "timestamp": "2016-04-06T15:00:57Z",
+      "user": "GCobb57",
+      "userid": 28020592,
+      "size": 12837,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 713919939,
+      "parentid": 713917697,
+      "timestamp": "2016-04-06T15:16:00Z",
+      "user": "GCobb57",
+      "userid": 28020592,
+      "size": 12989,
+      "comment": "/* Early years */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 715520362,
+      "parentid": 713919939,
+      "timestamp": "2016-04-16T10:03:26Z",
+      "user": "198.89.160.22",
+      "userid": 0,
+      "size": 13210,
+      "comment": "Updated his run for congress.<ref>https://ballotpedia.org/New_Jersey%27s_1st_Congressional_District</ref>",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715520452,
+      "parentid": 715520362,
+      "timestamp": "2016-04-16T10:04:06Z",
+      "user": "198.89.160.22",
+      "userid": 0,
+      "size": 13276,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 726111818,
+      "parentid": 715520452,
+      "timestamp": "2016-06-20T03:15:58Z",
+      "user": "Renamed user mou89p43twvqcvm8ut9w3",
+      "userid": 25420061,
+      "size": 13090,
+      "comment": "/* top */cleanup of [[Template:Infobox NFL player]], including removing player of the week/month awards, fixing [[MOS:OVERLINK]], and fixing endashes; misc, removed: |debutyear=1979\n (4), |dbf=COBBGAR01 using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 734366236,
+      "parentid": 726111818,
+      "timestamp": "2016-08-13T20:47:29Z",
+      "user": "Iridescent",
+      "userid": 937705,
+      "size": 13089,
+      "comment": "/* Detroit Lions */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ,  → , using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 764313461,
+      "parentid": 734366236,
+      "timestamp": "2017-02-08T06:04:55Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 13090,
+      "comment": "/* Detroit Lions */clean up; http&rarr;https for [[The New York Times]]. using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 765331033,
+      "parentid": 764313461,
+      "timestamp": "2017-02-13T20:40:28Z",
+      "user": "DMC511",
+      "userid": 4127816,
+      "size": 13082,
+      "comment": "fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 779299296,
+      "parentid": 765331033,
+      "timestamp": "2017-05-08T03:31:26Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 13083,
+      "comment": "v1.42 - minor cleanup",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 782887552,
+      "parentid": 779299296,
+      "timestamp": "2017-05-29T20:50:13Z",
+      "user": "2600:1002:B103:6922:8587:CB09:CBB:9EA",
+      "userid": 0,
+      "size": 13093,
+      "comment": "He's no longer on 94.1 WIP, he moved to 97.5 The Fanatic.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 782887853,
+      "parentid": 782887552,
+      "timestamp": "2017-05-29T20:52:33Z",
+      "user": "2600:1002:B103:6922:8587:CB09:CBB:9EA",
+      "userid": 0,
+      "size": 13081,
+      "comment": "Fixed the radio station he works at",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 783558618,
+      "parentid": 782887853,
+      "timestamp": "2017-06-03T03:01:41Z",
+      "user": "Jazz3111",
+      "userid": 7174379,
+      "size": 11469,
+      "comment": "Remove changes made by account GCobb57 which was created for vandalism purposes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 797721333,
+      "parentid": 783558618,
+      "timestamp": "2017-08-28T20:15:19Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 11470,
+      "comment": "Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 804793745,
+      "parentid": 797721333,
+      "timestamp": "2017-10-11T05:45:02Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 11838,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.5.6)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818145499,
+      "parentid": 804793745,
+      "timestamp": "2018-01-01T21:43:16Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 12327,
+      "comment": "add source re residence",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 820755083,
+      "parentid": 818145499,
+      "timestamp": "2018-01-16T12:26:31Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 12445,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 821641622,
+      "parentid": 820755083,
+      "timestamp": "2018-01-21T19:10:30Z",
+      "user": "Tecmo",
+      "userid": 16367040,
+      "size": 13068,
+      "comment": "Added information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 821648362,
+      "parentid": 821641622,
+      "timestamp": "2018-01-21T19:55:43Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 13207,
+      "comment": "rv unexplained removal of categories that are backed by sources in the article; copyedit and wikify",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 821720043,
+      "parentid": 821648362,
+      "timestamp": "2018-01-22T06:04:59Z",
+      "user": "TNBOY1980",
+      "userid": 32907002,
+      "size": 13213,
+      "comment": "Instead of having Detroit lions listed twice I changed it to the Philadelphia Eagles",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 847224340,
+      "parentid": 821720043,
+      "timestamp": "2018-06-23T19:51:05Z",
+      "user": "148.241.41.4",
+      "userid": 0,
+      "size": 13092,
+      "comment": "Corrected errors",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847951712,
+      "parentid": 847224340,
+      "timestamp": "2018-06-28T21:51:25Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 13213,
+      "comment": "rv unexplained removal of categories",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851662484,
+      "parentid": 847951712,
+      "timestamp": "2018-07-23T19:40:06Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 13209,
+      "comment": "removed [[Category:People from Moore County, North Carolina]]; added [[Category:People from Carthage, North Carolina]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855918605,
+      "parentid": 851662484,
+      "timestamp": "2018-08-21T18:13:17Z",
+      "user": "Edday1051",
+      "userid": 15478853,
+      "size": 13246,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863405995,
+      "parentid": 855918605,
+      "timestamp": "2018-10-10T15:55:08Z",
+      "user": "4.16.143.66",
+      "userid": 0,
+      "size": 13246,
+      "comment": "/* College career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 880228443,
+      "parentid": 863405995,
+      "timestamp": "2019-01-26T04:51:32Z",
+      "user": "Hydronium Hydroxide",
+      "userid": 25613592,
+      "size": 13259,
+      "comment": "/* Radio and TV career */ fix wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 909153881,
+      "parentid": 880228443,
+      "timestamp": "2019-08-03T13:50:44Z",
+      "user": "Ianandruby2002",
+      "userid": 31462395,
+      "size": 13303,
+      "comment": "/* Radio and TV career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 909154066,
+      "parentid": 909153881,
+      "timestamp": "2019-08-03T13:52:28Z",
+      "user": "Ianandruby2002",
+      "userid": 31462395,
+      "size": 13319,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 909154112,
+      "parentid": 909154066,
+      "timestamp": "2019-08-03T13:52:53Z",
+      "user": "Ianandruby2002",
+      "userid": 31462395,
+      "size": 13317,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 910955367,
+      "parentid": 909154112,
+      "timestamp": "2019-08-15T16:38:16Z",
+      "user": "50.58.70.138",
+      "userid": 0,
+      "size": 13317,
+      "comment": "Fixing link to [[Philadelphia Eagles]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 915918813,
+      "parentid": 910955367,
+      "timestamp": "2019-09-16T00:34:24Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 13313,
+      "comment": "/* Personal life */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/0×); fixed work alias (1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 916866186,
+      "parentid": 915918813,
+      "timestamp": "2019-09-21T02:04:49Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 13313,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 917159146,
+      "parentid": 916866186,
+      "timestamp": "2019-09-22T14:42:37Z",
+      "user": "Jwensil",
+      "userid": 4471619,
+      "size": 13300,
+      "comment": "Updated website from inactive campaign website (garrycobb.com), to active personal website (gcobb.com)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 917670062,
+      "parentid": 917159146,
+      "timestamp": "2019-09-24T22:11:47Z",
+      "user": "LilHelpa",
+      "userid": 8024439,
+      "size": 13299,
+      "comment": "it's → its; mnr copy edit",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 947570289,
+      "parentid": 917670062,
+      "timestamp": "2020-03-27T03:09:34Z",
+      "user": "Cavanaughs",
+      "userid": 36970197,
+      "size": 13744,
+      "comment": "/* Run for Congress */ I got confused when reading this because Runyan was in the 3rd district, so I'm adding that they looked at him for the 3rd district but ultimately decided to run in the 1st district.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947571002,
+      "parentid": 947570289,
+      "timestamp": "2020-03-27T03:16:34Z",
+      "user": "Cavanaughs",
+      "userid": 36970197,
+      "size": 13828,
+      "comment": "/* Run for Congress */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947573091,
+      "parentid": 947571002,
+      "timestamp": "2020-03-27T03:37:39Z",
+      "user": "NASCARfan0548",
+      "userid": 35766075,
+      "size": 13875,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American football player\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 947573119,
+      "parentid": 947573091,
+      "timestamp": "2020-03-27T03:38:03Z",
+      "user": "NASCARfan0548",
+      "userid": 35766075,
+      "size": 13874,
+      "comment": "/* {{short description|American football player}} */ Fix capitalization",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 947576105,
+      "parentid": 947573119,
+      "timestamp": "2020-03-27T04:12:51Z",
+      "user": "Cavanaughs",
+      "userid": 36970197,
+      "size": 13996,
+      "comment": "Fix some grammar in the intro",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947576223,
+      "parentid": 947576105,
+      "timestamp": "2020-03-27T04:14:12Z",
+      "user": "Cavanaughs",
+      "userid": 36970197,
+      "size": 14007,
+      "comment": "Link changes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 997246935,
+      "parentid": 947576223,
+      "timestamp": "2020-12-30T17:21:37Z",
+      "user": "Iridescent 2",
+      "userid": 1273126,
+      "size": 14005,
+      "comment": "/* Radio and TV career */Cleanup and [[WP:AWB/T|typo fixing]], [[WP:AWB/T|typo(s) fixed]]: ’s → 's",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1002999264,
+      "parentid": 997246935,
+      "timestamp": "2021-01-27T00:43:43Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 14019,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 10 templates: hyphenate params (14×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1003096623,
+      "parentid": 1002999264,
+      "timestamp": "2021-01-27T11:30:47Z",
+      "user": "ThurstonMitchell",
+      "userid": 39569616,
+      "size": 14084,
+      "comment": "added [[Category:Stamford High School (Stamford, Connecticut) alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1006777744,
+      "parentid": 1003096623,
+      "timestamp": "2021-02-14T19:09:40Z",
+      "user": "Rodw",
+      "userid": 125972,
+      "size": 14099,
+      "comment": "Disambiguating links to [[Jon Runyan]] (link changed to [[Jon Runyan Sr.]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1027461138,
+      "parentid": 1006777744,
+      "timestamp": "2021-06-08T02:07:54Z",
+      "user": "2601:601:1300:B130:D118:85B2:6169:11FD",
+      "userid": 0,
+      "size": 14150,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1027461399,
+      "parentid": 1027461138,
+      "timestamp": "2021-06-08T02:09:51Z",
+      "user": "HMSLavender",
+      "userid": 21479757,
+      "size": 14099,
+      "comment": "Reverted edits by [[Special:Contributions/2601:601:1300:B130:D118:85B2:6169:11FD|2601:601:1300:B130:D118:85B2:6169:11FD]] ([[User talk:2601:601:1300:B130:D118:85B2:6169:11FD|talk]]) ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1046169523,
+      "parentid": 1027461399,
+      "timestamp": "2021-09-24T08:31:19Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 14151,
+      "comment": "add category",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1051018843,
+      "parentid": 1046169523,
+      "timestamp": "2021-10-21T05:10:46Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 14201,
+      "comment": "/* External links */add [[Category:20th-century African-American people]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1061153358,
+      "parentid": 1051018843,
+      "timestamp": "2021-12-20T00:12:55Z",
+      "user": "2601:80:C100:4AA:2C14:BBF5:BECD:CF2C",
+      "userid": 0,
+      "size": 14182,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1067554828,
+      "parentid": 1061153358,
+      "timestamp": "2022-01-24T02:59:36Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 14187,
+      "comment": "[[Category:20th-century African-American people]] to [[Category:20th-century African-American sportspeople]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1067876727,
+      "parentid": 1067554828,
+      "timestamp": "2022-01-25T16:15:30Z",
+      "user": "Hey man im josh",
+      "userid": 40123752,
+      "size": 14099,
+      "comment": "/* top */ Removed weekly/monthly awards. Not meant to be included in the info box for career highlights and awards per [[Wikipedia:WikiProject National Football League/Player pages format#What to leave out|this guideline for player pages]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067879932,
+      "parentid": 1067876727,
+      "timestamp": "2022-01-25T16:33:47Z",
+      "user": "Hey man im josh",
+      "userid": 40123752,
+      "size": 13986,
+      "comment": "Runner-ups, finalists, and honorable mentions are not meant to be included in the info box under career highlights and awards per [[Wikipedia:WikiProject National Football League/Player pages format#What to leave out|this guideline for player pages]].",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1078920392,
+      "parentid": 1067879932,
+      "timestamp": "2022-03-24T01:19:16Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 13998,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American football player\" to \"American football player (born 1957)\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1093658647,
+      "parentid": 1078920392,
+      "timestamp": "2022-06-18T01:40:40Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 13883,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]], clarification; I don't know why he decided not to run in a then-solidly GOP district and instead run in a solidly Democratic one, but it wasn't because of where he lived. The only constitutional rule is that you have to live in the same *state* you run in.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093658695,
+      "parentid": 1093658647,
+      "timestamp": "2022-06-18T01:41:10Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 13849,
+      "comment": "/* Run for Congress */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1109485951,
+      "parentid": 1093658695,
+      "timestamp": "2022-09-10T05:06:30Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13896,
+      "comment": "add [[Category:20th-century African-American men]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1109814159,
+      "parentid": 1109485951,
+      "timestamp": "2022-09-12T00:47:36Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13943,
+      "comment": "/* External links */add [[Category:21st-century African-American men]]",
+      "minor": false,
+      "tags": [
+        "AWB",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1124009766,
+      "parentid": 1109814159,
+      "timestamp": "2022-11-26T22:17:12Z",
+      "user": "Marcocapelle",
+      "userid": 14965160,
+      "size": 13896,
+      "comment": "/* External links */removed [[Category:21st-century African-American men]], this is a container category",
+      "minor": true,
+      "tags": [
+        "AWB",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1125316908,
+      "parentid": 1124009766,
+      "timestamp": "2022-12-03T10:56:47Z",
+      "user": "Marcocapelle",
+      "userid": 14965160,
+      "size": 13849,
+      "comment": "/* External links */removed [[Category:20th-century African-American men]], this is a container category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1137055958,
+      "parentid": 1125316908,
+      "timestamp": "2023-02-02T15:29:37Z",
+      "user": "Pennsylvania2",
+      "userid": 30782049,
+      "size": 13868,
+      "comment": "Spacing and adding",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1139244095,
+      "parentid": 1137055958,
+      "timestamp": "2023-02-14T03:29:39Z",
+      "user": "Yankees10",
+      "userid": 4268551,
+      "size": 13874,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1153749275,
+      "parentid": 1139244095,
+      "timestamp": "2023-05-08T03:23:59Z",
+      "user": "Bringingthewood",
+      "userid": 43682176,
+      "size": 13865,
+      "comment": "Removed place of birth from lead. Added (NFL) to lead. Removed duplicate link.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1161951007,
+      "parentid": 1153749275,
+      "timestamp": "2023-06-26T02:06:35Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 13871,
+      "comment": "Moving from [[Category:People from Cherry Hill, New Jersey]] to [[Category:Sportspeople from Cherry Hill, New Jersey]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1162287429,
+      "parentid": 1161951007,
+      "timestamp": "2023-06-28T04:55:28Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 13944,
+      "comment": "Copying from [[Category:Sportspeople from Cherry Hill, New Jersey]] to [[Category:Players of American football from Camden County, New Jersey]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1162585202,
+      "parentid": 1162287429,
+      "timestamp": "2023-06-30T01:25:53Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 14021,
+      "comment": "Copying from [[Category:Sportspeople from Stamford, Connecticut]] to [[Category:Players of American football from Fairfield County, Connecticut]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1162585379,
+      "parentid": 1162585202,
+      "timestamp": "2023-06-30T01:27:03Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 13962,
+      "comment": "Removing from [[Category:Players of American football from Connecticut]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1175782733,
+      "parentid": 1162585379,
+      "timestamp": "2023-09-17T11:39:22Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 14046,
+      "comment": "Add: date, work, authors 1-1. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:American sports radio personalities]] | #UCB_Category 15/237",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1196087381,
+      "parentid": 1175782733,
+      "timestamp": "2024-01-16T07:18:54Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 13987,
+      "comment": "Removing [[:Category:African-American players of American football]] per [[Wikipedia:Categories for discussion/Log/2024 January 6#Category:African-American players of American football]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1214764082,
+      "parentid": 1196087381,
+      "timestamp": "2024-03-21T00:43:43Z",
+      "user": "Cumberland Mills",
+      "userid": 38208410,
+      "size": 14116,
+      "comment": "Career highlights",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1225281843,
+      "parentid": 1214764082,
+      "timestamp": "2024-05-23T13:33:03Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 14299,
+      "comment": "/* top */[[User:PrimeBOT/30|Task 30]]: infobox updates following [[Special:PermaLink/1224968164#NFL.com_links_in_infoboxes|a discussion]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1225867550,
+      "parentid": 1225281843,
+      "timestamp": "2024-05-27T06:00:08Z",
+      "user": "Sandman766",
+      "userid": 41916931,
+      "size": 14218,
+      "comment": "Removed duplicate link in infobox",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1225971515,
+      "parentid": 1225867550,
+      "timestamp": "2024-05-27T20:39:58Z",
+      "user": "Bringingthewood",
+      "userid": 43682176,
+      "size": 14217,
+      "comment": "/* Early years */ wording",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1237509673,
+      "parentid": 1225971515,
+      "timestamp": "2024-07-30T04:36:15Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 14223,
+      "comment": "Moving from [[Category:21st-century African-American people]] to [[Category:21st-century African-American sportspeople]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1239492473,
+      "parentid": 1237509673,
+      "timestamp": "2024-08-09T16:22:09Z",
+      "user": "BsoykaBot",
+      "userid": 43452311,
+      "size": 14223,
+      "comment": "Fixing miscapitalization of NFL draft links ([[User:BsoykaBot/Task 3|Task 3]], v0.5.1, [[User talk:BsoykaBot|report errors]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1254591074,
+      "parentid": 1239492473,
+      "timestamp": "2024-10-31T19:12:37Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 14266,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#articles.philly.com]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1255679498,
+      "parentid": 1254591074,
+      "timestamp": "2024-11-06T03:15:27Z",
+      "user": "Crowsus",
+      "userid": 29077096,
+      "size": 14263,
+      "comment": "Moving from [[Category:20th-century African-American sportspeople]] to [[Category:20th-century African-American sportsmen]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1255730283,
+      "parentid": 1255679498,
+      "timestamp": "2024-11-06T10:31:13Z",
+      "user": "Crowsus",
+      "userid": 29077096,
+      "size": 14260,
+      "comment": "Moving from [[Category:21st-century African-American sportspeople]] to [[Category:21st-century African-American sportsmen]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1256278061,
+      "parentid": 1255730283,
+      "timestamp": "2024-11-09T03:13:35Z",
+      "user": "Bringingthewood",
+      "userid": 43682176,
+      "size": 14292,
+      "comment": "ce",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Garry_Cobb"
+}

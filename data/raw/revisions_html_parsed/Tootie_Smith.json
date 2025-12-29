@@ -1,0 +1,595 @@
+{
+  "page_title": "Tootie_Smith",
+  "candidate_name": "Tootie Smith",
+  "collection_date": "2025-12-28T16:56:57.755392",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 45,
+    "unique_editors": 31,
+    "date_range": {
+      "start": "2017-01-09T04:53:57Z",
+      "end": "2024-12-07T05:01:56Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 759092222,
+      "parentid": 0,
+      "timestamp": "2017-01-09T04:53:57Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 4076,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox state representative  | honorific-prefix =   | name         = Tootie Smith  | honorific-suffix =   | image        =   | alt          =   | office1 = ...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759092583,
+      "parentid": 759092222,
+      "timestamp": "2017-01-09T04:57:33Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 4082,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759198825,
+      "parentid": 759092583,
+      "timestamp": "2017-01-09T20:06:52Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 4132,
+      "comment": "added [[Category:Concordia University (Oregon) alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759198855,
+      "parentid": 759198825,
+      "timestamp": "2017-01-09T20:07:08Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 4179,
+      "comment": "added [[Category:Mt. Hood Community College alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 760407906,
+      "parentid": 759198855,
+      "timestamp": "2017-01-16T20:17:32Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 4180,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 760407959,
+      "parentid": 760407906,
+      "timestamp": "2017-01-16T20:17:53Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 4199,
+      "comment": "/* References */ external links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 807459218,
+      "parentid": 760407959,
+      "timestamp": "2017-10-28T02:29:06Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 4204,
+      "comment": "removed [[Category:People from Oregon City, Oregon]]; added [[Category:Politicians from Oregon City, Oregon]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864436649,
+      "parentid": 807459218,
+      "timestamp": "2018-10-17T05:46:36Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4213,
+      "comment": "/* External links */recategorize",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 896941945,
+      "parentid": 864436649,
+      "timestamp": "2019-05-13T20:07:23Z",
+      "user": "Yompi20",
+      "userid": 8479038,
+      "size": 4391,
+      "comment": "Updated infobox, Smith was redistricted from the 28th to the 18th district in 2003.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 904019005,
+      "parentid": 896941945,
+      "timestamp": "2019-06-29T12:18:04Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 4388,
+      "comment": "/* Biography */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (1×/0×); skipped: unrecognized periodical (1×); ext text skip (1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 921467148,
+      "parentid": 904019005,
+      "timestamp": "2019-10-15T22:10:00Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 4385,
+      "comment": "/* Biography */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (1×/0×); ext text skip (1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 924951554,
+      "parentid": 921467148,
+      "timestamp": "2019-11-06T22:45:46Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 4373,
+      "comment": "Cite cleanup",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 927917645,
+      "parentid": 924951554,
+      "timestamp": "2019-11-25T16:40:14Z",
+      "user": "2600:100F:B11A:C856:8FA1:4B50:BD7C:EEAA",
+      "userid": 0,
+      "size": 4364,
+      "comment": "/* Personal life */ link doesn't provide name or gender of child",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 945962063,
+      "parentid": 927917645,
+      "timestamp": "2020-03-17T05:36:14Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4411,
+      "comment": "Copying from [[Category:21st-century American women politicians]] to [[Category:21st-century American politicians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 956900529,
+      "parentid": 945962063,
+      "timestamp": "2020-05-15T22:45:07Z",
+      "user": "PortlandOregon",
+      "userid": 32639813,
+      "size": 4520,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 962079810,
+      "parentid": 956900529,
+      "timestamp": "2020-06-12T00:13:06Z",
+      "user": "PortlandSaint",
+      "userid": 39444115,
+      "size": 4617,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 988948224,
+      "parentid": 962079810,
+      "timestamp": "2020-11-16T04:55:19Z",
+      "user": "Kbabej",
+      "userid": 19166314,
+      "size": 4620,
+      "comment": "/* Personal life */Spell out",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 989246466,
+      "parentid": 988948224,
+      "timestamp": "2020-11-17T21:52:22Z",
+      "user": "70.102.128.81",
+      "userid": 0,
+      "size": 4758,
+      "comment": "Updated content.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 989246508,
+      "parentid": 989246466,
+      "timestamp": "2020-11-17T21:52:43Z",
+      "user": "Joseywales1961",
+      "userid": 2087512,
+      "size": 4620,
+      "comment": "Reverted edits by [[Special:Contributions/70.102.128.81|70.102.128.81]] ([[User talk:70.102.128.81|talk]]): not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 989423027,
+      "parentid": 989246508,
+      "timestamp": "2020-11-18T22:09:58Z",
+      "user": "2601:241:8E00:D65:B89B:E779:95F2:B025",
+      "userid": 0,
+      "size": 4705,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 989423056,
+      "parentid": 989423027,
+      "timestamp": "2020-11-18T22:10:08Z",
+      "user": "CodeLyoko",
+      "userid": 10829383,
+      "size": 4620,
+      "comment": "Reverted edits by [[Special:Contributions/2601:241:8E00:D65:B89B:E779:95F2:B025|2601:241:8E00:D65:B89B:E779:95F2:B025]] ([[User talk:2601:241:8E00:D65:B89B:E779:95F2:B025|talk]]) ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 989423281,
+      "parentid": 989423056,
+      "timestamp": "2020-11-18T22:11:50Z",
+      "user": "2601:241:8E00:D65:B89B:E779:95F2:B025",
+      "userid": 0,
+      "size": 4697,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 989423313,
+      "parentid": 989423281,
+      "timestamp": "2020-11-18T22:12:07Z",
+      "user": "Hunter1471",
+      "userid": 30819112,
+      "size": 4620,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2601:241:8E00:D65:B89B:E779:95F2:B025|2601:241:8E00:D65:B89B:E779:95F2:B025]] ([[User talk:2601:241:8E00:D65:B89B:E779:95F2:B025|talk]]) to last revision by CodeLyoko",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 989460486,
+      "parentid": 989423313,
+      "timestamp": "2020-11-19T02:59:51Z",
+      "user": "192.183.208.150",
+      "userid": 0,
+      "size": 5016,
+      "comment": "added interview",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1008834985,
+      "parentid": 989460486,
+      "timestamp": "2021-02-25T08:29:52Z",
+      "user": "Lotje",
+      "userid": 10434788,
+      "size": 5008,
+      "comment": "<ref></ref>",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1008839371,
+      "parentid": 1008834985,
+      "timestamp": "2021-02-25T09:15:36Z",
+      "user": "CommanderInDubio",
+      "userid": 39203244,
+      "size": 5050,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American politician\", overriding Wikidata description \"politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1027950737,
+      "parentid": 1008839371,
+      "timestamp": "2021-06-10T23:40:22Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 5004,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1054289145,
+      "parentid": 1027950737,
+      "timestamp": "2021-11-09T04:44:22Z",
+      "user": "73.240.206.193",
+      "userid": 0,
+      "size": 5038,
+      "comment": "Edited political info",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1054289224,
+      "parentid": 1054289145,
+      "timestamp": "2021-11-09T04:45:19Z",
+      "user": "73.240.206.193",
+      "userid": 0,
+      "size": 5004,
+      "comment": "Fixed error",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1057852511,
+      "parentid": 1054289224,
+      "timestamp": "2021-11-30T01:41:34Z",
+      "user": "2600:100F:B130:BF0B:E883:B7F0:E06A:A349",
+      "userid": 0,
+      "size": 5050,
+      "comment": "/* Biography */ Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1057852630,
+      "parentid": 1057852511,
+      "timestamp": "2021-11-30T01:42:25Z",
+      "user": "2600:100F:B130:BF0B:E883:B7F0:E06A:A349",
+      "userid": 0,
+      "size": 5050,
+      "comment": "/* Biography */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1058014751,
+      "parentid": 1057852630,
+      "timestamp": "2021-11-30T23:39:55Z",
+      "user": "2600:100F:B12B:8B67:14D2:4E27:79D9:B712",
+      "userid": 0,
+      "size": 5045,
+      "comment": "/* Biography */ Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1125701683,
+      "parentid": 1058014751,
+      "timestamp": "2022-12-05T11:20:03Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 5030,
+      "comment": "/* External links */intersect Republican and Oregon representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1146128844,
+      "parentid": 1125701683,
+      "timestamp": "2023-03-22T23:08:36Z",
+      "user": "73.37.110.200",
+      "userid": 0,
+      "size": 5081,
+      "comment": "Fixed error in representation.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1147286767,
+      "parentid": 1146128844,
+      "timestamp": "2023-03-29T23:38:54Z",
+      "user": "75.164.169.134",
+      "userid": 0,
+      "size": 5032,
+      "comment": "Bias statement not relevant to any information",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1147401051,
+      "parentid": 1147286767,
+      "timestamp": "2023-03-30T18:24:37Z",
+      "user": "2600:6C55:4200:FC60:FD2C:D1D5:361E:6BD5",
+      "userid": 0,
+      "size": 5326,
+      "comment": "Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 1147472454,
+      "parentid": 1147401051,
+      "timestamp": "2023-03-31T05:31:54Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 5314,
+      "comment": "Fixing reference errors",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1156572877,
+      "parentid": 1147472454,
+      "timestamp": "2023-05-23T14:44:35Z",
+      "user": "Franz.wohlkoenig",
+      "userid": 42528041,
+      "size": 5739,
+      "comment": "Missing or empty |title= solved",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1183093707,
+      "parentid": 1156572877,
+      "timestamp": "2023-11-02T03:35:31Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 7354,
+      "comment": "Add electoral history",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1183093733,
+      "parentid": 1183093707,
+      "timestamp": "2023-11-02T03:35:49Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 8506,
+      "comment": "Rescuing 6 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 5481"
+      ]
+    },
+    {
+      "revid": 1206328413,
+      "parentid": 1183093733,
+      "timestamp": "2024-02-11T21:24:49Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 8512,
+      "comment": "move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1243373625,
+      "parentid": 1206328413,
+      "timestamp": "2024-09-01T02:48:18Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 8205,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261016960,
+      "parentid": 1243373625,
+      "timestamp": "2024-12-03T20:43:09Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8274,
+      "comment": "Copying from [[Category:Republican Party members of the Oregon House of Representatives]] to [[Category:21st-century members of the Oregon Legislative Assembly]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261019286,
+      "parentid": 1261016960,
+      "timestamp": "2024-12-03T20:56:19Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8227,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261646481,
+      "parentid": 1261019286,
+      "timestamp": "2024-12-07T05:01:56Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 8226,
+      "comment": "Fix [[MOS:REFSPACE]]",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tootie_Smith"
+}

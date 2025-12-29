@@ -1,0 +1,817 @@
+{
+  "page_title": "Brian_Jack",
+  "candidate_name": "Brian Jack",
+  "collection_date": "2025-12-28T16:34:20.626531",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 64,
+    "unique_editors": 39,
+    "date_range": {
+      "start": "2020-02-22T05:49:35Z",
+      "end": "2024-12-07T18:25:43Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 942038293,
+      "parentid": 0,
+      "timestamp": "2020-02-22T05:49:35Z",
+      "user": "OpenGov1",
+      "userid": 38392062,
+      "size": 6747,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox officeholder |name        = Brian Jack |office      = [[White House Office|White House Political Director]] |term_start  = February 2, 2019<br><span st...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942230488,
+      "parentid": 942038293,
+      "timestamp": "2020-02-23T12:36:50Z",
+      "user": "CAPTAIN RAJU",
+      "userid": 25523690,
+      "size": 6786,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: ’s → 's (7)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 942426590,
+      "parentid": 942230488,
+      "timestamp": "2020-02-24T16:27:52Z",
+      "user": "Vincelord",
+      "userid": 14054348,
+      "size": 6811,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942577318,
+      "parentid": 942426590,
+      "timestamp": "2020-02-25T14:57:11Z",
+      "user": "Gjs238",
+      "userid": 486612,
+      "size": 6786,
+      "comment": "Reverted edits by [[Special:Contribs/Vincelord|Vincelord]] ([[User talk:Vincelord|talk]]) to last version by CAPTAIN RAJU",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 942577417,
+      "parentid": 942577318,
+      "timestamp": "2020-02-25T14:58:05Z",
+      "user": "Gjs238",
+      "userid": 486612,
+      "size": 6820,
+      "comment": "added [[Category:American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942577539,
+      "parentid": 942577417,
+      "timestamp": "2020-02-25T14:59:02Z",
+      "user": "Gjs238",
+      "userid": 486612,
+      "size": 6824,
+      "comment": "removed [[Category:American politicians]]; added [[Category:Politicians from Atlanta]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942577565,
+      "parentid": 942577539,
+      "timestamp": "2020-02-25T14:59:15Z",
+      "user": "Gjs238",
+      "userid": 486612,
+      "size": 6866,
+      "comment": "added [[Category:Pepperdine University alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942577587,
+      "parentid": 942577565,
+      "timestamp": "2020-02-25T14:59:30Z",
+      "user": "Gjs238",
+      "userid": 486612,
+      "size": 6903,
+      "comment": "added [[Category:Woodward Academy alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942577714,
+      "parentid": 942577587,
+      "timestamp": "2020-02-25T15:00:23Z",
+      "user": "Gjs238",
+      "userid": 486612,
+      "size": 6949,
+      "comment": "added [[Category:Georgia (U.S. state) Republicans]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942588572,
+      "parentid": 942577714,
+      "timestamp": "2020-02-25T16:20:32Z",
+      "user": "Vincelord",
+      "userid": 14054348,
+      "size": 6977,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958137888,
+      "parentid": 942588572,
+      "timestamp": "2020-05-22T03:33:57Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6933,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 965907406,
+      "parentid": 958137888,
+      "timestamp": "2020-07-04T04:03:55Z",
+      "user": "OpenGov1",
+      "userid": 38392062,
+      "size": 6945,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 970565797,
+      "parentid": 965907406,
+      "timestamp": "2020-08-01T02:09:04Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 6992,
+      "comment": "Title fix",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 983044014,
+      "parentid": 970565797,
+      "timestamp": "2020-10-11T22:22:10Z",
+      "user": "96.70.145.114",
+      "userid": 0,
+      "size": 7547,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 983044067,
+      "parentid": 983044014,
+      "timestamp": "2020-10-11T22:22:35Z",
+      "user": "96.70.145.114",
+      "userid": 0,
+      "size": 7536,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 983047886,
+      "parentid": 983044067,
+      "timestamp": "2020-10-11T22:57:20Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 7568,
+      "comment": "copyedits; restored correct title",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 987070861,
+      "parentid": 983047886,
+      "timestamp": "2020-11-04T18:51:52Z",
+      "user": "190.45.91.179",
+      "userid": 0,
+      "size": 7594,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 988249972,
+      "parentid": 987070861,
+      "timestamp": "2020-11-12T00:52:29Z",
+      "user": "Doug Grinbergs",
+      "userid": 13608617,
+      "size": 8645,
+      "comment": "/* The White House */ Nov. 2020: COVID-19",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 988272859,
+      "parentid": 988249972,
+      "timestamp": "2020-11-12T04:41:12Z",
+      "user": "70.55.2.137",
+      "userid": 0,
+      "size": 8749,
+      "comment": "/* The White House */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 988335217,
+      "parentid": 988272859,
+      "timestamp": "2020-11-12T15:10:02Z",
+      "user": "Airbornemihir",
+      "userid": 2138517,
+      "size": 8730,
+      "comment": "[[wp:ce]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 989192851,
+      "parentid": 988335217,
+      "timestamp": "2020-11-17T16:01:21Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 8729,
+      "comment": "[[Category:CS1 errors: empty unknown parameters]]; [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 991441861,
+      "parentid": 989192851,
+      "timestamp": "2020-11-30T02:14:20Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 8612,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 14 templates: del empty params (11×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 997906037,
+      "parentid": 991441861,
+      "timestamp": "2021-01-02T20:36:02Z",
+      "user": "Movielover22",
+      "userid": 40784670,
+      "size": 8611,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 998515229,
+      "parentid": 997906037,
+      "timestamp": "2021-01-05T18:50:26Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 8714,
+      "comment": "https://buildbackbetter.gov/press-releases/president-elect-joe-biden-and-vice-president-elect-kamala-harris-announce-additional-members-of-white-house-staff-2/",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 998556694,
+      "parentid": 998515229,
+      "timestamp": "2021-01-05T23:01:32Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 8708,
+      "comment": "Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Georgia (U.S. state) Republicans]] | via #UCB_Category 65/426",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 999982372,
+      "parentid": 998556694,
+      "timestamp": "2021-01-12T22:59:16Z",
+      "user": "24.85.221.225",
+      "userid": 0,
+      "size": 8717,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 999982406,
+      "parentid": 999982372,
+      "timestamp": "2021-01-12T22:59:31Z",
+      "user": "JJPMaster",
+      "userid": 29526596,
+      "size": 8708,
+      "comment": "Reverted edits by [[Special:Contributions/24.85.221.225|24.85.221.225]] ([[User talk:24.85.221.225|talk]]): not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1000577582,
+      "parentid": 999982406,
+      "timestamp": "2021-01-15T18:41:16Z",
+      "user": "50.242.223.187",
+      "userid": 0,
+      "size": 8430,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 1001670205,
+      "parentid": 1000577582,
+      "timestamp": "2021-01-20T19:12:56Z",
+      "user": "Cm27",
+      "userid": 26681662,
+      "size": 8451,
+      "comment": "Added end of term and removed \"Designate\" from successor.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1008436797,
+      "parentid": 1001670205,
+      "timestamp": "2021-02-23T08:28:39Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 8458,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1010060857,
+      "parentid": 1008436797,
+      "timestamp": "2021-03-03T16:33:27Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 8492,
+      "comment": "Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1018676902,
+      "parentid": 1010060857,
+      "timestamp": "2021-04-19T08:34:30Z",
+      "user": "RG067",
+      "userid": 31616893,
+      "size": 8493,
+      "comment": "v2.04 - Fix errors for [[WP:WCW|CW project]] (Square brackets without correct end)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1020574029,
+      "parentid": 1018676902,
+      "timestamp": "2021-04-29T20:36:10Z",
+      "user": "Equinox",
+      "userid": 24880950,
+      "size": 8493,
+      "comment": "Trump is no longer prez",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1027369832,
+      "parentid": 1020574029,
+      "timestamp": "2021-06-07T14:41:11Z",
+      "user": "HueMan1",
+      "userid": 32206216,
+      "size": 8468,
+      "comment": "/* The White House */bypass COVID-19",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1029398258,
+      "parentid": 1027369832,
+      "timestamp": "2021-06-19T18:45:48Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 8517,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American political advisor\", overriding Wikidata description \"American political advisor\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1040864520,
+      "parentid": 1029398258,
+      "timestamp": "2021-08-27T04:09:41Z",
+      "user": "KTacc174",
+      "userid": 42359275,
+      "size": 8510,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1043527276,
+      "parentid": 1040864520,
+      "timestamp": "2021-09-10T15:00:47Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 8574,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1142557266,
+      "parentid": 1043527276,
+      "timestamp": "2023-03-03T02:42:41Z",
+      "user": "Caveman Caveman Caveman",
+      "userid": 36048378,
+      "size": 9416,
+      "comment": "Reorganization + cleanup",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1142557388,
+      "parentid": 1142557266,
+      "timestamp": "2023-03-03T02:43:54Z",
+      "user": "Caveman Caveman Caveman",
+      "userid": 36048378,
+      "size": 9610,
+      "comment": "Adding categories",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1142557436,
+      "parentid": 1142557388,
+      "timestamp": "2023-03-03T02:44:25Z",
+      "user": "Caveman Caveman Caveman",
+      "userid": 36048378,
+      "size": 9605,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1142557462,
+      "parentid": 1142557436,
+      "timestamp": "2023-03-03T02:44:35Z",
+      "user": "Caveman Caveman Caveman",
+      "userid": 36048378,
+      "size": 9606,
+      "comment": "Punctuation",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1142557661,
+      "parentid": 1142557462,
+      "timestamp": "2023-03-03T02:46:26Z",
+      "user": "Caveman Caveman Caveman",
+      "userid": 36048378,
+      "size": 10033,
+      "comment": "Additional information",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1142560975,
+      "parentid": 1142557661,
+      "timestamp": "2023-03-03T03:17:35Z",
+      "user": "Caveman Caveman Caveman",
+      "userid": 36048378,
+      "size": 10034,
+      "comment": "/* 2024 presidential electon */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1150295903,
+      "parentid": 1142560975,
+      "timestamp": "2023-04-17T09:38:26Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 10026,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Donald Trump 2024 presidential campaign]] | #UCB_Category 8/11",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1160690462,
+      "parentid": 1150295903,
+      "timestamp": "2023-06-18T05:21:09Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 10038,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American political advisor\" to \"American political advisor (born 1988)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1211139417,
+      "parentid": 1160690462,
+      "timestamp": "2024-03-01T01:40:11Z",
+      "user": "99.196.128.94",
+      "userid": 0,
+      "size": 9719,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 1211139676,
+      "parentid": 1211139417,
+      "timestamp": "2024-03-01T01:41:55Z",
+      "user": "99.196.128.94",
+      "userid": 0,
+      "size": 10322,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1221136550,
+      "parentid": 1211139676,
+      "timestamp": "2024-04-28T02:56:25Z",
+      "user": "DukeOfDelTaco",
+      "userid": 36908829,
+      "size": 10546,
+      "comment": "#article-section-source-editor",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1221920757,
+      "parentid": 1221136550,
+      "timestamp": "2024-05-02T19:53:04Z",
+      "user": "Landoflizards",
+      "userid": 28970703,
+      "size": 10558,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221920910,
+      "parentid": 1221920757,
+      "timestamp": "2024-05-02T19:54:21Z",
+      "user": "Landoflizards",
+      "userid": 28970703,
+      "size": 10546,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1229878174,
+      "parentid": 1221920910,
+      "timestamp": "2024-06-19T05:49:03Z",
+      "user": "KiharaNoukan",
+      "userid": 44357511,
+      "size": 11024,
+      "comment": "Won House primary",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1229878666,
+      "parentid": 1229878174,
+      "timestamp": "2024-06-19T05:53:49Z",
+      "user": "KiharaNoukan",
+      "userid": 44357511,
+      "size": 11445,
+      "comment": "body",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1229878703,
+      "parentid": 1229878666,
+      "timestamp": "2024-06-19T05:54:05Z",
+      "user": "KiharaNoukan",
+      "userid": 44357511,
+      "size": 11447,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1229878729,
+      "parentid": 1229878703,
+      "timestamp": "2024-06-19T05:54:19Z",
+      "user": "KiharaNoukan",
+      "userid": 44357511,
+      "size": 11449,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1243842563,
+      "parentid": 1229878729,
+      "timestamp": "2024-09-03T18:52:25Z",
+      "user": "Lertaheiko",
+      "userid": 48265240,
+      "size": 11574,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1255696592,
+      "parentid": 1243842563,
+      "timestamp": "2024-11-06T05:35:03Z",
+      "user": "Shipping address",
+      "userid": 41025607,
+      "size": 11833,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1255718194,
+      "parentid": 1255696592,
+      "timestamp": "2024-11-06T08:40:42Z",
+      "user": "Shipping address",
+      "userid": 41025607,
+      "size": 11838,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1255798618,
+      "parentid": 1255718194,
+      "timestamp": "2024-11-06T18:52:42Z",
+      "user": "Flavius Claudius Iulianus",
+      "userid": 30110325,
+      "size": 12054,
+      "comment": "source name",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1255818654,
+      "parentid": 1255798618,
+      "timestamp": "2024-11-06T20:44:34Z",
+      "user": "Natg 19",
+      "userid": 3492060,
+      "size": 12106,
+      "comment": "Disambiguating links to [[Presidential transition of Donald Trump]] (link changed to [[First presidential transition of Donald Trump]]; link changed to [[First presidential transition of Donald Trump]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1258700288,
+      "parentid": 1255818654,
+      "timestamp": "2024-11-21T03:09:20Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 12146,
+      "comment": "c-span",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260465910,
+      "parentid": 1258700288,
+      "timestamp": "2024-11-30T22:37:09Z",
+      "user": "2A02:A466:210:1:291D:1CBA:2391:F95B",
+      "userid": 0,
+      "size": 12140,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260525028,
+      "parentid": 1260465910,
+      "timestamp": "2024-12-01T07:08:16Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 12146,
+      "comment": "Moving [[:Category:Trump administration personnel]] to [[:Category:First Trump administration personnel]] per [[Wikipedia:Categories for discussion/Log/2024 November 20#Category:Trump administration personnel]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1261236519,
+      "parentid": 1260525028,
+      "timestamp": "2024-12-05T00:29:51Z",
+      "user": "Tomrtn",
+      "userid": 3229905,
+      "size": 12233,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261737179,
+      "parentid": 1261236519,
+      "timestamp": "2024-12-07T18:25:43Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 12958,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Jack"
+}

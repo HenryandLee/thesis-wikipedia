@@ -1,0 +1,59 @@
+{
+  "page_title": "Randy_Luallin",
+  "candidate_name": "Randy Luallin",
+  "collection_date": "2025-12-28T16:51:57.214553",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 1,
+    "date_range": {
+      "start": "2021-02-01T20:44:46Z",
+      "end": "2021-02-01T20:45:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1004270025,
+      "parentid": 0,
+      "timestamp": "2021-02-01T20:44:46Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 82,
+      "comment": "[[WP:AES|←]]Redirected page to [[2020 United States House of Representatives election in South Dakota]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1004270076,
+      "parentid": 1004270025,
+      "timestamp": "2021-02-01T20:45:02Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 105,
+      "comment": "target section",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1004270158,
+      "parentid": 1004270076,
+      "timestamp": "2021-02-01T20:45:28Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 170,
+      "comment": "Added {{[[:Template:R from person|R from person]]}} and {{[[:Template:R to section|R to section]]}} tags to redirect",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Randy_Luallin"
+}

@@ -1,0 +1,888 @@
+{
+  "page_title": "Approval_Voting_Party",
+  "candidate_name": "Approval Voting",
+  "collection_date": "2025-12-28T16:32:43.609566",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 74,
+    "unique_editors": 30,
+    "date_range": {
+      "start": "2020-08-08T04:45:28Z",
+      "end": "2024-12-28T05:58:31Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 971776620,
+      "parentid": 0,
+      "timestamp": "2020-08-08T04:45:28Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 2919,
+      "comment": "Created page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 971776653,
+      "parentid": 971776620,
+      "timestamp": "2020-08-08T04:45:46Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 2885,
+      "comment": "redid",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 971782848,
+      "parentid": 971776653,
+      "timestamp": "2020-08-08T05:48:50Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 2885,
+      "comment": "spelling",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 971803062,
+      "parentid": 971782848,
+      "timestamp": "2020-08-08T09:38:21Z",
+      "user": "John B123",
+      "userid": 21715336,
+      "size": 2895,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (stub)",
+      "minor": false,
+      "tags": [
+        "pagetriage"
+      ]
+    },
+    {
+      "revid": 971833515,
+      "parentid": 971803062,
+      "timestamp": "2020-08-08T14:25:20Z",
+      "user": "Jmertel23",
+      "userid": 32942831,
+      "size": 2905,
+      "comment": "–{{Stub}}, +{{US-party-stub}} using [[User:SD0001/StubSorter|StubSorter]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 973525107,
+      "parentid": 971833515,
+      "timestamp": "2020-08-17T18:05:44Z",
+      "user": "PCN02WPS",
+      "userid": 26911807,
+      "size": 2952,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American political party\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973908221,
+      "parentid": 973525107,
+      "timestamp": "2020-08-19T23:11:05Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 2968,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973908388,
+      "parentid": 973908221,
+      "timestamp": "2020-08-19T23:13:05Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 2826,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973921818,
+      "parentid": 973908388,
+      "timestamp": "2020-08-20T01:23:26Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 3998,
+      "comment": "/* History */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973921833,
+      "parentid": 973921818,
+      "timestamp": "2020-08-20T01:23:36Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 3656,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973988052,
+      "parentid": 973921833,
+      "timestamp": "2020-08-20T12:31:33Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 3790,
+      "comment": "/* History */ reworded, divided info into sections",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973988412,
+      "parentid": 973988052,
+      "timestamp": "2020-08-20T12:35:06Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 3886,
+      "comment": "/* 2016 presidential campaign */ refs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973988488,
+      "parentid": 973988412,
+      "timestamp": "2020-08-20T12:35:51Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4228,
+      "comment": "Undid revision 973921833 by [[Special:Contributions/Jon698|Jon698]] ([[User talk:Jon698|talk]])Reverted removal of ref, information is not found elsewhere in the article and therefore LEADCITE does not apply",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 973988530,
+      "parentid": 973988488,
+      "timestamp": "2020-08-20T12:36:20Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4370,
+      "comment": "Undid revision 973908388 by [[Special:Contributions/Jon698|Jon698]] ([[User talk:Jon698|talk]])reverted unexplained parameter removal out of line with other articlkes",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 973988829,
+      "parentid": 973988530,
+      "timestamp": "2020-08-20T12:39:20Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4931,
+      "comment": "/* History */ reverted unexplained removal of parameters",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973988849,
+      "parentid": 973988829,
+      "timestamp": "2020-08-20T12:39:33Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4932,
+      "comment": "/* History */ fixed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973988900,
+      "parentid": 973988849,
+      "timestamp": "2020-08-20T12:40:01Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4232,
+      "comment": "/* 2016 presidential campaign */ fixed duplicate ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973989164,
+      "parentid": 973988900,
+      "timestamp": "2020-08-20T12:42:22Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4359,
+      "comment": "[[WP:CITEVAR]], added back archive parameters",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973989276,
+      "parentid": 973989164,
+      "timestamp": "2020-08-20T12:43:22Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4748,
+      "comment": "/* 2016 presidential campaign */ added back accidentally removed ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973990548,
+      "parentid": 973989276,
+      "timestamp": "2020-08-20T12:54:48Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 4725,
+      "comment": "/* 2016 presidential campaign */ removed parameter that was incorrect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 973993920,
+      "parentid": 973990548,
+      "timestamp": "2020-08-20T13:22:46Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4582,
+      "comment": "The reason I removed it was because no other political party Infobox uses such parameters. Please revert me if I am wrong",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 974013749,
+      "parentid": 973993920,
+      "timestamp": "2020-08-20T15:53:25Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4824,
+      "comment": "/* 2016 presidential campaign */ restoring archive links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974013790,
+      "parentid": 974013749,
+      "timestamp": "2020-08-20T15:53:47Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4800,
+      "comment": "/* 2016 presidential campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974014013,
+      "parentid": 974013790,
+      "timestamp": "2020-08-20T15:55:29Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4637,
+      "comment": "/* History */ restoring archive links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974014039,
+      "parentid": 974014013,
+      "timestamp": "2020-08-20T15:55:43Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4639,
+      "comment": "/* 2016 presidential campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974014140,
+      "parentid": 974014039,
+      "timestamp": "2020-08-20T15:56:33Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4670,
+      "comment": "/* History */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974014509,
+      "parentid": 974014140,
+      "timestamp": "2020-08-20T15:59:47Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4646,
+      "comment": "/* 2020 presidential campaign */ even though the party would obviously use approval voting for its nominations the article doesn't mention the use of approval voting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974015335,
+      "parentid": 974014509,
+      "timestamp": "2020-08-20T16:05:49Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 4979,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974025335,
+      "parentid": 974015335,
+      "timestamp": "2020-08-20T17:21:53Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 5164,
+      "comment": "/* History */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974060837,
+      "parentid": 974025335,
+      "timestamp": "2020-08-20T21:28:20Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 5309,
+      "comment": "See [[Democratic Party (United States)]], [[Republican Party (United States)]], [[Libertarian Party (United States)]], [[Alliance Party (United States)]], etc",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974061060,
+      "parentid": 974060837,
+      "timestamp": "2020-08-20T21:30:06Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 5463,
+      "comment": "Fixed references, you are removing parameters for no reason and violating [[WP:CITEVAR]].",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 974061158,
+      "parentid": 974061060,
+      "timestamp": "2020-08-20T21:30:55Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 5439,
+      "comment": "/* 2016 presidential campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974061440,
+      "parentid": 974061158,
+      "timestamp": "2020-08-20T21:33:06Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 5123,
+      "comment": "/* 2016 presidential campaign */ removed duplicate ref, that website can’t really be considered news, even if we were using cite news parameters on this article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974061611,
+      "parentid": 974061440,
+      "timestamp": "2020-08-20T21:34:15Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 5174,
+      "comment": "/* 2016 presidential campaign */ ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974061655,
+      "parentid": 974061611,
+      "timestamp": "2020-08-20T21:34:33Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 5176,
+      "comment": "/* History */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974061894,
+      "parentid": 974061655,
+      "timestamp": "2020-08-20T21:36:22Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 5170,
+      "comment": "/* History */ fixed accidentally duplicated ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974063577,
+      "parentid": 974061894,
+      "timestamp": "2020-08-20T21:48:18Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 5918,
+      "comment": "/* 2020 presidential campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974068304,
+      "parentid": 974063577,
+      "timestamp": "2020-08-20T22:23:00Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 5965,
+      "comment": "/* 2020 presidential campaign */ filled out ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974069038,
+      "parentid": 974068304,
+      "timestamp": "2020-08-20T22:28:46Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 5988,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974069395,
+      "parentid": 974069038,
+      "timestamp": "2020-08-20T22:32:09Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 6324,
+      "comment": "/* History */ adding archive links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974069476,
+      "parentid": 974069395,
+      "timestamp": "2020-08-20T22:32:55Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 6391,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974072535,
+      "parentid": 974069476,
+      "timestamp": "2020-08-20T23:00:34Z",
+      "user": "SporkBot",
+      "userid": 12406635,
+      "size": 6285,
+      "comment": "Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 974207781,
+      "parentid": 974072535,
+      "timestamp": "2020-08-21T17:37:42Z",
+      "user": "Jon698",
+      "userid": 31642291,
+      "size": 6480,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 980097977,
+      "parentid": 974207781,
+      "timestamp": "2020-09-24T16:05:27Z",
+      "user": "CzarJobKhaya",
+      "userid": 36595729,
+      "size": 6533,
+      "comment": "Added image of Frank Atwood",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 985989955,
+      "parentid": 980097977,
+      "timestamp": "2020-10-29T04:10:16Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 6548,
+      "comment": "shrunk image, wording in caption",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 985990177,
+      "parentid": 985989955,
+      "timestamp": "2020-10-29T04:12:23Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 6576,
+      "comment": "/* History */ fixed grammar",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 992020353,
+      "parentid": 985990177,
+      "timestamp": "2020-12-03T01:45:46Z",
+      "user": "DukeOfDelTaco",
+      "userid": 36908829,
+      "size": 6608,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 992898852,
+      "parentid": 992020353,
+      "timestamp": "2020-12-07T18:18:02Z",
+      "user": "209.203.139.5",
+      "userid": 0,
+      "size": 6608,
+      "comment": "/* History */ CHANGED COMMA TO SEMICOLON TO CORRECT GRAMMAR",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1001076395,
+      "parentid": 992898852,
+      "timestamp": "2021-01-18T03:58:02Z",
+      "user": "Chad The Goatman",
+      "userid": 31195639,
+      "size": 6660,
+      "comment": "/* References */",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1010703806,
+      "parentid": 1001076395,
+      "timestamp": "2021-03-06T21:18:45Z",
+      "user": "Bvcitizen",
+      "userid": 41151511,
+      "size": 6711,
+      "comment": "Adding [[Category:Political parties in the United States]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1012989044,
+      "parentid": 1010703806,
+      "timestamp": "2021-03-19T12:17:23Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 7720,
+      "comment": "Rescuing 8 sources and tagging 0 as dead.) #IABot (v2.0.8) ([[User:AManWithNoPlan|AManWithNoPlan]] - 7485",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1026773682,
+      "parentid": 1012989044,
+      "timestamp": "2021-06-04T05:24:16Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 7711,
+      "comment": "/* 2020 presidential campaign */ tense",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1032996225,
+      "parentid": 1026773682,
+      "timestamp": "2021-07-10T23:35:55Z",
+      "user": "Historical-idealist",
+      "userid": 40467164,
+      "size": 8285,
+      "comment": "/* History */ added 2018 results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1041660853,
+      "parentid": 1032996225,
+      "timestamp": "2021-08-31T19:14:43Z",
+      "user": "Erel Segal",
+      "userid": 7637243,
+      "size": 8314,
+      "comment": "added [[Category:Approval voting]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1047641622,
+      "parentid": 1041660853,
+      "timestamp": "2021-10-01T20:45:48Z",
+      "user": "Charles Essie",
+      "userid": 16892062,
+      "size": 8311,
+      "comment": "/* References */ alphabetized categories",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1048587730,
+      "parentid": 1047641622,
+      "timestamp": "2021-10-06T20:53:27Z",
+      "user": "75.166.130.127",
+      "userid": 0,
+      "size": 8322,
+      "comment": "Updated registration info",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1057042833,
+      "parentid": 1048587730,
+      "timestamp": "2021-11-25T02:47:03Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 8332,
+      "comment": "archive link repair, may include: archive.* -> archive.today, http->https for ghostarchive.org and archive.org, and fixing refs for IABot [[phab:T291704]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1058963467,
+      "parentid": 1057042833,
+      "timestamp": "2021-12-06T17:00:37Z",
+      "user": "Finlay McWalter",
+      "userid": 22619,
+      "size": 8338,
+      "comment": "/* top */ alternate titles like abbreviations also take bold, per MOS:BOLDTITLE",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1093953387,
+      "parentid": 1058963467,
+      "timestamp": "2022-06-19T21:57:38Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 8496,
+      "comment": "replaced 1 [[archive.today]] URL(s) with more transparent URL from <link rel=\"bookmark\"",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1094276830,
+      "parentid": 1093953387,
+      "timestamp": "2022-06-21T17:49:12Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 8497,
+      "comment": "Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1094768392,
+      "parentid": 1094276830,
+      "timestamp": "2022-06-24T11:53:11Z",
+      "user": "180.191.161.116",
+      "userid": 0,
+      "size": 8536,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1094768452,
+      "parentid": 1094768392,
+      "timestamp": "2022-06-24T11:53:47Z",
+      "user": "180.191.161.116",
+      "userid": 0,
+      "size": 8498,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1111322590,
+      "parentid": 1094768452,
+      "timestamp": "2022-09-20T11:39:04Z",
+      "user": "Davide King",
+      "userid": 18916437,
+      "size": 8465,
+      "comment": "ce",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120611707,
+      "parentid": 1111322590,
+      "timestamp": "2022-11-07T22:42:54Z",
+      "user": "Truthanado",
+      "userid": 3784107,
+      "size": 8493,
+      "comment": "c/e, date in infobox",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1157637553,
+      "parentid": 1120611707,
+      "timestamp": "2023-05-30T00:11:32Z",
+      "user": "EvanJ35",
+      "userid": 11646751,
+      "size": 8545,
+      "comment": "I added a \"See also\" section with a link to The Center for Election Science that advocates for approval voting.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184193917,
+      "parentid": 1157637553,
+      "timestamp": "2023-11-08T22:38:11Z",
+      "user": "HeyElliott",
+      "userid": 44120587,
+      "size": 8587,
+      "comment": "[[MOS:TIES]], redundant",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1219896886,
+      "parentid": 1184193917,
+      "timestamp": "2024-04-20T14:35:11Z",
+      "user": "Muaza Husni",
+      "userid": 46288275,
+      "size": 8608,
+      "comment": "/* 2020 presidential campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1226700547,
+      "parentid": 1219896886,
+      "timestamp": "2024-06-01T08:45:55Z",
+      "user": "Muaza Husni",
+      "userid": 46288275,
+      "size": 8742,
+      "comment": "/* Presidential elections */ 2024 election",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1232275204,
+      "parentid": 1226700547,
+      "timestamp": "2024-07-02T22:00:19Z",
+      "user": "Watrfrnt",
+      "userid": 19600558,
+      "size": 8744,
+      "comment": "Update vice presidential candidate",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1239121618,
+      "parentid": 1232275204,
+      "timestamp": "2024-08-07T13:17:21Z",
+      "user": "Hstoops",
+      "userid": 38854116,
+      "size": 8823,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1255589863,
+      "parentid": 1239121618,
+      "timestamp": "2024-11-05T18:37:31Z",
+      "user": "Closed Limelike Curves",
+      "userid": 36878010,
+      "size": 8848,
+      "comment": "/* 2020 presidential campaign */ cn tag",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1257972067,
+      "parentid": 1255589863,
+      "timestamp": "2024-11-17T13:14:07Z",
+      "user": "Muaza Husni",
+      "userid": 46288275,
+      "size": 8978,
+      "comment": "/* 2024 presidential campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263699701,
+      "parentid": 1257972067,
+      "timestamp": "2024-12-18T03:36:41Z",
+      "user": "Qqars",
+      "userid": 43098559,
+      "size": 8976,
+      "comment": "/* 2024 presidential campaign */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1265698265,
+      "parentid": 1263699701,
+      "timestamp": "2024-12-28T05:58:31Z",
+      "user": "Muaza Husni",
+      "userid": 46288275,
+      "size": 8976,
+      "comment": "/* 2024 presidential campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Approval_Voting_Party"
+}

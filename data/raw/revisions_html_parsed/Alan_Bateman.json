@@ -1,0 +1,488 @@
+{
+  "page_title": "Alan_Bateman",
+  "candidate_name": "Alan Bateman",
+  "collection_date": "2025-12-28T16:31:44.051333",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 40,
+    "unique_editors": 32,
+    "date_range": {
+      "start": "2018-12-26T17:29:13Z",
+      "end": "2023-05-05T14:39:12Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 875450121,
+      "parentid": 0,
+      "timestamp": "2018-12-26T17:29:13Z",
+      "user": "Tajotep",
+      "userid": 29695403,
+      "size": 2656,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox person | name = Alan Bateman | birth_name = William Alan Bateman | birth_date = {{birth date|1936|06|19}} | birth_place = [[Perth]] | death_date = {{de...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 875451110,
+      "parentid": 875450121,
+      "timestamp": "2018-12-26T17:37:16Z",
+      "user": "Ktrimi991",
+      "userid": 16718809,
+      "size": 2672,
+      "comment": "wl",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 875454262,
+      "parentid": 875451110,
+      "timestamp": "2018-12-26T18:04:03Z",
+      "user": "Tajotep",
+      "userid": 29695403,
+      "size": 3020,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 875588802,
+      "parentid": 875454262,
+      "timestamp": "2018-12-27T17:08:54Z",
+      "user": "Vincelord",
+      "userid": 14054348,
+      "size": 3052,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 879158311,
+      "parentid": 875588802,
+      "timestamp": "2019-01-19T12:27:58Z",
+      "user": "Cwmhiraeth",
+      "userid": 13304210,
+      "size": 3067,
+      "comment": "Rearranging",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 879253371,
+      "parentid": 879158311,
+      "timestamp": "2019-01-20T01:28:36Z",
+      "user": "Nikkimaria",
+      "userid": 372290,
+      "size": 2926,
+      "comment": "doc",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 879264501,
+      "parentid": 879253371,
+      "timestamp": "2019-01-20T03:19:31Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2939,
+      "comment": "/* External links */ better tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 879264595,
+      "parentid": 879264501,
+      "timestamp": "2019-01-20T03:20:16Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2939,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 880552306,
+      "parentid": 879264595,
+      "timestamp": "2019-01-28T01:25:12Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 2940,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 882204238,
+      "parentid": 880552306,
+      "timestamp": "2019-02-07T14:21:48Z",
+      "user": "1.43.19.78",
+      "userid": 0,
+      "size": 3045,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 882420179,
+      "parentid": 882204238,
+      "timestamp": "2019-02-08T23:18:05Z",
+      "user": "Tajotep",
+      "userid": 29695403,
+      "size": 3042,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 884564868,
+      "parentid": 882420179,
+      "timestamp": "2019-02-22T13:39:59Z",
+      "user": "138.217.231.27",
+      "userid": 0,
+      "size": 3040,
+      "comment": "Very well",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 884565532,
+      "parentid": 884564868,
+      "timestamp": "2019-02-22T13:45:45Z",
+      "user": "138.217.231.27",
+      "userid": 0,
+      "size": 3041,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 884635999,
+      "parentid": 884565532,
+      "timestamp": "2019-02-22T23:10:04Z",
+      "user": "Johnuniq",
+      "userid": 6036800,
+      "size": 3042,
+      "comment": "Reverted edits by [[Special:Contribs/138.217.231.27|138.217.231.27]] ([[User talk:138.217.231.27|talk]]) to last version by Tajotep",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 896531804,
+      "parentid": 884635999,
+      "timestamp": "2019-05-11T04:07:06Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3199,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta14)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 905459961,
+      "parentid": 896531804,
+      "timestamp": "2019-07-09T07:41:46Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 3232,
+      "comment": "/* top */Date formats",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 910516892,
+      "parentid": 905459961,
+      "timestamp": "2019-08-12T16:41:38Z",
+      "user": "1.42.219.97",
+      "userid": 0,
+      "size": 3240,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 915389872,
+      "parentid": 910516892,
+      "timestamp": "2019-09-12T23:54:26Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 3244,
+      "comment": "/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 942374487,
+      "parentid": 915389872,
+      "timestamp": "2020-02-24T08:12:38Z",
+      "user": "1.42.102.44",
+      "userid": 0,
+      "size": 3860,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942374531,
+      "parentid": 942374487,
+      "timestamp": "2020-02-24T08:13:05Z",
+      "user": "1.42.102.44",
+      "userid": 0,
+      "size": 3860,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942400810,
+      "parentid": 942374531,
+      "timestamp": "2020-02-24T12:59:12Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 3856,
+      "comment": "Duplicate word removed",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 944051272,
+      "parentid": 942400810,
+      "timestamp": "2020-03-05T12:22:38Z",
+      "user": "1.43.35.147",
+      "userid": 0,
+      "size": 3958,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 944770118,
+      "parentid": 944051272,
+      "timestamp": "2020-03-09T20:45:08Z",
+      "user": "LilHelpa",
+      "userid": 8024439,
+      "size": 3957,
+      "comment": "typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 944965363,
+      "parentid": 944770118,
+      "timestamp": "2020-03-11T00:03:25Z",
+      "user": "WereSpielChequers",
+      "userid": 4071608,
+      "size": 3971,
+      "comment": "c/e",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 951431159,
+      "parentid": 944965363,
+      "timestamp": "2020-04-17T03:46:20Z",
+      "user": "2001:8003:10A2:CB00:D121:7D83:A862:CC71",
+      "userid": 0,
+      "size": 3971,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible birth date change"
+      ]
+    },
+    {
+      "revid": 952474801,
+      "parentid": 951431159,
+      "timestamp": "2020-04-22T12:31:27Z",
+      "user": "124.168.38.56",
+      "userid": 0,
+      "size": 3963,
+      "comment": "fixed typos",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 966981757,
+      "parentid": 952474801,
+      "timestamp": "2020-07-10T12:03:39Z",
+      "user": "Mitch Ames",
+      "userid": 6326132,
+      "size": 3971,
+      "comment": "There's [[Perth, Tasmania|more than one Perth in Australia]], so specify WA",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 990705620,
+      "parentid": 966981757,
+      "timestamp": "2020-11-26T01:32:11Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 4014,
+      "comment": "change hat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 990858852,
+      "parentid": 990705620,
+      "timestamp": "2020-11-26T22:33:03Z",
+      "user": "Mitch Ames",
+      "userid": 6326132,
+      "size": 4013,
+      "comment": "remove unmatched square brackets",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994202974,
+      "parentid": 990858852,
+      "timestamp": "2020-12-14T16:05:58Z",
+      "user": "Tom.Bot",
+      "userid": 28901961,
+      "size": 4036,
+      "comment": "[[Wikipedia:Bots/Requests for approval/Tom.Bot 6|Task 6]]: +{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1000185279,
+      "parentid": 994202974,
+      "timestamp": "2021-01-14T00:46:57Z",
+      "user": "Helper201",
+      "userid": 24323093,
+      "size": 4046,
+      "comment": "Corrected dates to the date format that is stated to be used at the top of the page.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1000185351,
+      "parentid": 1000185279,
+      "timestamp": "2021-01-14T00:47:30Z",
+      "user": "Helper201",
+      "userid": 24323093,
+      "size": 4048,
+      "comment": "Formatting correction.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1006493309,
+      "parentid": 1000185351,
+      "timestamp": "2021-02-13T04:48:33Z",
+      "user": "14.200.6.123",
+      "userid": 0,
+      "size": 4048,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028754874,
+      "parentid": 1006493309,
+      "timestamp": "2021-06-15T20:28:21Z",
+      "user": "90.247.85.176",
+      "userid": 0,
+      "size": 4056,
+      "comment": "/* Filmography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1070439774,
+      "parentid": 1028754874,
+      "timestamp": "2022-02-07T13:24:59Z",
+      "user": "Thurlow0391",
+      "userid": 42366277,
+      "size": 3703,
+      "comment": "tidy up",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1070439889,
+      "parentid": 1070439774,
+      "timestamp": "2022-02-07T13:25:50Z",
+      "user": "Thurlow0391",
+      "userid": 42366277,
+      "size": 3737,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1077793564,
+      "parentid": 1070439889,
+      "timestamp": "2022-03-18T05:56:03Z",
+      "user": "202.169.23.48",
+      "userid": 0,
+      "size": 3802,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1077793653,
+      "parentid": 1077793564,
+      "timestamp": "2022-03-18T05:56:54Z",
+      "user": "Adakiko",
+      "userid": 39151475,
+      "size": 3737,
+      "comment": "Reverted edits by [[Special:Contributions/202.169.23.48|202.169.23.48]] ([[User talk:202.169.23.48|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1086552770,
+      "parentid": 1077793653,
+      "timestamp": "2022-05-06T21:32:07Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 3785,
+      "comment": "added [[Category:Australian male television writers]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1153313890,
+      "parentid": 1086552770,
+      "timestamp": "2023-05-05T14:39:12Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 3784,
+      "comment": "Add: journal. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Australian television biography stubs]] | #UCB_Category 282/407",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Bateman"
+}

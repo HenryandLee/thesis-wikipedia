@@ -1,0 +1,1222 @@
+{
+  "page_title": "Ed_Chau",
+  "candidate_name": "Ed Chau",
+  "collection_date": "2025-12-28T16:38:18.371637",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 103,
+    "unique_editors": 62,
+    "date_range": {
+      "start": "2012-12-05T03:45:53Z",
+      "end": "2024-11-30T03:35:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 526456641,
+      "parentid": 0,
+      "timestamp": "2012-12-05T03:45:53Z",
+      "user": "Kurykh",
+      "userid": 529595,
+      "size": 1615,
+      "comment": "create article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 531870926,
+      "parentid": 526456641,
+      "timestamp": "2013-01-08T00:34:59Z",
+      "user": "Tktru",
+      "userid": 8945644,
+      "size": 1628,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 542083592,
+      "parentid": 531870926,
+      "timestamp": "2013-03-04T18:54:26Z",
+      "user": "Tigerguy999",
+      "userid": 6851956,
+      "size": 1615,
+      "comment": "Undid revision 531870926 by [[Special:Contributions/Tktru|Tktru]] ([[User talk:Tktru|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 542159151,
+      "parentid": 542083592,
+      "timestamp": "2013-03-05T05:18:19Z",
+      "user": "AuburnPiIot",
+      "userid": 4566030,
+      "size": 1628,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/Tigerguy999|Tigerguy999]] ([[User talk:Tigerguy999|talk]]) to last version by Tktru",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 555018958,
+      "parentid": 542159151,
+      "timestamp": "2013-05-14T07:44:03Z",
+      "user": "Guat6",
+      "userid": 795279,
+      "size": 1681,
+      "comment": "added [[Category:American politicians of Chinese descent]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 555018972,
+      "parentid": 555018958,
+      "timestamp": "2013-05-14T07:44:15Z",
+      "user": "Guat6",
+      "userid": 795279,
+      "size": 1732,
+      "comment": "added [[Category:People from Monterey Park, California]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 555018981,
+      "parentid": 555018972,
+      "timestamp": "2013-05-14T07:44:24Z",
+      "user": "Guat6",
+      "userid": 795279,
+      "size": 1766,
+      "comment": "added [[Category:California Democrats]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 559268639,
+      "parentid": 555018981,
+      "timestamp": "2013-06-10T18:42:09Z",
+      "user": "74.38.21.67",
+      "userid": 0,
+      "size": 2002,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 566536671,
+      "parentid": 559268639,
+      "timestamp": "2013-07-31T06:17:52Z",
+      "user": "Hintha",
+      "userid": 111392,
+      "size": 2246,
+      "comment": "+[[Category:University of Southern California alumni]]; +[[Category:Southwestern Law School alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 573447047,
+      "parentid": 566536671,
+      "timestamp": "2013-09-18T03:49:22Z",
+      "user": "Kurykh",
+      "userid": 529595,
+      "size": 2389,
+      "comment": "add birthdate and website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 584452405,
+      "parentid": 573447047,
+      "timestamp": "2013-12-04T00:57:05Z",
+      "user": "Wallismarie",
+      "userid": 20283168,
+      "size": 2444,
+      "comment": "added photo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 590237090,
+      "parentid": 584452405,
+      "timestamp": "2014-01-11T16:43:16Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 2406,
+      "comment": "update image (not a thumbnail anymore)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632901005,
+      "parentid": 590237090,
+      "timestamp": "2014-11-08T01:23:49Z",
+      "user": "Kurykh",
+      "userid": 529595,
+      "size": 2433,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 645799988,
+      "parentid": 632901005,
+      "timestamp": "2015-02-05T21:18:07Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 2456,
+      "comment": "General fixes - B/D cats using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 665098788,
+      "parentid": 645799988,
+      "timestamp": "2015-06-02T01:01:17Z",
+      "user": "Delaywaves",
+      "userid": 13989377,
+      "size": 2481,
+      "comment": "Add birth date to lead.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722562807,
+      "parentid": 665098788,
+      "timestamp": "2016-05-28T23:36:56Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 2174,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Ed Chau|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 726041784,
+      "parentid": 722562807,
+      "timestamp": "2016-06-19T16:41:33Z",
+      "user": "2602:306:CCB0:CF70:E059:CF94:4C46:FB3",
+      "userid": 0,
+      "size": 2275,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742248409,
+      "parentid": 726041784,
+      "timestamp": "2016-10-02T15:57:29Z",
+      "user": "Meatsgains",
+      "userid": 15420856,
+      "size": 4786,
+      "comment": "add 2014 and 2016 election results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742248437,
+      "parentid": 742248409,
+      "timestamp": "2016-10-02T15:57:49Z",
+      "user": "Meatsgains",
+      "userid": 15420856,
+      "size": 4814,
+      "comment": "add reflist",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742248469,
+      "parentid": 742248437,
+      "timestamp": "2016-10-02T15:58:03Z",
+      "user": "Meatsgains",
+      "userid": 15420856,
+      "size": 4806,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742248484,
+      "parentid": 742248469,
+      "timestamp": "2016-10-02T15:58:14Z",
+      "user": "Meatsgains",
+      "userid": 15420856,
+      "size": 4842,
+      "comment": "Added {{[[Template:BLP unsourced|BLP unsourced]]}} tag to article ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742348875,
+      "parentid": 742248484,
+      "timestamp": "2016-10-03T05:00:07Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 4826,
+      "comment": "[[WP:CHECKWIKI]] error fix.  Broken bracket.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 744222986,
+      "parentid": 742348875,
+      "timestamp": "2016-10-13T21:47:49Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4826,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 744223078,
+      "parentid": 744222986,
+      "timestamp": "2016-10-13T21:48:38Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4831,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 744223198,
+      "parentid": 744223078,
+      "timestamp": "2016-10-13T21:49:34Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4864,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 744223425,
+      "parentid": 744223198,
+      "timestamp": "2016-10-13T21:51:25Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4870,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 744223602,
+      "parentid": 744223425,
+      "timestamp": "2016-10-13T21:52:46Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4870,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 749558514,
+      "parentid": 744223602,
+      "timestamp": "2016-11-14T23:23:04Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4901,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 749558646,
+      "parentid": 749558514,
+      "timestamp": "2016-11-14T23:24:01Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4901,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 750718368,
+      "parentid": 749558646,
+      "timestamp": "2016-11-21T12:42:07Z",
+      "user": "67.164.222.163",
+      "userid": 0,
+      "size": 4848,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 750941410,
+      "parentid": 750718368,
+      "timestamp": "2016-11-22T11:15:25Z",
+      "user": "2602:306:3449:6970:A06C:A2A3:DF00:86D1",
+      "userid": 0,
+      "size": 4744,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 750999052,
+      "parentid": 750941410,
+      "timestamp": "2016-11-22T19:24:17Z",
+      "user": "2602:306:3449:6970:A0FE:A259:A09F:BEB9",
+      "userid": 0,
+      "size": 4824,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 750999103,
+      "parentid": 750999052,
+      "timestamp": "2016-11-22T19:24:37Z",
+      "user": "2602:306:3449:6970:A0FE:A259:A09F:BEB9",
+      "userid": 0,
+      "size": 4837,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 751035043,
+      "parentid": 750999103,
+      "timestamp": "2016-11-22T23:40:22Z",
+      "user": "2602:306:3449:6970:F5D2:298B:DEF9:6AD1",
+      "userid": 0,
+      "size": 4946,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 751101306,
+      "parentid": 751035043,
+      "timestamp": "2016-11-23T10:41:22Z",
+      "user": "R'n'B",
+      "userid": 2300502,
+      "size": 4953,
+      "comment": "Disambiguating links to [[Attorney]] (link changed to [[Lawyer]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 751218172,
+      "parentid": 751101306,
+      "timestamp": "2016-11-24T03:48:25Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 4919,
+      "comment": "clean up, replaced: [[2012]] → 2012 using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 753745505,
+      "parentid": 751218172,
+      "timestamp": "2016-12-08T23:03:44Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 4920,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753747032,
+      "parentid": 753745505,
+      "timestamp": "2016-12-08T23:15:55Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 5008,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753747469,
+      "parentid": 753747032,
+      "timestamp": "2016-12-08T23:18:51Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 5016,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753748659,
+      "parentid": 753747469,
+      "timestamp": "2016-12-08T23:25:31Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 5005,
+      "comment": "/* 2016 California State Assembly candidacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753748931,
+      "parentid": 753748659,
+      "timestamp": "2016-12-08T23:27:04Z",
+      "user": "64.128.205.134",
+      "userid": 0,
+      "size": 6309,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753828625,
+      "parentid": 753748931,
+      "timestamp": "2016-12-09T12:44:58Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 6301,
+      "comment": "/* 2012 California State Assembly */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 756170634,
+      "parentid": 753828625,
+      "timestamp": "2016-12-22T12:53:58Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6348,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 775427064,
+      "parentid": 756170634,
+      "timestamp": "2017-04-14T20:20:20Z",
+      "user": "Kurykh",
+      "userid": 529595,
+      "size": 6547,
+      "comment": "add his 2008 congressional campaign",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 784050794,
+      "parentid": 775427064,
+      "timestamp": "2017-06-06T05:35:44Z",
+      "user": "SWP13",
+      "userid": 19806233,
+      "size": 6547,
+      "comment": "Updated Category. Birth year correction.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 816869512,
+      "parentid": 784050794,
+      "timestamp": "2017-12-24T07:37:38Z",
+      "user": "2600:387:6:803:0:0:0:67",
+      "userid": 0,
+      "size": 6530,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 816869542,
+      "parentid": 816869512,
+      "timestamp": "2017-12-24T07:37:57Z",
+      "user": "2600:387:6:803:0:0:0:67",
+      "userid": 0,
+      "size": 6522,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881984733,
+      "parentid": 816869542,
+      "timestamp": "2019-02-06T02:15:40Z",
+      "user": "Otr500",
+      "userid": 6134854,
+      "size": 6585,
+      "comment": "Add \"Multiple issues\" and \"External links\" tag.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 889705394,
+      "parentid": 881984733,
+      "timestamp": "2019-03-27T12:17:08Z",
+      "user": "RichardWeiss",
+      "userid": 193093,
+      "size": 6877,
+      "comment": "add, with 1st ref  In 2018 he introduced the [[California Consumer Privacy Act]] alongside [[Robert Hertzberg]].<ref>[https://www.wired.com/story/california-unanimously-passes-historic-privacy-bill/ California Unanimously Passes Historic Privacy Bill] Published by wired.com, retrieved on March 27, 2019</ref>",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 889705565,
+      "parentid": 889705394,
+      "timestamp": "2019-03-27T12:19:02Z",
+      "user": "RichardWeiss",
+      "userid": 193093,
+      "size": 7118,
+      "comment": "add a 2nd ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 898652809,
+      "parentid": 889705565,
+      "timestamp": "2019-05-25T02:10:03Z",
+      "user": "Meatsgains",
+      "userid": 15420856,
+      "size": 8293,
+      "comment": "/* 2016 California State Assembly */ update with 2018 results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 901034705,
+      "parentid": 898652809,
+      "timestamp": "2019-06-09T07:35:31Z",
+      "user": "Kurykh",
+      "userid": 529595,
+      "size": 8300,
+      "comment": "update residence",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 901034728,
+      "parentid": 901034705,
+      "timestamp": "2019-06-09T07:35:46Z",
+      "user": "Kurykh",
+      "userid": 529595,
+      "size": 8304,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 903062796,
+      "parentid": 901034728,
+      "timestamp": "2019-06-23T08:31:50Z",
+      "user": "2606:6000:CA82:9800:C893:3A1B:7C73:A636",
+      "userid": 0,
+      "size": 8309,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 905203827,
+      "parentid": 903062796,
+      "timestamp": "2019-07-07T15:57:41Z",
+      "user": "Emir of Wikipedia",
+      "userid": 28856560,
+      "size": 8270,
+      "comment": "\"Avoid using smaller font sizes in elements that already use a smaller font size, such as infoboxes, navboxes and reference sections.\" [[MOS:ACCESS#Text]]/[[MOS:FONTSIZE]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 912818877,
+      "parentid": 905203827,
+      "timestamp": "2019-08-28T02:27:58Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 8231,
+      "comment": "/* External links */ removing campaign website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 912820197,
+      "parentid": 912818877,
+      "timestamp": "2019-08-28T02:41:37Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 8546,
+      "comment": "add some biographical information; remove the unsourced and external link tags",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 918829767,
+      "parentid": 912820197,
+      "timestamp": "2019-09-30T13:50:29Z",
+      "user": "BacktoSchoolForever0700",
+      "userid": 37107832,
+      "size": 8670,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 927186687,
+      "parentid": 918829767,
+      "timestamp": "2019-11-20T22:27:43Z",
+      "user": "BacktoSchoolForever0700",
+      "userid": 37107832,
+      "size": 8807,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 927436286,
+      "parentid": 927186687,
+      "timestamp": "2019-11-22T14:20:17Z",
+      "user": "Frietjes",
+      "userid": 13791031,
+      "size": 8787,
+      "comment": "update template syntax; Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 928362537,
+      "parentid": 927436286,
+      "timestamp": "2019-11-28T16:09:30Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 8788,
+      "comment": "/* top */HTTP → HTTPS for [[Wayback Machine]], replaced: http://web.archive.org/ → https://web.archive.org/",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 940125108,
+      "parentid": 928362537,
+      "timestamp": "2020-02-10T17:49:56Z",
+      "user": "PearBOT II",
+      "userid": 38179619,
+      "size": 8844,
+      "comment": "Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 941538181,
+      "parentid": 940125108,
+      "timestamp": "2020-02-19T04:59:03Z",
+      "user": "47.223.78.205",
+      "userid": 0,
+      "size": 8854,
+      "comment": "National link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 946406342,
+      "parentid": 941538181,
+      "timestamp": "2020-03-19T23:35:10Z",
+      "user": "Meatsgains",
+      "userid": 15420856,
+      "size": 9739,
+      "comment": "/* 2018 California State Assembly */ update with election results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947249507,
+      "parentid": 946406342,
+      "timestamp": "2020-03-25T05:24:11Z",
+      "user": "2607:FCC8:AD08:EC00:2C89:9A19:DACD:1AF6",
+      "userid": 0,
+      "size": 9747,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 955084513,
+      "parentid": 947249507,
+      "timestamp": "2020-05-05T21:53:29Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 9859,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 955085201,
+      "parentid": 955084513,
+      "timestamp": "2020-05-05T21:58:38Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 10385,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 965582427,
+      "parentid": 955085201,
+      "timestamp": "2020-07-02T05:40:39Z",
+      "user": "Arbor to SJ",
+      "userid": 4322169,
+      "size": 10313,
+      "comment": "no evidence his birth name included Edwin (even in British Hong Kong), so use Infobox Chinese",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 965582457,
+      "parentid": 965582427,
+      "timestamp": "2020-07-02T05:41:17Z",
+      "user": "Arbor to SJ",
+      "userid": 4322169,
+      "size": 10315,
+      "comment": "removed [[Category:American politicians of Chinese descent]]; added [[Category:American politicians of Hong Kong descent]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 993326961,
+      "parentid": 965582457,
+      "timestamp": "2020-12-10T01:20:34Z",
+      "user": "Asiu1990",
+      "userid": 123138,
+      "size": 10342,
+      "comment": "Election results from November 3, 2020 imputed after county certification",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1001890787,
+      "parentid": 993326961,
+      "timestamp": "2021-01-21T21:27:11Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 10344,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: hyphenate params (2×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1002144474,
+      "parentid": 1001890787,
+      "timestamp": "2021-01-23T01:59:18Z",
+      "user": "Fadesga",
+      "userid": 5042921,
+      "size": 10399,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1017796513,
+      "parentid": 1002144474,
+      "timestamp": "2021-04-14T17:02:35Z",
+      "user": "Dillon251992",
+      "userid": 29762726,
+      "size": 10476,
+      "comment": "Added External link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042560547,
+      "parentid": 1017796513,
+      "timestamp": "2021-09-05T16:20:18Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 10643,
+      "comment": "Alter: url. URLs might have been anonymized. Add: title, archive-date, archive-url. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1715/2148",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1043746005,
+      "parentid": 1042560547,
+      "timestamp": "2021-09-11T19:10:05Z",
+      "user": "Inwind",
+      "userid": 2901026,
+      "size": 10657,
+      "comment": "clean up, link",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1050642964,
+      "parentid": 1043746005,
+      "timestamp": "2021-10-19T02:03:09Z",
+      "user": "Duster1973",
+      "userid": 42697595,
+      "size": 22578,
+      "comment": "Made changes to the biography and included a new subject line.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 1050735244,
+      "parentid": 1050642964,
+      "timestamp": "2021-10-19T16:04:54Z",
+      "user": "2601:205:3:DEE2:7CB5:72C2:6DB5:945",
+      "userid": 0,
+      "size": 22596,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1050822863,
+      "parentid": 1050735244,
+      "timestamp": "2021-10-20T03:13:43Z",
+      "user": "Duster1973",
+      "userid": 42697595,
+      "size": 23111,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1060232394,
+      "parentid": 1050822863,
+      "timestamp": "2021-12-14T06:21:04Z",
+      "user": "Kurykh",
+      "userid": 529595,
+      "size": 23213,
+      "comment": "Chau resigned from the state assembly",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1060994557,
+      "parentid": 1060232394,
+      "timestamp": "2021-12-19T00:04:15Z",
+      "user": "Certes",
+      "userid": 5984052,
+      "size": 23204,
+      "comment": "improve link: Engineer, etc. (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1061182197,
+      "parentid": 1060994557,
+      "timestamp": "2021-12-20T04:11:01Z",
+      "user": "2407:7000:A2D0:6500:E186:BE27:9647:1AEA",
+      "userid": 0,
+      "size": 23232,
+      "comment": "/* Biography */ ed chau is a member of california asian and pacific islander legislative caucus, ed was born in hong kong and his chinese name is 周本立",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1064963882,
+      "parentid": 1061182197,
+      "timestamp": "2022-01-11T03:19:11Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 23209,
+      "comment": "Removed [[MOS:OVERLINK|overlinked]] country wikilink and [[WP:GENFIX|general fixes]] ([[Wikipedia:Bots/Requests_for_approval/SdkbBot_2|task 2]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1067998809,
+      "parentid": 1064963882,
+      "timestamp": "2022-01-26T05:20:13Z",
+      "user": "Duster1973",
+      "userid": 42697595,
+      "size": 23298,
+      "comment": "Primarily grammatical changes (from present sense to past tense) to reflect the time frames plus minor edits.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1072417185,
+      "parentid": 1067998809,
+      "timestamp": "2022-02-17T16:33:05Z",
+      "user": "GrayEquinox951",
+      "userid": 42373331,
+      "size": 23312,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1072700796,
+      "parentid": 1072417185,
+      "timestamp": "2022-02-19T02:15:04Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 23355,
+      "comment": "/* top */add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1073473882,
+      "parentid": 1072700796,
+      "timestamp": "2022-02-22T22:25:23Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 23520,
+      "comment": "/* California State Assembly */Adding web.archive.org links for citations with url-status=live [[Category:CS1_maint:_url-status]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1087178954,
+      "parentid": 1073473882,
+      "timestamp": "2022-05-10T21:32:36Z",
+      "user": "Willform",
+      "userid": 40692139,
+      "size": 23727,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095589903,
+      "parentid": 1087178954,
+      "timestamp": "2022-06-29T07:04:52Z",
+      "user": "2601:204:C901:C730:B565:22F8:9490:5B98",
+      "userid": 0,
+      "size": 23105,
+      "comment": "According to whom? Corroborate vis-à-vis citation(s) if at all possible, though based upon current state of affairs, seems rather unlikely.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1095590263,
+      "parentid": 1095589903,
+      "timestamp": "2022-06-29T07:06:39Z",
+      "user": "2601:204:C901:C730:B565:22F8:9490:5B98",
+      "userid": 0,
+      "size": 23051,
+      "comment": "Neither; the occupational capacity of the subject in question stood erroneous.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1105856560,
+      "parentid": 1095590263,
+      "timestamp": "2022-08-22T03:44:19Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 23095,
+      "comment": "Adding \"see also\"",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119321198,
+      "parentid": 1105856560,
+      "timestamp": "2022-10-31T22:43:40Z",
+      "user": "Keith D",
+      "userid": 2278355,
+      "size": 23055,
+      "comment": "Not an author",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1128959848,
+      "parentid": 1119321198,
+      "timestamp": "2022-12-22T22:20:03Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 23038,
+      "comment": "/* External links */intersect Democratic and California representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1135265825,
+      "parentid": 1128959848,
+      "timestamp": "2023-01-23T16:38:10Z",
+      "user": "GrayEquinox951",
+      "userid": 42373331,
+      "size": 23119,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145698624,
+      "parentid": 1135265825,
+      "timestamp": "2023-03-20T13:57:09Z",
+      "user": "William Allen Simpson",
+      "userid": 580725,
+      "size": 23009,
+      "comment": "WP:COP-HERITAGE  categories (such as descent or diaspora) should not also contain any individual migrant, emigrant, nor immigrant....",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1189682469,
+      "parentid": 1145698624,
+      "timestamp": "2023-12-13T09:45:37Z",
+      "user": "GuardianH",
+      "userid": 43240415,
+      "size": 23200,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1205655595,
+      "parentid": 1189682469,
+      "timestamp": "2024-02-10T04:34:45Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 23200,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1209825976,
+      "parentid": 1205655595,
+      "timestamp": "2024-02-23T19:07:16Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 23334,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1210256590,
+      "parentid": 1209825976,
+      "timestamp": "2024-02-25T19:09:35Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 23383,
+      "comment": "/* External links */add [[Category:21st-century California politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1217912666,
+      "parentid": 1210256590,
+      "timestamp": "2024-04-08T16:27:25Z",
+      "user": "111.241.79.142",
+      "userid": 0,
+      "size": 23454,
+      "comment": "/* Biography */Improved content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1260321880,
+      "parentid": 1217912666,
+      "timestamp": "2024-11-30T03:10:14Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 23524,
+      "comment": "added [[:Category:21st-century members of the California State Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260322904,
+      "parentid": 1260321880,
+      "timestamp": "2024-11-30T03:18:08Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 23477,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260323047,
+      "parentid": 1260322904,
+      "timestamp": "2024-11-30T03:19:04Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 23475,
+      "comment": "Removing from [[Category:21st-century California politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260325484,
+      "parentid": 1260323047,
+      "timestamp": "2024-11-30T03:35:02Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 23428,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ed_Chau"
+}

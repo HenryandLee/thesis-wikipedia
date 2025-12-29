@@ -1,0 +1,93 @@
+{
+  "page_title": "Gregory_W._Meeks",
+  "candidate_name": "Gregory W. Meeks",
+  "collection_date": "2025-12-28T16:40:00.508348",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 6,
+    "unique_editors": 6,
+    "date_range": {
+      "start": "2009-04-18T06:32:14Z",
+      "end": "2021-11-17T01:36:25Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 284571659,
+      "parentid": 0,
+      "timestamp": "2009-04-18T06:32:14Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 27,
+      "comment": "[[WP:AES|←]]Redirected page to [[Gregory Meeks]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 296187437,
+      "parentid": 284571659,
+      "timestamp": "2009-06-13T16:17:12Z",
+      "user": "DefaultsortBot",
+      "userid": 9721846,
+      "size": 104,
+      "comment": "Added DEFAULTSORT to page (used a WikiProject banner's listas parameter on the talk page). [[User talk:DefaultsortBot|Did I get it wrong?]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 718280663,
+      "parentid": 296187437,
+      "timestamp": "2016-05-02T16:15:38Z",
+      "user": "Mattbr",
+      "userid": 1089298,
+      "size": 64,
+      "comment": "cut and paste move previously fixed, {{R from long name}} {{R from move}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785437576,
+      "parentid": 718280663,
+      "timestamp": "2017-06-13T14:52:20Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 97,
+      "comment": "+{{[[Template:Redirect category shell|Redirect category shell]]}} for multiple-{{R}} #Rs using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1055647033,
+      "parentid": 785437576,
+      "timestamp": "2021-11-17T01:35:30Z",
+      "user": "2601:601:1300:17B0:0:0:0:CD2A",
+      "userid": 0,
+      "size": 87,
+      "comment": "[[WP:AES|←]]Removed redirect to [[Gregory Meeks]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1055647154,
+      "parentid": 1055647033,
+      "timestamp": "2021-11-17T01:36:25Z",
+      "user": "Le Marteau",
+      "userid": 29625245,
+      "size": 97,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2601:601:1300:17B0:0:0:0:CD2A|2601:601:1300:17B0:0:0:0:CD2A]] ([[User talk:2601:601:1300:17B0:0:0:0:CD2A|talk]]) to last revision by Tom.Reding",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "twinkle"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gregory_W._Meeks"
+}

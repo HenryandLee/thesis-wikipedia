@@ -1,0 +1,44 @@
+{
+  "page_title": "Eve_Nunez",
+  "candidate_name": "Eve Nunez",
+  "collection_date": "2025-12-28T16:39:00.602591",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2016-06-28T14:59:28Z",
+      "end": "2018-11-25T21:31:55Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 727370762,
+      "parentid": 0,
+      "timestamp": "2016-06-28T14:59:28Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 68,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections, 2016]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 870596997,
+      "parentid": 727370762,
+      "timestamp": "2018-11-25T21:31:55Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 67,
+      "comment": "Bot: Fixing double redirect to [[2016 United States House of Representatives elections]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eve_Nunez"
+}

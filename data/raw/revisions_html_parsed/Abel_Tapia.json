@@ -1,0 +1,931 @@
+{
+  "page_title": "Abel_Tapia",
+  "candidate_name": "Abel Tapia",
+  "collection_date": "2025-12-28T16:31:24.930889",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 80,
+    "unique_editors": 42,
+    "date_range": {
+      "start": "2007-11-12T00:32:06Z",
+      "end": "2024-12-07T01:24:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 170857765,
+      "parentid": 0,
+      "timestamp": "2007-11-12T00:32:06Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1712,
+      "comment": "NEW",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201039421,
+      "parentid": 170857765,
+      "timestamp": "2008-03-26T12:17:04Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 1847,
+      "comment": "free image please -   using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201086291,
+      "parentid": 201039421,
+      "timestamp": "2008-03-26T16:35:18Z",
+      "user": "Sethant",
+      "userid": 3052066,
+      "size": 1861,
+      "comment": "resize image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250212379,
+      "parentid": 201086291,
+      "timestamp": "2008-11-07T11:17:58Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 1849,
+      "comment": "Date audit per [[wp:mosnum|mosnum]]/[[wp:overlink|overlink]]/Other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 263047341,
+      "parentid": 250212379,
+      "timestamp": "2009-01-09T21:11:38Z",
+      "user": "Sethant",
+      "userid": 3052066,
+      "size": 1853,
+      "comment": "revise navbox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 326087310,
+      "parentid": 263047341,
+      "timestamp": "2009-11-16T02:03:25Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 1934,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 326368012,
+      "parentid": 326087310,
+      "timestamp": "2009-11-17T16:43:41Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 1831,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 326368235,
+      "parentid": 326368012,
+      "timestamp": "2009-11-17T16:45:18Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2793,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 326368309,
+      "parentid": 326368235,
+      "timestamp": "2009-11-17T16:45:43Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2785,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 326399479,
+      "parentid": 326368309,
+      "timestamp": "2009-11-17T20:00:22Z",
+      "user": "ArglebargleIV",
+      "userid": 749357,
+      "size": 2779,
+      "comment": "/* External links */ should not be bolded",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 329493289,
+      "parentid": 326399479,
+      "timestamp": "2009-12-03T17:48:04Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2667,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 329493480,
+      "parentid": 329493289,
+      "timestamp": "2009-12-03T17:49:14Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2662,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 329493778,
+      "parentid": 329493480,
+      "timestamp": "2009-12-03T17:50:52Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2658,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 330939621,
+      "parentid": 329493778,
+      "timestamp": "2009-12-10T21:17:24Z",
+      "user": "165.127.14.2",
+      "userid": 0,
+      "size": 2687,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333310342,
+      "parentid": 330939621,
+      "timestamp": "2009-12-22T17:40:08Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2695,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333310410,
+      "parentid": 333310342,
+      "timestamp": "2009-12-22T17:40:25Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2691,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333311310,
+      "parentid": 333310410,
+      "timestamp": "2009-12-22T17:44:09Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2709,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333311447,
+      "parentid": 333311310,
+      "timestamp": "2009-12-22T17:44:48Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2715,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333312266,
+      "parentid": 333311447,
+      "timestamp": "2009-12-22T17:48:29Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 2720,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333315467,
+      "parentid": 333312266,
+      "timestamp": "2009-12-22T18:02:54Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 3604,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333315636,
+      "parentid": 333315467,
+      "timestamp": "2009-12-22T18:03:39Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 3596,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333315843,
+      "parentid": 333315636,
+      "timestamp": "2009-12-22T18:04:28Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 3580,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333367631,
+      "parentid": 333315843,
+      "timestamp": "2009-12-22T21:38:36Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 3639,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333367846,
+      "parentid": 333367631,
+      "timestamp": "2009-12-22T21:39:36Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 3635,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333368008,
+      "parentid": 333367846,
+      "timestamp": "2009-12-22T21:40:15Z",
+      "user": "Kelloggp",
+      "userid": 10876888,
+      "size": 3639,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333897120,
+      "parentid": 333368008,
+      "timestamp": "2009-12-25T01:13:54Z",
+      "user": "Sethant",
+      "userid": 3052066,
+      "size": 3734,
+      "comment": "/* Biography */ {{citation needed}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 336774667,
+      "parentid": 333897120,
+      "timestamp": "2010-01-09T10:04:05Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3824,
+      "comment": "/* Biography */Date maintenance tags and general fixes: build 390:",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 349062368,
+      "parentid": 336774667,
+      "timestamp": "2010-03-10T19:58:58Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 3880,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 365798432,
+      "parentid": 349062368,
+      "timestamp": "2010-06-03T09:17:44Z",
+      "user": "Woohookitty",
+      "userid": 159678,
+      "size": 3902,
+      "comment": "[[:en:WP:CLEANER|WikiCleaner]] 0.99 - Repairing link to disambiguation page - [[WP:DPL|You can help!]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 376377811,
+      "parentid": 365798432,
+      "timestamp": "2010-07-31T05:12:50Z",
+      "user": "202.128.76.40",
+      "userid": 0,
+      "size": 3900,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385067843,
+      "parentid": 376377811,
+      "timestamp": "2010-09-15T23:10:13Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 4159,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7130)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 429227174,
+      "parentid": 385067843,
+      "timestamp": "2011-05-15T13:07:28Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 4147,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7702)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 432215556,
+      "parentid": 429227174,
+      "timestamp": "2011-06-02T18:18:18Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 4133,
+      "comment": "update infobox, remove obsolete blank params",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 432219043,
+      "parentid": 432215556,
+      "timestamp": "2011-06-02T18:42:36Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 4147,
+      "comment": "Undid revision 432215556 by [[Special:Contributions/WOSlinker|WOSlinker]] ([[User talk:WOSlinker|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 459043780,
+      "parentid": 432219043,
+      "timestamp": "2011-11-04T22:08:14Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 4167,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 581709121,
+      "parentid": 459043780,
+      "timestamp": "2013-11-15T01:49:30Z",
+      "user": "Sonofawoman",
+      "userid": 17388865,
+      "size": 4515,
+      "comment": "Updating page to reflect Mr. Tapia's appointment as Director of the Colorado Lottery.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 581968159,
+      "parentid": 581709121,
+      "timestamp": "2013-11-16T21:56:16Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 4515,
+      "comment": "Checkwiki 61 fixes + General Fixes + typo using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 586844201,
+      "parentid": 581968159,
+      "timestamp": "2013-12-19T21:16:04Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 4484,
+      "comment": "/* External links */Remove stub template(s). Page is start class or higher. Also check for and do General Fixes + Checkwiki fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 609874554,
+      "parentid": 586844201,
+      "timestamp": "2014-05-23T23:10:06Z",
+      "user": "198.179.58.46",
+      "userid": 0,
+      "size": 4499,
+      "comment": "/* External links */ Previous link for Tapia's website was broken. Replaced with Tapia's current campaign website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 609876341,
+      "parentid": 609874554,
+      "timestamp": "2014-05-23T23:30:24Z",
+      "user": "Juksey",
+      "userid": 127293,
+      "size": 4922,
+      "comment": "I added a brief explanation of Tapia's congressional campaign.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 611931134,
+      "parentid": 609876341,
+      "timestamp": "2014-06-07T10:24:07Z",
+      "user": "R'n'B",
+      "userid": 2300502,
+      "size": 4918,
+      "comment": "Disambiguating links to [[Appropriations Committee]] (link removed) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 615836561,
+      "parentid": 611931134,
+      "timestamp": "2014-07-06T16:25:28Z",
+      "user": "Crimsoncain",
+      "userid": 21771217,
+      "size": 5099,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 618471533,
+      "parentid": 615836561,
+      "timestamp": "2014-07-25T22:08:22Z",
+      "user": "Crimsoncain",
+      "userid": 21771217,
+      "size": 4919,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 618472921,
+      "parentid": 618471533,
+      "timestamp": "2014-07-25T22:21:31Z",
+      "user": "Crimsoncain",
+      "userid": 21771217,
+      "size": 5099,
+      "comment": "Undid revision 618471533 by [[Special:Contributions/Crimsoncain|Crimsoncain]] ([[User talk:Crimsoncain|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 618472995,
+      "parentid": 618472921,
+      "timestamp": "2014-07-25T22:22:09Z",
+      "user": "Crimsoncain",
+      "userid": 21771217,
+      "size": 4918,
+      "comment": "Undid revision 615836561 by [[Special:Contributions/Crimsoncain|Crimsoncain]] ([[User talk:Crimsoncain|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625399565,
+      "parentid": 618472995,
+      "timestamp": "2014-09-13T17:24:00Z",
+      "user": "Hoponpop69",
+      "userid": 1672229,
+      "size": 2900,
+      "comment": "removing unsourced",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625492670,
+      "parentid": 625399565,
+      "timestamp": "2014-09-14T07:48:07Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 2900,
+      "comment": "[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10458)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 689136138,
+      "parentid": 625492670,
+      "timestamp": "2015-11-05T04:20:34Z",
+      "user": "Hoponpop69",
+      "userid": 1672229,
+      "size": 2994,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 690183910,
+      "parentid": 689136138,
+      "timestamp": "2015-11-11T20:16:38Z",
+      "user": "Frietjes",
+      "userid": 13791031,
+      "size": 3083,
+      "comment": "cleanup (wikitables, html markup, layout, etc.)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 713001875,
+      "parentid": 690183910,
+      "timestamp": "2016-04-01T09:23:03Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 2797,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Abel Tapia|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742248636,
+      "parentid": 713001875,
+      "timestamp": "2016-10-02T15:59:26Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 2918,
+      "comment": "Rescuing 1 sources and tagging 1 as dead. #IABot (v1.2.4)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759736719,
+      "parentid": 742248636,
+      "timestamp": "2017-01-12T22:13:22Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3226,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.2.7.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 762605428,
+      "parentid": 759736719,
+      "timestamp": "2017-01-29T20:06:34Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 3469,
+      "comment": "Updated; no longer a senator",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 774364154,
+      "parentid": 762605428,
+      "timestamp": "2017-04-07T22:47:06Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 3440,
+      "comment": "Rescued 1 archive link; reformat 2 links. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 787412664,
+      "parentid": 774364154,
+      "timestamp": "2017-06-25T07:39:00Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3434,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.4beta3)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 861043547,
+      "parentid": 787412664,
+      "timestamp": "2018-09-24T19:28:32Z",
+      "user": "Timrollpickering",
+      "userid": 32005,
+      "size": 3434,
+      "comment": "Moving from [[Category:Colorado State Senators]] to [[Category:Colorado state senators]] per [[Wikipedia:Categories for discussion/Log/2018 September 17]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872351027,
+      "parentid": 861043547,
+      "timestamp": "2018-12-06T19:55:54Z",
+      "user": "Suelru",
+      "userid": 20035630,
+      "size": 3376,
+      "comment": "/* top */parameter fixes",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 915823658,
+      "parentid": 872351027,
+      "timestamp": "2019-09-15T14:19:57Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3453,
+      "comment": "Rescuing 0 sources and tagging 1 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 915850590,
+      "parentid": 915823658,
+      "timestamp": "2019-09-15T16:48:06Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 3451,
+      "comment": "/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 933889335,
+      "parentid": 915850590,
+      "timestamp": "2020-01-03T15:42:11Z",
+      "user": "Nasa5446",
+      "userid": 30892888,
+      "size": 3719,
+      "comment": "Added positions served",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 936360421,
+      "parentid": 933889335,
+      "timestamp": "2020-01-18T09:48:09Z",
+      "user": "Tatupiplu",
+      "userid": 37876628,
+      "size": 3761,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962197211,
+      "parentid": 936360421,
+      "timestamp": "2020-06-12T17:09:43Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 3793,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962618181,
+      "parentid": 962197211,
+      "timestamp": "2020-06-15T02:57:12Z",
+      "user": "MikeyPet",
+      "userid": 32280665,
+      "size": 4633,
+      "comment": "/* External links */ and added information about current political office sought.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 972071415,
+      "parentid": 962618181,
+      "timestamp": "2020-08-10T00:48:37Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 4590,
+      "comment": "Reformat 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 975170898,
+      "parentid": 972071415,
+      "timestamp": "2020-08-27T03:59:05Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 4004,
+      "comment": "copyedits and cleanup",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1024464205,
+      "parentid": 975170898,
+      "timestamp": "2021-05-22T08:29:45Z",
+      "user": "HueMan1",
+      "userid": 32206216,
+      "size": 3977,
+      "comment": "bypass COVID-19",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1024484013,
+      "parentid": 1024464205,
+      "timestamp": "2021-05-22T11:56:49Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 4391,
+      "comment": "/* Career */  election result",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024485328,
+      "parentid": 1024484013,
+      "timestamp": "2021-05-22T12:08:31Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 4310,
+      "comment": "/* External links */ removed spam link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1049594105,
+      "parentid": 1024485328,
+      "timestamp": "2021-10-12T18:34:43Z",
+      "user": "GrayEquinox951",
+      "userid": 42373331,
+      "size": 4436,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1064225865,
+      "parentid": 1049594105,
+      "timestamp": "2022-01-07T07:46:49Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 4434,
+      "comment": "Moving [[:Category:Colorado State University–Pueblo alumni]] to [[:Category:Colorado State University Pueblo alumni]] per [[Wikipedia:Categories for discussion/Speedy]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1106639331,
+      "parentid": 1064225865,
+      "timestamp": "2022-08-25T17:35:22Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4380,
+      "comment": "Removing from [[Category:Hispanic and Latino American politicians]] in subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1123825313,
+      "parentid": 1106639331,
+      "timestamp": "2022-11-25T22:08:12Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 4365,
+      "comment": "/* External links */intersect Democratic and Colorado representatives categories",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1125398915,
+      "parentid": 1123825313,
+      "timestamp": "2022-12-03T20:19:50Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 4382,
+      "comment": "/* External links */clean up, intersect Democratic and Colorado representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1128023124,
+      "parentid": 1125398915,
+      "timestamp": "2022-12-18T00:04:16Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 4399,
+      "comment": "added senate predecessor",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128151762,
+      "parentid": 1128023124,
+      "timestamp": "2022-12-18T17:41:24Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 4441,
+      "comment": "added [[Category:People from Pueblo, Colorado]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1128152021,
+      "parentid": 1128151762,
+      "timestamp": "2022-12-18T17:43:24Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 4441,
+      "comment": "/* Career */ chamber of commerce - corrected name",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128334779,
+      "parentid": 1128152021,
+      "timestamp": "2022-12-19T16:06:06Z",
+      "user": "Jeffrey Beall",
+      "userid": 1548749,
+      "size": 4066,
+      "comment": "expanded infobox, filling in empty data, deleted two hopelessly dead 404 external links; replaced bare URL ref with good ref",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1171603041,
+      "parentid": 1128334779,
+      "timestamp": "2023-08-22T04:23:39Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4071,
+      "comment": "Moving from [[Category:People from Pueblo, Colorado]] to [[Category:Politicians from Pueblo, Colorado]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1200628235,
+      "parentid": 1171603041,
+      "timestamp": "2024-01-29T22:57:22Z",
+      "user": "AuH2ORepublican",
+      "userid": 1877623,
+      "size": 4072,
+      "comment": "/* Career */ Grammar and orthography edits",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261622586,
+      "parentid": 1200628235,
+      "timestamp": "2024-12-07T01:24:02Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4186,
+      "comment": "+[[Category:20th-century Colorado politicians]]; +[[Category:21st-century members of the Colorado General Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abel_Tapia"
+}

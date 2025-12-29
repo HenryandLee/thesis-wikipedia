@@ -1,0 +1,81 @@
+{
+  "page_title": "Tedra_Cobb",
+  "candidate_name": "Tedra Cobb",
+  "collection_date": "2025-12-28T16:55:49.765118",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 5,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2018-10-09T00:16:51Z",
+      "end": "2020-06-25T21:46:35Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 863144421,
+      "parentid": 0,
+      "timestamp": "2018-10-09T00:16:51Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 165,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in New York, 2018#District 21]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 869127797,
+      "parentid": 863144421,
+      "timestamp": "2018-11-16T16:09:58Z",
+      "user": "UnitedStatesian",
+      "userid": 3461395,
+      "size": 193,
+      "comment": "rcat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869128002,
+      "parentid": 869127797,
+      "timestamp": "2018-11-16T16:11:39Z",
+      "user": "UnitedStatesian",
+      "userid": 3461395,
+      "size": 210,
+      "comment": "add",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872733855,
+      "parentid": 869128002,
+      "timestamp": "2018-12-08T21:15:46Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 210,
+      "comment": "Bot: Fixing double redirect to [[2018 United States House of Representatives elections in New York]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 964502943,
+      "parentid": 872733855,
+      "timestamp": "2020-06-25T21:46:35Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 210,
+      "comment": "[[WP:AES|←]]Changed redirect target from [[2018 United States House of Representatives elections in New York#District 21]] to [[2020 United States House of Representatives elections in New York#District 21]]",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tedra_Cobb"
+}

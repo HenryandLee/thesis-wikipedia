@@ -1,0 +1,48 @@
+{
+  "page_title": "Andrew_Duck",
+  "candidate_name": "Andrew Duck",
+  "collection_date": "2025-12-28T16:32:16.399264",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2021-06-06T02:40:48Z",
+      "end": "2021-06-06T02:50:00Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1027097852,
+      "parentid": 46658084,
+      "timestamp": "2021-06-06T02:40:48Z",
+      "user": "2601:601:1300:B130:A4AE:6773:FA7C:600",
+      "userid": 0,
+      "size": 18,
+      "comment": "[[WP:AES|←]]Removed redirect to [[Andrew J. Duck]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1027098730,
+      "parentid": 1027097852,
+      "timestamp": "2021-06-06T02:50:00Z",
+      "user": "Scoutguy138",
+      "userid": 40808947,
+      "size": 28,
+      "comment": "[[WP:AES|←]]Redirected page to [[Andrew J. Duck]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "mw-manual-revert"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Duck"
+}

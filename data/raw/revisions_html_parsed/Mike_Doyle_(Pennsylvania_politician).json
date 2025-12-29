@@ -1,0 +1,44 @@
+{
+  "page_title": "Mike_Doyle_(Pennsylvania_politician)",
+  "candidate_name": "Mike Doyle",
+  "collection_date": "2025-12-28T16:49:21.221522",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2009-02-11T06:09:48Z",
+      "end": "2019-01-28T21:40:44Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 269948162,
+      "parentid": 0,
+      "timestamp": "2009-02-11T06:09:48Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 30,
+      "comment": "[[WP:AES|←]]Redirected page to [[Michael F. Doyle]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 880691935,
+      "parentid": 269948162,
+      "timestamp": "2019-01-28T21:40:44Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 46,
+      "comment": "Bot: Fixing double redirect to [[Mike Doyle (American politician)]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Doyle_(Pennsylvania_politician)"
+}

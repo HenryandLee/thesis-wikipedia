@@ -1,0 +1,53 @@
+{
+  "page_title": "Pat_Miles",
+  "candidate_name": "Pat Miles",
+  "collection_date": "2025-12-28T16:50:54.432457",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-01-07T09:16:02Z",
+      "end": "2017-07-26T11:16:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 589575250,
+      "parentid": 0,
+      "timestamp": "2014-01-07T09:16:02Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 31,
+      "comment": "[[WP:AES|←]]Redirected page to [[Patrick Miles Jr.]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 620532917,
+      "parentid": 589575250,
+      "timestamp": "2014-08-09T18:07:24Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 32,
+      "comment": "Bot: Fixing double redirect to [[Patrick Miles, Jr.]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 792414159,
+      "parentid": 620532917,
+      "timestamp": "2017-07-26T11:16:15Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 31,
+      "comment": "Bot: Fixing double redirect to [[en:Patrick Miles Jr.]]",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pat_Miles"
+}

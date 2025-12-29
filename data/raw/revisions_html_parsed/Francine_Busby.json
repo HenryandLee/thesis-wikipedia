@@ -1,0 +1,1390 @@
+{
+  "page_title": "Francine_Busby",
+  "candidate_name": "Francine Busby",
+  "collection_date": "2025-12-28T16:39:04.738152",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 121,
+    "unique_editors": 73,
+    "date_range": {
+      "start": "2006-11-10T04:00:44Z",
+      "end": "2024-11-25T05:00:11Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 86871294,
+      "parentid": 83412834,
+      "timestamp": "2006-11-10T04:00:44Z",
+      "user": "66.27.69.167",
+      "userid": 0,
+      "size": 7392,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86871608,
+      "parentid": 86871294,
+      "timestamp": "2006-11-10T04:02:58Z",
+      "user": "66.27.69.167",
+      "userid": 0,
+      "size": 7502,
+      "comment": "/* 2006 regular Congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 90062210,
+      "parentid": 86871608,
+      "timestamp": "2006-11-25T18:47:12Z",
+      "user": "IanBurrell",
+      "userid": 577374,
+      "size": 7440,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 103011760,
+      "parentid": 90062210,
+      "timestamp": "2007-01-24T23:00:49Z",
+      "user": "Davemcarlson",
+      "userid": 855320,
+      "size": 7441,
+      "comment": "/* 2006 regular Congressional election */ added comma",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 103012624,
+      "parentid": 103011760,
+      "timestamp": "2007-01-24T23:04:32Z",
+      "user": "Davemcarlson",
+      "userid": 855320,
+      "size": 7467,
+      "comment": "/* 2006 regular Congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 121827027,
+      "parentid": 103012624,
+      "timestamp": "2007-04-11T00:52:26Z",
+      "user": "Neutrality",
+      "userid": 68411,
+      "size": 7488,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 145267318,
+      "parentid": 121827027,
+      "timestamp": "2007-07-17T18:13:40Z",
+      "user": "76.176.236.5",
+      "userid": 0,
+      "size": 8367,
+      "comment": "/* Controversies */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 145277460,
+      "parentid": 145267318,
+      "timestamp": "2007-07-17T19:07:32Z",
+      "user": "Fbusby",
+      "userid": 4885054,
+      "size": 8492,
+      "comment": "/* 2006 regular Congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 145281889,
+      "parentid": 145277460,
+      "timestamp": "2007-07-17T19:30:17Z",
+      "user": "Fbusby",
+      "userid": 4885054,
+      "size": 8540,
+      "comment": "/* 2006 regular Congressional election */ Added voter registration data",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 145282672,
+      "parentid": 145281889,
+      "timestamp": "2007-07-17T19:34:17Z",
+      "user": "Fbusby",
+      "userid": 4885054,
+      "size": 8367,
+      "comment": "/* 2006 regular Congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 164440502,
+      "parentid": 145282672,
+      "timestamp": "2007-10-14T05:12:46Z",
+      "user": "Brenont",
+      "userid": 4034676,
+      "size": 8368,
+      "comment": "sp",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 177679070,
+      "parentid": 164440502,
+      "timestamp": "2007-12-13T16:29:37Z",
+      "user": "72.220.31.61",
+      "userid": 0,
+      "size": 8409,
+      "comment": "/* Initial vote */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 177679169,
+      "parentid": 177679070,
+      "timestamp": "2007-12-13T16:30:02Z",
+      "user": "72.220.31.61",
+      "userid": 0,
+      "size": 8411,
+      "comment": "/* Initial vote */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 177783504,
+      "parentid": 177679169,
+      "timestamp": "2007-12-14T00:47:06Z",
+      "user": "BlueAzure",
+      "userid": 4286875,
+      "size": 8368,
+      "comment": "not a professor at University of San Diego",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 177783864,
+      "parentid": 177783504,
+      "timestamp": "2007-12-14T00:48:59Z",
+      "user": "BlueAzure",
+      "userid": 4286875,
+      "size": 8370,
+      "comment": "wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 179997311,
+      "parentid": 177783864,
+      "timestamp": "2007-12-24T19:19:43Z",
+      "user": "BOTijo",
+      "userid": 3729068,
+      "size": 8354,
+      "comment": "+DEFAULTSORT",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 189444270,
+      "parentid": 179997311,
+      "timestamp": "2008-02-06T06:12:23Z",
+      "user": "66.91.226.151",
+      "userid": 0,
+      "size": 8197,
+      "comment": "/* Controversies */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 189872624,
+      "parentid": 189444270,
+      "timestamp": "2008-02-08T02:24:38Z",
+      "user": "DumZiBoT",
+      "userid": 6085301,
+      "size": 8354,
+      "comment": "Bot: Converting [[User:DumZiBoT/refLinks|bare references]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 204529445,
+      "parentid": 189872624,
+      "timestamp": "2008-04-09T20:15:46Z",
+      "user": "Conradege",
+      "userid": 657575,
+      "size": 8410,
+      "comment": "/* See also */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 213594452,
+      "parentid": 204529445,
+      "timestamp": "2008-05-20T00:23:20Z",
+      "user": "70.181.171.159",
+      "userid": 0,
+      "size": 7658,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221598134,
+      "parentid": 213594452,
+      "timestamp": "2008-06-25T06:11:35Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 7641,
+      "comment": "gen fixes + format *date= in cite news/web/paper templates - full explanation [[User:Rjwilmsi#My_correction_of_dates_in_templates|here]]  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 225095612,
+      "parentid": 221598134,
+      "timestamp": "2008-07-11T21:21:23Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 7585,
+      "comment": "Robot - Removing category Italian American Democrats (United States) per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2008 July 6]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 237580847,
+      "parentid": 225095612,
+      "timestamp": "2008-09-10T21:34:20Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 7581,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 284028762,
+      "parentid": 237580847,
+      "timestamp": "2009-04-15T17:10:17Z",
+      "user": "Ginnio~enwiki",
+      "userid": 9463579,
+      "size": 7742,
+      "comment": "/* Political */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 284287021,
+      "parentid": 284028762,
+      "timestamp": "2009-04-16T21:17:19Z",
+      "user": "71.225.223.62",
+      "userid": 0,
+      "size": 8048,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 287406399,
+      "parentid": 284287021,
+      "timestamp": "2009-05-02T07:59:24Z",
+      "user": "71.136.12.190",
+      "userid": 0,
+      "size": 8031,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 287406442,
+      "parentid": 287406399,
+      "timestamp": "2009-05-02T07:59:55Z",
+      "user": "Anaxial",
+      "userid": 2273576,
+      "size": 8048,
+      "comment": "Reverted 1 edit by [[Special:Contributions/71.136.12.190|71.136.12.190]]; Rvt POV edit. using [[WP:TWINKLE|TW]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 287406912,
+      "parentid": 287406442,
+      "timestamp": "2009-05-02T08:05:10Z",
+      "user": "71.136.12.190",
+      "userid": 0,
+      "size": 8032,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 287407103,
+      "parentid": 287406912,
+      "timestamp": "2009-05-02T08:07:12Z",
+      "user": "71.136.12.190",
+      "userid": 0,
+      "size": 8025,
+      "comment": "/* 2010 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 293392426,
+      "parentid": 287407103,
+      "timestamp": "2009-05-30T21:48:16Z",
+      "user": "Estevan91",
+      "userid": 4521971,
+      "size": 8025,
+      "comment": "/* 2010 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 293395122,
+      "parentid": 293392426,
+      "timestamp": "2009-05-30T22:03:17Z",
+      "user": "Estevan91",
+      "userid": 4521971,
+      "size": 8165,
+      "comment": "/* 2010 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 293395320,
+      "parentid": 293395122,
+      "timestamp": "2009-05-30T22:04:20Z",
+      "user": "Estevan91",
+      "userid": 4521971,
+      "size": 8178,
+      "comment": "/* 2010 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 299369258,
+      "parentid": 293395320,
+      "timestamp": "2009-06-29T19:40:50Z",
+      "user": "Kyle98632",
+      "userid": 3808763,
+      "size": 8002,
+      "comment": "/* Controversies */ Took out a totally bias line. This is not the place for this.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 299790278,
+      "parentid": 299369258,
+      "timestamp": "2009-07-01T23:48:07Z",
+      "user": "Shamrox",
+      "userid": 843830,
+      "size": 7998,
+      "comment": "/* Political */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 299937211,
+      "parentid": 299790278,
+      "timestamp": "2009-07-02T19:01:51Z",
+      "user": "GoneAwayNowAndRetired",
+      "userid": 525501,
+      "size": 8008,
+      "comment": "section formatting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 299937400,
+      "parentid": 299937211,
+      "timestamp": "2009-07-02T19:02:53Z",
+      "user": "GoneAwayNowAndRetired",
+      "userid": 525501,
+      "size": 12097,
+      "comment": "+ June 2009 police raid on political fundraiser section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 300090290,
+      "parentid": 299937400,
+      "timestamp": "2009-07-03T18:31:49Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 12035,
+      "comment": "/* 2010 election */ frontrunner?  says who?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 313076069,
+      "parentid": 300090290,
+      "timestamp": "2009-09-10T21:33:04Z",
+      "user": "Bender235",
+      "userid": 88026,
+      "size": 12032,
+      "comment": "[[WP:AWB/T|Typo fixing]] using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 317419013,
+      "parentid": 313076069,
+      "timestamp": "2009-10-02T04:45:02Z",
+      "user": "99.26.124.98",
+      "userid": 0,
+      "size": 12032,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 317767844,
+      "parentid": 317419013,
+      "timestamp": "2009-10-04T02:58:41Z",
+      "user": "72.192.169.200",
+      "userid": 0,
+      "size": 12146,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 320152663,
+      "parentid": 317767844,
+      "timestamp": "2009-10-16T04:18:54Z",
+      "user": "208.63.166.18",
+      "userid": 0,
+      "size": 12147,
+      "comment": "/* Initial vote */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 322257956,
+      "parentid": 320152663,
+      "timestamp": "2009-10-27T01:20:43Z",
+      "user": "216.70.240.10",
+      "userid": 0,
+      "size": 12193,
+      "comment": "/* 2010 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323609355,
+      "parentid": 322257956,
+      "timestamp": "2009-11-03T02:38:21Z",
+      "user": "75.32.234.204",
+      "userid": 0,
+      "size": 12386,
+      "comment": "/* June 2009 police raid on political fundraiser */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323610283,
+      "parentid": 323609355,
+      "timestamp": "2009-11-03T02:44:04Z",
+      "user": "Mjohnsonenc",
+      "userid": 10925614,
+      "size": 12390,
+      "comment": "/* District Attorney probe of raid incident */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323610370,
+      "parentid": 323610283,
+      "timestamp": "2009-11-03T02:44:34Z",
+      "user": "Mjohnsonenc",
+      "userid": 10925614,
+      "size": 12193,
+      "comment": "/* District Attorney probe of raid incident */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323610584,
+      "parentid": 323610370,
+      "timestamp": "2009-11-03T02:45:58Z",
+      "user": "Mjohnsonenc",
+      "userid": 10925614,
+      "size": 12391,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323611742,
+      "parentid": 323610584,
+      "timestamp": "2009-11-03T02:54:10Z",
+      "user": "Mjohnsonenc",
+      "userid": 10925614,
+      "size": 12702,
+      "comment": "/* June 2009 police raid on political fundraiser */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323611952,
+      "parentid": 323611742,
+      "timestamp": "2009-11-03T02:55:41Z",
+      "user": "Mjohnsonenc",
+      "userid": 10925614,
+      "size": 12778,
+      "comment": "/* June 2009 police raid on political fundraiser */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323726531,
+      "parentid": 323611952,
+      "timestamp": "2009-11-03T17:40:39Z",
+      "user": "Mjohnsonenc",
+      "userid": 10925614,
+      "size": 12788,
+      "comment": "/* June 2009 police raid on political fundraiser */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 325610545,
+      "parentid": 323726531,
+      "timestamp": "2009-11-13T12:31:13Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 12749,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 334314407,
+      "parentid": 325610545,
+      "timestamp": "2009-12-27T17:55:09Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 12741,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 345733223,
+      "parentid": 334314407,
+      "timestamp": "2010-02-22T20:58:05Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 12745,
+      "comment": "/* Initial vote */citation parameter fixes, replaced: | \n http → | \n url=http using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 349903878,
+      "parentid": 345733223,
+      "timestamp": "2010-03-14T23:50:35Z",
+      "user": "Candrews1985",
+      "userid": 11632605,
+      "size": 12749,
+      "comment": "/* 2010 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 349907008,
+      "parentid": 349903878,
+      "timestamp": "2010-03-15T00:11:22Z",
+      "user": "72.130.180.55",
+      "userid": 0,
+      "size": 12820,
+      "comment": "a lot of statements here with no references",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 353473446,
+      "parentid": 349907008,
+      "timestamp": "2010-04-02T02:38:52Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 13063,
+      "comment": "Date maintenance tags and general fixes: build 404:",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 359759304,
+      "parentid": 353473446,
+      "timestamp": "2010-05-03T02:05:38Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 13074,
+      "comment": "Robot - Speedily moving category Italian-American politicians to American politicians of Italian descent per [[WP:CFD|CFD]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 359787301,
+      "parentid": 359759304,
+      "timestamp": "2010-05-03T05:25:10Z",
+      "user": "Mjohnsonenc",
+      "userid": 10925614,
+      "size": 12861,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 376800766,
+      "parentid": 359787301,
+      "timestamp": "2010-08-02T18:47:48Z",
+      "user": "99.26.125.251",
+      "userid": 0,
+      "size": 12800,
+      "comment": "/* 2010 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376806201,
+      "parentid": 376800766,
+      "timestamp": "2010-08-02T19:24:21Z",
+      "user": "99.26.125.251",
+      "userid": 0,
+      "size": 13008,
+      "comment": "Updated to show current campaign",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376806296,
+      "parentid": 376806201,
+      "timestamp": "2010-08-02T19:24:56Z",
+      "user": "99.26.125.251",
+      "userid": 0,
+      "size": 13010,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 392444272,
+      "parentid": 376806296,
+      "timestamp": "2010-10-23T18:04:38Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 13250,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7319)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 392937181,
+      "parentid": 392444272,
+      "timestamp": "2010-10-26T05:22:39Z",
+      "user": "66.27.106.87",
+      "userid": 0,
+      "size": 13358,
+      "comment": "/* Political */",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 392937287,
+      "parentid": 392937181,
+      "timestamp": "2010-10-26T05:23:35Z",
+      "user": "WookieInHeat",
+      "userid": 472200,
+      "size": 13250,
+      "comment": "Reverted edits by [[Special:Contributions/66.27.106.87|66.27.106.87]] ([[User talk:66.27.106.87|talk]]) to last revision by RjwilmsiBot ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 392937695,
+      "parentid": 392937287,
+      "timestamp": "2010-10-26T05:27:46Z",
+      "user": "66.27.106.87",
+      "userid": 0,
+      "size": 7981,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 392937714,
+      "parentid": 392937695,
+      "timestamp": "2010-10-26T05:28:00Z",
+      "user": "WookieInHeat",
+      "userid": 472200,
+      "size": 13250,
+      "comment": "Reverted edits by [[Special:Contributions/66.27.106.87|66.27.106.87]] ([[User talk:66.27.106.87|talk]]) to last revision by WookieInHeat ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 394117737,
+      "parentid": 392937714,
+      "timestamp": "2010-11-01T05:33:48Z",
+      "user": "99.27.83.138",
+      "userid": 0,
+      "size": 13252,
+      "comment": "minor grammar correction. Changed \"call\" to \"called.\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 394195341,
+      "parentid": 394117737,
+      "timestamp": "2010-11-01T16:30:31Z",
+      "user": "Flamingosftw",
+      "userid": 9337917,
+      "size": 13256,
+      "comment": "reorganized electoral history",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 394195471,
+      "parentid": 394195341,
+      "timestamp": "2010-11-01T16:31:26Z",
+      "user": "Flamingosftw",
+      "userid": 9337917,
+      "size": 13258,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 394694742,
+      "parentid": 394195471,
+      "timestamp": "2010-11-04T00:42:32Z",
+      "user": "Flamingosftw",
+      "userid": 9337917,
+      "size": 13346,
+      "comment": "/* 2010 election */  Made updates according to election results and added references, better organization",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 396064642,
+      "parentid": 394694742,
+      "timestamp": "2010-11-11T03:48:09Z",
+      "user": "68.107.96.160",
+      "userid": 0,
+      "size": 13476,
+      "comment": "updated with post-election results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421275456,
+      "parentid": 396064642,
+      "timestamp": "2011-03-29T06:31:38Z",
+      "user": "75.32.232.138",
+      "userid": 0,
+      "size": 9048,
+      "comment": "/* June 2009 police raid on political fundraiser */",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 425069304,
+      "parentid": 421275456,
+      "timestamp": "2011-04-20T21:28:59Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 9043,
+      "comment": "Robot - Moving category American politicians of Italian descent to [[:Category:American people of Italian descent]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 April 12]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 449396799,
+      "parentid": 425069304,
+      "timestamp": "2011-09-09T21:19:07Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 9052,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7822)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 520193102,
+      "parentid": 449396799,
+      "timestamp": "2012-10-28T01:02:41Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 9104,
+      "comment": "copyedit, refine cat, and AWB general fixes using [[Project:AWB|AWB]] (8414)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 557104409,
+      "parentid": 520193102,
+      "timestamp": "2013-05-28T01:47:09Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 9487,
+      "comment": "Nominated for deletion; see [[Wikipedia:Articles for deletion/Francine Busby]]. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557288359,
+      "parentid": 557104409,
+      "timestamp": "2013-05-29T05:10:10Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 9534,
+      "comment": "rewriting lead for clarity",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557567753,
+      "parentid": 557288359,
+      "timestamp": "2013-05-30T19:33:38Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 9757,
+      "comment": "update with current position",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557570587,
+      "parentid": 557567753,
+      "timestamp": "2013-05-30T19:54:12Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 11466,
+      "comment": "/* 2010 general election */ add fundraiser incident",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557570903,
+      "parentid": 557570587,
+      "timestamp": "2013-05-30T19:56:08Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 11466,
+      "comment": "wrong date",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557700751,
+      "parentid": 557570903,
+      "timestamp": "2013-05-31T15:58:32Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 11654,
+      "comment": "/* 2004 general election */ supply requested citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557702141,
+      "parentid": 557700751,
+      "timestamp": "2013-05-31T16:10:09Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 12121,
+      "comment": "/* Initial vote */ supply requested citation; clarify results of April election",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557703194,
+      "parentid": 557702141,
+      "timestamp": "2013-05-31T16:18:11Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 12541,
+      "comment": "supply requested citation; more detail about current positions",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557703555,
+      "parentid": 557703194,
+      "timestamp": "2013-05-31T16:21:00Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 12486,
+      "comment": "/* See also */ delete unnecessary see-also link; already linked to in the article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557704336,
+      "parentid": 557703555,
+      "timestamp": "2013-05-31T16:27:35Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 12587,
+      "comment": "better wikilinks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557705136,
+      "parentid": 557704336,
+      "timestamp": "2013-05-31T16:33:27Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 12854,
+      "comment": "/* 2006 general election */ supply requested citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 560181003,
+      "parentid": 557705136,
+      "timestamp": "2013-06-16T17:49:07Z",
+      "user": "Dusti",
+      "userid": 4033245,
+      "size": 12471,
+      "comment": "[[Wikipedia:Articles for deletion/Francine Busby]] closed as no consensus",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 622161589,
+      "parentid": 560181003,
+      "timestamp": "2014-08-21T06:58:46Z",
+      "user": "Rpyle731",
+      "userid": 46515,
+      "size": 12493,
+      "comment": "fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 673398531,
+      "parentid": 622161589,
+      "timestamp": "2015-07-28T01:41:38Z",
+      "user": "Chanukahbunny",
+      "userid": 25871489,
+      "size": 12522,
+      "comment": "/* 2010 general election */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 706440627,
+      "parentid": 673398531,
+      "timestamp": "2016-02-23T09:38:26Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 12251,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Francine Busby|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712462426,
+      "parentid": 706440627,
+      "timestamp": "2016-03-29T06:55:49Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 12636,
+      "comment": "Rescuing 3 sources. #IABot",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722477962,
+      "parentid": 712462426,
+      "timestamp": "2016-05-28T11:37:33Z",
+      "user": "76.167.139.48",
+      "userid": 0,
+      "size": 12797,
+      "comment": "/* Political */",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 722478077,
+      "parentid": 722477962,
+      "timestamp": "2016-05-28T11:38:56Z",
+      "user": "76.167.139.48",
+      "userid": 0,
+      "size": 12807,
+      "comment": "/* Political */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722478593,
+      "parentid": 722478077,
+      "timestamp": "2016-05-28T11:45:28Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 12636,
+      "comment": "Reverted edits by [[Special:Contribs/76.167.139.48|76.167.139.48]] ([[User talk:76.167.139.48|talk]]) to last version by Cyberbot II",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 797680009,
+      "parentid": 722478593,
+      "timestamp": "2017-08-28T15:48:24Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 12637,
+      "comment": "Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 803900651,
+      "parentid": 797680009,
+      "timestamp": "2017-10-05T11:36:01Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 13443,
+      "comment": "Rescuing 4 sources and tagging 0 as dead. #IABot (v1.5.4)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 820807595,
+      "parentid": 803900651,
+      "timestamp": "2018-01-16T18:46:15Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 13633,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 832625452,
+      "parentid": 820807595,
+      "timestamp": "2018-03-27T02:32:52Z",
+      "user": "Jbruin152",
+      "userid": 8155507,
+      "size": 13636,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 832625483,
+      "parentid": 832625452,
+      "timestamp": "2018-03-27T02:33:15Z",
+      "user": "Jbruin152",
+      "userid": 8155507,
+      "size": 13637,
+      "comment": "/* Personal */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 832625618,
+      "parentid": 832625483,
+      "timestamp": "2018-03-27T02:34:40Z",
+      "user": "Jbruin152",
+      "userid": 8155507,
+      "size": 13635,
+      "comment": "/* 2010 general election */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 839230787,
+      "parentid": 832625618,
+      "timestamp": "2018-05-02T03:45:23Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 13701,
+      "comment": "Added image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868369014,
+      "parentid": 839230787,
+      "timestamp": "2018-11-11T19:31:40Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 13648,
+      "comment": "removed [[Category:American people convicted of tax crimes]] using [[WP:HC|HotCat]] seems to confuse Cunningham for her",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 889837475,
+      "parentid": 868369014,
+      "timestamp": "2019-03-28T08:36:50Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 13905,
+      "comment": "/* External links */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 904851395,
+      "parentid": 889837475,
+      "timestamp": "2019-07-05T01:03:51Z",
+      "user": "71.215.221.40",
+      "userid": 0,
+      "size": 14023,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 916827408,
+      "parentid": 904851395,
+      "timestamp": "2019-09-20T20:56:47Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 14007,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (7×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 931601217,
+      "parentid": 916827408,
+      "timestamp": "2019-12-19T22:52:51Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 14199,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 938884866,
+      "parentid": 931601217,
+      "timestamp": "2020-02-02T23:48:35Z",
+      "user": "Narayansg",
+      "userid": 6610523,
+      "size": 14283,
+      "comment": "/* 2010 general election */ added links to Cardiff and sheriffs office",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 941652325,
+      "parentid": 938884866,
+      "timestamp": "2020-02-19T22:00:01Z",
+      "user": "99.165.44.77",
+      "userid": 0,
+      "size": 14284,
+      "comment": "she is no longer chair; Will Rodriguez-Kennedy is.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982565901,
+      "parentid": 941652325,
+      "timestamp": "2020-10-08T23:06:52Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 14279,
+      "comment": "Add: work. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Writers from Los Angeles‎]] | via #UCB_Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 998464558,
+      "parentid": 982565901,
+      "timestamp": "2021-01-05T14:12:34Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 14274,
+      "comment": "Add: work. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:University of California, Irvine alumni]] | via #UCB_Category 12/322",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1025809484,
+      "parentid": 998464558,
+      "timestamp": "2021-05-29T18:00:55Z",
+      "user": "70.95.148.161",
+      "userid": 0,
+      "size": 14283,
+      "comment": "/* 2010 general election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1026630263,
+      "parentid": 1025809484,
+      "timestamp": "2021-06-03T11:12:53Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 14282,
+      "comment": "/* Initial vote */removed [[WP:REFPUNCT|erroneous]] space",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1056482014,
+      "parentid": 1026630263,
+      "timestamp": "2021-11-22T02:05:06Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 14317,
+      "comment": "add category [[Category:21st-century American women]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1062033558,
+      "parentid": 1056482014,
+      "timestamp": "2021-12-25T20:07:59Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 14322,
+      "comment": "/* External links */[[Category:American people of Italian descent]] to [[Category:American politicians of Italian descent]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1109058725,
+      "parentid": 1062033558,
+      "timestamp": "2022-09-07T17:55:23Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 14322,
+      "comment": "/* Initial vote */replaced: US News and World Report → U.S. News & World Report",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1139111495,
+      "parentid": 1109058725,
+      "timestamp": "2023-02-13T12:14:21Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 14317,
+      "comment": "Merging [[:Category:American politicians of Italian descent]] to [[:Category:American people of Italian descent]] per [[Wikipedia:Categories for discussion/Log/2022 December 19#American people of European descent by occupation]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1148448186,
+      "parentid": 1139111495,
+      "timestamp": "2023-04-06T06:20:02Z",
+      "user": "PacificDepths",
+      "userid": 42914832,
+      "size": 14340,
+      "comment": "removed [[Category:California Democrats]]; added [[Category:California Southern Border Region Democrats]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1150091579,
+      "parentid": 1148448186,
+      "timestamp": "2023-04-16T07:55:38Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 14317,
+      "comment": "Merging [[:Category:California Southern Border Region Democrats]] to [[:Category:California Democrats]] per [[Wikipedia:Categories for discussion/Log/2023 April 8#Category:California Democrats by region]]",
+      "minor": true,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1171209559,
+      "parentid": 1150091579,
+      "timestamp": "2023-08-19T18:00:37Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 14321,
+      "comment": "/* top */ crop",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1211842891,
+      "parentid": 1171209559,
+      "timestamp": "2024-03-04T19:39:52Z",
+      "user": "136.26.12.37",
+      "userid": 0,
+      "size": 14258,
+      "comment": "removed official website, it leads to a payday loan website that is obviously not associated with this person.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221206809,
+      "parentid": 1211842891,
+      "timestamp": "2024-04-28T14:27:47Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 14560,
+      "comment": "Rescuing 1 sources and tagging 1 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1259442199,
+      "parentid": 1221206809,
+      "timestamp": "2024-11-25T05:00:11Z",
+      "user": "76.167.122.195",
+      "userid": 0,
+      "size": 14530,
+      "comment": "/* 2010 general election */ I was wrong, at the time it was Department, the rebrand went into effect in Sept 2024.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Francine_Busby"
+}

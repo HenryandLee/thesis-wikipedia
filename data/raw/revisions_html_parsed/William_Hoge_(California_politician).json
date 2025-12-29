@@ -1,0 +1,412 @@
+{
+  "page_title": "William_Hoge_(California_politician)",
+  "candidate_name": "William Hoge",
+  "collection_date": "2025-12-28T16:57:33.651084",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 33,
+    "unique_editors": 23,
+    "date_range": {
+      "start": "2015-09-14T06:02:04Z",
+      "end": "2024-12-07T03:42:40Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 680944857,
+      "parentid": 0,
+      "timestamp": "2015-09-14T06:02:04Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3347,
+      "comment": "[[WP:AES|←]]Created page with ''''William \"Bill\" Hoge''' (born April 2, 1946 in Pasadena, California) is an American politician from California and a member of the [[Republican Party]].  After...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680945032,
+      "parentid": 680944857,
+      "timestamp": "2015-09-14T06:03:58Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3345,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680998820,
+      "parentid": 680945032,
+      "timestamp": "2015-09-14T15:12:19Z",
+      "user": "Dennis Brown",
+      "userid": 94871,
+      "size": 3423,
+      "comment": "Added {{[[Template:BLP sources|BLP sources]]}} and {{[[Template:original research|original research]]}} tags to article ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 681037172,
+      "parentid": 680998820,
+      "timestamp": "2015-09-14T19:54:27Z",
+      "user": "Niceguyedc",
+      "userid": 5288432,
+      "size": 3424,
+      "comment": "v1.36 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Republican Party]] / [[WP:WCW]] project (External link with two brackets)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 681246178,
+      "parentid": 681037172,
+      "timestamp": "2015-09-16T02:23:12Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3555,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681246353,
+      "parentid": 681246178,
+      "timestamp": "2015-09-16T02:24:29Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3477,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681246932,
+      "parentid": 681246353,
+      "timestamp": "2015-09-16T02:29:08Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3479,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681431963,
+      "parentid": 681246932,
+      "timestamp": "2015-09-17T05:22:10Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 3493,
+      "comment": "[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11450)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 682343417,
+      "parentid": 681431963,
+      "timestamp": "2015-09-23T03:18:01Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3492,
+      "comment": "/* Electoral history */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 682343516,
+      "parentid": 682343417,
+      "timestamp": "2015-09-23T03:18:57Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3492,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 683061759,
+      "parentid": 682343516,
+      "timestamp": "2015-09-27T21:48:04Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 3492,
+      "comment": "Tassedethe moved page [[William Hoge (California politican)]] to [[William Hoge (California politician)]]: spelling",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 721971404,
+      "parentid": 683061759,
+      "timestamp": "2016-05-25T04:55:03Z",
+      "user": "Srednuas Lenoroc",
+      "userid": 25060744,
+      "size": 3491,
+      "comment": "sp",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 725752224,
+      "parentid": 721971404,
+      "timestamp": "2016-06-17T16:44:34Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3191,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/William Hoge (California politician)|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 728337997,
+      "parentid": 725752224,
+      "timestamp": "2016-07-04T18:57:03Z",
+      "user": "John of Reading",
+      "userid": 11308236,
+      "size": 3190,
+      "comment": "/* References */Typo fixing, replaced: Disctrict → District using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 751176155,
+      "parentid": 728337997,
+      "timestamp": "2016-11-23T21:19:44Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 3311,
+      "comment": "/* top */fix ref error and convert to cite book ([[Wikipedia:Bots/Requests_for_approval/PrimeBOT_4|BRFA]]) using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 858333851,
+      "parentid": 751176155,
+      "timestamp": "2018-09-06T13:00:12Z",
+      "user": "JesseRafe",
+      "userid": 641784,
+      "size": 3304,
+      "comment": "/* top */ common hypocorism readily apparent from birth name, unneeded per MOS",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947483146,
+      "parentid": 858333851,
+      "timestamp": "2020-03-26T16:16:23Z",
+      "user": "Proxmire2000",
+      "userid": 4269022,
+      "size": 3311,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1016886969,
+      "parentid": 947483146,
+      "timestamp": "2021-04-09T16:14:11Z",
+      "user": "Dillon251992",
+      "userid": 29762726,
+      "size": 4013,
+      "comment": "Added template",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042781000,
+      "parentid": 1016886969,
+      "timestamp": "2021-09-06T18:52:32Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4075,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 879/1101",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1073037179,
+      "parentid": 1042781000,
+      "timestamp": "2022-02-20T18:24:05Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4118,
+      "comment": "/* top */add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1099546758,
+      "parentid": 1073037179,
+      "timestamp": "2022-07-21T10:05:37Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 4187,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1099547000,
+      "parentid": 1099546758,
+      "timestamp": "2022-07-21T10:07:27Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 4238,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1099547037,
+      "parentid": 1099547000,
+      "timestamp": "2022-07-21T10:07:43Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 4238,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125440558,
+      "parentid": 1099547037,
+      "timestamp": "2022-12-04T01:03:04Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 4219,
+      "comment": "/* References */intersect Republican and California representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1127391780,
+      "parentid": 1125440558,
+      "timestamp": "2022-12-14T12:53:42Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 4225,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1142296589,
+      "parentid": 1127391780,
+      "timestamp": "2023-03-01T16:43:29Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 4226,
+      "comment": "/* top */clean up, [[WP:AWB/T|typo(s) fixed]]: April 2, 1946 → April 2, 1946,",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1231961954,
+      "parentid": 1142296589,
+      "timestamp": "2024-07-01T05:50:51Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 4238,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician\" to \"American politician (born 1946)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1233217694,
+      "parentid": 1231961954,
+      "timestamp": "2024-07-07T22:30:18Z",
+      "user": "Ser!",
+      "userid": 31259259,
+      "size": 4231,
+      "comment": "[[MOS:HYPOCORISM]]",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1246149933,
+      "parentid": 1233217694,
+      "timestamp": "2024-09-17T06:02:46Z",
+      "user": "Guest2625",
+      "userid": 14410800,
+      "size": 4397,
+      "comment": "remove icon clutter [[MOS:FLAGCRUFT]]",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1246150282,
+      "parentid": 1246149933,
+      "timestamp": "2024-09-17T06:08:38Z",
+      "user": "Guest2625",
+      "userid": 14410800,
+      "size": 4355,
+      "comment": "add source to sentence",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1255993735,
+      "parentid": 1246150282,
+      "timestamp": "2024-11-07T17:39:38Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 4440,
+      "comment": "added [[Category:Candidates in the 2024 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1258051866,
+      "parentid": 1255993735,
+      "timestamp": "2024-11-17T22:23:36Z",
+      "user": "General Lemarc",
+      "userid": 43776031,
+      "size": 4447,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261638340,
+      "parentid": 1258051866,
+      "timestamp": "2024-12-07T03:42:40Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4517,
+      "comment": "added [[Category:20th-century members of the California State Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Hoge_(California_politician)"
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Lori_Edwards",
+  "candidate_name": "Lori Edwards",
+  "collection_date": "2025-12-28T16:47:09.765578",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2010-08-22T15:14:44Z",
+      "end": "2018-12-08T18:46:37Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 380331039,
+      "parentid": 0,
+      "timestamp": "2010-08-22T15:14:44Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Florida, 2010#District 12]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872713941,
+      "parentid": 380331039,
+      "timestamp": "2018-12-08T18:46:37Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Florida]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lori_Edwards"
+}

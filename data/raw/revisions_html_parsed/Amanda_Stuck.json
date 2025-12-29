@@ -1,0 +1,1038 @@
+{
+  "page_title": "Amanda_Stuck",
+  "candidate_name": "Amanda Stuck",
+  "collection_date": "2025-12-28T16:32:09.243470",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 83,
+    "unique_editors": 46,
+    "date_range": {
+      "start": "2014-11-06T14:46:37Z",
+      "end": "2024-12-18T19:23:31Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 632696624,
+      "parentid": 0,
+      "timestamp": "2014-11-06T14:46:37Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 1030,
+      "comment": "wikiproject",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632793336,
+      "parentid": 632696624,
+      "timestamp": "2014-11-07T05:40:18Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 1244,
+      "comment": "[[WP:CHECKWIKI]] error fix for #03.  Reflist missing,  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (10480)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 632797856,
+      "parentid": 632793336,
+      "timestamp": "2014-11-07T06:54:22Z",
+      "user": "Bgwhite",
+      "userid": 264323,
+      "size": 1258,
+      "comment": "Do [[Wikipedia:GENFIXES|general fixes]] and cleanup. - using [[Project:AWB|AWB]] (10480)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632847890,
+      "parentid": 632797856,
+      "timestamp": "2014-11-07T17:15:49Z",
+      "user": "160.39.119.9",
+      "userid": 0,
+      "size": 1264,
+      "comment": "grammatical errors",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 679111161,
+      "parentid": 632847890,
+      "timestamp": "2015-09-02T14:21:52Z",
+      "user": "Kochea7",
+      "userid": 12989121,
+      "size": 1586,
+      "comment": "Added Rep. Stuck's Committee Assignments",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681976591,
+      "parentid": 679111161,
+      "timestamp": "2015-09-20T18:57:55Z",
+      "user": "Mikeblas",
+      "userid": 327592,
+      "size": 1620,
+      "comment": "add title to cite web tag",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 685854119,
+      "parentid": 681976591,
+      "timestamp": "2015-10-15T11:52:04Z",
+      "user": "The Transhumanist",
+      "userid": 1754504,
+      "size": 1622,
+      "comment": "general cleanup, [[WP:AWB/T|typo(s) fixed]]: masters degrees → master's degrees, bachelor and master's degrees → bachelor's and master's degrees using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 690245455,
+      "parentid": 685854119,
+      "timestamp": "2015-11-12T04:43:02Z",
+      "user": "24.183.50.73",
+      "userid": 0,
+      "size": 1652,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 694529357,
+      "parentid": 690245455,
+      "timestamp": "2015-12-09T21:00:49Z",
+      "user": "Kochea7",
+      "userid": 12989121,
+      "size": 1634,
+      "comment": "Amanda Stuck is not a licensed social worker.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724958955,
+      "parentid": 694529357,
+      "timestamp": "2016-06-12T17:45:00Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 1429,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Amanda Stuck|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756115862,
+      "parentid": 724958955,
+      "timestamp": "2016-12-22T02:56:56Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 1476,
+      "comment": "/* References */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756764106,
+      "parentid": 756115862,
+      "timestamp": "2016-12-26T18:22:10Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 1520,
+      "comment": "/* References */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 758114495,
+      "parentid": 756764106,
+      "timestamp": "2017-01-03T15:49:38Z",
+      "user": "Kochea7",
+      "userid": 12989121,
+      "size": 2126,
+      "comment": "Updated to include re-election, and new committee appointments.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 763308236,
+      "parentid": 758114495,
+      "timestamp": "2017-02-02T14:32:02Z",
+      "user": "NotTheFakeJTP",
+      "userid": 23005869,
+      "size": 2166,
+      "comment": "fixed ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 764623899,
+      "parentid": 763308236,
+      "timestamp": "2017-02-09T23:55:13Z",
+      "user": "WereSpielChequers",
+      "userid": 4071608,
+      "size": 2166,
+      "comment": "/* top */[[WP:AWB/T|Typo fixing]], replaced: ot  →  to using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 766559287,
+      "parentid": 764623899,
+      "timestamp": "2017-02-20T21:31:13Z",
+      "user": "NotTheFakeJTP",
+      "userid": 23005869,
+      "size": 3329,
+      "comment": "infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 778748439,
+      "parentid": 766559287,
+      "timestamp": "2017-05-05T01:10:01Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 3334,
+      "comment": "removed [[Category:People from Appleton, Wisconsin]]; added [[Category:Politicians from Appleton, Wisconsin]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 787831611,
+      "parentid": 778748439,
+      "timestamp": "2017-06-27T20:26:51Z",
+      "user": "NotTheFakeJTP",
+      "userid": 23005869,
+      "size": 3349,
+      "comment": "bda template",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 820947729,
+      "parentid": 787831611,
+      "timestamp": "2018-01-17T15:09:54Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 3365,
+      "comment": "removed [[Category:Year of birth unknown]]; added [[Category:Year of birth missing (living people)]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 820949346,
+      "parentid": 820947729,
+      "timestamp": "2018-01-17T15:21:54Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 3349,
+      "comment": "Reverted edits by [[Special:Contribs/BrownHairedGirl|BrownHairedGirl]] ([[User talk:BrownHairedGirl|talk]]) to last version by NotTheFakeJTP",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 820950676,
+      "parentid": 820949346,
+      "timestamp": "2018-01-17T15:30:15Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 3339,
+      "comment": "[[Category:Year of birth unknown]]→[[Category:Year of birth missing (living people)]] for living people (unless year cat added automatically) using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 837951840,
+      "parentid": 820950676,
+      "timestamp": "2018-04-24T01:01:04Z",
+      "user": "184.59.229.88",
+      "userid": 0,
+      "size": 3339,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853565807,
+      "parentid": 837951840,
+      "timestamp": "2018-08-05T17:22:40Z",
+      "user": "32.218.44.161",
+      "userid": 0,
+      "size": 3428,
+      "comment": "/* References */ added external link to official website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864246926,
+      "parentid": 853565807,
+      "timestamp": "2018-10-16T01:32:55Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3437,
+      "comment": "/* External links */recategorize",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 887896474,
+      "parentid": 864246926,
+      "timestamp": "2019-03-15T15:00:40Z",
+      "user": "Kochea7",
+      "userid": 12989121,
+      "size": 3944,
+      "comment": "/* State representative */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 898324470,
+      "parentid": 887896474,
+      "timestamp": "2019-05-22T20:27:31Z",
+      "user": "Steel1943",
+      "userid": 2952402,
+      "size": 3970,
+      "comment": "Added {{[[:Template:linkrot|linkrot]]}} tag to article ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 898325390,
+      "parentid": 898324470,
+      "timestamp": "2019-05-22T20:33:01Z",
+      "user": "Derek R Bullamore",
+      "userid": 698799,
+      "size": 4076,
+      "comment": "Filled in 2 bare reference(s) with [[:en:WP:REFILL|reFill]] ()",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 945269207,
+      "parentid": 898325390,
+      "timestamp": "2020-03-12T21:49:25Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 2965,
+      "comment": "copyedits and structuring",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 945275275,
+      "parentid": 945269207,
+      "timestamp": "2020-03-12T22:42:35Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 3149,
+      "comment": "Rescuing orphaned refs (\"Profile\" from rev 898325390)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 955249780,
+      "parentid": 945275275,
+      "timestamp": "2020-05-06T19:24:34Z",
+      "user": "Willsome429",
+      "userid": 27317921,
+      "size": 3688,
+      "comment": "/* Career */ congressional intentions",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 957866493,
+      "parentid": 955249780,
+      "timestamp": "2020-05-20T21:53:54Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 3215,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 966678706,
+      "parentid": 957866493,
+      "timestamp": "2020-07-08T14:27:27Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 3386,
+      "comment": "Expanded links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 966684149,
+      "parentid": 966678706,
+      "timestamp": "2020-07-08T15:11:42Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 3480,
+      "comment": "Expanded links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 966685013,
+      "parentid": 966684149,
+      "timestamp": "2020-07-08T15:18:52Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 3703,
+      "comment": "Added office navbox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 966758670,
+      "parentid": 966685013,
+      "timestamp": "2020-07-09T01:17:39Z",
+      "user": "Jerodlycett",
+      "userid": 24269494,
+      "size": 3703,
+      "comment": "v2.02 - [[WP:WCW]] project (Tag with incorrect syntax)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 972429418,
+      "parentid": 966758670,
+      "timestamp": "2020-08-12T01:30:15Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 3698,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 975996174,
+      "parentid": 972429418,
+      "timestamp": "2020-08-31T16:08:22Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3709,
+      "comment": "stub sorting",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 977774351,
+      "parentid": 975996174,
+      "timestamp": "2020-09-10T22:15:01Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3769,
+      "comment": "added [[Category:Candidates in the 2020 United States elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 977774639,
+      "parentid": 977774351,
+      "timestamp": "2020-09-10T22:17:26Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3770,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 983190431,
+      "parentid": 977774639,
+      "timestamp": "2020-10-12T19:44:01Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 3769,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 985109806,
+      "parentid": 983190431,
+      "timestamp": "2020-10-24T00:52:44Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 4483,
+      "comment": "/* Early life */ copyedits and sources",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 988460127,
+      "parentid": 985109806,
+      "timestamp": "2020-11-13T09:26:38Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 4509,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 999652144,
+      "parentid": 988460127,
+      "timestamp": "2021-01-11T07:09:46Z",
+      "user": "MattmanBeyond",
+      "userid": 36308851,
+      "size": 4507,
+      "comment": "Fixed typo",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 999726411,
+      "parentid": 999652144,
+      "timestamp": "2021-01-11T17:16:23Z",
+      "user": "Asdasdasdff",
+      "userid": 22709466,
+      "size": 4784,
+      "comment": "updated for 2021",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1004636679,
+      "parentid": 999726411,
+      "timestamp": "2021-02-03T16:34:21Z",
+      "user": "Asdasdasdff",
+      "userid": 22709466,
+      "size": 4847,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1036501443,
+      "parentid": 1004636679,
+      "timestamp": "2021-07-31T23:38:37Z",
+      "user": "Extraordinary Writ",
+      "userid": 39795743,
+      "size": 4890,
+      "comment": "/* top */Adding [[WP:SD|short description]]: \"American politician\"",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1073896446,
+      "parentid": 1036501443,
+      "timestamp": "2022-02-25T07:49:54Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 4893,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125320660,
+      "parentid": 1073896446,
+      "timestamp": "2022-12-03T11:23:33Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 4877,
+      "comment": "/* External links */intersect Democratic and Wisconsin representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1144659489,
+      "parentid": 1125320660,
+      "timestamp": "2023-03-14T22:07:07Z",
+      "user": "Dolotta",
+      "userid": 13876149,
+      "size": 4833,
+      "comment": "no longer a stub",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1168503456,
+      "parentid": 1144659489,
+      "timestamp": "2023-08-03T03:55:54Z",
+      "user": "75.128.201.225",
+      "userid": 0,
+      "size": 4836,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1190306687,
+      "parentid": 1168503456,
+      "timestamp": "2023-12-17T04:16:32Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 4837,
+      "comment": "/* Early life and education */replaced: December 16, 1982 → December 16, 1982,",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1190311868,
+      "parentid": 1190306687,
+      "timestamp": "2023-12-17T05:17:35Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 4838,
+      "comment": "/* Early life and education */replaced: , Wisconsin]] → , Wisconsin]],",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1204879004,
+      "parentid": 1190311868,
+      "timestamp": "2024-02-08T07:23:18Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4838,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1209084995,
+      "parentid": 1204879004,
+      "timestamp": "2024-02-20T06:38:49Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4886,
+      "comment": "/* External links */add [[Category:21st-century Wisconsin politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1215417920,
+      "parentid": 1209084995,
+      "timestamp": "2024-03-25T00:42:29Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 4911,
+      "comment": "removed [[Category:Candidates in the 2020 United States elections]]; added [[Category:Candidates in the 2020 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1246081305,
+      "parentid": 1215417920,
+      "timestamp": "2024-09-16T19:52:49Z",
+      "user": "198.150.101.223",
+      "userid": 0,
+      "size": 4946,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246082745,
+      "parentid": 1246081305,
+      "timestamp": "2024-09-16T20:03:41Z",
+      "user": "198.150.101.223",
+      "userid": 0,
+      "size": 4957,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246082793,
+      "parentid": 1246082745,
+      "timestamp": "2024-09-16T20:03:59Z",
+      "user": "Filmssssssssssss",
+      "userid": 33625371,
+      "size": 4911,
+      "comment": "Reverted 2 edits by [[Special:Contributions/198.150.101.223|198.150.101.223]] ([[User talk:198.150.101.223|talk]]) to last revision by Y2hyaXM",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1246083042,
+      "parentid": 1246082793,
+      "timestamp": "2024-09-16T20:05:46Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4897,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246084880,
+      "parentid": 1246083042,
+      "timestamp": "2024-09-16T20:18:36Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4947,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246085656,
+      "parentid": 1246084880,
+      "timestamp": "2024-09-16T20:23:19Z",
+      "user": "Filmssssssssssss",
+      "userid": 33625371,
+      "size": 4911,
+      "comment": "Reverted edits by [[Special:Contribs/198.150.101.231|198.150.101.231]] ([[User talk:198.150.101.231|talk]]) to last version by Filmssssssssssss",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1246208362,
+      "parentid": 1246085656,
+      "timestamp": "2024-09-17T15:32:52Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4919,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246208431,
+      "parentid": 1246208362,
+      "timestamp": "2024-09-17T15:33:18Z",
+      "user": "EF5",
+      "userid": 40509413,
+      "size": 4911,
+      "comment": "Reverting edit(s) by [[Special:Contributions/198.150.101.231|198.150.101.231]] ([[User_talk:198.150.101.231|talk]]) to rev. 1246085656 by Filmssssssssssss: Vandalism ([[w:en:WP:UV|UV 0.1.5]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "Ultraviolet"
+      ]
+    },
+    {
+      "revid": 1246213395,
+      "parentid": 1246208431,
+      "timestamp": "2024-09-17T16:04:06Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4943,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246213493,
+      "parentid": 1246213395,
+      "timestamp": "2024-09-17T16:04:43Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4951,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246213721,
+      "parentid": 1246213493,
+      "timestamp": "2024-09-17T16:06:34Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4967,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246213963,
+      "parentid": 1246213721,
+      "timestamp": "2024-09-17T16:08:45Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4989,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246214049,
+      "parentid": 1246213963,
+      "timestamp": "2024-09-17T16:09:24Z",
+      "user": "EF5",
+      "userid": 40509413,
+      "size": 4891,
+      "comment": "manually revert potential vandalism",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1246236262,
+      "parentid": 1246214049,
+      "timestamp": "2024-09-17T18:52:54Z",
+      "user": "2600:1008:B1C6:2D9C:559B:E27:6C0:25D3",
+      "userid": 0,
+      "size": 4909,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1246238150,
+      "parentid": 1246236262,
+      "timestamp": "2024-09-17T19:08:07Z",
+      "user": "KylieTastic",
+      "userid": 2790592,
+      "size": 4845,
+      "comment": "revert unsourced - vandalised",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246361764,
+      "parentid": 1246238150,
+      "timestamp": "2024-09-18T14:02:14Z",
+      "user": "198.150.101.221",
+      "userid": 0,
+      "size": 4918,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246361776,
+      "parentid": 1246361764,
+      "timestamp": "2024-09-18T14:02:24Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 4845,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/198.150.101.221|198.150.101.221]] to version by KylieTastic. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4345689) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1246524693,
+      "parentid": 1246361776,
+      "timestamp": "2024-09-19T13:38:11Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4862,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246524803,
+      "parentid": 1246524693,
+      "timestamp": "2024-09-19T13:39:01Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 4845,
+      "comment": "Reverted edits by [[Special:Contributions/198.150.101.231|198.150.101.231]] ([[User talk:198.150.101.231|talk]]) ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1254794030,
+      "parentid": 1246524803,
+      "timestamp": "2024-11-01T18:45:12Z",
+      "user": "198.150.101.221",
+      "userid": 0,
+      "size": 4852,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260695482,
+      "parentid": 1254794030,
+      "timestamp": "2024-12-02T03:24:36Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4915,
+      "comment": "added [[:Category:21st-century members of the Wisconsin Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260696761,
+      "parentid": 1260695482,
+      "timestamp": "2024-12-02T03:32:55Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4867,
+      "comment": "Removing from [[Category:21st-century Wisconsin politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260697866,
+      "parentid": 1260696761,
+      "timestamp": "2024-12-02T03:40:41Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4820,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1263632724,
+      "parentid": 1260697866,
+      "timestamp": "2024-12-17T20:03:32Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4864,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263632812,
+      "parentid": 1263632724,
+      "timestamp": "2024-12-17T20:04:02Z",
+      "user": "Discospinster",
+      "userid": 82432,
+      "size": 4820,
+      "comment": "Reverted edits by [[Special:Contributions/198.150.101.231|198.150.101.231]] ([[User talk:198.150.101.231|talk]]) ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1263632853,
+      "parentid": 1263632812,
+      "timestamp": "2024-12-17T20:04:18Z",
+      "user": "Discospinster",
+      "userid": 82432,
+      "size": 4813,
+      "comment": "Undid revision [[Special:Diff/1254794030|1254794030]] by [[Special:Contributions/198.150.101.221|198.150.101.221]] ([[User talk:198.150.101.221|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 1263807196,
+      "parentid": 1263632853,
+      "timestamp": "2024-12-18T19:16:27Z",
+      "user": "198.150.101.231",
+      "userid": 0,
+      "size": 4833,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263808049,
+      "parentid": 1263807196,
+      "timestamp": "2024-12-18T19:23:31Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 4813,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/198.150.101.231|198.150.101.231]] to version by Discospinster. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4365018) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amanda_Stuck"
+}

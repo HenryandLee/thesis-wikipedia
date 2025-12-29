@@ -1,0 +1,110 @@
+{
+  "page_title": "Bob_Roggio",
+  "candidate_name": "Bob Roggio",
+  "collection_date": "2025-12-28T16:34:02.005298",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 8,
+    "unique_editors": 6,
+    "date_range": {
+      "start": "2008-01-30T23:00:46Z",
+      "end": "2018-12-08T05:25:24Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 188024204,
+      "parentid": 0,
+      "timestamp": "2008-01-30T23:00:46Z",
+      "user": "36westbrook",
+      "userid": 6323232,
+      "size": 27,
+      "comment": "[[WP:AES|←]]Redirected page to [[Robert roggio]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 188337502,
+      "parentid": 188024204,
+      "timestamp": "2008-02-01T07:39:49Z",
+      "user": "Scepbot",
+      "userid": 1559905,
+      "size": 27,
+      "comment": "Robot: Fixing double redirect",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 222021645,
+      "parentid": 188337502,
+      "timestamp": "2008-06-27T05:03:44Z",
+      "user": "Stormie",
+      "userid": 20772,
+      "size": 95,
+      "comment": "fix double redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 222228661,
+      "parentid": 222021645,
+      "timestamp": "2008-06-28T05:40:28Z",
+      "user": "36westbrook",
+      "userid": 6323232,
+      "size": 27,
+      "comment": "redirect to correct page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 222268566,
+      "parentid": 222228661,
+      "timestamp": "2008-06-28T12:36:26Z",
+      "user": "Stormie",
+      "userid": 20772,
+      "size": 95,
+      "comment": "[[WP:UNDO|Undid]] revision 222228661 by [[Special:Contributions/36westbrook|36westbrook]] ([[User talk:36westbrook|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248698012,
+      "parentid": 222268566,
+      "timestamp": "2008-10-30T21:53:42Z",
+      "user": "30goto10",
+      "userid": 8204540,
+      "size": 27,
+      "comment": "redirect to complete article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 272497778,
+      "parentid": 248698012,
+      "timestamp": "2009-02-22T14:25:27Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 95,
+      "comment": "Robot: Fixing double redirect",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872629210,
+      "parentid": 272497778,
+      "timestamp": "2018-12-08T05:25:24Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 94,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Pennsylvania]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Roggio"
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Dan_Mielke",
+  "candidate_name": "Dan Mielke",
+  "collection_date": "2025-12-28T16:36:28.342969",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2010-08-24T05:11:48Z",
+      "end": "2018-12-08T12:45:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 380646886,
+      "parentid": 0,
+      "timestamp": "2010-08-24T05:11:48Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 92,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Wisconsin, 2010#District 7]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872666492,
+      "parentid": 380646886,
+      "timestamp": "2018-12-08T12:45:02Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Wisconsin]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Mielke"
+}

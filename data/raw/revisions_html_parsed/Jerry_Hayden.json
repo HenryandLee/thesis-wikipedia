@@ -1,0 +1,218 @@
+{
+  "page_title": "Jerry_Hayden",
+  "candidate_name": "Jerry Hayden",
+  "collection_date": "2025-12-28T16:41:49.475043",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 17,
+    "unique_editors": 14,
+    "date_range": {
+      "start": "2013-11-30T12:49:38Z",
+      "end": "2022-02-02T10:58:48Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 583903466,
+      "parentid": 0,
+      "timestamp": "2013-11-30T12:49:38Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 4117,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox person |name          = Jerry L. Hayden |image         =  |caption       =  |birth_name    = |birth_date    =  |birth_place   = |residence     = Scot...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 584474548,
+      "parentid": 583903466,
+      "timestamp": "2013-12-04T04:37:28Z",
+      "user": "Tco03displays",
+      "userid": 17590850,
+      "size": 4152,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (notability)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 584585398,
+      "parentid": 584474548,
+      "timestamp": "2013-12-04T21:37:34Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 4117,
+      "comment": "Removed notability tag since [[User talk:Tco03displays]] seems to show that Tco wrongfully tagged a bunch of articles",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 628878230,
+      "parentid": 584585398,
+      "timestamp": "2014-10-09T03:59:42Z",
+      "user": "Darylgolden",
+      "userid": 16123725,
+      "size": 4129,
+      "comment": "persondata",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723804927,
+      "parentid": 628878230,
+      "timestamp": "2016-06-05T10:27:55Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3931,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Jerry Hayden|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724243470,
+      "parentid": 723804927,
+      "timestamp": "2016-06-08T01:05:54Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 3902,
+      "comment": "Fixing [[:Category:CS1 errors: invisible characters]] ([[WP:GenFixes]] on) using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 768177047,
+      "parentid": 724243470,
+      "timestamp": "2017-03-02T07:35:02Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 3903,
+      "comment": "/* Political activity */HTTP&rarr;HTTPS for [[The New York Times]]. using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 776523034,
+      "parentid": 768177047,
+      "timestamp": "2017-04-21T14:48:15Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 4054,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.3beta8)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 780244396,
+      "parentid": 776523034,
+      "timestamp": "2017-05-13T20:47:03Z",
+      "user": "5.82.153.106",
+      "userid": 0,
+      "size": 4371,
+      "comment": "/* Political activity */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 887187054,
+      "parentid": 780244396,
+      "timestamp": "2019-03-11T03:41:03Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4422,
+      "comment": "/* References */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 917376809,
+      "parentid": 887187054,
+      "timestamp": "2019-09-23T15:18:47Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 4430,
+      "comment": "[[:Category:CS1 errors: deprecated parameters]]: migrate 1/1 |dead-url= to |url-status=; minor cleanup; [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 935652584,
+      "parentid": 917376809,
+      "timestamp": "2020-01-13T22:09:04Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 4463,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 941029213,
+      "parentid": 935652584,
+      "timestamp": "2020-02-16T04:55:35Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 4476,
+      "comment": "clean up, replaced: [[electoral college| → [[United States Electoral College|",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 983382552,
+      "parentid": 941029213,
+      "timestamp": "2020-10-13T22:59:26Z",
+      "user": "MarnetteD",
+      "userid": 220924,
+      "size": 4435,
+      "comment": "rmv deprecated field",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994259279,
+      "parentid": 983382552,
+      "timestamp": "2020-12-14T20:50:23Z",
+      "user": "Tom.Bot",
+      "userid": 28901961,
+      "size": 4458,
+      "comment": "[[Wikipedia:Bots/Requests for approval/Tom.Bot 6|Task 6]]: +{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1047322720,
+      "parentid": 994259279,
+      "timestamp": "2021-09-30T07:17:03Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4447,
+      "comment": "Alter: title. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1637/2198",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1069449366,
+      "parentid": 1047322720,
+      "timestamp": "2022-02-02T10:58:48Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4526,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1384/2173",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Hayden"
+}

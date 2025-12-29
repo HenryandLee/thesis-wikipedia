@@ -1,0 +1,506 @@
+{
+  "page_title": "Barry_Hinckley",
+  "candidate_name": "Barry Hinckley",
+  "collection_date": "2025-12-28T16:33:01.232543",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 44,
+    "unique_editors": 11,
+    "date_range": {
+      "start": "2011-07-26T19:46:09Z",
+      "end": "2018-12-14T22:14:32Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 441588264,
+      "parentid": 0,
+      "timestamp": "2011-07-26T19:46:09Z",
+      "user": "Moderatemike",
+      "userid": 15010261,
+      "size": 3300,
+      "comment": "[[WP:AES|←]]Created page with '{{New unreviewed article|source=ArticleWizard|date={{subst:CURRENTMONTHNAME}} {{subst:CURRENTYEAR}}}}  '''New article name''' is Barry Hinckley  <!--- Important, do...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441588339,
+      "parentid": 441588264,
+      "timestamp": "2011-07-26T19:46:35Z",
+      "user": "Moderatemike",
+      "userid": 15010261,
+      "size": 3260,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441590955,
+      "parentid": 441588339,
+      "timestamp": "2011-07-26T20:02:42Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2590,
+      "comment": "/* Early Life and Education */ rm unreference personal info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441591086,
+      "parentid": 441590955,
+      "timestamp": "2011-07-26T20:03:37Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2555,
+      "comment": "Added {{[[Template:nofootnotes|nofootnotes]]}} tag to article ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 441602964,
+      "parentid": 441591086,
+      "timestamp": "2011-07-26T21:17:06Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2504,
+      "comment": "/* References */ rm non [[WP:RS]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441603528,
+      "parentid": 441602964,
+      "timestamp": "2011-07-26T21:21:01Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2273,
+      "comment": "/* Business Career */ {{unreferenced |section}}, tag and copyedit., rm off-topic info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441603971,
+      "parentid": 441603528,
+      "timestamp": "2011-07-26T21:23:42Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2311,
+      "comment": "/* U.S. Senate Candidate */ wikilink, copyedit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441604415,
+      "parentid": 441603971,
+      "timestamp": "2011-07-26T21:26:37Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2448,
+      "comment": "/* References */ fix reference",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441604468,
+      "parentid": 441604415,
+      "timestamp": "2011-07-26T21:27:00Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2460,
+      "comment": "/* References */ reflist",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441604531,
+      "parentid": 441604468,
+      "timestamp": "2011-07-26T21:27:24Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2438,
+      "comment": "/* References */ rm non-ref tags",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441604625,
+      "parentid": 441604531,
+      "timestamp": "2011-07-26T21:28:04Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2449,
+      "comment": "/* External links */ {{official|http://www.hinckleyforsenate.com}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441604928,
+      "parentid": 441604625,
+      "timestamp": "2011-07-26T21:29:52Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2339,
+      "comment": "/* Bullhorn Software */ copy edit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441604998,
+      "parentid": 441604928,
+      "timestamp": "2011-07-26T21:30:22Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2000,
+      "comment": "trim lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441608627,
+      "parentid": 441604998,
+      "timestamp": "2011-07-26T21:55:02Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 2044,
+      "comment": "Dating maintenance tags: {{Unreferenced}} {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 441648473,
+      "parentid": 441608627,
+      "timestamp": "2011-07-27T03:35:54Z",
+      "user": "Falcon8765",
+      "userid": 3683078,
+      "size": 2218,
+      "comment": "+[[Category:1966 births]]; +[[Category:Living people]]; +[[Category:Rhode Island Republicans]]; +[[Category:Candidates in United States elections, 2012]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441736492,
+      "parentid": 441648473,
+      "timestamp": "2011-07-27T17:25:07Z",
+      "user": "Moderatemike",
+      "userid": 15010261,
+      "size": 3114,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441736541,
+      "parentid": 441736492,
+      "timestamp": "2011-07-27T17:25:25Z",
+      "user": "Moderatemike",
+      "userid": 15010261,
+      "size": 3058,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441736863,
+      "parentid": 441736541,
+      "timestamp": "2011-07-27T17:27:31Z",
+      "user": "Moderatemike",
+      "userid": 15010261,
+      "size": 3174,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441737100,
+      "parentid": 441736863,
+      "timestamp": "2011-07-27T17:29:01Z",
+      "user": "Moderatemike",
+      "userid": 15010261,
+      "size": 3132,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441742137,
+      "parentid": 441737100,
+      "timestamp": "2011-07-27T18:04:15Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2218,
+      "comment": "Reverted 4 edits by [[Special:Contributions/Moderatemike|Moderatemike]] ([[User talk:Moderatemike|talk]]) identified as [[WP:VAND|vandalism]] to last revision by Falcon8765. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 441744073,
+      "parentid": 441742137,
+      "timestamp": "2011-07-27T18:17:26Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 3132,
+      "comment": "Undid revision 441742137 by [[Special:Contributions/Toddst1|Toddst1]] ([[User talk:Toddst1|talk]])  - correction - that was not vandalism",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441744129,
+      "parentid": 441744073,
+      "timestamp": "2011-07-27T18:17:47Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2218,
+      "comment": "Undid revision 441744073 by [[Special:Contributions/Toddst1|Toddst1]] ([[User talk:Toddst1|talk]]) but it was not helpful",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441744452,
+      "parentid": 441744129,
+      "timestamp": "2011-07-27T18:20:12Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2241,
+      "comment": "Added {{[[Template:coi|coi]]}} tag to article ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 441745124,
+      "parentid": 441744452,
+      "timestamp": "2011-07-27T18:25:16Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2490,
+      "comment": "/* Bullhorn Software */ insert refs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441745397,
+      "parentid": 441745124,
+      "timestamp": "2011-07-27T18:27:31Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2423,
+      "comment": "fix refs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441745719,
+      "parentid": 441745397,
+      "timestamp": "2011-07-27T18:29:58Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2431,
+      "comment": "move ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441746838,
+      "parentid": 441745719,
+      "timestamp": "2011-07-27T18:37:24Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2474,
+      "comment": "/* Bullhorn Software */ add ref and {{primary sources|section}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441747435,
+      "parentid": 441746838,
+      "timestamp": "2011-07-27T18:41:43Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2602,
+      "comment": "/* U.S. Senate Candidate */ add ref and rm [[WP:OR]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441747592,
+      "parentid": 441747435,
+      "timestamp": "2011-07-27T18:43:05Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2569,
+      "comment": "rm tag - issue now addressed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441747751,
+      "parentid": 441747592,
+      "timestamp": "2011-07-27T18:44:17Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2551,
+      "comment": "/* Business Career */ copyedit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 441748543,
+      "parentid": 441747751,
+      "timestamp": "2011-07-27T18:49:57Z",
+      "user": "Helpful Pixie Bot",
+      "userid": 14216826,
+      "size": 2572,
+      "comment": "Dated {{Primary sources}}. (Build p613)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 441752060,
+      "parentid": 441748543,
+      "timestamp": "2011-07-27T19:14:57Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 2605,
+      "comment": "Added {{[[Template:refimproveBLP|refimproveBLP]]}} tag to article ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 442785640,
+      "parentid": 441752060,
+      "timestamp": "2011-08-03T03:48:47Z",
+      "user": "Ground Zero",
+      "userid": 232133,
+      "size": 2632,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 448247872,
+      "parentid": 442785640,
+      "timestamp": "2011-09-03T16:44:18Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 3016,
+      "comment": "AfD: Nominated for deletion; see [[Wikipedia:Articles for deletion/Barry Hinckley]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 448283695,
+      "parentid": 448247872,
+      "timestamp": "2011-09-03T21:10:17Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 3064,
+      "comment": "clarify that he is \"a\" Republican candidate, not \"the\" Republican candidate",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 449442663,
+      "parentid": 448283695,
+      "timestamp": "2011-09-10T04:54:39Z",
+      "user": "Curb Chain",
+      "userid": 14347791,
+      "size": 3062,
+      "comment": "/* References */ removed space",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 449750117,
+      "parentid": 449442663,
+      "timestamp": "2011-09-11T07:55:57Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 65,
+      "comment": "[[Wikipedia:Articles for deletion/Barry Hinckley]] closed as redirect to [[United States Senate election in Rhode Island, 2012]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 456137781,
+      "parentid": 449750117,
+      "timestamp": "2011-10-18T06:39:59Z",
+      "user": "Scott Illini",
+      "userid": 2895078,
+      "size": 2936,
+      "comment": "Undid revision 449750117 by [[Special:Contributions/Sandstein|Sandstein]] ([[User talk:Sandstein|talk]]) press is covering as \"the\" candidate http://topsy.com/s?q=barry+hinckley",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 456175737,
+      "parentid": 456137781,
+      "timestamp": "2011-10-18T12:56:10Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 65,
+      "comment": "Undid revision 456137781 by [[Special:Contributions/Scott Illini|Scott Illini]] ([[User talk:Scott Illini|talk]]) per outcome of [[Wikipedia:Articles for deletion/Barry Hinckley]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 456594048,
+      "parentid": 456175737,
+      "timestamp": "2011-10-20T23:02:39Z",
+      "user": "Scott Illini",
+      "userid": 2895078,
+      "size": 2477,
+      "comment": "Undid revision 456175737 by [[Special:Contributions/Toddst1|Toddst1]] ([[User talk:Toddst1|talk]]) admin agreed to unSALT, see Talk:Barry Hinckley",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 456674242,
+      "parentid": 456594048,
+      "timestamp": "2011-10-21T13:17:08Z",
+      "user": "MelanieN",
+      "userid": 1763353,
+      "size": 65,
+      "comment": "Restoring redirect, as per consensus at AfD which has not been overcome by any consensus here",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 456782647,
+      "parentid": 456674242,
+      "timestamp": "2011-10-22T04:55:33Z",
+      "user": "Toddst1",
+      "userid": 4288359,
+      "size": 65,
+      "comment": "Protected Barry Hinckley: [[WP:PP#Content disputes|Edit warring / Content dispute]]:  - non-compliance with AFD result ([edit=sysop] (indefinite) [move=sysop] (indefinite))",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 873758955,
+      "parentid": 456782647,
+      "timestamp": "2018-12-14T22:13:22Z",
+      "user": "Amorymeltzer",
+      "userid": 141948,
+      "size": 64,
+      "comment": "Fix double redirect",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 873759089,
+      "parentid": 873758955,
+      "timestamp": "2018-12-14T22:14:32Z",
+      "user": "Amorymeltzer",
+      "userid": 141948,
+      "size": 112,
+      "comment": "Redirecting to [[2012 United States Senate election in Rhode Island]] ([[User:Sam Sailor/Scripts/Sagittarius+|♐]])",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barry_Hinckley"
+}

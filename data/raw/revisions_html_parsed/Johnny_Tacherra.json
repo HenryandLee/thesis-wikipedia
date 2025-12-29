@@ -1,0 +1,66 @@
+{
+  "page_title": "Johnny_Tacherra",
+  "candidate_name": "Johnny Tacherra",
+  "collection_date": "2025-12-28T16:44:25.880486",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 4,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2014-11-05T07:14:51Z",
+      "end": "2018-12-04T18:17:58Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 632525948,
+      "parentid": 0,
+      "timestamp": "2014-11-05T07:14:51Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 2727,
+      "comment": "prep",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632525954,
+      "parentid": 632525948,
+      "timestamp": "2014-11-05T07:15:01Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 2679,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 764043064,
+      "parentid": 632525954,
+      "timestamp": "2017-02-06T19:06:57Z",
+      "user": "Train2104",
+      "userid": 10341578,
+      "size": 82,
+      "comment": "Remove content under redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872006444,
+      "parentid": 764043064,
+      "timestamp": "2018-12-04T18:17:58Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 81,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in California]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johnny_Tacherra"
+}

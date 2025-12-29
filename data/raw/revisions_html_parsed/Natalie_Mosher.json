@@ -1,0 +1,44 @@
+{
+  "page_title": "Natalie_Mosher",
+  "candidate_name": "Natalie Mosher",
+  "collection_date": "2025-12-28T16:50:30.679582",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-01-20T03:13:13Z",
+      "end": "2018-12-08T19:36:50Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 591507138,
+      "parentid": 0,
+      "timestamp": "2014-01-20T03:13:13Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 92,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Michigan, 2010#District 11]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872720172,
+      "parentid": 591507138,
+      "timestamp": "2018-12-08T19:36:50Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Michigan]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Natalie_Mosher"
+}

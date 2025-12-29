@@ -1,0 +1,55 @@
+{
+  "page_title": "Bill_Hudak",
+  "candidate_name": "Bill Hudak",
+  "collection_date": "2025-12-28T16:33:33.887247",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2012-02-19T16:20:38Z",
+      "end": "2018-12-08T04:27:22Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 477727755,
+      "parentid": 0,
+      "timestamp": "2012-02-19T16:20:38Z",
+      "user": "Hirolovesswords",
+      "userid": 2992972,
+      "size": 85,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Massachusetts, 2010]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 777985461,
+      "parentid": 477727755,
+      "timestamp": "2017-04-30T14:07:00Z",
+      "user": "Tamzin",
+      "userid": 17820167,
+      "size": 96,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Massachusetts, 2010#District 6]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872624015,
+      "parentid": 777985461,
+      "timestamp": "2018-12-08T04:27:22Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 95,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Massachusetts]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Hudak"
+}

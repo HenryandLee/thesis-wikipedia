@@ -1,0 +1,44 @@
+{
+  "page_title": "Arthur_Lieber",
+  "candidate_name": "Arthur Lieber",
+  "collection_date": "2025-12-28T16:32:45.996229",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-05-25T11:04:41Z",
+      "end": "2018-12-08T01:05:08Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 610057641,
+      "parentid": 0,
+      "timestamp": "2014-05-25T11:04:41Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Missouri, 2010#District 2]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872603650,
+      "parentid": 610057641,
+      "timestamp": "2018-12-08T01:05:08Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Missouri]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Lieber"
+}

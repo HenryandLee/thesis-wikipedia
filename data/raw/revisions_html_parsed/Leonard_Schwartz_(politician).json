@@ -1,0 +1,101 @@
+{
+  "page_title": "Leonard_Schwartz_(politician)",
+  "candidate_name": "Leonard Schwartz",
+  "collection_date": "2025-12-28T16:46:39.668494",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 7,
+    "unique_editors": 7,
+    "date_range": {
+      "start": "2007-10-01T01:27:00Z",
+      "end": "2019-11-06T22:45:47Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 161439427,
+      "parentid": 82754631,
+      "timestamp": "2007-10-01T01:27:00Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 86,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States Senate election in Michigan, 2006]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 344851412,
+      "parentid": 161439427,
+      "timestamp": "2010-02-18T17:40:04Z",
+      "user": "116.15.39.174",
+      "userid": 0,
+      "size": 206,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 358372120,
+      "parentid": 344851412,
+      "timestamp": "2010-04-26T09:05:15Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 204,
+      "comment": "Tag uncategorised and general fixes: build 413: using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 358384356,
+      "parentid": 358372120,
+      "timestamp": "2010-04-26T11:07:37Z",
+      "user": "Fram",
+      "userid": 390477,
+      "size": 86,
+      "comment": "Rv to redirect, we shouldn't disambiguate between two redlinks...",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724992898,
+      "parentid": 358384356,
+      "timestamp": "2016-06-12T22:23:07Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 86,
+      "comment": "Tassedethe moved page [[Leonard Schwartz]] to [[Leonard Schwartz (politician)]] without leaving a redirect: to keep history",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872345778,
+      "parentid": 724992898,
+      "timestamp": "2018-12-06T19:25:28Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 85,
+      "comment": "Bot: Fixing double redirect to [[2006 United States Senate election in Michigan]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 924951555,
+      "parentid": 872345778,
+      "timestamp": "2019-11-06T22:45:47Z",
+      "user": "MJL",
+      "userid": 29291527,
+      "size": 195,
+      "comment": "Redirecting to [[2006 United States Senate election in Michigan#Libertarian]] ([[User:MJL/Archer|Archer]])",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leonard_Schwartz_(politician)"
+}

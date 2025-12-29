@@ -1,0 +1,134 @@
+{
+  "page_title": "Young_Kim_(politician)",
+  "candidate_name": "Young Kim",
+  "collection_date": "2025-12-28T16:57:42.090412",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 10,
+    "unique_editors": 6,
+    "date_range": {
+      "start": "2009-09-08T00:29:57Z",
+      "end": "2018-11-09T03:45:24Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 312496023,
+      "parentid": 0,
+      "timestamp": "2009-09-08T00:29:57Z",
+      "user": "Caspian blue",
+      "userid": 3029314,
+      "size": 23,
+      "comment": "moved [[Young Kim]] to [[Kim Young]]: per naming convention",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 781865531,
+      "parentid": 312496023,
+      "timestamp": "2017-05-23T17:52:54Z",
+      "user": "208.108.154.111",
+      "userid": 0,
+      "size": 203,
+      "comment": "<ref>My brain</ref> I was smart.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 781865598,
+      "parentid": 781865531,
+      "timestamp": "2017-05-23T17:53:20Z",
+      "user": "208.108.154.111",
+      "userid": 0,
+      "size": 179,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 781866196,
+      "parentid": 781865598,
+      "timestamp": "2017-05-23T17:57:31Z",
+      "user": "208.108.154.111",
+      "userid": 0,
+      "size": 234,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 781866290,
+      "parentid": 781866196,
+      "timestamp": "2017-05-23T17:58:15Z",
+      "user": "Jiten D",
+      "userid": 22338671,
+      "size": 23,
+      "comment": "Reverted 3 edits by [[Special:Contributions/208.108.154.111|208.108.154.111]] ([[User talk:208.108.154.111|talk]]) to last revision by Caspian blue. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 860382568,
+      "parentid": 781866290,
+      "timestamp": "2018-09-20T08:52:27Z",
+      "user": "Guy Macon",
+      "userid": 1590599,
+      "size": 36,
+      "comment": "Changed to more likely search target. Made sure both pages have \"about\" templates.",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 867967509,
+      "parentid": 860382568,
+      "timestamp": "2018-11-09T03:41:46Z",
+      "user": "L293D",
+      "userid": 32436778,
+      "size": 36,
+      "comment": "L293D moved page [[Young Kim]] to [[Draft:Move/Young Kim]] without leaving a redirect: round-robin move; requested at [[WP:RM/TR]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 867967662,
+      "parentid": 867967509,
+      "timestamp": "2018-11-09T03:43:29Z",
+      "user": "L293D",
+      "userid": 32436778,
+      "size": 36,
+      "comment": "L293D moved page [[Draft:Move/Young Kim]] to [[Young Kim (politician)]] without leaving a redirect: round-robin move; request at [[WP:RM/TR]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 867967716,
+      "parentid": 867967662,
+      "timestamp": "2018-11-09T03:43:57Z",
+      "user": "L293D",
+      "userid": 32436778,
+      "size": 23,
+      "comment": "fix target",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 867967841,
+      "parentid": 867967716,
+      "timestamp": "2018-11-09T03:45:24Z",
+      "user": "59.149.124.29",
+      "userid": 0,
+      "size": 108,
+      "comment": "Thanks. Add redirect categories.",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Young_Kim_(politician)"
+}

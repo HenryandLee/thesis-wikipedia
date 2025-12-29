@@ -1,0 +1,72 @@
+{
+  "page_title": "Lea_Marquez_Peterson",
+  "candidate_name": "Lea Marquez Peterson",
+  "collection_date": "2025-12-28T16:46:31.313640",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 4,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2018-10-07T00:49:28Z",
+      "end": "2019-06-09T22:46:08Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 862835664,
+      "parentid": 0,
+      "timestamp": "2018-10-07T00:49:28Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 52,
+      "comment": "Muboshgu moved page [[Lea Marquez Peterson]] to [[Lea Márquez Peterson]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 863283266,
+      "parentid": 862835664,
+      "timestamp": "2018-10-09T20:25:19Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 107,
+      "comment": "Bot: Fixing double redirect to [[United States House of Representatives elections in Arizona, 2018#District 2]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 872712310,
+      "parentid": 863283266,
+      "timestamp": "2018-12-08T18:35:36Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 106,
+      "comment": "Bot: Fixing double redirect to [[2018 United States House of Representatives elections in Arizona]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 901134362,
+      "parentid": 872712310,
+      "timestamp": "2019-06-09T22:46:08Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 52,
+      "comment": "Moving from us house of reps article to subject article [[Lea Márquez Peterson]]. Subject is notable as statewide office holder.",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lea_Marquez_Peterson"
+}

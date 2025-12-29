@@ -1,0 +1,47 @@
+{
+  "page_title": "Rebekah_Kennedy_(candidate)",
+  "candidate_name": "Rebekah Kennedy",
+  "collection_date": "2025-12-28T16:52:07.633002",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2022-10-07T06:50:32Z",
+      "end": "2022-10-10T21:41:31Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1114581937,
+      "parentid": 0,
+      "timestamp": "2022-10-07T06:50:32Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 89,
+      "comment": "Elli moved page [[Rebekah Kennedy (candidate)]] to [[Rebekah Kennedy (politician)]]: unsuccessful politician is still a politician",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1115317454,
+      "parentid": 1114581937,
+      "timestamp": "2022-10-10T21:41:31Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 107,
+      "comment": "Bot: Fixing double redirect to [[2008 United States Senate election in Arkansas]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "OAuth CID: 1841"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rebekah_Kennedy_(candidate)"
+}

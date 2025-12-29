@@ -1,0 +1,143 @@
+{
+  "page_title": "Mike_Kennedy_(politician)",
+  "candidate_name": "Mike Kennedy",
+  "collection_date": "2025-12-28T16:49:32.002598",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 10,
+    "unique_editors": 9,
+    "date_range": {
+      "start": "2012-05-20T17:03:29Z",
+      "end": "2022-02-16T15:57:05Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 493525026,
+      "parentid": 0,
+      "timestamp": "2012-05-20T17:03:29Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 39,
+      "comment": "Tassedethe moved page [[Mike Kennedy]] to [[Mike Kennedy (ice hockey)]]: prep for disambiguation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 493525114,
+      "parentid": 493525026,
+      "timestamp": "2012-05-20T17:04:08Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 29,
+      "comment": "[[WP:AES|←]]Redirected page to [[Michael Kennedy]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 873903467,
+      "parentid": 493525114,
+      "timestamp": "2018-12-15T21:13:55Z",
+      "user": "2605:A000:140D:4316:142C:1111:EA01:4389",
+      "userid": 0,
+      "size": 1485,
+      "comment": "[[WP:AES|←]]Removed redirect to [[Michael Kennedy]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 873913261,
+      "parentid": 873903467,
+      "timestamp": "2018-12-15T22:31:22Z",
+      "user": "2605:A000:140D:4316:8147:AD8C:9521:E182",
+      "userid": 0,
+      "size": 1536,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874022629,
+      "parentid": 873913261,
+      "timestamp": "2018-12-16T17:02:43Z",
+      "user": "Rodw",
+      "userid": 125972,
+      "size": 1552,
+      "comment": "Disambiguating links to [[St. Francis de Sales High School]] (link changed to [[St. Francis de Sales High School (Toledo, Ohio)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 874214467,
+      "parentid": 874022629,
+      "timestamp": "2018-12-17T21:21:01Z",
+      "user": "2605:A000:140D:4316:6835:85B7:4CF0:2156",
+      "userid": 0,
+      "size": 1553,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874668402,
+      "parentid": 874214467,
+      "timestamp": "2018-12-20T20:10:52Z",
+      "user": "Yankees10",
+      "userid": 4268551,
+      "size": 29,
+      "comment": "[[WP:AES|←]]Redirected page to [[Michael Kennedy]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 880610431,
+      "parentid": 874668402,
+      "timestamp": "2019-01-28T11:06:29Z",
+      "user": "Narky Blert",
+      "userid": 22041646,
+      "size": 42,
+      "comment": "reason tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1072216787,
+      "parentid": 880610431,
+      "timestamp": "2022-02-16T14:57:55Z",
+      "user": "NotJeffcohen123",
+      "userid": 43275813,
+      "size": 633,
+      "comment": "Draft for future referencing",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-removed-redirect",
+        "mw-reverted",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1072226331,
+      "parentid": 1072216787,
+      "timestamp": "2022-02-16T15:57:05Z",
+      "user": "Lithopsian",
+      "userid": 8390765,
+      "size": 42,
+      "comment": "Undid revision 1072216787 by [[Special:Contributions/NotJeffcohen123|NotJeffcohen123]] ([[User talk:NotJeffcohen123|talk]]) at best, this is not the primary topic, at worst completely non-notable",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "disambiguator-link-added"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Kennedy_(politician)"
+}

@@ -1,0 +1,289 @@
+{
+  "page_title": "Teresa_Hensley",
+  "candidate_name": "Teresa Hensley",
+  "collection_date": "2025-12-28T16:55:50.025643",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 22,
+    "unique_editors": 7,
+    "date_range": {
+      "start": "2016-08-03T02:32:50Z",
+      "end": "2024-01-23T04:47:21Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 732762454,
+      "parentid": 0,
+      "timestamp": "2016-08-03T02:32:50Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 53,
+      "comment": "[[WP:AES|←]]Redirected page to [[Missouri Attorney General election, 2016]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742600295,
+      "parentid": 732762454,
+      "timestamp": "2016-10-04T17:16:16Z",
+      "user": "Pfeuerborn",
+      "userid": 29329035,
+      "size": 3437,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742605220,
+      "parentid": 742600295,
+      "timestamp": "2016-10-04T17:51:53Z",
+      "user": "Pfeuerborn",
+      "userid": 29329035,
+      "size": 2907,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 742606039,
+      "parentid": 742605220,
+      "timestamp": "2016-10-04T17:57:38Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 53,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Pfeuerborn|Pfeuerborn]] ([[User talk:Pfeuerborn|talk]]): Not notable, no references. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742611094,
+      "parentid": 742606039,
+      "timestamp": "2016-10-04T18:34:53Z",
+      "user": "Pfeuerborn",
+      "userid": 29329035,
+      "size": 0,
+      "comment": "[[WP:AES|←]]Blanked the page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742617817,
+      "parentid": 742611094,
+      "timestamp": "2016-10-04T19:23:44Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 53,
+      "comment": "Undid revision 742611094 by [[Special:Contributions/Pfeuerborn|Pfeuerborn]] ([[User talk:Pfeuerborn|talk]]) no, valid redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872605049,
+      "parentid": 742617817,
+      "timestamp": "2018-12-08T01:18:48Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 53,
+      "comment": "Bot: Fixing double redirect to [[2016 Missouri Attorney General election]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1191495677,
+      "parentid": 872605049,
+      "timestamp": "2023-12-23T22:45:53Z",
+      "user": "Rexxx7777",
+      "userid": 42719040,
+      "size": 4416,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2016 Missouri Attorney General election]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191518895,
+      "parentid": 1191495677,
+      "timestamp": "2023-12-24T01:30:28Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4416,
+      "comment": "/* Political campaigns */ a→e",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191519018,
+      "parentid": 1191518895,
+      "timestamp": "2023-12-24T01:31:38Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4382,
+      "comment": "already mentioned and linked just prior, so not to be included in 'See also'",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191520132,
+      "parentid": 1191519018,
+      "timestamp": "2023-12-24T01:41:01Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4381,
+      "comment": "/* Law career */ first→firm",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191520236,
+      "parentid": 1191520132,
+      "timestamp": "2023-12-24T01:42:12Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4576,
+      "comment": "/* References */ categories",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191520347,
+      "parentid": 1191520236,
+      "timestamp": "2023-12-24T01:43:26Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4606,
+      "comment": "added [[Category:Missouri lawyers]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1191520452,
+      "parentid": 1191520347,
+      "timestamp": "2023-12-24T01:44:28Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4664,
+      "comment": "added [[Category:Democratic Party (United States) politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1191520808,
+      "parentid": 1191520452,
+      "timestamp": "2023-12-24T01:47:25Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4638,
+      "comment": "removed [[Category:Democratic Party (United States) politicians]]; added [[Category:Missouri Democrats]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1191521244,
+      "parentid": 1191520808,
+      "timestamp": "2023-12-24T01:51:11Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4638,
+      "comment": "/* References */ sorting",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191522218,
+      "parentid": 1191521244,
+      "timestamp": "2023-12-24T01:59:20Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4698,
+      "comment": "added [[Category:Candidates in the 2016 United States elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1191523864,
+      "parentid": 1191522218,
+      "timestamp": "2023-12-24T02:12:06Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4758,
+      "comment": "/* References */ 2012 category",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191524644,
+      "parentid": 1191523864,
+      "timestamp": "2023-12-24T02:18:14Z",
+      "user": "Adavidb",
+      "userid": 2413055,
+      "size": 4868,
+      "comment": "/* Law career */ 'cite news' template; added author, access date, and via parameters",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191629078,
+      "parentid": 1191524644,
+      "timestamp": "2023-12-24T18:25:10Z",
+      "user": "Rexxx7777",
+      "userid": 42719040,
+      "size": 4870,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1193582194,
+      "parentid": 1191629078,
+      "timestamp": "2024-01-04T15:14:38Z",
+      "user": "Bastun",
+      "userid": 318484,
+      "size": 4918,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (notability)",
+      "minor": false,
+      "tags": [
+        "pagetriage"
+      ]
+    },
+    {
+      "revid": 1198149527,
+      "parentid": 1193582194,
+      "timestamp": "2024-01-23T04:47:21Z",
+      "user": "2601:205:3:DEE2:7822:E5D8:5379:1151",
+      "userid": 0,
+      "size": 4927,
+      "comment": "/* Law career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Teresa_Hensley"
+}

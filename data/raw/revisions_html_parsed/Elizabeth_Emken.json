@@ -1,0 +1,55 @@
+{
+  "page_title": "Elizabeth_Emken",
+  "candidate_name": "Elizabeth Emken",
+  "collection_date": "2025-12-28T16:38:36.943263",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2017-05-08T02:58:40Z",
+      "end": "2018-12-06T18:59:33Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 779294774,
+      "parentid": 0,
+      "timestamp": "2017-05-08T02:58:40Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 63,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States Senate election in California, 2012]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 800012002,
+      "parentid": 779294774,
+      "timestamp": "2017-09-11T03:32:52Z",
+      "user": "Mr. Guye",
+      "userid": 16852310,
+      "size": 88,
+      "comment": "Added {{[[Template:R with possibilities|R with possibilities]]}} tag to redirect ([[WP:TW|Tw]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872340611,
+      "parentid": 800012002,
+      "timestamp": "2018-12-06T18:59:33Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 87,
+      "comment": "Bot: Fixing double redirect to [[2012 United States Senate election in California]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_Emken"
+}

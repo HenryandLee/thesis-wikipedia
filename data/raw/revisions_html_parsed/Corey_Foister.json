@@ -1,0 +1,66 @@
+{
+  "page_title": "Corey_Foister",
+  "candidate_name": "Corey Foister",
+  "collection_date": "2025-12-28T16:35:59.732512",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 4,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2016-09-16T20:51:08Z",
+      "end": "2018-12-01T16:50:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 739764204,
+      "parentid": 0,
+      "timestamp": "2016-09-16T20:51:08Z",
+      "user": "Oh yEs itS caRly",
+      "userid": 3253453,
+      "size": 102,
+      "comment": "Those searching for congressional candidate",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 739764412,
+      "parentid": 739764204,
+      "timestamp": "2016-09-16T20:52:56Z",
+      "user": "Oh yEs itS caRly",
+      "userid": 3253453,
+      "size": 70,
+      "comment": "[[WP:AES|←]]Redirected page to [[Ohio's 8th congressional district special election, 2016]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 739764658,
+      "parentid": 739764412,
+      "timestamp": "2016-09-16T20:54:56Z",
+      "user": "Oh yEs itS caRly",
+      "userid": 3253453,
+      "size": 89,
+      "comment": "[[WP:AES|←]]Redirected page to [[Ohio's 8th congressional district special election, 2016#democratic primary]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 871516972,
+      "parentid": 739764658,
+      "timestamp": "2018-12-01T16:50:28Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 88,
+      "comment": "Bot: Fixing double redirect to [[2016 Ohio's 8th congressional district special election]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Corey_Foister"
+}

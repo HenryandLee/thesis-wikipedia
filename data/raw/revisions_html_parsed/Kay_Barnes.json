@@ -1,0 +1,2424 @@
+{
+  "page_title": "Kay_Barnes",
+  "candidate_name": "Kay Barnes",
+  "collection_date": "2025-12-28T16:45:23.214951",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 212,
+    "unique_editors": 123,
+    "date_range": {
+      "start": "2007-01-29T17:21:30Z",
+      "end": "2024-12-13T06:47:04Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 104120033,
+      "parentid": 79827827,
+      "timestamp": "2007-01-29T17:21:30Z",
+      "user": "208.10.112.107",
+      "userid": 0,
+      "size": 2057,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 104121858,
+      "parentid": 104120033,
+      "timestamp": "2007-01-29T17:29:30Z",
+      "user": "ESkog",
+      "userid": 88149,
+      "size": 1859,
+      "comment": "Reverted edits by [[Special:Contributions/208.10.112.107|208.10.112.107]] ([[User talk:208.10.112.107|talk]]) to last version by KCMODevin",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 107814042,
+      "parentid": 104121858,
+      "timestamp": "2007-02-13T13:53:41Z",
+      "user": "Conrad Falk",
+      "userid": 2201266,
+      "size": 2038,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 107814394,
+      "parentid": 107814042,
+      "timestamp": "2007-02-13T13:56:03Z",
+      "user": "Conrad Falk",
+      "userid": 2201266,
+      "size": 2053,
+      "comment": "category added",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108438559,
+      "parentid": 107814394,
+      "timestamp": "2007-02-15T21:55:02Z",
+      "user": "Enorton08",
+      "userid": 217350,
+      "size": 2077,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108438825,
+      "parentid": 108438559,
+      "timestamp": "2007-02-15T21:55:55Z",
+      "user": "Enorton08",
+      "userid": 217350,
+      "size": 2083,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 108439084,
+      "parentid": 108438825,
+      "timestamp": "2007-02-15T21:56:48Z",
+      "user": "Enorton08",
+      "userid": 217350,
+      "size": 2082,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 109509002,
+      "parentid": 108439084,
+      "timestamp": "2007-02-20T07:59:36Z",
+      "user": "OrphanBot",
+      "userid": 621721,
+      "size": 2116,
+      "comment": "Removing [[:Image:Barnes-new.jpg|image]] with no source information.  Such images that are older than seven days may be deleted at any time.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118440473,
+      "parentid": 109509002,
+      "timestamp": "2007-03-28T04:01:09Z",
+      "user": "CNC33",
+      "userid": 421149,
+      "size": 2101,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118440542,
+      "parentid": 118440473,
+      "timestamp": "2007-03-28T04:01:38Z",
+      "user": "CNC33",
+      "userid": 421149,
+      "size": 2102,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118713501,
+      "parentid": 118440542,
+      "timestamp": "2007-03-29T05:39:04Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2562,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118713536,
+      "parentid": 118713501,
+      "timestamp": "2007-03-29T05:39:21Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2566,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118713836,
+      "parentid": 118713536,
+      "timestamp": "2007-03-29T05:41:19Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2728,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118713986,
+      "parentid": 118713836,
+      "timestamp": "2007-03-29T05:42:21Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2782,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118714201,
+      "parentid": 118713986,
+      "timestamp": "2007-03-29T05:43:54Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2747,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118714871,
+      "parentid": 118714201,
+      "timestamp": "2007-03-29T05:49:08Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2739,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118714923,
+      "parentid": 118714871,
+      "timestamp": "2007-03-29T05:49:27Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2737,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118715113,
+      "parentid": 118714923,
+      "timestamp": "2007-03-29T05:50:54Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2742,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118715167,
+      "parentid": 118715113,
+      "timestamp": "2007-03-29T05:51:20Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2748,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118715212,
+      "parentid": 118715167,
+      "timestamp": "2007-03-29T05:51:44Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2750,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118715415,
+      "parentid": 118715212,
+      "timestamp": "2007-03-29T05:53:19Z",
+      "user": "Enorton",
+      "userid": 3238974,
+      "size": 2589,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 118796388,
+      "parentid": 118715415,
+      "timestamp": "2007-03-29T15:33:26Z",
+      "user": "69.150.147.138",
+      "userid": 0,
+      "size": 2590,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 119145941,
+      "parentid": 118796388,
+      "timestamp": "2007-03-30T22:34:39Z",
+      "user": "CNC33",
+      "userid": 421149,
+      "size": 2590,
+      "comment": "Mistake on date of first term's start",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 119146087,
+      "parentid": 119145941,
+      "timestamp": "2007-03-30T22:35:21Z",
+      "user": "CNC33",
+      "userid": 421149,
+      "size": 2590,
+      "comment": "Cleaver's name corrected",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 122004795,
+      "parentid": 119146087,
+      "timestamp": "2007-04-11T18:21:21Z",
+      "user": "69.254.252.21",
+      "userid": 0,
+      "size": 2612,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 122004931,
+      "parentid": 122004795,
+      "timestamp": "2007-04-11T18:21:53Z",
+      "user": "Howdoesthiswo",
+      "userid": 754579,
+      "size": 2590,
+      "comment": "[[WP:UNDO|Undid]] revision 122004795 by [[Special:Contributions/69.254.252.21|69.254.252.21]] ([[User talk:69.254.252.21|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 122036005,
+      "parentid": 122004931,
+      "timestamp": "2007-04-11T20:20:28Z",
+      "user": "69.254.252.21",
+      "userid": 0,
+      "size": 2598,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 122042285,
+      "parentid": 122036005,
+      "timestamp": "2007-04-11T20:45:22Z",
+      "user": "Auror",
+      "userid": 1428257,
+      "size": 2550,
+      "comment": "revert vandalism",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 125037739,
+      "parentid": 122042285,
+      "timestamp": "2007-04-23T02:17:39Z",
+      "user": "204.185.15.100",
+      "userid": 0,
+      "size": 2704,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 125038279,
+      "parentid": 125037739,
+      "timestamp": "2007-04-23T02:19:58Z",
+      "user": "204.185.15.100",
+      "userid": 0,
+      "size": 2766,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 125039168,
+      "parentid": 125038279,
+      "timestamp": "2007-04-23T02:23:39Z",
+      "user": "204.185.15.100",
+      "userid": 0,
+      "size": 3078,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 127511476,
+      "parentid": 125039168,
+      "timestamp": "2007-05-01T20:41:02Z",
+      "user": "CNC33",
+      "userid": 421149,
+      "size": 3188,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 127856679,
+      "parentid": 127511476,
+      "timestamp": "2007-05-03T02:39:53Z",
+      "user": "Jeff3000",
+      "userid": 170884,
+      "size": 3210,
+      "comment": "Disambiguate [[Kansas City]] to [[Kansas City, Missouri]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 129492329,
+      "parentid": 127856679,
+      "timestamp": "2007-05-09T11:34:11Z",
+      "user": "Heqs",
+      "userid": 1042900,
+      "size": 3211,
+      "comment": "typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 130357110,
+      "parentid": 129492329,
+      "timestamp": "2007-05-12T17:10:20Z",
+      "user": "Senorpepr",
+      "userid": 3024348,
+      "size": 3209,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 130357282,
+      "parentid": 130357110,
+      "timestamp": "2007-05-12T17:11:22Z",
+      "user": "Senorpepr",
+      "userid": 3024348,
+      "size": 3211,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 130357861,
+      "parentid": 130357282,
+      "timestamp": "2007-05-12T17:14:38Z",
+      "user": "Senorpepr",
+      "userid": 3024348,
+      "size": 3272,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 131488309,
+      "parentid": 130357861,
+      "timestamp": "2007-05-17T07:26:33Z",
+      "user": "207.192.200.10",
+      "userid": 0,
+      "size": 3392,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 140120355,
+      "parentid": 131488309,
+      "timestamp": "2007-06-23T15:15:03Z",
+      "user": "Americasroof",
+      "userid": 1072588,
+      "size": 3439,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 140120634,
+      "parentid": 140120355,
+      "timestamp": "2007-06-23T15:17:13Z",
+      "user": "Americasroof",
+      "userid": 1072588,
+      "size": 3383,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 145746865,
+      "parentid": 140120634,
+      "timestamp": "2007-07-19T19:55:04Z",
+      "user": "Bentley4",
+      "userid": 3454040,
+      "size": 3415,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 145746939,
+      "parentid": 145746865,
+      "timestamp": "2007-07-19T19:55:28Z",
+      "user": "Bentley4",
+      "userid": 3454040,
+      "size": 3413,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 145747173,
+      "parentid": 145746939,
+      "timestamp": "2007-07-19T19:56:46Z",
+      "user": "Bentley4",
+      "userid": 3454040,
+      "size": 3444,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 149806574,
+      "parentid": 145747173,
+      "timestamp": "2007-08-07T17:48:43Z",
+      "user": "Jcbenton",
+      "userid": 4998808,
+      "size": 3548,
+      "comment": "added congresspedia external link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 154803148,
+      "parentid": 149806574,
+      "timestamp": "2007-08-31T13:18:08Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3488,
+      "comment": "Set up birth date/death date template and/or general fixes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 156939352,
+      "parentid": 154803148,
+      "timestamp": "2007-09-10T15:28:12Z",
+      "user": "Bentley4",
+      "userid": 3454040,
+      "size": 3542,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 157283125,
+      "parentid": 156939352,
+      "timestamp": "2007-09-12T01:33:15Z",
+      "user": "Altzinn",
+      "userid": 4710148,
+      "size": 3542,
+      "comment": "typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 160654200,
+      "parentid": 157283125,
+      "timestamp": "2007-09-27T08:36:17Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3550,
+      "comment": "Set up birth date/death date template and/or general fixes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 161854307,
+      "parentid": 160654200,
+      "timestamp": "2007-10-02T19:34:53Z",
+      "user": "65.31.193.74",
+      "userid": 0,
+      "size": 3657,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 165631332,
+      "parentid": 161854307,
+      "timestamp": "2007-10-19T14:18:57Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3621,
+      "comment": "Robot - Moving category American entrepreneurs to American businesspeople per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2007 October 13]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 166198107,
+      "parentid": 165631332,
+      "timestamp": "2007-10-22T02:57:07Z",
+      "user": "DJ Crunk09",
+      "userid": 5514315,
+      "size": 3536,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 176844866,
+      "parentid": 166198107,
+      "timestamp": "2007-12-09T20:40:01Z",
+      "user": "PixelBot",
+      "userid": 5570079,
+      "size": 3561,
+      "comment": "robot  Adding: [[de:Kay Waldo Barnes]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 177763106,
+      "parentid": 176844866,
+      "timestamp": "2007-12-13T23:02:39Z",
+      "user": "65.190.89.154",
+      "userid": 0,
+      "size": 3563,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192207660,
+      "parentid": 177763106,
+      "timestamp": "2008-02-18T02:42:02Z",
+      "user": "Jerzy",
+      "userid": 21860,
+      "size": 3562,
+      "comment": "/* External links */  sp, byp rdr",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192207758,
+      "parentid": 192207660,
+      "timestamp": "2008-02-18T02:42:37Z",
+      "user": "Jerzy",
+      "userid": 21860,
+      "size": 3561,
+      "comment": "sp; byp rdr",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195958330,
+      "parentid": 192207758,
+      "timestamp": "2008-03-05T03:13:47Z",
+      "user": "64.151.37.169",
+      "userid": 0,
+      "size": 3366,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195958396,
+      "parentid": 195958330,
+      "timestamp": "2008-03-05T03:14:13Z",
+      "user": "64.151.37.169",
+      "userid": 0,
+      "size": 3259,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195958656,
+      "parentid": 195958396,
+      "timestamp": "2008-03-05T03:15:54Z",
+      "user": "JNW",
+      "userid": 1905157,
+      "size": 3561,
+      "comment": "Reverted edits by [[Special:Contributions/64.151.37.169|64.151.37.169]] ([[User talk:64.151.37.169|talk]]) to last version by Jerzy",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 207793970,
+      "parentid": 195958656,
+      "timestamp": "2008-04-24T06:09:08Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 3554,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 213921346,
+      "parentid": 207793970,
+      "timestamp": "2008-05-21T10:47:11Z",
+      "user": "194.231.195.57",
+      "userid": 0,
+      "size": 3574,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 213922215,
+      "parentid": 213921346,
+      "timestamp": "2008-05-21T10:55:09Z",
+      "user": "194.231.195.57",
+      "userid": 0,
+      "size": 3554,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 216037965,
+      "parentid": 213922215,
+      "timestamp": "2008-05-30T20:17:07Z",
+      "user": "75.72.221.219",
+      "userid": 0,
+      "size": 3447,
+      "comment": "[[WP:UNDO|Undid]] revision 161854307 by [[Special:Contributions/65.31.193.74|65.31.193.74]] ([[User talk:65.31.193.74|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 217334035,
+      "parentid": 216037965,
+      "timestamp": "2008-06-05T16:04:39Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3457,
+      "comment": "Robot - Moving category Mayors of Kansas City to Mayors of Kansas City, Missouri per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2008 May 27]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 218940523,
+      "parentid": 217334035,
+      "timestamp": "2008-06-12T21:20:58Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 3429,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 222746985,
+      "parentid": 218940523,
+      "timestamp": "2008-06-30T22:20:49Z",
+      "user": "America69",
+      "userid": 5748345,
+      "size": 3390,
+      "comment": "She is no longer mayor, removed one link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 224822812,
+      "parentid": 222746985,
+      "timestamp": "2008-07-10T16:00:09Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 3557,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 224826954,
+      "parentid": 224822812,
+      "timestamp": "2008-07-10T16:21:28Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4194,
+      "comment": "infobox, links, general flow",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 224865068,
+      "parentid": 224826954,
+      "timestamp": "2008-07-10T19:27:00Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4245,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 224866017,
+      "parentid": 224865068,
+      "timestamp": "2008-07-10T19:31:18Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4350,
+      "comment": "added ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225819013,
+      "parentid": 224866017,
+      "timestamp": "2008-07-15T15:30:16Z",
+      "user": "75.15.164.7",
+      "userid": 0,
+      "size": 4774,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225819212,
+      "parentid": 225819013,
+      "timestamp": "2008-07-15T15:31:01Z",
+      "user": "75.15.164.7",
+      "userid": 0,
+      "size": 4650,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225819393,
+      "parentid": 225819212,
+      "timestamp": "2008-07-15T15:31:40Z",
+      "user": "75.15.164.7",
+      "userid": 0,
+      "size": 4490,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 228489447,
+      "parentid": 225819393,
+      "timestamp": "2008-07-28T22:45:55Z",
+      "user": "76.95.251.200",
+      "userid": 0,
+      "size": 4351,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 228905555,
+      "parentid": 228489447,
+      "timestamp": "2008-07-30T23:04:35Z",
+      "user": "Auror",
+      "userid": 1428257,
+      "size": 4104,
+      "comment": "Remove POV/needless glorification.  Add primary opponent.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 229290739,
+      "parentid": 228905555,
+      "timestamp": "2008-08-01T20:34:38Z",
+      "user": "Moonriddengirl",
+      "userid": 4066002,
+      "size": 4111,
+      "comment": "commenting out deleted image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 235920928,
+      "parentid": 229290739,
+      "timestamp": "2008-09-02T23:40:32Z",
+      "user": "WillowGrove",
+      "userid": 7715046,
+      "size": 4161,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 238637646,
+      "parentid": 235920928,
+      "timestamp": "2008-09-15T18:47:52Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4222,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 239180163,
+      "parentid": 238637646,
+      "timestamp": "2008-09-18T03:16:23Z",
+      "user": "99.139.67.104",
+      "userid": 0,
+      "size": 4223,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 242160764,
+      "parentid": 239180163,
+      "timestamp": "2008-10-01T03:55:56Z",
+      "user": "We66er",
+      "userid": 7450359,
+      "size": 5056,
+      "comment": "clean up, add sources",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 242161545,
+      "parentid": 242160764,
+      "timestamp": "2008-10-01T04:00:45Z",
+      "user": "We66er",
+      "userid": 7450359,
+      "size": 5103,
+      "comment": "/* Career */ add",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 242796642,
+      "parentid": 242161545,
+      "timestamp": "2008-10-03T18:19:51Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5114,
+      "comment": "/* See also */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 245816862,
+      "parentid": 242796642,
+      "timestamp": "2008-10-17T03:24:53Z",
+      "user": "65.31.205.81",
+      "userid": 0,
+      "size": 5222,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248095784,
+      "parentid": 245816862,
+      "timestamp": "2008-10-28T00:23:49Z",
+      "user": "Eastmain",
+      "userid": 1452133,
+      "size": 5210,
+      "comment": "add photo from Commons",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249808671,
+      "parentid": 248095784,
+      "timestamp": "2008-11-05T08:19:37Z",
+      "user": "LWSKCMO",
+      "userid": 7624300,
+      "size": 5506,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249851997,
+      "parentid": 249808671,
+      "timestamp": "2008-11-05T15:25:54Z",
+      "user": "204.185.75.14",
+      "userid": 0,
+      "size": 5506,
+      "comment": "Spelling",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251851662,
+      "parentid": 249851997,
+      "timestamp": "2008-11-14T22:13:12Z",
+      "user": "216.91.178.97",
+      "userid": 0,
+      "size": 5512,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 252375813,
+      "parentid": 251851662,
+      "timestamp": "2008-11-17T15:30:59Z",
+      "user": "143.231.249.138",
+      "userid": 0,
+      "size": 5398,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 255992218,
+      "parentid": 252375813,
+      "timestamp": "2008-12-05T05:53:51Z",
+      "user": "Backslash Forwardslash",
+      "userid": 7602541,
+      "size": 5348,
+      "comment": "Remove Future Election Candidate tag  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 259111202,
+      "parentid": 255992218,
+      "timestamp": "2008-12-20T05:42:57Z",
+      "user": "74.137.228.83",
+      "userid": 0,
+      "size": 5391,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 259936930,
+      "parentid": 259111202,
+      "timestamp": "2008-12-24T18:07:34Z",
+      "user": "141.158.226.172",
+      "userid": 0,
+      "size": 5413,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 260371119,
+      "parentid": 259936930,
+      "timestamp": "2008-12-27T20:27:14Z",
+      "user": "Thismightbezach",
+      "userid": 2952359,
+      "size": 5423,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 265656885,
+      "parentid": 260371119,
+      "timestamp": "2009-01-22T07:04:31Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 5463,
+      "comment": "Quick-adding category \"Women in Missouri politics\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 266801995,
+      "parentid": 265656885,
+      "timestamp": "2009-01-27T19:29:00Z",
+      "user": "204.185.75.14",
+      "userid": 0,
+      "size": 5570,
+      "comment": "Fixed a previous incorrect deletion.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 292239953,
+      "parentid": 266801995,
+      "timestamp": "2009-05-25T15:32:40Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 5712,
+      "comment": "/* Career */ more on 2008 race",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 302522340,
+      "parentid": 292239953,
+      "timestamp": "2009-07-17T01:21:18Z",
+      "user": "68.90.182.101",
+      "userid": 0,
+      "size": 5713,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 311323400,
+      "parentid": 302522340,
+      "timestamp": "2009-09-01T18:47:24Z",
+      "user": "Monegasque",
+      "userid": 4357109,
+      "size": 5702,
+      "comment": "Category.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 313888348,
+      "parentid": 311323400,
+      "timestamp": "2009-09-14T16:17:47Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 5746,
+      "comment": "/* External links */Birth/death cats from lifetime and general  fixes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 314778960,
+      "parentid": 313888348,
+      "timestamp": "2009-09-18T19:50:19Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 5731,
+      "comment": "Removing \"Kay-barnes.jpg\", it has been deleted from Commons by [[commons:User:Abigor|Abigor]] because: In category [[commons::category:Copyright violations|Copyright violations]]; not edited for 0 days.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 330134443,
+      "parentid": 314778960,
+      "timestamp": "2009-12-06T22:40:04Z",
+      "user": "70.94.120.146",
+      "userid": 0,
+      "size": 6300,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 330147214,
+      "parentid": 330134443,
+      "timestamp": "2009-12-07T00:01:30Z",
+      "user": "75.87.104.93",
+      "userid": 0,
+      "size": 6721,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 330147747,
+      "parentid": 330147214,
+      "timestamp": "2009-12-07T00:04:54Z",
+      "user": "75.87.104.93",
+      "userid": 0,
+      "size": 6720,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 330148014,
+      "parentid": 330147747,
+      "timestamp": "2009-12-07T00:06:26Z",
+      "user": "75.87.104.93",
+      "userid": 0,
+      "size": 6721,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 331952683,
+      "parentid": 330148014,
+      "timestamp": "2009-12-16T04:09:45Z",
+      "user": "72.129.177.5",
+      "userid": 0,
+      "size": 6721,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 333427793,
+      "parentid": 331952683,
+      "timestamp": "2009-12-23T01:37:31Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 6706,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 372443411,
+      "parentid": 333427793,
+      "timestamp": "2010-07-08T19:15:24Z",
+      "user": "Whattodoa",
+      "userid": 12699070,
+      "size": 6707,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 387004657,
+      "parentid": 372443411,
+      "timestamp": "2010-09-25T21:01:47Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 6975,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7192)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 391858030,
+      "parentid": 387004657,
+      "timestamp": "2010-10-20T15:59:11Z",
+      "user": "H3llBot",
+      "userid": 12323565,
+      "size": 7063,
+      "comment": "BOT: [[User:H3llBot/T2|Checking dead links]]; Marked 2 links with {{Dead link}} (Further info: [[WP:DEADLINK]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 430381293,
+      "parentid": 391858030,
+      "timestamp": "2011-05-22T18:07:55Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 7034,
+      "comment": "update infobox, remove obsolete params",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 440291632,
+      "parentid": 430381293,
+      "timestamp": "2011-07-19T11:24:05Z",
+      "user": "Od Mishehu AWB",
+      "userid": 5294192,
+      "size": 7028,
+      "comment": "[[Wikipedia:WikiProject Stub sorting|stub sorting]]: {{[[template:Missouri-mayor-stub|Missouri-mayor-stub]]}} using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 451213317,
+      "parentid": 440291632,
+      "timestamp": "2011-09-18T21:21:06Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7035,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 459209114,
+      "parentid": 451213317,
+      "timestamp": "2011-11-05T22:47:33Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 7051,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 464554734,
+      "parentid": 459209114,
+      "timestamp": "2011-12-07T11:46:32Z",
+      "user": "RobbKCity",
+      "userid": 11458429,
+      "size": 15133,
+      "comment": "Added accomplishments during the Kay Barnes Administration, and additional references.",
+      "minor": false,
+      "tags": [
+        "repeating characters"
+      ]
+    },
+    {
+      "revid": 464554865,
+      "parentid": 464554734,
+      "timestamp": "2011-12-07T11:48:00Z",
+      "user": "Akjar13",
+      "userid": 11461274,
+      "size": 7051,
+      "comment": "Undid revision 464554734 by [[Special:Contributions/RobbKCity|RobbKCity]] ([[User talk:RobbKCity|talk]]) restore article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 468714585,
+      "parentid": 464554865,
+      "timestamp": "2011-12-31T04:32:55Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 7049,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 488899527,
+      "parentid": 468714585,
+      "timestamp": "2012-04-23T23:20:29Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7250,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488899949,
+      "parentid": 488899527,
+      "timestamp": "2012-04-23T23:23:29Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7172,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488900036,
+      "parentid": 488899949,
+      "timestamp": "2012-04-23T23:24:10Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7373,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488900442,
+      "parentid": 488900036,
+      "timestamp": "2012-04-23T23:26:57Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7404,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488901571,
+      "parentid": 488900442,
+      "timestamp": "2012-04-23T23:35:01Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7386,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488901891,
+      "parentid": 488901571,
+      "timestamp": "2012-04-23T23:37:12Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7406,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488902578,
+      "parentid": 488901891,
+      "timestamp": "2012-04-23T23:42:36Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7523,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488903241,
+      "parentid": 488902578,
+      "timestamp": "2012-04-23T23:46:55Z",
+      "user": "69.76.219.149",
+      "userid": 0,
+      "size": 7518,
+      "comment": "/* Legacy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 496964389,
+      "parentid": 488903241,
+      "timestamp": "2012-06-10T21:46:17Z",
+      "user": "70.249.160.202",
+      "userid": 0,
+      "size": 6054,
+      "comment": "Deleted contentious paragraph titled \"Legacy\"",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 496964494,
+      "parentid": 496964389,
+      "timestamp": "2012-06-10T21:47:02Z",
+      "user": "Electriccatfish2",
+      "userid": 14306083,
+      "size": 7518,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/70.249.160.202|70.249.160.202]] ([[User talk:70.249.160.202|talk]]) to last version by 69.76.219.149",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 497065297,
+      "parentid": 496964494,
+      "timestamp": "2012-06-11T14:26:08Z",
+      "user": "Sdavis423",
+      "userid": 13969072,
+      "size": 6053,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 536840522,
+      "parentid": 497065297,
+      "timestamp": "2013-02-06T09:26:56Z",
+      "user": "Jesse V.",
+      "userid": 10835753,
+      "size": 6027,
+      "comment": "/* External links */[[WP:AWB/UM#General|tags]] and [[WP:GENFIXES|general fixes]], removed stub tag using [[Project:AWB|AWB]] (8853)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 536972801,
+      "parentid": 536840522,
+      "timestamp": "2013-02-07T00:57:55Z",
+      "user": "75.87.139.146",
+      "userid": 0,
+      "size": 6080,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 536978221,
+      "parentid": 536972801,
+      "timestamp": "2013-02-07T01:31:09Z",
+      "user": "75.87.139.146",
+      "userid": 0,
+      "size": 6080,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 540058362,
+      "parentid": 536978221,
+      "timestamp": "2013-02-24T12:25:30Z",
+      "user": "Addbot",
+      "userid": 6569922,
+      "size": 6055,
+      "comment": "[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1737407]] ([[User talk:Addbot|Report Errors]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 543763382,
+      "parentid": 540058362,
+      "timestamp": "2013-03-13T04:18:43Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 6077,
+      "comment": "Robot - Moving category American women mayors to [[:Category:Women mayors of places in the United States]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2013 February 7]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 574366431,
+      "parentid": 543763382,
+      "timestamp": "2013-09-24T20:03:38Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6205,
+      "comment": "Tagging page with {{[[Template:Blacklisted-links|Blacklisted-links]]}}.  Blacklisted links found. ([[:en:WP:PEACHY|Peachy 2.0 (alpha 5)]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 575621696,
+      "parentid": 574366431,
+      "timestamp": "2013-10-03T19:17:09Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6278,
+      "comment": "Updating {{[[Template:Blacklisted-links|Blacklisted-links]]}}. ([[:en:WP:PEACHY|Peachy 2.0 (alpha 5)]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 576305863,
+      "parentid": 575621696,
+      "timestamp": "2013-10-08T16:03:37Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6301,
+      "comment": "Updating {{[[Template:Blacklisted-links|Blacklisted-links]]}}. ([[:en:WP:PEACHY|Peachy 2.0 (alpha 5)]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 576583380,
+      "parentid": 576305863,
+      "timestamp": "2013-10-10T13:22:44Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6306,
+      "comment": "Updating {{[[Template:Blacklisted-links|Blacklisted-links]]}}. ([[:en:WP:PEACHY|Peachy 2.0 (alpha 5)]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 585673841,
+      "parentid": 576583380,
+      "timestamp": "2013-12-12T00:48:54Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6256,
+      "comment": "Updating {{[[Template:Blacklisted-links|Blacklisted-links]]}}. ([[en:WP:PEACHY|Peachy 2.0 (alpha 6)]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 585695923,
+      "parentid": 585673841,
+      "timestamp": "2013-12-12T04:28:33Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6306,
+      "comment": "Updating {{[[Template:Blacklisted-links|Blacklisted-links]]}}. ([[en:WP:PEACHY|Peachy 2.0 (alpha 6)]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 589733734,
+      "parentid": 585695923,
+      "timestamp": "2014-01-08T08:29:16Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6256,
+      "comment": "Updating {{[[Template:Blacklisted-links|Blacklisted-links]]}}. ([[en:WP:PEACHY|Peachy 2.0 (alpha 6)]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 590088528,
+      "parentid": 589733734,
+      "timestamp": "2014-01-10T16:09:38Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 6306,
+      "comment": "Updating {{[[Template:Blacklisted-links|Blacklisted-links]]}}. ([[en:WP:PEACHY|Peachy 2.0 (alpha 6)]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 644333093,
+      "parentid": 590088528,
+      "timestamp": "2015-01-27T00:42:46Z",
+      "user": "Srich32977",
+      "userid": 8372814,
+      "size": 6288,
+      "comment": "/* External links */ Congresspedia redirects to sourcewatch",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 655612984,
+      "parentid": 644333093,
+      "timestamp": "2015-04-09T01:22:17Z",
+      "user": "GermanJoe",
+      "userid": 12935443,
+      "size": 5702,
+      "comment": "rmv - maintenance resolved (dead link, dated info)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 672466708,
+      "parentid": 655612984,
+      "timestamp": "2015-07-21T18:40:07Z",
+      "user": "Wieldthespade",
+      "userid": 17443224,
+      "size": 5595,
+      "comment": "/* Biography */ removed unsourced blp material",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 672468110,
+      "parentid": 672466708,
+      "timestamp": "2015-07-21T18:50:55Z",
+      "user": "Wieldthespade",
+      "userid": 17443224,
+      "size": 5379,
+      "comment": "Updated occupation, rearranged career section, removed POV material",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 675702445,
+      "parentid": 672468110,
+      "timestamp": "2015-08-12T04:13:49Z",
+      "user": "Willthacheerleader18",
+      "userid": 12765036,
+      "size": 5421,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680451331,
+      "parentid": 675702445,
+      "timestamp": "2015-09-10T23:09:30Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 5379,
+      "comment": "Robot - Removing category Sisters of Kappa Kappa Gamma per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 September 1]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 689036772,
+      "parentid": 680451331,
+      "timestamp": "2015-11-04T15:29:44Z",
+      "user": "User4581",
+      "userid": 25460231,
+      "size": 5381,
+      "comment": "Typos",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 705260705,
+      "parentid": 689036772,
+      "timestamp": "2016-02-16T13:11:09Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 5093,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Kay Barnes|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 707514674,
+      "parentid": 705260705,
+      "timestamp": "2016-02-29T08:36:38Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 5182,
+      "comment": "Rescuing 1 sources. #IABot",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710963082,
+      "parentid": 707514674,
+      "timestamp": "2016-03-20T03:46:03Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 5460,
+      "comment": "/* Career */ even lost district's share of Kansas City in 2008",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719618575,
+      "parentid": 710963082,
+      "timestamp": "2016-05-10T19:46:03Z",
+      "user": "Bender235",
+      "userid": 88026,
+      "size": 5461,
+      "comment": "/* Biography */clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 722994691,
+      "parentid": 719618575,
+      "timestamp": "2016-05-31T10:24:55Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 5374,
+      "comment": "[[User:Green Cardamom/WaybackMedic|WaybackMedic]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731696445,
+      "parentid": 722994691,
+      "timestamp": "2016-07-26T23:15:06Z",
+      "user": "2605:A601:71C:7300:8CFF:C99B:A422:424E",
+      "userid": 0,
+      "size": 5375,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 739422528,
+      "parentid": 731696445,
+      "timestamp": "2016-09-14T16:01:29Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 5380,
+      "comment": "removed [[Category:People from St. Joseph, Missouri]]; added [[Category:Politicians from St. Joseph, Missouri]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 745895479,
+      "parentid": 739422528,
+      "timestamp": "2016-10-24T00:59:34Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 5133,
+      "comment": "/* External links */ Articles don't exist at target links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 762483294,
+      "parentid": 745895479,
+      "timestamp": "2017-01-29T02:59:23Z",
+      "user": "Herblouise945",
+      "userid": 30208946,
+      "size": 5139,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 782032925,
+      "parentid": 762483294,
+      "timestamp": "2017-05-24T15:40:15Z",
+      "user": "Pcarn9",
+      "userid": 19839180,
+      "size": 5053,
+      "comment": "/* External links */ Website no longer active",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 786090086,
+      "parentid": 782032925,
+      "timestamp": "2017-06-17T06:25:46Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 4973,
+      "comment": "update to remove article from [[:Category:Pages using Template:CongLinks with unknown parameters]] (via JWB)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 814212758,
+      "parentid": 786090086,
+      "timestamp": "2017-12-07T13:50:47Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 5188,
+      "comment": "Rescuing 3 sources and tagging 0 as dead. #IABot (v1.6.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818894738,
+      "parentid": 814212758,
+      "timestamp": "2018-01-06T06:29:07Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 5322,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 823539219,
+      "parentid": 818894738,
+      "timestamp": "2018-02-01T21:33:04Z",
+      "user": "RayneVanDunem",
+      "userid": 12934447,
+      "size": 5313,
+      "comment": "removed [[Category:Women mayors of places in the United States]]; added [[Category:Women mayors of places in Missouri]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 842496014,
+      "parentid": 823539219,
+      "timestamp": "2018-05-22T20:48:53Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 5335,
+      "comment": "+{{[[Template:Authority control|Authority control]]}} (3 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 848680438,
+      "parentid": 842496014,
+      "timestamp": "2018-07-03T15:29:24Z",
+      "user": "Ebergrud",
+      "userid": 330172,
+      "size": 5220,
+      "comment": "Update to job title effective July 2, 2018",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 899356886,
+      "parentid": 848680438,
+      "timestamp": "2019-05-29T14:17:54Z",
+      "user": "Breezeye",
+      "userid": 36585939,
+      "size": 5260,
+      "comment": "more citations needed on the page",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 901304839,
+      "parentid": 899356886,
+      "timestamp": "2019-06-11T00:57:03Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 5256,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 901453100,
+      "parentid": 901304839,
+      "timestamp": "2019-06-11T23:47:22Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 5266,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 903197646,
+      "parentid": 901453100,
+      "timestamp": "2019-06-24T06:07:44Z",
+      "user": "2600:100C:B208:4A47:45DC:930E:3101:7581",
+      "userid": 0,
+      "size": 5230,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 920361167,
+      "parentid": 903197646,
+      "timestamp": "2019-10-09T08:33:57Z",
+      "user": "RayneVanDunem",
+      "userid": 12934447,
+      "size": 5265,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 922667394,
+      "parentid": 920361167,
+      "timestamp": "2019-10-23T15:25:03Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 5303,
+      "comment": "/* Career */ link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 933595954,
+      "parentid": 922667394,
+      "timestamp": "2020-01-01T23:52:37Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 5346,
+      "comment": "/* External links */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 933596117,
+      "parentid": 933595954,
+      "timestamp": "2020-01-01T23:53:43Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 5351,
+      "comment": "/* External links */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958374075,
+      "parentid": 933596117,
+      "timestamp": "2020-05-23T12:49:16Z",
+      "user": "Liverpoolpics",
+      "userid": 30628212,
+      "size": 5365,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961617358,
+      "parentid": 958374075,
+      "timestamp": "2020-06-09T13:57:42Z",
+      "user": "147.78.162.245",
+      "userid": 0,
+      "size": 5388,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961694036,
+      "parentid": 961617358,
+      "timestamp": "2020-06-09T22:14:35Z",
+      "user": "Bishonen",
+      "userid": 85193,
+      "size": 5365,
+      "comment": "rv mass addition of C-span links as not adding anything useful to biography articles.",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 962700066,
+      "parentid": 961694036,
+      "timestamp": "2020-06-15T15:00:20Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5412,
+      "comment": "added [[Category:20th-century American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962700083,
+      "parentid": 962700066,
+      "timestamp": "2020-06-15T15:00:29Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5465,
+      "comment": "added [[Category:20th-century American women politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962700110,
+      "parentid": 962700083,
+      "timestamp": "2020-06-15T15:00:38Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5512,
+      "comment": "added [[Category:21st-century American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962700134,
+      "parentid": 962700110,
+      "timestamp": "2020-06-15T15:00:47Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5565,
+      "comment": "added [[Category:21st-century American women politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962700155,
+      "parentid": 962700134,
+      "timestamp": "2020-06-15T15:01:03Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5565,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962700193,
+      "parentid": 962700155,
+      "timestamp": "2020-06-15T15:01:23Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5625,
+      "comment": "added [[Category:Candidates in the 2008 United States elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962700219,
+      "parentid": 962700193,
+      "timestamp": "2020-06-15T15:01:35Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5675,
+      "comment": "added [[Category:20th-century American businesspeople]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962700234,
+      "parentid": 962700219,
+      "timestamp": "2020-06-15T15:01:44Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5724,
+      "comment": "added [[Category:20th-century American businesswomen]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 988577511,
+      "parentid": 962700234,
+      "timestamp": "2020-11-14T00:46:55Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 5732,
+      "comment": "removed [[Category:Women in Missouri politics]]; added [[Category:Women city councillors in Missouri]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 992696510,
+      "parentid": 988577511,
+      "timestamp": "2020-12-06T17:01:54Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 5700,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: del empty params (4×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1000416615,
+      "parentid": 992696510,
+      "timestamp": "2021-01-15T00:54:21Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 5628,
+      "comment": "/* Career */ format, move around",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1031514245,
+      "parentid": 1000416615,
+      "timestamp": "2021-07-02T02:12:43Z",
+      "user": "THEKING0523",
+      "userid": 22526077,
+      "size": 5671,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1032868722,
+      "parentid": 1031514245,
+      "timestamp": "2021-07-10T04:52:23Z",
+      "user": "2600:6C40:500:E4B8:8083:B140:8612:ED8F",
+      "userid": 0,
+      "size": 5665,
+      "comment": "Name",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1036665238,
+      "parentid": 1032868722,
+      "timestamp": "2021-08-02T00:37:02Z",
+      "user": "THEKING0523",
+      "userid": 22526077,
+      "size": 5767,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1036665500,
+      "parentid": 1036665238,
+      "timestamp": "2021-08-02T00:39:16Z",
+      "user": "THEKING0523",
+      "userid": 22526077,
+      "size": 5789,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1036988058,
+      "parentid": 1036665500,
+      "timestamp": "2021-08-03T21:42:05Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 5775,
+      "comment": "Removing [[:c:File:Kay_Barnes.jpg|Kay_Barnes.jpg]]; it has been deleted from Commons by [[:c:User:JuTa|JuTa]] because: [[:c:COM:OTRS|No permission]] since 26 July 2021.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1048362238,
+      "parentid": 1036988058,
+      "timestamp": "2021-10-05T16:20:33Z",
+      "user": "Kmksu",
+      "userid": 5786224,
+      "size": 5830,
+      "comment": "/* Biography */ Added sorority",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1048362639,
+      "parentid": 1048362238,
+      "timestamp": "2021-10-05T16:22:53Z",
+      "user": "Kmksu",
+      "userid": 5786224,
+      "size": 5852,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1070914459,
+      "parentid": 1048362639,
+      "timestamp": "2022-02-09T23:31:43Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 5867,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1070914547,
+      "parentid": 1070914459,
+      "timestamp": "2022-02-09T23:32:20Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 5851,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1076648311,
+      "parentid": 1070914547,
+      "timestamp": "2022-03-12T06:22:17Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 5878,
+      "comment": "/* Career */ Update Wiki link to reflect page move",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1076817748,
+      "parentid": 1076648311,
+      "timestamp": "2022-03-13T03:34:05Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 5877,
+      "comment": "/* See also */ Update to reflect page move",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1083847906,
+      "parentid": 1076817748,
+      "timestamp": "2022-04-21T02:45:14Z",
+      "user": "FrescoBot",
+      "userid": 9021902,
+      "size": 5858,
+      "comment": "Bot: [[User:FrescoBot/Links|link syntax]] and minor changes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1119606305,
+      "parentid": 1083847906,
+      "timestamp": "2022-11-02T13:12:11Z",
+      "user": "Engineerchange",
+      "userid": 18421420,
+      "size": 5895,
+      "comment": "add cat",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121839461,
+      "parentid": 1119606305,
+      "timestamp": "2022-11-14T11:56:22Z",
+      "user": "Pratat",
+      "userid": 38941033,
+      "size": 6284,
+      "comment": "/* Career */ citations",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1129354864,
+      "parentid": 1121839461,
+      "timestamp": "2022-12-24T22:20:47Z",
+      "user": "Beland",
+      "userid": 57939,
+      "size": 6280,
+      "comment": "convert numeric HTML entities (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1137856087,
+      "parentid": 1129354864,
+      "timestamp": "2023-02-06T20:12:04Z",
+      "user": "2601:152:C80:2680:9CBD:AC9:2E85:8EB7",
+      "userid": 0,
+      "size": 6412,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1149650331,
+      "parentid": 1137856087,
+      "timestamp": "2023-04-13T15:16:43Z",
+      "user": "Listen1st",
+      "userid": 44546515,
+      "size": 6144,
+      "comment": "/* Career */ Brevity",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158166571,
+      "parentid": 1149650331,
+      "timestamp": "2023-06-02T10:11:22Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 6136,
+      "comment": "Updated maintenance template(s) for [[WP:BLP|biography of living person]] & [[WP:AWB/GF|General fixes]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1167955472,
+      "parentid": 1158166571,
+      "timestamp": "2023-07-30T21:58:53Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 6013,
+      "comment": "removed MOS violating external links",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1214415910,
+      "parentid": 1167955472,
+      "timestamp": "2024-03-18T20:40:07Z",
+      "user": "2603:8081:50F0:B60:1D0D:CD3C:1648:BBD2",
+      "userid": 0,
+      "size": 6045,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1215228733,
+      "parentid": 1214415910,
+      "timestamp": "2024-03-23T21:51:04Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 6100,
+      "comment": "Copying from [[Category:Women mayors of places in Missouri]] to [[Category:20th-century mayors of places in Missouri]] Diffusing per [[WP:DIFFUSE]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1215228757,
+      "parentid": 1215228733,
+      "timestamp": "2024-03-23T21:51:08Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 6155,
+      "comment": "Copying from [[Category:Women mayors of places in Missouri]] to [[Category:21st-century mayors of places in Missouri]] Diffusing per [[WP:DIFFUSE]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1235790695,
+      "parentid": 1215228757,
+      "timestamp": "2024-07-21T06:59:24Z",
+      "user": "Doug Grinbergs",
+      "userid": 13608617,
+      "size": 6169,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1256488332,
+      "parentid": 1235790695,
+      "timestamp": "2024-11-10T04:30:15Z",
+      "user": "Vinnylospo",
+      "userid": 31057982,
+      "size": 6169,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257348486,
+      "parentid": 1256488332,
+      "timestamp": "2024-11-14T13:18:36Z",
+      "user": "Camott14",
+      "userid": 14911944,
+      "size": 6377,
+      "comment": "/* Biography */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257349185,
+      "parentid": 1257348486,
+      "timestamp": "2024-11-14T13:23:41Z",
+      "user": "Camott14",
+      "userid": 14911944,
+      "size": 7177,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258167921,
+      "parentid": 1257349185,
+      "timestamp": "2024-11-18T14:04:27Z",
+      "user": "Oronsay",
+      "userid": 22986354,
+      "size": 7170,
+      "comment": "/* Personal Life */ [[MOS:EUPHEMISM]] - died for passed away",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1262604671,
+      "parentid": 1258167921,
+      "timestamp": "2024-12-12T06:48:28Z",
+      "user": "LOCC7",
+      "userid": 48503872,
+      "size": 7483,
+      "comment": "adding {{dashboard.wikiedu.org sandbox}}",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1262807742,
+      "parentid": 1262604671,
+      "timestamp": "2024-12-13T06:47:04Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 7483,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kay_Barnes"
+}

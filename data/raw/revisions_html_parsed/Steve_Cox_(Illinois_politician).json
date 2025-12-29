@@ -1,0 +1,44 @@
+{
+  "page_title": "Steve_Cox_(Illinois_politician)",
+  "candidate_name": "Steve Cox",
+  "collection_date": "2025-12-28T16:54:51.370293",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2008-10-24T00:57:25Z",
+      "end": "2018-12-08T21:03:45Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 247291613,
+      "parentid": 0,
+      "timestamp": "2008-10-24T00:57:25Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 92,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Illinois, 2008#District 15]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872732364,
+      "parentid": 247291613,
+      "timestamp": "2018-12-08T21:03:45Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Illinois]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Cox_(Illinois_politician)"
+}

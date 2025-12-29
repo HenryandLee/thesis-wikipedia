@@ -1,0 +1,46 @@
+{
+  "page_title": "Janet_Garrett",
+  "candidate_name": "Janet Garrett",
+  "collection_date": "2025-12-28T16:41:09.429328",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2018-07-09T01:36:02Z",
+      "end": "2018-12-08T17:46:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 849441269,
+      "parentid": 0,
+      "timestamp": "2018-07-09T01:36:02Z",
+      "user": "Tillerh11",
+      "userid": 32929719,
+      "size": 135,
+      "comment": "Inserted redirect for nonexistent page",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 872705401,
+      "parentid": 849441269,
+      "timestamp": "2018-12-08T17:46:15Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 135,
+      "comment": "Bot: Fixing double redirect to [[2018 United States House of Representatives elections in Ohio]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Janet_Garrett"
+}

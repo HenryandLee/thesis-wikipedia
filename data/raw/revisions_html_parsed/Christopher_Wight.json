@@ -1,0 +1,272 @@
+{
+  "page_title": "Christopher_Wight",
+  "candidate_name": "Christopher Wight",
+  "collection_date": "2025-12-28T16:35:26.414025",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 22,
+    "unique_editors": 18,
+    "date_range": {
+      "start": "2007-09-23T15:48:06Z",
+      "end": "2023-10-27T00:06:43Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 159815486,
+      "parentid": 0,
+      "timestamp": "2007-09-23T15:48:06Z",
+      "user": "Andrew nixon",
+      "userid": 1067530,
+      "size": 3140,
+      "comment": "created page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 162544911,
+      "parentid": 159815486,
+      "timestamp": "2007-10-05T21:54:03Z",
+      "user": "209.27.54.150",
+      "userid": 0,
+      "size": 3384,
+      "comment": "/* Family */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 162681484,
+      "parentid": 162544911,
+      "timestamp": "2007-10-06T16:05:06Z",
+      "user": "209.27.54.150",
+      "userid": 0,
+      "size": 3378,
+      "comment": "/* Family */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 334443651,
+      "parentid": 162681484,
+      "timestamp": "2009-12-28T03:22:02Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3370,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 393159687,
+      "parentid": 334443651,
+      "timestamp": "2010-10-27T07:52:18Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 3638,
+      "comment": "/* References */Adding Persondata using [[Project:AWB|AWB]] (7333)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 474115831,
+      "parentid": 393159687,
+      "timestamp": "2012-01-30T22:55:34Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3663,
+      "comment": "Persondata",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 491324212,
+      "parentid": 474115831,
+      "timestamp": "2012-05-08T05:50:52Z",
+      "user": "Good Olfactory",
+      "userid": 6454287,
+      "size": 3743,
+      "comment": "+[[Category:Twin people from the Cayman Islands]]; +[[Category:Twin sportspeople]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 516068292,
+      "parentid": 491324212,
+      "timestamp": "2012-10-05T00:49:13Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 3767,
+      "comment": "[[:en:WP:CLEANER|WPCleaner]] v1.18 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[David Wight]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 526392562,
+      "parentid": 516068292,
+      "timestamp": "2012-12-04T20:28:57Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3751,
+      "comment": "clean up / updating infobox parameters using [[Project:AWB|AWB]] (8746)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 526688737,
+      "parentid": 526392562,
+      "timestamp": "2012-12-06T11:20:11Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3676,
+      "comment": "clean up, Infobox parameter standardisation using [[Project:AWB|AWB]] (8778)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 572156592,
+      "parentid": 526688737,
+      "timestamp": "2013-09-09T06:55:14Z",
+      "user": "Db9023",
+      "userid": 19645312,
+      "size": 3673,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 606831447,
+      "parentid": 572156592,
+      "timestamp": "2014-05-02T22:54:48Z",
+      "user": "Boleyn",
+      "userid": 6127189,
+      "size": 3775,
+      "comment": "dab",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 643032261,
+      "parentid": 606831447,
+      "timestamp": "2015-01-18T10:21:06Z",
+      "user": "ArmbrustBot",
+      "userid": 18663209,
+      "size": 3770,
+      "comment": "/* References */re-categorisation per [[WP:CFDS|CFDS]], replaced: Category:Cayman Islands cricketers → Category:Caymanian cricketers using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 712625445,
+      "parentid": 643032261,
+      "timestamp": "2016-03-30T05:34:04Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3476,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Christopher Wight|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 815973365,
+      "parentid": 712625445,
+      "timestamp": "2017-12-18T12:07:23Z",
+      "user": "Hack",
+      "userid": 283225,
+      "size": 3471,
+      "comment": "/* top */clean up after page deletion, replaced: [[Cricket Archive]] → CricketArchive using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 888819008,
+      "parentid": 815973365,
+      "timestamp": "2019-03-21T16:58:59Z",
+      "user": "DannyS712 bot",
+      "userid": 35159807,
+      "size": 3441,
+      "comment": "/* top */Task 19: Remove |deliveries=balls parameter from [[Template:Infobox cricketer]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 903245356,
+      "parentid": 888819008,
+      "timestamp": "2019-06-24T14:24:34Z",
+      "user": "189.115.145.45",
+      "userid": 0,
+      "size": 3434,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible birth date change"
+      ]
+    },
+    {
+      "revid": 903245400,
+      "parentid": 903245356,
+      "timestamp": "2019-06-24T14:24:55Z",
+      "user": "189.115.145.45",
+      "userid": 0,
+      "size": 3436,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible birth date change"
+      ]
+    },
+    {
+      "revid": 1084536227,
+      "parentid": 903245400,
+      "timestamp": "2022-04-25T02:25:23Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 3470,
+      "comment": "add {{[[Template:Use dmy dates|Use dmy dates]]}}",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1086374256,
+      "parentid": 1084536227,
+      "timestamp": "2022-05-05T20:15:49Z",
+      "user": "Anifail Aneglur Iawn",
+      "userid": 6863870,
+      "size": 3454,
+      "comment": "MOSBIO; infobox fixes per infobox documentation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1115842915,
+      "parentid": 1086374256,
+      "timestamp": "2022-10-13T14:00:13Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 3434,
+      "comment": "Moving [[:Category:Twin people from the Cayman Islands]] to [[:Category:Caymanian twins]] per [[Wikipedia:Categories for discussion/Log/2022 October 6#Twins by nationality]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1182076121,
+      "parentid": 1115842915,
+      "timestamp": "2023-10-27T00:06:43Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 3403,
+      "comment": "Removing [[:Category:Twin sportspeople]] per [[Wikipedia:Categories for discussion/Log/2023 October 15#Category:Twin sportspeople]]",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Wight"
+}

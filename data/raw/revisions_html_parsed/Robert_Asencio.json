@@ -1,0 +1,572 @@
+{
+  "page_title": "Robert_Asencio",
+  "candidate_name": "Robert Asencio",
+  "collection_date": "2025-12-28T16:52:40.567719",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 46,
+    "unique_editors": 29,
+    "date_range": {
+      "start": "2018-04-16T17:30:16Z",
+      "end": "2024-12-13T02:28:23Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 836755645,
+      "parentid": 0,
+      "timestamp": "2018-04-16T17:30:16Z",
+      "user": "Michellebjoseph",
+      "userid": 32804440,
+      "size": 1666,
+      "comment": "Created entire page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836757501,
+      "parentid": 836755645,
+      "timestamp": "2018-04-16T17:40:47Z",
+      "user": "Michellebjoseph",
+      "userid": 32804440,
+      "size": 1755,
+      "comment": "Added see also section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836758718,
+      "parentid": 836757501,
+      "timestamp": "2018-04-16T17:48:19Z",
+      "user": "RetroCraft314",
+      "userid": 26078417,
+      "size": 1932,
+      "comment": "Reformat references",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 836915790,
+      "parentid": 836758718,
+      "timestamp": "2018-04-17T16:35:27Z",
+      "user": "Vincelord",
+      "userid": 14054348,
+      "size": 2029,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836977847,
+      "parentid": 836915790,
+      "timestamp": "2018-04-18T00:06:56Z",
+      "user": "Cassiopeia",
+      "userid": 31051948,
+      "size": 2093,
+      "comment": "fixing disam",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 836978313,
+      "parentid": 836977847,
+      "timestamp": "2018-04-18T00:10:51Z",
+      "user": "Cassiopeia",
+      "userid": 31051948,
+      "size": 2700,
+      "comment": "adding sources",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 836978323,
+      "parentid": 836978313,
+      "timestamp": "2018-04-18T00:11:02Z",
+      "user": "Cassiopeia",
+      "userid": 31051948,
+      "size": 2710,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (stub)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836978347,
+      "parentid": 836978323,
+      "timestamp": "2018-04-18T00:11:16Z",
+      "user": "Cassiopeia",
+      "userid": 31051948,
+      "size": 2750,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (improve categories)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836993753,
+      "parentid": 836978347,
+      "timestamp": "2018-04-18T02:34:53Z",
+      "user": "Michellebjoseph",
+      "userid": 32804440,
+      "size": 2741,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 836994056,
+      "parentid": 836993753,
+      "timestamp": "2018-04-18T02:37:38Z",
+      "user": "Michellebjoseph",
+      "userid": 32804440,
+      "size": 2743,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 837925605,
+      "parentid": 836994056,
+      "timestamp": "2018-04-23T21:25:16Z",
+      "user": "Pegship",
+      "userid": 355698,
+      "size": 2762,
+      "comment": "stub sort",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 839228986,
+      "parentid": 837925605,
+      "timestamp": "2018-05-02T03:24:26Z",
+      "user": "67.85.36.88",
+      "userid": 0,
+      "size": 2752,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 849694933,
+      "parentid": 839228986,
+      "timestamp": "2018-07-10T18:19:57Z",
+      "user": "Starrfruit",
+      "userid": 5948287,
+      "size": 2751,
+      "comment": "term dates",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 849694991,
+      "parentid": 849694933,
+      "timestamp": "2018-07-10T18:20:25Z",
+      "user": "Starrfruit",
+      "userid": 5948287,
+      "size": 2789,
+      "comment": "added House template",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 852199405,
+      "parentid": 849694991,
+      "timestamp": "2018-07-27T08:43:28Z",
+      "user": "Josvebot",
+      "userid": 14967932,
+      "size": 2791,
+      "comment": "Fixing [[WP:CHECKWIKI]] #16: unicode contol character (and other minor general edits caused by AWB), replaced: →   (2)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 855323407,
+      "parentid": 852199405,
+      "timestamp": "2018-08-17T13:27:45Z",
+      "user": "162.221.175.138",
+      "userid": 0,
+      "size": 2792,
+      "comment": "/* Florida House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855323967,
+      "parentid": 855323407,
+      "timestamp": "2018-08-17T13:32:16Z",
+      "user": "162.221.175.138",
+      "userid": 0,
+      "size": 2822,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855945399,
+      "parentid": 855323967,
+      "timestamp": "2018-08-21T21:51:13Z",
+      "user": "Teamasencio",
+      "userid": 34468289,
+      "size": 3032,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 855951575,
+      "parentid": 855945399,
+      "timestamp": "2018-08-21T22:50:11Z",
+      "user": "Teamasencio",
+      "userid": 34468289,
+      "size": 3032,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 871312519,
+      "parentid": 855951575,
+      "timestamp": "2018-11-30T06:10:44Z",
+      "user": "Dscos",
+      "userid": 57398,
+      "size": 3115,
+      "comment": "update to reflect end of term",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881299507,
+      "parentid": 871312519,
+      "timestamp": "2019-02-01T17:45:44Z",
+      "user": "MensanDeltiologist",
+      "userid": 32869275,
+      "size": 3146,
+      "comment": "added [[Category:Florida Democrats]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881299570,
+      "parentid": 881299507,
+      "timestamp": "2019-02-01T17:46:14Z",
+      "user": "MensanDeltiologist",
+      "userid": 32869275,
+      "size": 3180,
+      "comment": "added [[Category:People from Brooklyn]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881299668,
+      "parentid": 881299570,
+      "timestamp": "2019-02-01T17:46:51Z",
+      "user": "MensanDeltiologist",
+      "userid": 32869275,
+      "size": 3241,
+      "comment": "added [[Category:Members of the Florida House of Representatives]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881299787,
+      "parentid": 881299668,
+      "timestamp": "2019-02-01T17:47:35Z",
+      "user": "MensanDeltiologist",
+      "userid": 32869275,
+      "size": 3293,
+      "comment": "added [[Category:St. Thomas University (Florida) alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881299889,
+      "parentid": 881299787,
+      "timestamp": "2019-02-01T17:48:15Z",
+      "user": "MensanDeltiologist",
+      "userid": 32869275,
+      "size": 3336,
+      "comment": "added [[Category:United States Army reservists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881299947,
+      "parentid": 881299889,
+      "timestamp": "2019-02-01T17:48:36Z",
+      "user": "MensanDeltiologist",
+      "userid": 32869275,
+      "size": 3296,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 908372770,
+      "parentid": 881299947,
+      "timestamp": "2019-07-29T09:06:58Z",
+      "user": "StonyBrook",
+      "userid": 28929215,
+      "size": 3300,
+      "comment": "/* References */ rm [[Category:People from Brooklyn]], add [[Category:Politicians from Brooklyn]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 921369483,
+      "parentid": 908372770,
+      "timestamp": "2019-10-15T11:10:55Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 3188,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (0×) / removed (2×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1006547956,
+      "parentid": 921369483,
+      "timestamp": "2021-02-13T13:25:20Z",
+      "user": "NoAmCom",
+      "userid": 26820687,
+      "size": 3182,
+      "comment": "[[MOS:COMMA|comma usage]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1062783828,
+      "parentid": 1006547956,
+      "timestamp": "2021-12-30T14:18:19Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 3224,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American politician\", overriding Wikidata description \"US politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1106307296,
+      "parentid": 1062783828,
+      "timestamp": "2022-08-24T01:34:01Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 3292,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107161878,
+      "parentid": 1106307296,
+      "timestamp": "2022-08-28T14:06:37Z",
+      "user": "IntoThinAir",
+      "userid": 18336458,
+      "size": 3909,
+      "comment": "add primary for house seat Reference edited with [[Wikipedia:ProveIt|ProveIt]]",
+      "minor": false,
+      "tags": [
+        "ProveIt edit",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108846762,
+      "parentid": 1107161878,
+      "timestamp": "2022-09-06T15:35:14Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 4210,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108846998,
+      "parentid": 1108846762,
+      "timestamp": "2022-09-06T15:36:46Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 4365,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108852143,
+      "parentid": 1108846998,
+      "timestamp": "2022-09-06T16:10:16Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 4410,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108852831,
+      "parentid": 1108852143,
+      "timestamp": "2022-09-06T16:15:06Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 4425,
+      "comment": "/* External links */ added commons link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111791809,
+      "parentid": 1108852831,
+      "timestamp": "2022-09-22T23:21:48Z",
+      "user": "2601:589:C080:8080:984D:BA89:A291:D9FC",
+      "userid": 0,
+      "size": 1545,
+      "comment": "MONKEY MONKEY MONKEYMONKEY MONKEY MONKEYMONKEY MONKEY MONKEYMONKEY MONKEY MONKEYVVVMONKEY MONKEY MONKEYMONKEY MONKEY MONKEYMONKEY MONKEY MONKEYVVMONKEY MONKEY MONKEYMONKEY MONKEY MONKEYMONKEY MONKEY MONKEY",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1111791855,
+      "parentid": 1111791809,
+      "timestamp": "2022-09-22T23:22:13Z",
+      "user": "Felida97",
+      "userid": 25112844,
+      "size": 4425,
+      "comment": "Reverted edits by [[Special:Contributions/2601:589:C080:8080:984D:BA89:A291:D9FC|2601:589:C080:8080:984D:BA89:A291:D9FC]] ([[User talk:2601:589:C080:8080:984D:BA89:A291:D9FC|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.9)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1121892725,
+      "parentid": 1111791855,
+      "timestamp": "2022-11-14T18:29:58Z",
+      "user": "Umutdyb",
+      "userid": 40134685,
+      "size": 4424,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1125061405,
+      "parentid": 1121892725,
+      "timestamp": "2022-12-02T00:35:53Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 4509,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127844158,
+      "parentid": 1125061405,
+      "timestamp": "2022-12-16T23:53:14Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 4502,
+      "comment": "/* External links */intersect Democratic and Florida representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1136787369,
+      "parentid": 1127844158,
+      "timestamp": "2023-02-01T03:50:28Z",
+      "user": "12.206.84.69",
+      "userid": 0,
+      "size": 4512,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1147576241,
+      "parentid": 1136787369,
+      "timestamp": "2023-03-31T21:18:55Z",
+      "user": "Coolxsearcher1414",
+      "userid": 43493547,
+      "size": 4518,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1163587881,
+      "parentid": 1147576241,
+      "timestamp": "2023-07-05T17:19:17Z",
+      "user": "HandsomeFella",
+      "userid": 12971673,
+      "size": 4481,
+      "comment": "/* External links */ rm 1 template per [[WP:BIDIRECTIONAL]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1216109821,
+      "parentid": 1163587881,
+      "timestamp": "2024-03-29T03:02:35Z",
+      "user": "Par âpre aux astres",
+      "userid": 47508158,
+      "size": 4457,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1262773841,
+      "parentid": 1216109821,
+      "timestamp": "2024-12-13T02:28:23Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4518,
+      "comment": "added [[Category:21st-century members of the Florida Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Asencio"
+}

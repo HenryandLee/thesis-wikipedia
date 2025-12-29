@@ -1,0 +1,44 @@
+{
+  "page_title": "Karen_Hartley-Nagle",
+  "candidate_name": "Karen Hartley-Nagle",
+  "collection_date": "2025-12-28T16:45:08.877431",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2010-09-15T16:25:01Z",
+      "end": "2018-12-04T17:18:53Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 385005269,
+      "parentid": 0,
+      "timestamp": "2010-09-15T16:25:01Z",
+      "user": "MMEKAYHAGAN",
+      "userid": 8703091,
+      "size": 79,
+      "comment": "moved [[Karen Hartley-Nagle]] to [[United States House of Representatives election in Delaware, 2008]] over redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 871996624,
+      "parentid": 385005269,
+      "timestamp": "2018-12-04T17:18:53Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 78,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives election in Delaware]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Karen_Hartley-Nagle"
+}

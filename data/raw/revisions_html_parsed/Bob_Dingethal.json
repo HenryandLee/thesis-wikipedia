@@ -1,0 +1,77 @@
+{
+  "page_title": "Bob_Dingethal",
+  "candidate_name": "Bob Dingethal",
+  "collection_date": "2025-12-28T16:33:51.202688",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 5,
+    "unique_editors": 5,
+    "date_range": {
+      "start": "2013-12-11T00:32:50Z",
+      "end": "2018-12-04T19:07:26Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 585517466,
+      "parentid": 0,
+      "timestamp": "2013-12-11T00:32:50Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 4104,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox Person |name        = Robert Dingethal |image       =  |birthname   =  |birth_date  =  |birth_place =  |death_date  =  |death_place =  |party       = [...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 585559898,
+      "parentid": 585517466,
+      "timestamp": "2013-12-11T07:19:50Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 4099,
+      "comment": "Checkwiki + General Fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 590325981,
+      "parentid": 585559898,
+      "timestamp": "2014-01-12T06:16:50Z",
+      "user": "PrairieKid",
+      "userid": 17802412,
+      "size": 4480,
+      "comment": "Afd: Nominated for deletion; see [[Wikipedia:Articles for deletion/Bob Dingethal]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 593148050,
+      "parentid": 590325981,
+      "timestamp": "2014-01-30T17:55:31Z",
+      "user": "Randykitty",
+      "userid": 17843555,
+      "size": 82,
+      "comment": "[[Wikipedia:Articles for deletion/Bob Dingethal]] closed as redirect to [[United States House of Representatives elections in Washington, 2014]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872017375,
+      "parentid": 593148050,
+      "timestamp": "2018-12-04T19:07:26Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 81,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in Washington]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Dingethal"
+}

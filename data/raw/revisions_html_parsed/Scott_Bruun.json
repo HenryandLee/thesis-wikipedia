@@ -1,0 +1,668 @@
+{
+  "page_title": "Scott_Bruun",
+  "candidate_name": "Scott Bruun",
+  "collection_date": "2025-12-28T16:53:57.884540",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 57,
+    "unique_editors": 31,
+    "date_range": {
+      "start": "2008-10-14T18:41:20Z",
+      "end": "2024-12-04T21:47:38Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 245272813,
+      "parentid": 0,
+      "timestamp": "2008-10-14T18:41:20Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3632,
+      "comment": "new article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 245274091,
+      "parentid": 245272813,
+      "timestamp": "2008-10-14T18:47:29Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3629,
+      "comment": "/* External links */ fix cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 245274350,
+      "parentid": 245274091,
+      "timestamp": "2008-10-14T18:48:54Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3718,
+      "comment": "/* External links */ +cats",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 246063602,
+      "parentid": 245274350,
+      "timestamp": "2008-10-18T09:20:24Z",
+      "user": "Deathardath",
+      "userid": 3510775,
+      "size": 3757,
+      "comment": "/* Early life and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250836716,
+      "parentid": 246063602,
+      "timestamp": "2008-11-10T09:18:15Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 3820,
+      "comment": "Quick-adding category \"United States House of Representatives candidates\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 250941009,
+      "parentid": 250836716,
+      "timestamp": "2008-11-10T20:04:31Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 3839,
+      "comment": "Removed category \"United States House of Representatives candidates\"; Quick-adding category \"Candidates to the United States House of Representatives from Oregon\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 261429048,
+      "parentid": 250941009,
+      "timestamp": "2009-01-02T10:12:15Z",
+      "user": "Lestatdelc",
+      "userid": 44566,
+      "size": 3883,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 289413913,
+      "parentid": 261429048,
+      "timestamp": "2009-05-12T06:57:38Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 3915,
+      "comment": "Quick-adding category [[:Category:Oregon Republicans|Oregon Republicans]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 317297693,
+      "parentid": 289413913,
+      "timestamp": "2009-10-01T15:56:42Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4351,
+      "comment": "/* Political career */ add 5th district challenge",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 317297904,
+      "parentid": 317297693,
+      "timestamp": "2009-10-01T15:57:58Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4412,
+      "comment": "/* Political career */ clarify a bit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 317298460,
+      "parentid": 317297904,
+      "timestamp": "2009-10-01T16:00:55Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4422,
+      "comment": "/* Political career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 333635862,
+      "parentid": 317298460,
+      "timestamp": "2009-12-23T20:46:14Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 4415,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 363291660,
+      "parentid": 333635862,
+      "timestamp": "2010-05-20T23:26:14Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4722,
+      "comment": "/* Political career */ update House race",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 363292424,
+      "parentid": 363291660,
+      "timestamp": "2010-05-20T23:31:57Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4782,
+      "comment": "add pronunciation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 363292692,
+      "parentid": 363292424,
+      "timestamp": "2010-05-20T23:34:12Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4767,
+      "comment": "fix respell",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 381944584,
+      "parentid": 363292692,
+      "timestamp": "2010-08-30T20:48:05Z",
+      "user": "98.246.34.136",
+      "userid": 0,
+      "size": 4847,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 381949491,
+      "parentid": 381944584,
+      "timestamp": "2010-08-30T21:19:18Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4920,
+      "comment": "move and link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385607919,
+      "parentid": 381949491,
+      "timestamp": "2010-09-18T21:43:39Z",
+      "user": "166.205.140.6",
+      "userid": 0,
+      "size": 4919,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385768245,
+      "parentid": 385607919,
+      "timestamp": "2010-09-19T18:55:51Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4920,
+      "comment": "rv to common term",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 387674707,
+      "parentid": 385768245,
+      "timestamp": "2010-09-29T05:47:45Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 5181,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7192)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 391309497,
+      "parentid": 387674707,
+      "timestamp": "2010-10-17T21:45:24Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5202,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 391309672,
+      "parentid": 391309497,
+      "timestamp": "2010-10-17T21:46:27Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5184,
+      "comment": "/* 2010 */ already in lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 391309785,
+      "parentid": 391309672,
+      "timestamp": "2010-10-17T21:47:06Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5089,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 391474803,
+      "parentid": 391309785,
+      "timestamp": "2010-10-18T17:14:05Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5099,
+      "comment": "/* 2010 */ clarify",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 395208417,
+      "parentid": 391474803,
+      "timestamp": "2010-11-06T18:32:31Z",
+      "user": "24.21.207.223",
+      "userid": 0,
+      "size": 5110,
+      "comment": "/* 2010 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 395208496,
+      "parentid": 395208417,
+      "timestamp": "2010-11-06T18:33:06Z",
+      "user": "24.21.207.223",
+      "userid": 0,
+      "size": 5143,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 395208500,
+      "parentid": 395208496,
+      "timestamp": "2010-11-06T18:33:09Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 5099,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/24.21.207.223|24.21.207.223]] to version by Esprqii. Questions, comments, complaints -> [[User:ClueBot NG/B|BRFA]] Thanks, [[User:ClueBot NG|ClueBot NG]]. (16672) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 395283567,
+      "parentid": 395208500,
+      "timestamp": "2010-11-07T03:00:01Z",
+      "user": "24.21.207.223",
+      "userid": 0,
+      "size": 5110,
+      "comment": "/* 2010 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 429889879,
+      "parentid": 395283567,
+      "timestamp": "2011-05-19T14:45:14Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5098,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7708)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 440699349,
+      "parentid": 429889879,
+      "timestamp": "2011-07-21T18:55:55Z",
+      "user": "99.126.241.92",
+      "userid": 0,
+      "size": 5107,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 440702730,
+      "parentid": 440699349,
+      "timestamp": "2011-07-21T19:17:28Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5223,
+      "comment": "update infobox and lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 458984559,
+      "parentid": 440702730,
+      "timestamp": "2011-11-04T15:33:42Z",
+      "user": "Ohconfucius",
+      "userid": 736651,
+      "size": 5268,
+      "comment": "[[WP:MOS|style]] fixes, incl. [[WP:MOSDATES|dates]], [[MOS:LINK]] and [[MOS:TEXT]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 463693453,
+      "parentid": 458984559,
+      "timestamp": "2011-12-02T17:52:13Z",
+      "user": "Peteforsyth",
+      "userid": 710296,
+      "size": 5268,
+      "comment": "/* External links */replace cat \"ppl from Portland\" -> \"Portland Republicans\" using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 463695629,
+      "parentid": 463693453,
+      "timestamp": "2011-12-02T18:05:29Z",
+      "user": "Peteforsyth",
+      "userid": 710296,
+      "size": 5236,
+      "comment": "/* External links */replace cat \"ppl from Portland\" -> \"Portland Republicans\" using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 466412548,
+      "parentid": 463695629,
+      "timestamp": "2011-12-17T22:32:53Z",
+      "user": "Deflective",
+      "userid": 1732434,
+      "size": 5245,
+      "comment": "IPAc-en conversion",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 482348938,
+      "parentid": 466412548,
+      "timestamp": "2012-03-17T11:09:35Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 5265,
+      "comment": "/* External links */Correct persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 501984594,
+      "parentid": 482348938,
+      "timestamp": "2012-07-13T01:54:31Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 5183,
+      "comment": "Robot - Removing category Candidates to the United States House of Representatives from Oregon per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 July 5]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 558374650,
+      "parentid": 501984594,
+      "timestamp": "2013-06-05T01:16:15Z",
+      "user": "Deflective",
+      "userid": 1732434,
+      "size": 5179,
+      "comment": "standardizing IPAc-en calls using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715322226,
+      "parentid": 558374650,
+      "timestamp": "2016-04-15T02:08:15Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 4898,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Scott Bruun|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 745063703,
+      "parentid": 715322226,
+      "timestamp": "2016-10-19T02:43:20Z",
+      "user": "174.25.137.238",
+      "userid": 0,
+      "size": 5035,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 756414032,
+      "parentid": 745063703,
+      "timestamp": "2016-12-24T02:27:27Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5082,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 840231759,
+      "parentid": 756414032,
+      "timestamp": "2018-05-08T15:29:23Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 5270,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.5)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 850672578,
+      "parentid": 840231759,
+      "timestamp": "2018-07-17T10:26:40Z",
+      "user": "Maczkopeti",
+      "userid": 26240210,
+      "size": 5270,
+      "comment": "Respelling",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 876861779,
+      "parentid": 850672578,
+      "timestamp": "2019-01-04T23:50:32Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5275,
+      "comment": "/* External links */ refine cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 889727495,
+      "parentid": 876861779,
+      "timestamp": "2019-03-27T15:25:36Z",
+      "user": "WereSpielChequers",
+      "userid": 4071608,
+      "size": 5275,
+      "comment": "typo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 918519121,
+      "parentid": 889727495,
+      "timestamp": "2019-09-29T02:17:51Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 5279,
+      "comment": "/* Early life and career */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1024678994,
+      "parentid": 918519121,
+      "timestamp": "2021-05-23T15:14:59Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 5259,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1042741483,
+      "parentid": 1024678994,
+      "timestamp": "2021-09-06T14:44:08Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 5341,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1913/2146",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1047110248,
+      "parentid": 1042741483,
+      "timestamp": "2021-09-29T01:58:22Z",
+      "user": "47.223.78.205",
+      "userid": 0,
+      "size": 5351,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1047110279,
+      "parentid": 1047110248,
+      "timestamp": "2021-09-29T01:58:36Z",
+      "user": "47.223.78.205",
+      "userid": 0,
+      "size": 5360,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1073041210,
+      "parentid": 1047110279,
+      "timestamp": "2022-02-20T18:40:01Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5405,
+      "comment": "/* top */add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1182759259,
+      "parentid": 1073041210,
+      "timestamp": "2023-10-31T05:51:34Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 10241,
+      "comment": "Add electoral history",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1182759298,
+      "parentid": 1182759259,
+      "timestamp": "2023-10-31T05:52:00Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 10910,
+      "comment": "Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 5481"
+      ]
+    },
+    {
+      "revid": 1206284988,
+      "parentid": 1182759298,
+      "timestamp": "2024-02-11T18:49:15Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 10910,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1256321537,
+      "parentid": 1206284988,
+      "timestamp": "2024-11-09T10:05:08Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 10911,
+      "comment": "Moving [[:Category:Portland, Oregon Republicans]] to [[:Category:Portland, Oregon, Republicans]] per [[Wikipedia:Categories for discussion/Speedy]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1261210620,
+      "parentid": 1256321537,
+      "timestamp": "2024-12-04T21:43:59Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 10980,
+      "comment": "added [[Category:21st-century members of the Oregon Legislative Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261211218,
+      "parentid": 1261210620,
+      "timestamp": "2024-12-04T21:47:38Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 10933,
+      "comment": "Removing from [[Category:21st-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_Bruun"
+}

@@ -1,0 +1,88 @@
+{
+  "page_title": "Aaron_Woolf",
+  "candidate_name": "Aaron Woolf",
+  "collection_date": "2025-12-28T16:31:23.840831",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 6,
+    "unique_editors": 4,
+    "date_range": {
+      "start": "2014-02-26T19:37:52Z",
+      "end": "2018-12-07T21:08:45Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 597266242,
+      "parentid": 0,
+      "timestamp": "2014-02-26T19:37:52Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 94,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in New York, 2014#District 21]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 597333595,
+      "parentid": 597266242,
+      "timestamp": "2014-02-27T06:09:39Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 92,
+      "comment": "Remove invisible unicode control characters + other fixes using [[Project:AWB|AWB]] (9954)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 625243310,
+      "parentid": 597333595,
+      "timestamp": "2014-09-12T14:24:15Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 129,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625243351,
+      "parentid": 625243310,
+      "timestamp": "2014-09-12T14:24:24Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 130,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785046988,
+      "parentid": 625243351,
+      "timestamp": "2017-06-11T10:12:36Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 163,
+      "comment": "+{{[[Template:Redirect category shell|Redirect category shell]]}} for multiple-{{R}} #Rs using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872567632,
+      "parentid": 785046988,
+      "timestamp": "2018-12-07T21:08:45Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 162,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in New York]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aaron_Woolf"
+}

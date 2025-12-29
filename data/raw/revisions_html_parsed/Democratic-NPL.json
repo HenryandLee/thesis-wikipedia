@@ -1,0 +1,55 @@
+{
+  "page_title": "Democratic-NPL",
+  "candidate_name": "Democratic-NPL",
+  "collection_date": "2025-12-28T16:37:26.308849",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2006-11-08T05:46:35Z",
+      "end": "2018-08-10T14:29:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 86438756,
+      "parentid": 16321359,
+      "timestamp": "2006-11-08T05:46:35Z",
+      "user": "Alexwcovington",
+      "userid": 37752,
+      "size": 47,
+      "comment": "Redirecting to [[North Dakota Democratic-NPL Party]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 432909002,
+      "parentid": 86438756,
+      "timestamp": "2011-06-06T20:30:28Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 62,
+      "comment": "Bot: Fixing double redirect to [[North Dakota Democratic-Nonpartisan League Party]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 854327724,
+      "parentid": 432909002,
+      "timestamp": "2018-08-10T14:29:28Z",
+      "user": "Spicemix",
+      "userid": 13127810,
+      "size": 64,
+      "comment": "target page moved",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Democratic-NPL"
+}

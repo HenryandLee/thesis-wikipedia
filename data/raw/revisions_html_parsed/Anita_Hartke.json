@@ -1,0 +1,57 @@
+{
+  "page_title": "Anita_Hartke",
+  "candidate_name": "Anita Hartke",
+  "collection_date": "2025-12-28T16:32:28.172104",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2008-08-26T18:34:34Z",
+      "end": "2020-06-20T01:00:40Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 234403844,
+      "parentid": 0,
+      "timestamp": "2008-08-26T18:34:34Z",
+      "user": "Djlayton4",
+      "userid": 136813,
+      "size": 77,
+      "comment": "creating redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 873019350,
+      "parentid": 234403844,
+      "timestamp": "2018-12-10T17:29:40Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 76,
+      "comment": "Bot: Fixing double redirect to [[2008 Virginia's 7th congressional district election]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 963481084,
+      "parentid": 873019350,
+      "timestamp": "2020-06-20T01:00:40Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Virginia#District 7]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anita_Hartke"
+}

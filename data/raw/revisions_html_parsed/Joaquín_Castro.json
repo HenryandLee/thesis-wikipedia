@@ -1,0 +1,44 @@
+{
+  "page_title": "Joaquín_Castro",
+  "candidate_name": "Joaquín Castro",
+  "collection_date": "2025-12-28T16:42:30.348078",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2019-01-25T03:30:40Z",
+      "end": "2019-01-28T14:45:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 880065960,
+      "parentid": 0,
+      "timestamp": "2019-01-25T03:30:40Z",
+      "user": "Onetwothreeip",
+      "userid": 23073432,
+      "size": 45,
+      "comment": "Onetwothreeip moved page [[Joaquín Castro]] to [[Joaquin Castro]] over redirect: No sources use a diacritic in his name, moving to name without diacritic",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 880634670,
+      "parentid": 880065960,
+      "timestamp": "2019-01-28T14:45:28Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 83,
+      "comment": "added [[Category:Unprintworthy redirects]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joaquín_Castro"
+}

@@ -1,0 +1,47 @@
+{
+  "page_title": "Jesse_Johnson_(politician,_born_1959)",
+  "candidate_name": "Jesse Johnson",
+  "collection_date": "2025-12-28T16:41:55.268907",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2020-01-15T14:22:28Z",
+      "end": "2023-04-28T12:00:20Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 935908946,
+      "parentid": 0,
+      "timestamp": "2020-01-15T14:22:28Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 101,
+      "comment": "Namiba moved page [[Jesse Johnson (politician, born 1959)]] to [[Jesse Johnson (West Virginia politician)]]: Much better known for his connection to West Virginia than for his birth year",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1152131801,
+      "parentid": 935908946,
+      "timestamp": "2023-04-28T12:00:20Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Fixing double redirect to [[Mountain Party#State elections]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "OAuth CID: 3711"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_Johnson_(politician,_born_1959)"
+}

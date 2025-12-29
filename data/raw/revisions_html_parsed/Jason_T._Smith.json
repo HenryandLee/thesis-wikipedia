@@ -1,0 +1,71 @@
+{
+  "page_title": "Jason_T._Smith",
+  "candidate_name": "Jason T. Smith",
+  "collection_date": "2025-12-28T16:41:20.349771",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 4,
+    "unique_editors": 4,
+    "date_range": {
+      "start": "2017-08-20T03:44:17Z",
+      "end": "2024-12-11T18:15:38Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 796335663,
+      "parentid": 0,
+      "timestamp": "2017-08-20T03:44:17Z",
+      "user": "Arbor to SJ",
+      "userid": 4322169,
+      "size": 55,
+      "comment": "Arbor to SJ moved page [[Jason T. Smith]] to [[Jason Smith (politician)]]: More commonly known as \"Jason Smith\" - including in his official Congressional website.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1134443311,
+      "parentid": 796335663,
+      "timestamp": "2023-01-18T18:40:27Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 64,
+      "comment": "v2.05 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Jason Smith (politician)]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1134479626,
+      "parentid": 1134443311,
+      "timestamp": "2023-01-18T22:29:38Z",
+      "user": "GTrang",
+      "userid": 21491290,
+      "size": 94,
+      "comment": "Added a shell around the R from move template.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262489498,
+      "parentid": 1134479626,
+      "timestamp": "2024-12-11T18:15:38Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 115,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_T._Smith"
+}

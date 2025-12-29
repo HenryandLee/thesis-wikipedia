@@ -1,0 +1,853 @@
+{
+  "page_title": "Harry_Arora",
+  "candidate_name": "Harry Arora",
+  "collection_date": "2025-12-28T16:40:09.815029",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 66,
+    "unique_editors": 41,
+    "date_range": {
+      "start": "2021-05-18T01:00:38Z",
+      "end": "2024-12-05T13:09:45Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1023729203,
+      "parentid": 0,
+      "timestamp": "2021-05-18T01:00:38Z",
+      "user": "Locomotive207",
+      "userid": 40276288,
+      "size": 1648,
+      "comment": "new article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023729323,
+      "parentid": 1023729203,
+      "timestamp": "2021-05-18T01:01:31Z",
+      "user": "Locomotive207",
+      "userid": 40276288,
+      "size": 1648,
+      "comment": "Locomotive207 moved page [[Harry Arora]] to [[Draft:Harry Arora]]: moving my unfinished article into draftspace, will be finished tomorrow",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1023729880,
+      "parentid": 1023729323,
+      "timestamp": "2021-05-18T01:05:21Z",
+      "user": "JJMC89 bot",
+      "userid": 27446209,
+      "size": 1695,
+      "comment": "Add {{drafts moved from mainspace}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1023911570,
+      "parentid": 1023729880,
+      "timestamp": "2021-05-19T01:42:18Z",
+      "user": "Locomotive207",
+      "userid": 40276288,
+      "size": 2490,
+      "comment": "/* 2018 United States House of Representatives election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023911585,
+      "parentid": 1023911570,
+      "timestamp": "2021-05-19T01:42:27Z",
+      "user": "Locomotive207",
+      "userid": 40276288,
+      "size": 2474,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023911647,
+      "parentid": 1023911585,
+      "timestamp": "2021-05-19T01:43:03Z",
+      "user": "Locomotive207",
+      "userid": 40276288,
+      "size": 2474,
+      "comment": "Locomotive207 moved page [[Draft:Harry Arora]] to [[Harry Arora]]: its finished",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1024010938,
+      "parentid": 1023911647,
+      "timestamp": "2021-05-19T16:06:26Z",
+      "user": "Peneplavím",
+      "userid": 41174900,
+      "size": 2516,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024010984,
+      "parentid": 1024010938,
+      "timestamp": "2021-05-19T16:06:44Z",
+      "user": "Peneplavím",
+      "userid": 41174900,
+      "size": 2551,
+      "comment": "added [[Category:American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024038876,
+      "parentid": 1024010984,
+      "timestamp": "2021-05-19T19:10:21Z",
+      "user": "ThurstonMitchell",
+      "userid": 39569616,
+      "size": 2612,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024041948,
+      "parentid": 1024038876,
+      "timestamp": "2021-05-19T19:30:57Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 2626,
+      "comment": "Dating maintenance tags: {{Improve categories}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1024047150,
+      "parentid": 1024041948,
+      "timestamp": "2021-05-19T20:04:55Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2662,
+      "comment": "/* top */ disambig district",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024047215,
+      "parentid": 1024047150,
+      "timestamp": "2021-05-19T20:05:20Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2699,
+      "comment": "/* 2018 United States House of Representatives election */ disambig district",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024047415,
+      "parentid": 1024047215,
+      "timestamp": "2021-05-19T20:06:46Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2814,
+      "comment": "formatting; add tag and cat; better tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024054253,
+      "parentid": 1024047415,
+      "timestamp": "2021-05-19T20:56:05Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2768,
+      "comment": "/* References */ delete tag; draft now in mainspace",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024068004,
+      "parentid": 1024054253,
+      "timestamp": "2021-05-19T22:46:03Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 2799,
+      "comment": "removed [[Category:American politicians]]; added [[Category:Members of the Connecticut House of Representatives]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024072074,
+      "parentid": 1024068004,
+      "timestamp": "2021-05-19T23:22:19Z",
+      "user": "Gjs238",
+      "userid": 486612,
+      "size": 2851,
+      "comment": "added [[Category:Place of birth missing (living people)]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028794451,
+      "parentid": 1024072074,
+      "timestamp": "2021-06-16T02:08:26Z",
+      "user": "74.108.23.226",
+      "userid": 0,
+      "size": 2862,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1028794473,
+      "parentid": 1028794451,
+      "timestamp": "2021-06-16T02:08:37Z",
+      "user": "Rdp060707",
+      "userid": 39526041,
+      "size": 2851,
+      "comment": "[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/74.108.23.226|74.108.23.226]] ([[User talk:74.108.23.226|talk]]) to last revision by Gjs238: [[WP:SANDBOX|editing tests]]",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "OAuth CID: 1805"
+      ]
+    },
+    {
+      "revid": 1065603674,
+      "parentid": 1028794473,
+      "timestamp": "2022-01-14T11:06:51Z",
+      "user": "46.126.252.81",
+      "userid": 0,
+      "size": 2888,
+      "comment": "public records (DOB and Place of Birth)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1070260028,
+      "parentid": 1065603674,
+      "timestamp": "2022-02-06T15:20:23Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 3093,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1072030926,
+      "parentid": 1070260028,
+      "timestamp": "2022-02-15T16:29:08Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 3068,
+      "comment": "/* References */Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1086904986,
+      "parentid": 1072030926,
+      "timestamp": "2022-05-09T02:46:26Z",
+      "user": "2603:6080:7902:6500:10C:8CC0:1708:2AB6",
+      "userid": 0,
+      "size": 3360,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086906324,
+      "parentid": 1086904986,
+      "timestamp": "2022-05-09T03:00:29Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 4064,
+      "comment": "/* Connecticut House of Representatives */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086906410,
+      "parentid": 1086906324,
+      "timestamp": "2022-05-09T03:01:20Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 4026,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091744454,
+      "parentid": 1086906410,
+      "timestamp": "2022-06-06T03:18:23Z",
+      "user": "Harryforct",
+      "userid": 40697378,
+      "size": 3991,
+      "comment": "corrected date of birth and position.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1091893339,
+      "parentid": 1091744454,
+      "timestamp": "2022-06-07T00:52:30Z",
+      "user": "Harryforct",
+      "userid": 40697378,
+      "size": 3608,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1091894273,
+      "parentid": 1091893339,
+      "timestamp": "2022-06-07T00:59:55Z",
+      "user": "Adam",
+      "userid": 29431999,
+      "size": 3991,
+      "comment": "Undid revision 1091893339 by [[Special:Contributions/Harryforct|Harryforct]] ([[User talk:Harryforct|talk]]) - COI deletion of sourced information",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1096361213,
+      "parentid": 1091894273,
+      "timestamp": "2022-07-04T00:35:42Z",
+      "user": "Theanonymoustypist",
+      "userid": 40792152,
+      "size": 4016,
+      "comment": "DOB according to public records",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1103667479,
+      "parentid": 1096361213,
+      "timestamp": "2022-08-10T15:17:34Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4633,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106034684,
+      "parentid": 1103667479,
+      "timestamp": "2022-08-22T23:02:59Z",
+      "user": "Patken4",
+      "userid": 246943,
+      "size": 4774,
+      "comment": "+[[Category:Delhi Technological University alumni]]; +[[Category:McCombs School of Business alumni]]; +[[Category:Harvard Kennedy School alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117008629,
+      "parentid": 1106034684,
+      "timestamp": "2022-10-19T13:15:12Z",
+      "user": "BostonMensa",
+      "userid": 39698408,
+      "size": 4820,
+      "comment": "added [[Category:Connecticut Republican primaries]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1117008830,
+      "parentid": 1117008629,
+      "timestamp": "2022-10-19T13:16:36Z",
+      "user": "BostonMensa",
+      "userid": 39698408,
+      "size": 4782,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119998412,
+      "parentid": 1117008830,
+      "timestamp": "2022-11-04T15:02:41Z",
+      "user": "Theanonymoustypist",
+      "userid": 40792152,
+      "size": 5020,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1120360146,
+      "parentid": 1119998412,
+      "timestamp": "2022-11-06T16:05:53Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 5020,
+      "comment": "v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1121278461,
+      "parentid": 1120360146,
+      "timestamp": "2022-11-11T13:08:35Z",
+      "user": "208.127.199.36",
+      "userid": 0,
+      "size": 5071,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121524898,
+      "parentid": 1121278461,
+      "timestamp": "2022-11-12T19:24:54Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 4977,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121524984,
+      "parentid": 1121524898,
+      "timestamp": "2022-11-12T19:25:29Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 4947,
+      "comment": "[[MOS:SMALLFONT]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121525075,
+      "parentid": 1121524984,
+      "timestamp": "2022-11-12T19:26:04Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5265,
+      "comment": "/* Connecticut House of Representatives */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121525173,
+      "parentid": 1121525075,
+      "timestamp": "2022-11-12T19:26:42Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5306,
+      "comment": "/* References */ still a member",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125249369,
+      "parentid": 1121525173,
+      "timestamp": "2022-12-03T00:30:26Z",
+      "user": "Patapsco913",
+      "userid": 13892963,
+      "size": 5359,
+      "comment": "added [[Category:Asian conservatism in the United States]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1136180931,
+      "parentid": 1125249369,
+      "timestamp": "2023-01-29T03:36:28Z",
+      "user": "Theanonymoustypist",
+      "userid": 40792152,
+      "size": 7748,
+      "comment": "clean up / adding details incl. citations",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1136456835,
+      "parentid": 1136180931,
+      "timestamp": "2023-01-30T11:45:21Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 7748,
+      "comment": "v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1143070463,
+      "parentid": 1136456835,
+      "timestamp": "2023-03-05T19:48:47Z",
+      "user": "Abjanssen2023",
+      "userid": 43159950,
+      "size": 7781,
+      "comment": "He is no longer a state representative",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1143096957,
+      "parentid": 1143070463,
+      "timestamp": "2023-03-05T22:42:24Z",
+      "user": "Cremastra",
+      "userid": 44230401,
+      "size": 7780,
+      "comment": "fixed typo",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1145535454,
+      "parentid": 1143096957,
+      "timestamp": "2023-03-19T17:21:29Z",
+      "user": "Theanonymoustypist",
+      "userid": 40792152,
+      "size": 7942,
+      "comment": "adding to infobox",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1145701667,
+      "parentid": 1145535454,
+      "timestamp": "2023-03-20T14:19:11Z",
+      "user": "Certes",
+      "userid": 5984052,
+      "size": 7938,
+      "comment": "[[WP:BPAT|improve link]]: Greenwich, Connecticut",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1147089589,
+      "parentid": 1145701667,
+      "timestamp": "2023-03-28T20:02:46Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 7939,
+      "comment": "a > an",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1157967578,
+      "parentid": 1147089589,
+      "timestamp": "2023-06-01T03:30:29Z",
+      "user": "Masohpotato",
+      "userid": 43467791,
+      "size": 7936,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1160875995,
+      "parentid": 1157967578,
+      "timestamp": "2023-06-19T08:39:09Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 7979,
+      "comment": "Alter: template type. Add: work, date. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Connecticut politician stubs]] | #UCB_Category 152/316",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1162268478,
+      "parentid": 1160875995,
+      "timestamp": "2023-06-28T01:44:56Z",
+      "user": "71.168.214.52",
+      "userid": 0,
+      "size": 7993,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162268603,
+      "parentid": 1162268478,
+      "timestamp": "2023-06-28T01:46:06Z",
+      "user": "71.168.214.52",
+      "userid": 0,
+      "size": 8060,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162268698,
+      "parentid": 1162268603,
+      "timestamp": "2023-06-28T01:46:57Z",
+      "user": "71.168.214.52",
+      "userid": 0,
+      "size": 8037,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162268773,
+      "parentid": 1162268698,
+      "timestamp": "2023-06-28T01:47:38Z",
+      "user": "71.168.214.52",
+      "userid": 0,
+      "size": 7993,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1162269077,
+      "parentid": 1162268773,
+      "timestamp": "2023-06-28T01:51:09Z",
+      "user": "71.168.214.52",
+      "userid": 0,
+      "size": 8000,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1163351680,
+      "parentid": 1162269077,
+      "timestamp": "2023-07-04T11:11:55Z",
+      "user": "24.47.173.86",
+      "userid": 0,
+      "size": 7979,
+      "comment": "remove children names.",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1163351777,
+      "parentid": 1163351680,
+      "timestamp": "2023-07-04T11:12:42Z",
+      "user": "24.47.173.86",
+      "userid": 0,
+      "size": 7973,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1166114663,
+      "parentid": 1163351777,
+      "timestamp": "2023-07-19T12:40:56Z",
+      "user": "JSWKatzman",
+      "userid": 37939506,
+      "size": 9551,
+      "comment": "Fixed dead links for citations, added additional citations, added information on philanthropic efforts and campaign finance violations, added information on committee involvement, changed language tone from present to past (no longer serving as rep.)",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1170359342,
+      "parentid": 1166114663,
+      "timestamp": "2023-08-14T16:05:19Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 9551,
+      "comment": "Reformat 1 citation per [[:Category:CS1 errors: archive-url]]. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1190306771,
+      "parentid": 1170359342,
+      "timestamp": "2023-12-17T04:17:31Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 9553,
+      "comment": "replaced: December 16, 1969 → December 16, 1969, (2)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1190311899,
+      "parentid": 1190306771,
+      "timestamp": "2023-12-17T05:17:52Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 9556,
+      "comment": "/* top */replaced: 2020-2023 → 2020 to 2023",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1224178191,
+      "parentid": 1190311899,
+      "timestamp": "2024-05-16T18:39:35Z",
+      "user": "Jayjg",
+      "userid": 76027,
+      "size": 9534,
+      "comment": "[[MOS:ETHNICITY]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1233149959,
+      "parentid": 1224178191,
+      "timestamp": "2024-07-07T14:48:17Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 9619,
+      "comment": "added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1237257075,
+      "parentid": 1233149959,
+      "timestamp": "2024-07-28T22:22:50Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 9677,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1251977293,
+      "parentid": 1237257075,
+      "timestamp": "2024-10-19T04:05:40Z",
+      "user": "2601:249:9301:D570:5952:3BA:C355:F3AF",
+      "userid": 0,
+      "size": 9855,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257297656,
+      "parentid": 1251977293,
+      "timestamp": "2024-11-14T05:43:45Z",
+      "user": "68.197.181.201",
+      "userid": 0,
+      "size": 9876,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261314746,
+      "parentid": 1257297656,
+      "timestamp": "2024-12-05T13:09:45Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 9946,
+      "comment": "added [[Category:21st-century members of the Connecticut General Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Arora"
+}

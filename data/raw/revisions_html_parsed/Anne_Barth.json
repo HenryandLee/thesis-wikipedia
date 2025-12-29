@@ -1,0 +1,44 @@
+{
+  "page_title": "Anne_Barth",
+  "candidate_name": "Anne Barth",
+  "collection_date": "2025-12-28T16:32:33.708112",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2008-10-19T18:50:44Z",
+      "end": "2018-12-07T23:32:37Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 246335632,
+      "parentid": 0,
+      "timestamp": "2008-10-19T18:50:44Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 96,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in West Virginia, 2008#District 2]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872593717,
+      "parentid": 246335632,
+      "timestamp": "2018-12-07T23:32:37Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 95,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in West Virginia]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anne_Barth"
+}

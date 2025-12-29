@@ -1,0 +1,88 @@
+{
+  "page_title": "Ann_McLane_Kuster",
+  "candidate_name": "Ann McLane Kuster",
+  "collection_date": "2025-12-28T16:32:30.316066",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 6,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-03-20T01:39:29Z",
+      "end": "2021-09-20T18:23:14Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 482821836,
+      "parentid": 0,
+      "timestamp": "2012-03-20T01:39:29Z",
+      "user": "Dogru144",
+      "userid": 1731964,
+      "size": 30,
+      "comment": "re-direct",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 482821880,
+      "parentid": 482821836,
+      "timestamp": "2012-03-20T01:39:48Z",
+      "user": "Dogru144",
+      "userid": 1731964,
+      "size": 30,
+      "comment": "[[WP:AES|←]]Redirected page to [[Ann McLane Kuster]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1045466528,
+      "parentid": 482821880,
+      "timestamp": "2021-09-20T18:21:11Z",
+      "user": "Usernamekiran",
+      "userid": 16531723,
+      "size": 30,
+      "comment": "Usernamekiran moved page [[Annie Kuster]] to [[Draft:Move/Ann McLane Kuster]] without leaving a redirect: [[WP:PMRC#4|Round-robin history swap]] step 1 using [[User:Andy M. Wang/pageswap|pageswap]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1045466545,
+      "parentid": 1045466528,
+      "timestamp": "2021-09-20T18:21:17Z",
+      "user": "Usernamekiran",
+      "userid": 16531723,
+      "size": 30,
+      "comment": "Usernamekiran moved page [[Draft:Move/Ann McLane Kuster]] to [[Ann McLane Kuster]] without leaving a redirect: [[WP:PMRC#4|Round-robin history swap]] step 3 using [[User:Andy M. Wang/pageswap|pageswap]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1045466683,
+      "parentid": 1045466545,
+      "timestamp": "2021-09-20T18:22:11Z",
+      "user": "Usernamekiran",
+      "userid": 16531723,
+      "size": 72,
+      "comment": "post move cleanup",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1045466873,
+      "parentid": 1045466683,
+      "timestamp": "2021-09-20T18:23:14Z",
+      "user": "Usernamekiran",
+      "userid": 16531723,
+      "size": 73,
+      "comment": "whitespace",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ann_McLane_Kuster"
+}

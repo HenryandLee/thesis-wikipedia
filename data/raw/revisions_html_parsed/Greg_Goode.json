@@ -1,0 +1,159 @@
+{
+  "page_title": "Greg_Goode",
+  "candidate_name": "Greg Goode",
+  "collection_date": "2025-12-28T16:39:55.099144",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 11,
+    "unique_editors": 6,
+    "date_range": {
+      "start": "2024-01-09T22:12:53Z",
+      "end": "2024-12-01T21:21:38Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1194616590,
+      "parentid": 0,
+      "timestamp": "2024-01-09T22:12:53Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 2207,
+      "comment": "[[WP:AES|←]]Created page with '{{Short description|American politician}} {{Infobox officeholder |name         = Greg Goode |state_senate = Indiana |district     = 38 |term_start   = 2023 |term_end     =  |predecessor  = [[Jon Ford (American politician)|Jon Ford]] |successor    =  |birth_date   =  |birth_place  =  |death_date   =  |death_place  =  |party        = [[Republican Party (United States)|Republican]] |spouse       =  |children     =  |education    =  }} '''Greg Goode''' is an Am...'",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1194618592,
+      "parentid": 1194616590,
+      "timestamp": "2024-01-09T22:22:11Z",
+      "user": "Cremastra",
+      "userid": 44230401,
+      "size": 2229,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1194621681,
+      "parentid": 1194618592,
+      "timestamp": "2024-01-09T22:38:32Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 2207,
+      "comment": "Undid revision 1194618592 by [[Special:Contributions/Cremastra|Cremastra]] ([[User talk:Cremastra|talk]]) Disagree",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1194711557,
+      "parentid": 1194621681,
+      "timestamp": "2024-01-10T10:20:16Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 2209,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: Executive Director → executive director, 56-18 → 56–18",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1194774890,
+      "parentid": 1194711557,
+      "timestamp": "2024-01-10T17:52:09Z",
+      "user": "Grahaml35",
+      "userid": 24142250,
+      "size": 2221,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1194776443,
+      "parentid": 1194774890,
+      "timestamp": "2024-01-10T18:00:43Z",
+      "user": "Grahaml35",
+      "userid": 24142250,
+      "size": 2278,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1205664164,
+      "parentid": 1194776443,
+      "timestamp": "2024-02-10T05:02:47Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2278,
+      "comment": "/* References */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1211173257,
+      "parentid": 1205664164,
+      "timestamp": "2024-03-01T06:08:11Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2324,
+      "comment": "/* References */add [[Category:21st-century Indiana politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260636887,
+      "parentid": 1211173257,
+      "timestamp": "2024-12-01T21:15:27Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 2390,
+      "comment": "Copying from [[Category:Republican Party Indiana state senators]] to [[Category:21st-century members of the Indiana General Assembly]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260637811,
+      "parentid": 1260636887,
+      "timestamp": "2024-12-01T21:20:02Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 2344,
+      "comment": "Removing from [[Category:21st-century Indiana politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260638108,
+      "parentid": 1260637811,
+      "timestamp": "2024-12-01T21:21:38Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 2297,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Goode"
+}

@@ -1,0 +1,57 @@
+{
+  "page_title": "Chris_Fields",
+  "candidate_name": "Chris Fields",
+  "collection_date": "2025-12-28T16:35:12.554734",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2019-02-13T06:17:11Z",
+      "end": "2023-08-09T22:22:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 883090583,
+      "parentid": 0,
+      "timestamp": "2019-02-13T06:17:11Z",
+      "user": "UnitedStatesian",
+      "userid": 3461395,
+      "size": 35,
+      "comment": "create as redirect",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 883090665,
+      "parentid": 883090583,
+      "timestamp": "2019-02-13T06:18:05Z",
+      "user": "UnitedStatesian",
+      "userid": 3461395,
+      "size": 53,
+      "comment": "to section",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1169567764,
+      "parentid": 883090665,
+      "timestamp": "2023-08-09T22:22:28Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 96,
+      "comment": "added [[Category:20th-century American people]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Fields"
+}

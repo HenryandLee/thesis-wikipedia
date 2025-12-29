@@ -1,0 +1,44 @@
+{
+  "page_title": "Paul_Hirschbiel",
+  "candidate_name": "Paul Hirschbiel",
+  "collection_date": "2025-12-28T16:51:13.931729",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-10-03T18:35:16Z",
+      "end": "2018-12-08T20:00:21Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 515835698,
+      "parentid": 0,
+      "timestamp": "2012-10-03T18:35:16Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 90,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Virginia, 2012#District 2]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872723304,
+      "parentid": 515835698,
+      "timestamp": "2018-12-08T20:00:21Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in Virginia]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Hirschbiel"
+}

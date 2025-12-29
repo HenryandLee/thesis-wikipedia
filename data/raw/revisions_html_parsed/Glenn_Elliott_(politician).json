@@ -1,0 +1,950 @@
+{
+  "page_title": "Glenn_Elliott_(politician)",
+  "candidate_name": "Glenn Elliott",
+  "collection_date": "2025-12-28T16:39:44.435010",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 71,
+    "unique_editors": 21,
+    "date_range": {
+      "start": "2024-07-13T18:05:54Z",
+      "end": "2024-12-20T00:46:44Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1234311990,
+      "parentid": 0,
+      "timestamp": "2024-07-13T18:05:54Z",
+      "user": "Microplastic Consumer",
+      "userid": 44981553,
+      "size": 8090,
+      "comment": "Created Page",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1234328003,
+      "parentid": 1234311990,
+      "timestamp": "2024-07-13T19:50:41Z",
+      "user": "Afrowriter",
+      "userid": 36790226,
+      "size": 8067,
+      "comment": "/* Mayor of Wheeling */  grammer correction",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1234424613,
+      "parentid": 1234328003,
+      "timestamp": "2024-07-14T08:17:20Z",
+      "user": "GhostInTheMachine",
+      "userid": 892079,
+      "size": 7963,
+      "comment": "fix short description template",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1234440333,
+      "parentid": 1234424613,
+      "timestamp": "2024-07-14T10:54:40Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 8018,
+      "comment": "clean up, added [[CAT:O|orphan]] tag",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1234487753,
+      "parentid": 1234440333,
+      "timestamp": "2024-07-14T16:38:47Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 8031,
+      "comment": "removed [[Category:American politicians]]; added [[Category:Mayors of places in West Virginia]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1234722645,
+      "parentid": 1234487753,
+      "timestamp": "2024-07-15T20:23:41Z",
+      "user": "Vincelord",
+      "userid": 14054348,
+      "size": 8062,
+      "comment": "Added DEFAULTSORT",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1234954777,
+      "parentid": 1234722645,
+      "timestamp": "2024-07-17T00:38:33Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 8074,
+      "comment": "Name spelling corrections",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1234954869,
+      "parentid": 1234954777,
+      "timestamp": "2024-07-17T00:39:12Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 8075,
+      "comment": "name spelling correction",
+      "minor": true,
+      "tags": [
+        "possible libel or vandalism",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235023520,
+      "parentid": 1234954869,
+      "timestamp": "2024-07-17T09:36:11Z",
+      "user": "Afrowriter",
+      "userid": 36790226,
+      "size": 8047,
+      "comment": "Links have been created so there was no point of adding the tag",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1235064102,
+      "parentid": 1235023520,
+      "timestamp": "2024-07-17T14:27:45Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 8051,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235066697,
+      "parentid": 1235064102,
+      "timestamp": "2024-07-17T14:41:55Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 8124,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235072153,
+      "parentid": 1235066697,
+      "timestamp": "2024-07-17T15:11:33Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 8275,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235078990,
+      "parentid": 1235072153,
+      "timestamp": "2024-07-17T15:45:55Z",
+      "user": "Afrowriter",
+      "userid": 36790226,
+      "size": 8437,
+      "comment": "added official website",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1235080551,
+      "parentid": 1235078990,
+      "timestamp": "2024-07-17T15:53:56Z",
+      "user": "Afrowriter",
+      "userid": 36790226,
+      "size": 8976,
+      "comment": "/* 2024 United States Senate candidacy */",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1235084161,
+      "parentid": 1235080551,
+      "timestamp": "2024-07-17T16:11:00Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 9282,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235084464,
+      "parentid": 1235084161,
+      "timestamp": "2024-07-17T16:12:33Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 8968,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235084577,
+      "parentid": 1235084464,
+      "timestamp": "2024-07-17T16:13:10Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 8968,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235086352,
+      "parentid": 1235084577,
+      "timestamp": "2024-07-17T16:23:04Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 9282,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235086731,
+      "parentid": 1235086352,
+      "timestamp": "2024-07-17T16:25:18Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 9283,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235090672,
+      "parentid": 1235086731,
+      "timestamp": "2024-07-17T16:47:29Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 9289,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235092164,
+      "parentid": 1235090672,
+      "timestamp": "2024-07-17T16:55:37Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 9309,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235092318,
+      "parentid": 1235092164,
+      "timestamp": "2024-07-17T16:56:28Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 9300,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235094431,
+      "parentid": 1235092318,
+      "timestamp": "2024-07-17T17:06:43Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 9324,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235094937,
+      "parentid": 1235094431,
+      "timestamp": "2024-07-17T17:09:23Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 9354,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235096122,
+      "parentid": 1235094937,
+      "timestamp": "2024-07-17T17:15:49Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 9328,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235096672,
+      "parentid": 1235096122,
+      "timestamp": "2024-07-17T17:18:46Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 9350,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235096962,
+      "parentid": 1235096672,
+      "timestamp": "2024-07-17T17:20:17Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 9216,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235099900,
+      "parentid": 1235096962,
+      "timestamp": "2024-07-17T17:35:37Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 9993,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235105620,
+      "parentid": 1235099900,
+      "timestamp": "2024-07-17T18:05:06Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 10189,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235111190,
+      "parentid": 1235105620,
+      "timestamp": "2024-07-17T18:41:36Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 10328,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235111541,
+      "parentid": 1235111190,
+      "timestamp": "2024-07-17T18:43:24Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 10467,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235113703,
+      "parentid": 1235111541,
+      "timestamp": "2024-07-17T18:54:39Z",
+      "user": "Lombardb21",
+      "userid": 48151497,
+      "size": 10464,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235121503,
+      "parentid": 1235113703,
+      "timestamp": "2024-07-17T19:41:46Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 10815,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235132483,
+      "parentid": 1235121503,
+      "timestamp": "2024-07-17T20:44:26Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 11603,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235136906,
+      "parentid": 1235132483,
+      "timestamp": "2024-07-17T21:06:35Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 11654,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235141079,
+      "parentid": 1235136906,
+      "timestamp": "2024-07-17T21:31:21Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 11975,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235143548,
+      "parentid": 1235141079,
+      "timestamp": "2024-07-17T21:44:48Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 12737,
+      "comment": "/* 2024 United States Senate candidacy */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235194562,
+      "parentid": 1235143548,
+      "timestamp": "2024-07-18T03:23:29Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 12779,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235194996,
+      "parentid": 1235194562,
+      "timestamp": "2024-07-18T03:26:24Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 12791,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235274404,
+      "parentid": 1235194996,
+      "timestamp": "2024-07-18T14:01:18Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 13130,
+      "comment": "Alter: url, title. URLs might have been anonymized. Add: newspaper, date, title. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by LeapTorchGear | #UCB_webform 61/176",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1235390098,
+      "parentid": 1235274404,
+      "timestamp": "2024-07-19T01:56:02Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 13197,
+      "comment": "/* 2024 United States Senate candidacy */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235394591,
+      "parentid": 1235390098,
+      "timestamp": "2024-07-19T02:25:36Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 13340,
+      "comment": "/* 2024 United States Senate candidacy */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235405770,
+      "parentid": 1235394591,
+      "timestamp": "2024-07-19T03:56:02Z",
+      "user": "Timothy Bellman",
+      "userid": 47955454,
+      "size": 13325,
+      "comment": "/* 2024 United States Senate candidacy */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235611091,
+      "parentid": 1235405770,
+      "timestamp": "2024-07-20T06:39:49Z",
+      "user": "RaynardMason123",
+      "userid": 39577038,
+      "size": 13396,
+      "comment": "Fixed the structure of page, and made it flow MUCH more smoothly",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1235611233,
+      "parentid": 1235611091,
+      "timestamp": "2024-07-20T06:40:54Z",
+      "user": "RaynardMason123",
+      "userid": 39577038,
+      "size": 13405,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1236493241,
+      "parentid": 1235611233,
+      "timestamp": "2024-07-25T01:11:18Z",
+      "user": "Barkeep49",
+      "userid": 299135,
+      "size": 106,
+      "comment": "[[Wikipedia:Articles for deletion/Glenn Elliott (politician)]] closed as redirect ([[WP:XFDC#4.0.16-beta|XFDcloser]])",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1256899812,
+      "parentid": 1236493241,
+      "timestamp": "2024-11-12T03:15:23Z",
+      "user": "173.187.240.206",
+      "userid": 0,
+      "size": 7720,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2024 United States Senate election in West Virginia]]",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-removed-redirect",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1256899862,
+      "parentid": 1256899812,
+      "timestamp": "2024-11-12T03:15:54Z",
+      "user": "173.187.240.206",
+      "userid": 0,
+      "size": 7737,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1256911654,
+      "parentid": 1256899862,
+      "timestamp": "2024-11-12T04:52:41Z",
+      "user": "173.187.240.206",
+      "userid": 0,
+      "size": 7744,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1256929670,
+      "parentid": 1256911654,
+      "timestamp": "2024-11-12T07:54:27Z",
+      "user": "Afrowriter",
+      "userid": 36790226,
+      "size": 7789,
+      "comment": "Added image",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1257244665,
+      "parentid": 1256929670,
+      "timestamp": "2024-11-13T23:41:22Z",
+      "user": "Entranced98",
+      "userid": 27199084,
+      "size": 7831,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1257316898,
+      "parentid": 1257244665,
+      "timestamp": "2024-11-14T08:35:07Z",
+      "user": "Afrowriter",
+      "userid": 36790226,
+      "size": 7985,
+      "comment": "Fixed grammar and added citation needed tag",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1257446163,
+      "parentid": 1257316898,
+      "timestamp": "2024-11-14T23:01:30Z",
+      "user": "173.187.240.206",
+      "userid": 0,
+      "size": 11467,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1257446419,
+      "parentid": 1257446163,
+      "timestamp": "2024-11-14T23:02:57Z",
+      "user": "173.187.240.206",
+      "userid": 0,
+      "size": 11479,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257489697,
+      "parentid": 1257446419,
+      "timestamp": "2024-11-15T04:21:43Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12004,
+      "comment": "/* U.S. Senate campaign */ cut.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257489745,
+      "parentid": 1257489697,
+      "timestamp": "2024-11-15T04:22:08Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12005,
+      "comment": "/* U.S. Senate campaign */ cut.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257556456,
+      "parentid": 1257489745,
+      "timestamp": "2024-11-15T15:06:37Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 11995,
+      "comment": "cut.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257557115,
+      "parentid": 1257556456,
+      "timestamp": "2024-11-15T15:08:14Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12068,
+      "comment": "/* U.S. Senate campaign */ citation.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257557140,
+      "parentid": 1257557115,
+      "timestamp": "2024-11-15T15:08:25Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 11850,
+      "comment": "/* U.S. Senate campaign */ cut.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257557259,
+      "parentid": 1257557140,
+      "timestamp": "2024-11-15T15:09:24Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12236,
+      "comment": "fix.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257926374,
+      "parentid": 1257557259,
+      "timestamp": "2024-11-17T08:00:57Z",
+      "user": "GünniX",
+      "userid": 237572,
+      "size": 12216,
+      "comment": "v2.05 - Fix errors for [[WP:WCW|CW project]] (Reference list duplication)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1259205089,
+      "parentid": 1257926374,
+      "timestamp": "2024-11-23T23:03:30Z",
+      "user": "Horse Chiropractor",
+      "userid": 48800087,
+      "size": 12216,
+      "comment": "/* U.S. Senate campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259364095,
+      "parentid": 1259205089,
+      "timestamp": "2024-11-24T19:52:10Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12137,
+      "comment": "campaign is over, moving to external links.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259364183,
+      "parentid": 1259364095,
+      "timestamp": "2024-11-24T19:52:45Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12188,
+      "comment": "/* External links */ moved.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259364243,
+      "parentid": 1259364183,
+      "timestamp": "2024-11-24T19:53:18Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12193,
+      "comment": "/* U.S. Senate campaign */ fix.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259364319,
+      "parentid": 1259364243,
+      "timestamp": "2024-11-24T19:53:55Z",
+      "user": "JohnAdams1800",
+      "userid": 44374359,
+      "size": 12180,
+      "comment": "/* U.S. Senate campaign */ link.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259526504,
+      "parentid": 1259364319,
+      "timestamp": "2024-11-25T17:31:13Z",
+      "user": "LordManiac10",
+      "userid": 45996416,
+      "size": 12177,
+      "comment": "Added proper title",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1261886085,
+      "parentid": 1259526504,
+      "timestamp": "2024-12-08T13:58:27Z",
+      "user": "Lost in Quebec",
+      "userid": 44492479,
+      "size": 12182,
+      "comment": "removed [[Category:People from Wheeling, West Virginia]]; added [[Category:Politicians from Wheeling, West Virginia]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1262950967,
+      "parentid": 1261886085,
+      "timestamp": "2024-12-13T21:32:01Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 12186,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262954221,
+      "parentid": 1262950967,
+      "timestamp": "2024-12-13T21:52:05Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 12186,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1264025489,
+      "parentid": 1262954221,
+      "timestamp": "2024-12-20T00:46:44Z",
+      "user": "Queen of Hearts",
+      "userid": 43475265,
+      "size": 106,
+      "comment": "Restored revision 1236493241 by [[Special:Contributions/Barkeep49|Barkeep49]] ([[User talk:Barkeep49|talk]]): Nothing has changed since the AfD",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "twinkle"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Glenn_Elliott_(politician)"
+}

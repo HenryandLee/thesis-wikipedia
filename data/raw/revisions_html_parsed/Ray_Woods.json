@@ -1,0 +1,468 @@
+{
+  "page_title": "Ray_Woods",
+  "candidate_name": "Ray Woods",
+  "collection_date": "2025-12-28T16:52:03.714450",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 40,
+    "unique_editors": 19,
+    "date_range": {
+      "start": "2010-12-06T03:00:53Z",
+      "end": "2024-12-09T21:34:19Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 400785591,
+      "parentid": 0,
+      "timestamp": "2010-12-06T03:00:53Z",
+      "user": "Jrcla2",
+      "userid": 2777171,
+      "size": 3864,
+      "comment": "create stub",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 401003513,
+      "parentid": 400785591,
+      "timestamp": "2010-12-07T05:30:11Z",
+      "user": "Jrcla2",
+      "userid": 2777171,
+      "size": 3864,
+      "comment": "/* References */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 414268583,
+      "parentid": 401003513,
+      "timestamp": "2011-02-16T16:54:07Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 3929,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 414268898,
+      "parentid": 414268583,
+      "timestamp": "2011-02-16T16:56:16Z",
+      "user": "Jrcla2",
+      "userid": 2777171,
+      "size": 3927,
+      "comment": "cleanup",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 415368617,
+      "parentid": 414268898,
+      "timestamp": "2011-02-22T19:35:09Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 3971,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 415549290,
+      "parentid": 415368617,
+      "timestamp": "2011-02-23T18:25:07Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 4113,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416795426,
+      "parentid": 415549290,
+      "timestamp": "2011-03-02T21:01:23Z",
+      "user": "Plastikspork",
+      "userid": 5075409,
+      "size": 4069,
+      "comment": "/* References */ rm per TFD",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 418725286,
+      "parentid": 416795426,
+      "timestamp": "2011-03-14T03:53:25Z",
+      "user": "Jrcla2",
+      "userid": 2777171,
+      "size": 4068,
+      "comment": "rmv whitespace",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 477432241,
+      "parentid": 418725286,
+      "timestamp": "2012-02-17T21:33:42Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 4070,
+      "comment": "Updated infobox + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7966)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 524963089,
+      "parentid": 477432241,
+      "timestamp": "2012-11-26T15:44:03Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 4107,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 530848024,
+      "parentid": 524963089,
+      "timestamp": "2013-01-02T01:57:12Z",
+      "user": "BizarreLoveTriangle",
+      "userid": 14954744,
+      "size": 4113,
+      "comment": "removed [[Category:People from Evanston, Illinois]]; added [[Category:Sportspeople from Evanston, Illinois]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 571418495,
+      "parentid": 530848024,
+      "timestamp": "2013-09-03T19:55:10Z",
+      "user": "Cubbie15fan",
+      "userid": 19259246,
+      "size": 4166,
+      "comment": "/* References */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 578960882,
+      "parentid": 571418495,
+      "timestamp": "2013-10-27T14:49:25Z",
+      "user": "Rikster2",
+      "userid": 3077044,
+      "size": 4095,
+      "comment": "Rmv template not on, OVERLINK",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 586409988,
+      "parentid": 578960882,
+      "timestamp": "2013-12-16T23:04:50Z",
+      "user": "Bossanoven",
+      "userid": 11079571,
+      "size": 4145,
+      "comment": "added [[Category:Evanston Township High School alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 598789491,
+      "parentid": 586409988,
+      "timestamp": "2014-03-09T03:26:13Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 4118,
+      "comment": "Removing links to deleted file [[:File:All-American Ray Woods.png]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 600953190,
+      "parentid": 598789491,
+      "timestamp": "2014-03-23T23:45:08Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 4172,
+      "comment": "+hat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 622087518,
+      "parentid": 600953190,
+      "timestamp": "2014-08-20T18:11:28Z",
+      "user": "Rikster2",
+      "userid": 3077044,
+      "size": 3855,
+      "comment": "convert infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 662773137,
+      "parentid": 622087518,
+      "timestamp": "2015-05-17T14:47:09Z",
+      "user": "Rikster2",
+      "userid": 3077044,
+      "size": 3855,
+      "comment": "Format",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 662773267,
+      "parentid": 662773137,
+      "timestamp": "2015-05-17T14:48:16Z",
+      "user": "Rikster2",
+      "userid": 3077044,
+      "size": 4008,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719190596,
+      "parentid": 662773267,
+      "timestamp": "2016-05-08T05:49:09Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3705,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Ray Woods|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 745786186,
+      "parentid": 719190596,
+      "timestamp": "2016-10-23T08:34:17Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 3706,
+      "comment": "/* References */http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 753439233,
+      "parentid": 745786186,
+      "timestamp": "2016-12-07T04:36:34Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 3743,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753440046,
+      "parentid": 753439233,
+      "timestamp": "2016-12-07T04:44:06Z",
+      "user": "Jrcla2",
+      "userid": 2777171,
+      "size": 3566,
+      "comment": "removing an unnecessary add-on sentence that doesn't help the reader understand Woods any better",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793785959,
+      "parentid": 753440046,
+      "timestamp": "2017-08-03T23:06:49Z",
+      "user": "Rikster2",
+      "userid": 3077044,
+      "size": 3634,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 832947540,
+      "parentid": 793785959,
+      "timestamp": "2018-03-28T20:48:49Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 3635,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 876946286,
+      "parentid": 832947540,
+      "timestamp": "2019-01-05T15:07:52Z",
+      "user": "Dieter Lloyd Wexler",
+      "userid": 25577951,
+      "size": 3682,
+      "comment": "/* References */added [[Category:American men's basketball players]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 879062899,
+      "parentid": 876946286,
+      "timestamp": "2019-01-18T19:22:00Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 3681,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 881280460,
+      "parentid": 879062899,
+      "timestamp": "2019-02-01T15:14:47Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 6673,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 881281562,
+      "parentid": 881280460,
+      "timestamp": "2019-02-01T15:23:40Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 6671,
+      "comment": "/* Honors */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 881281659,
+      "parentid": 881281562,
+      "timestamp": "2019-02-01T15:24:28Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 6467,
+      "comment": "/* Honors */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 881311446,
+      "parentid": 881281659,
+      "timestamp": "2019-02-01T19:06:14Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 6466,
+      "comment": "/* Statistics */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 881754171,
+      "parentid": 881311446,
+      "timestamp": "2019-02-04T16:24:27Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 6457,
+      "comment": "/* Statistics */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 884170070,
+      "parentid": 881754171,
+      "timestamp": "2019-02-19T23:43:32Z",
+      "user": "Rikster2",
+      "userid": 3077044,
+      "size": 6366,
+      "comment": "All-century team doesn’t go in infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 885694645,
+      "parentid": 884170070,
+      "timestamp": "2019-03-01T18:11:32Z",
+      "user": "Rhino83166",
+      "userid": 6907227,
+      "size": 6388,
+      "comment": "/* Statistics */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 994542879,
+      "parentid": 885694645,
+      "timestamp": "2020-12-16T07:07:19Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6302,
+      "comment": "Alter: url. URLs might have been internationalized/anonymized. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox2 | via #UCB_webform_linked 2305/2989",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1000880234,
+      "parentid": 994542879,
+      "timestamp": "2021-01-17T05:17:48Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6305,
+      "comment": "Misc citation tidying. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Evanston Township High School alumni‎]] | via #UCB_Category 13/61",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1068869459,
+      "parentid": 1000880234,
+      "timestamp": "2022-01-30T15:26:27Z",
+      "user": "ಮಲ್ನಾಡಾಚ್ ಕೊಂಕ್ಣೊ",
+      "userid": 23129483,
+      "size": 5739,
+      "comment": "Fixed [[WP:LINT|Lint errors]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1075340940,
+      "parentid": 1068869459,
+      "timestamp": "2022-03-05T06:06:13Z",
+      "user": "Megacheez",
+      "userid": 25353172,
+      "size": 5753,
+      "comment": "Updated the infobox on this page",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1077429726,
+      "parentid": 1075340940,
+      "timestamp": "2022-03-16T07:53:32Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 5718,
+      "comment": "/* Statistics */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1262147251,
+      "parentid": 1077429726,
+      "timestamp": "2024-12-09T21:34:19Z",
+      "user": "Brmbel",
+      "userid": 34292367,
+      "size": 5728,
+      "comment": "fixed [[MOS:DASH|dashes]] using [[User:Ohconfucius/dashes.js]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ray_Woods"
+}

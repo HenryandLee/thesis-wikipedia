@@ -1,0 +1,44 @@
+{
+  "page_title": "Jeff_Barnett_(politician)",
+  "candidate_name": "Jeff Barnett",
+  "collection_date": "2025-12-28T16:41:29.005028",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2015-10-21T19:27:15Z",
+      "end": "2018-12-08T17:51:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 686855060,
+      "parentid": 0,
+      "timestamp": "2015-10-21T19:27:15Z",
+      "user": "Boleyn",
+      "userid": 6127189,
+      "size": 92,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Virginia, 2010#District 10]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872706036,
+      "parentid": 686855060,
+      "timestamp": "2018-12-08T17:51:15Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Virginia]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jeff_Barnett_(politician)"
+}

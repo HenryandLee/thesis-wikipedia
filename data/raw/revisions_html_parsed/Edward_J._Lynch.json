@@ -1,0 +1,55 @@
+{
+  "page_title": "Edward_J._Lynch",
+  "candidate_name": "Edward Lynch",
+  "collection_date": "2025-12-28T16:38:25.627843",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2010-04-16T00:40:58Z",
+      "end": "2018-11-29T17:46:47Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 356284615,
+      "parentid": 0,
+      "timestamp": "2010-04-16T00:40:58Z",
+      "user": "BLM Platinum",
+      "userid": 11478259,
+      "size": 43,
+      "comment": "moved [[Edward J. Lynch]] to [[Ed Lynch (Florida politician)]]: Better title",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 560290330,
+      "parentid": 356284615,
+      "timestamp": "2013-06-17T12:46:28Z",
+      "user": "AvicBot",
+      "userid": 11952314,
+      "size": 74,
+      "comment": "Robot: Fixing double redirect to [[Florida's 19th congressional district special election, 2010]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 871217291,
+      "parentid": 560290330,
+      "timestamp": "2018-11-29T17:46:47Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 73,
+      "comment": "Bot: Fixing double redirect to [[2010 Florida's 19th congressional district special election]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_J._Lynch"
+}

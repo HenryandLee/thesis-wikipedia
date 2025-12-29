@@ -1,0 +1,2522 @@
+{
+  "page_title": "Michael_Franken",
+  "candidate_name": "Michael Franken",
+  "collection_date": "2025-12-28T16:48:58.373791",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 198,
+    "unique_editors": 92,
+    "date_range": {
+      "start": "2019-10-07T22:11:19Z",
+      "end": "2024-09-14T20:41:46Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 920140577,
+      "parentid": 0,
+      "timestamp": "2019-10-07T22:11:19Z",
+      "user": "Lcs1430",
+      "userid": 37402581,
+      "size": 3789,
+      "comment": "[[WP:AES|←]]Created page with '{{subst:AFC submission/draftnew}}<!-- Important, do not remove this line before article has been created. -->  '''Michael Thane Franken''' (born November 8, 195...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920261571,
+      "parentid": 920140577,
+      "timestamp": "2019-10-08T16:37:28Z",
+      "user": "Lcs1430",
+      "userid": 37402581,
+      "size": 3868,
+      "comment": "/* Mike Franken */ new section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920267906,
+      "parentid": 920261571,
+      "timestamp": "2019-10-08T17:26:35Z",
+      "user": "Bkissin",
+      "userid": 219962,
+      "size": 3812,
+      "comment": "Declining submission: bio - Submission is about a person not yet shown to meet notability guidelines and adv - Submission reads like an advertisement ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920324097,
+      "parentid": 920267906,
+      "timestamp": "2019-10-09T01:25:07Z",
+      "user": "GPL93",
+      "userid": 33699538,
+      "size": 3833,
+      "comment": "Requesting speedy deletion ([[WP:CSD#G11|CSD G11]]). ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920325022,
+      "parentid": 920324097,
+      "timestamp": "2019-10-09T01:33:35Z",
+      "user": "Bradv",
+      "userid": 6262758,
+      "size": 3812,
+      "comment": "Undid revision 920324097 by [[Special:Contributions/GPL93|GPL93]] ([[User talk:GPL93|talk]]) decline speedy; not irredeemably promotional, but I don't believe notability is established. Try MfD or wait for G13.",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 920390892,
+      "parentid": 920325022,
+      "timestamp": "2019-10-09T13:53:23Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 3981,
+      "comment": "Commenting on submission ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920391145,
+      "parentid": 920390892,
+      "timestamp": "2019-10-09T13:55:33Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 5290,
+      "comment": "add infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920508274,
+      "parentid": 920391145,
+      "timestamp": "2019-10-10T06:37:45Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4858,
+      "comment": "remove stuff from his website and interviews",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920508589,
+      "parentid": 920508274,
+      "timestamp": "2019-10-10T06:41:03Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4930,
+      "comment": "fix refs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920508744,
+      "parentid": 920508589,
+      "timestamp": "2019-10-10T06:42:50Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 5257,
+      "comment": "better ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509107,
+      "parentid": 920508744,
+      "timestamp": "2019-10-10T06:46:58Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4892,
+      "comment": "remove promotional sounding stuff",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509698,
+      "parentid": 920509107,
+      "timestamp": "2019-10-10T06:53:25Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4830,
+      "comment": "tidy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509773,
+      "parentid": 920509698,
+      "timestamp": "2019-10-10T06:54:15Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4779,
+      "comment": "tidy lead",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509829,
+      "parentid": 920509773,
+      "timestamp": "2019-10-10T06:54:48Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4779,
+      "comment": "Gbawden moved page [[Draft:Michael Franken]] to [[Michael T. Franken]]: ready for mainspace",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 920509864,
+      "parentid": 920509829,
+      "timestamp": "2019-10-10T06:55:05Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4461,
+      "comment": "tidy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509883,
+      "parentid": 920509864,
+      "timestamp": "2019-10-10T06:55:17Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4489,
+      "comment": "added [[Category:Living people]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509903,
+      "parentid": 920509883,
+      "timestamp": "2019-10-10T06:55:27Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4530,
+      "comment": "added [[Category:United States Navy admirals]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509928,
+      "parentid": 920509903,
+      "timestamp": "2019-10-10T06:55:45Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4573,
+      "comment": "added [[Category:University of Nebraska alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920509952,
+      "parentid": 920509928,
+      "timestamp": "2019-10-10T06:56:03Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4619,
+      "comment": "added [[Category:Naval Postgraduate School alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920510532,
+      "parentid": 920509952,
+      "timestamp": "2019-10-10T07:01:46Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 4611,
+      "comment": "reword",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 923642923,
+      "parentid": 920510532,
+      "timestamp": "2019-10-29T21:23:51Z",
+      "user": "31.161.221.91",
+      "userid": 0,
+      "size": 4599,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 923643347,
+      "parentid": 923642923,
+      "timestamp": "2019-10-29T21:27:55Z",
+      "user": "31.161.221.91",
+      "userid": 0,
+      "size": 4842,
+      "comment": "/* 2020 U.S. Senate election in Iowa */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 923643506,
+      "parentid": 923643347,
+      "timestamp": "2019-10-29T21:29:08Z",
+      "user": "31.161.221.91",
+      "userid": 0,
+      "size": 4876,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 923644467,
+      "parentid": 923643506,
+      "timestamp": "2019-10-29T21:36:17Z",
+      "user": "31.161.221.91",
+      "userid": 0,
+      "size": 4840,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible birth date change"
+      ]
+    },
+    {
+      "revid": 928171722,
+      "parentid": 923644467,
+      "timestamp": "2019-11-27T07:57:21Z",
+      "user": "Jbruin152",
+      "userid": 8155507,
+      "size": 4821,
+      "comment": "/* 2020 U.S. Senate election in Iowa */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 932423929,
+      "parentid": 928171722,
+      "timestamp": "2019-12-25T20:41:47Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 4849,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 937036528,
+      "parentid": 932423929,
+      "timestamp": "2020-01-22T15:23:13Z",
+      "user": "Ken Gallager",
+      "userid": 1175300,
+      "size": 4885,
+      "comment": "cat sort",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 937571711,
+      "parentid": 937036528,
+      "timestamp": "2020-01-25T21:48:19Z",
+      "user": "GELongstreet",
+      "userid": 16567817,
+      "size": 4890,
+      "comment": "removed [[Category:United States Navy admirals]]; added [[Category:United States Navy vice admirals]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 941535294,
+      "parentid": 937571711,
+      "timestamp": "2020-02-19T04:28:13Z",
+      "user": "Kyjama",
+      "userid": 38415441,
+      "size": 4942,
+      "comment": "/* 2020 U.S. Senate election in Iowa */  Added link to main article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 944619882,
+      "parentid": 941535294,
+      "timestamp": "2020-03-08T22:44:36Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 4965,
+      "comment": "[[WP:GenFixes]] and/or birth/death year categorization, [[WP:AWB/T|typo(s) fixed]]: ’s → 's (4)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 948947245,
+      "parentid": 944619882,
+      "timestamp": "2020-04-03T21:41:20Z",
+      "user": "Fdewaele",
+      "userid": 153790,
+      "size": 5130,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 951151345,
+      "parentid": 948947245,
+      "timestamp": "2020-04-15T19:15:57Z",
+      "user": "Aaroncooperiowa",
+      "userid": 39021736,
+      "size": 4816,
+      "comment": "I edited his infobox to add his political details",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 951155770,
+      "parentid": 951151345,
+      "timestamp": "2020-04-15T19:38:40Z",
+      "user": "Aaroncooperiowa",
+      "userid": 39021736,
+      "size": 7415,
+      "comment": "added Franken's endorsements",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 951156990,
+      "parentid": 951155770,
+      "timestamp": "2020-04-15T19:44:59Z",
+      "user": "Aaroncooperiowa",
+      "userid": 39021736,
+      "size": 8151,
+      "comment": "added information on Franken's service",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 951157193,
+      "parentid": 951156990,
+      "timestamp": "2020-04-15T19:46:15Z",
+      "user": "Aaroncooperiowa",
+      "userid": 39021736,
+      "size": 8188,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 952666867,
+      "parentid": 951157193,
+      "timestamp": "2020-04-23T13:00:00Z",
+      "user": "Michelestm",
+      "userid": 13657438,
+      "size": 8350,
+      "comment": "Corrected the statement that Franken will run against Ernst. He is one of five announced candidates who will compete in the Democratic primary; the winner of that contest will face Ernst in the November 3 general election.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 952668963,
+      "parentid": 952666867,
+      "timestamp": "2020-04-23T13:16:12Z",
+      "user": "Michelestm",
+      "userid": 13657438,
+      "size": 8354,
+      "comment": "Corrected typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 955662394,
+      "parentid": 952668963,
+      "timestamp": "2020-05-09T02:17:51Z",
+      "user": "Nablais",
+      "userid": 28534914,
+      "size": 8445,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 955663567,
+      "parentid": 955662394,
+      "timestamp": "2020-05-09T02:26:08Z",
+      "user": "Nablais",
+      "userid": 28534914,
+      "size": 8585,
+      "comment": "/* Endorsements */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956131526,
+      "parentid": 955663567,
+      "timestamp": "2020-05-11T17:30:30Z",
+      "user": "209.180.46.94",
+      "userid": 0,
+      "size": 8585,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956131589,
+      "parentid": 956131526,
+      "timestamp": "2020-05-11T17:30:56Z",
+      "user": "209.180.46.94",
+      "userid": 0,
+      "size": 8583,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956131668,
+      "parentid": 956131589,
+      "timestamp": "2020-05-11T17:31:18Z",
+      "user": "209.180.46.94",
+      "userid": 0,
+      "size": 8581,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956143377,
+      "parentid": 956131668,
+      "timestamp": "2020-05-11T18:37:41Z",
+      "user": "Aaroncooperiowa",
+      "userid": 39021736,
+      "size": 9003,
+      "comment": "added Franken's endorsements",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 956524691,
+      "parentid": 956143377,
+      "timestamp": "2020-05-13T20:54:38Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9003,
+      "comment": "/* Personal Life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 956524811,
+      "parentid": 956524691,
+      "timestamp": "2020-05-13T20:55:30Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 8963,
+      "comment": "fixes",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956524868,
+      "parentid": 956524811,
+      "timestamp": "2020-05-13T20:56:04Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 8488,
+      "comment": "/* Iraq war vote */ campaign video, no",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956524938,
+      "parentid": 956524868,
+      "timestamp": "2020-05-13T20:56:37Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 6490,
+      "comment": "/* Endorsements */ yikes, no, this goes on the election page and should not be sourced to candidate website anyway",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956525215,
+      "parentid": 956524938,
+      "timestamp": "2020-05-13T20:58:29Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 6512,
+      "comment": "Added {{[[Template:COI|COI]]}} tag: created by declared [[WP:COI]] editor ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956525307,
+      "parentid": 956525215,
+      "timestamp": "2020-05-13T20:59:09Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5973,
+      "comment": "/* 2020 U.S. Senate election in Iowa */ fluff",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956525358,
+      "parentid": 956525307,
+      "timestamp": "2020-05-13T20:59:29Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5995,
+      "comment": "/* Personal life */ {{unsourced section}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956525406,
+      "parentid": 956525358,
+      "timestamp": "2020-05-13T20:59:50Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5995,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 956528145,
+      "parentid": 956525406,
+      "timestamp": "2020-05-13T21:19:54Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 6009,
+      "comment": "Dating maintenance tags: {{Unsourced section}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 956560887,
+      "parentid": 956528145,
+      "timestamp": "2020-05-14T01:48:21Z",
+      "user": "KevinCuddeback",
+      "userid": 291957,
+      "size": 6397,
+      "comment": "Added newspaper as direct and indirect source",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 956561520,
+      "parentid": 956560887,
+      "timestamp": "2020-05-14T01:53:19Z",
+      "user": "KevinCuddeback",
+      "userid": 291957,
+      "size": 6407,
+      "comment": "Source includes details on his enlistment",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 956562533,
+      "parentid": 956561520,
+      "timestamp": "2020-05-14T02:01:13Z",
+      "user": "KevinCuddeback",
+      "userid": 291957,
+      "size": 6687,
+      "comment": "Add 2017 naval retirement bio article",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 957452881,
+      "parentid": 956562533,
+      "timestamp": "2020-05-18T22:58:56Z",
+      "user": "KevinCuddeback",
+      "userid": 291957,
+      "size": 6521,
+      "comment": "/* top */ Intro needs only enough info to establish identity and notability. Removed subject's undergraduate degree. Removed \"Iowa's Admiral\" as a nickname (no source, no common uses)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 957456162,
+      "parentid": 957452881,
+      "timestamp": "2020-05-18T23:23:20Z",
+      "user": "KevinCuddeback",
+      "userid": 291957,
+      "size": 7718,
+      "comment": "/* Career */  Better explain the Defense POW/MIA Accounting Agency as having been created from the merger of several predecessor entities.  Add wiki links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 957466077,
+      "parentid": 957456162,
+      "timestamp": "2020-05-19T00:31:26Z",
+      "user": "Keith D",
+      "userid": 2278355,
+      "size": 7726,
+      "comment": "Fix cite date errors",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 957539611,
+      "parentid": 957466077,
+      "timestamp": "2020-05-19T10:20:06Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 7826,
+      "comment": "split infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 957540173,
+      "parentid": 957539611,
+      "timestamp": "2020-05-19T10:24:35Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 7855,
+      "comment": "add free image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 957555023,
+      "parentid": 957540173,
+      "timestamp": "2020-05-19T12:22:47Z",
+      "user": "Gbawden",
+      "userid": 3957791,
+      "size": 7833,
+      "comment": "remove COI - reads better and the creator assures me that he doesn't know the person",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958583777,
+      "parentid": 957555023,
+      "timestamp": "2020-05-24T16:26:57Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 7697,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958583936,
+      "parentid": 958583777,
+      "timestamp": "2020-05-24T16:27:50Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 7692,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958804807,
+      "parentid": 958583936,
+      "timestamp": "2020-05-25T20:04:22Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 7675,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 959444193,
+      "parentid": 958804807,
+      "timestamp": "2020-05-28T20:22:27Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 7672,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 960476427,
+      "parentid": 959444193,
+      "timestamp": "2020-06-03T05:22:33Z",
+      "user": "KoopaDaQuick",
+      "userid": 35116019,
+      "size": 7766,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 972772047,
+      "parentid": 960476427,
+      "timestamp": "2020-08-13T18:47:39Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 7826,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974306803,
+      "parentid": 972772047,
+      "timestamp": "2020-08-22T07:19:44Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 7798,
+      "comment": "Infobox fix",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 976965999,
+      "parentid": 974306803,
+      "timestamp": "2020-09-06T04:04:08Z",
+      "user": "KingEdinburgh",
+      "userid": 38385644,
+      "size": 7996,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 980380627,
+      "parentid": 976965999,
+      "timestamp": "2020-09-26T06:53:33Z",
+      "user": "UnitedStatesian",
+      "userid": 3461395,
+      "size": 8045,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"United States Navy officer\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 983660542,
+      "parentid": 980380627,
+      "timestamp": "2020-10-15T14:21:24Z",
+      "user": "68.119.167.58",
+      "userid": 0,
+      "size": 8052,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 983665525,
+      "parentid": 983660542,
+      "timestamp": "2020-10-15T14:56:10Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 8045,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/68.119.167.58|68.119.167.58]] ([[User talk:68.119.167.58|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 984247579,
+      "parentid": 983665525,
+      "timestamp": "2020-10-19T01:57:02Z",
+      "user": "Vycl1994",
+      "userid": 19014806,
+      "size": 8089,
+      "comment": "added [[Category:People from Sioux Center, Iowa]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984646785,
+      "parentid": 984247579,
+      "timestamp": "2020-10-21T08:00:39Z",
+      "user": "Francis Schonken",
+      "userid": 85402,
+      "size": 8153,
+      "comment": "wl",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 984649824,
+      "parentid": 984646785,
+      "timestamp": "2020-10-21T08:22:42Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 8089,
+      "comment": "Undid revision 984646785 by [[Special:Contributions/Francis Schonken|Francis Schonken]] ([[User talk:Francis Schonken|talk]]) That article was deleted as the result of an [[Wikipedia:Articles for deletion/Theresa Greenfield|AfD discussion]], and should not simply be re-created with a new name. The redirect [[Theresa Greenfield]] was fully protected due to persistent article re-creation. The article at [[Theresa Greenfield (politician)]] has already been moved to draft space by another editor.",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 984662768,
+      "parentid": 984649824,
+      "timestamp": "2020-10-21T10:42:01Z",
+      "user": "Abraham, B.S.",
+      "userid": 4540583,
+      "size": 7912,
+      "comment": "Infobox military person more appropriate + tweaks/tidy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 989588270,
+      "parentid": 984662768,
+      "timestamp": "2020-11-19T21:28:17Z",
+      "user": "2601:88:8101:E300:5C7F:3AE8:D527:A7F8",
+      "userid": 0,
+      "size": 7997,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 990453588,
+      "parentid": 989588270,
+      "timestamp": "2020-11-24T15:40:20Z",
+      "user": "MTFranken",
+      "userid": 36439024,
+      "size": 8788,
+      "comment": "Added substance from official biography detailing four omitted billets including a substantial command tour. Updated the results of the Nov 3, 2020 general election.",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 991043585,
+      "parentid": 990453588,
+      "timestamp": "2020-11-27T23:30:46Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 8691,
+      "comment": "/* 2020 U.S. Senate election in Iowa */ Herzog didn't win the election.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 991603784,
+      "parentid": 991043585,
+      "timestamp": "2020-11-30T22:40:17Z",
+      "user": "Politicsfan4",
+      "userid": 40629262,
+      "size": 8651,
+      "comment": "Fixed infobox",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 993139738,
+      "parentid": 991603784,
+      "timestamp": "2020-12-09T00:41:21Z",
+      "user": "Politicsfan4",
+      "userid": 40629262,
+      "size": 8627,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 993423092,
+      "parentid": 993139738,
+      "timestamp": "2020-12-10T15:13:45Z",
+      "user": "KingSkyLord",
+      "userid": 30529645,
+      "size": 8634,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1006537398,
+      "parentid": 993423092,
+      "timestamp": "2021-02-13T11:46:55Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 8640,
+      "comment": "/* Personal life */ +",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1006539566,
+      "parentid": 1006537398,
+      "timestamp": "2021-02-13T12:08:05Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 8659,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1009971272,
+      "parentid": 1006539566,
+      "timestamp": "2021-03-03T05:15:28Z",
+      "user": "Alexr9873",
+      "userid": 39855518,
+      "size": 8718,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1026428585,
+      "parentid": 1009971272,
+      "timestamp": "2021-06-02T06:43:18Z",
+      "user": "All Hallow's Wraith",
+      "userid": 5044346,
+      "size": 8722,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1034909151,
+      "parentid": 1026428585,
+      "timestamp": "2021-07-22T14:07:18Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 8676,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1035017067,
+      "parentid": 1034909151,
+      "timestamp": "2021-07-23T05:15:06Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 8665,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1035233634,
+      "parentid": 1035017067,
+      "timestamp": "2021-07-24T13:23:04Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 8665,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1046846900,
+      "parentid": 1035233634,
+      "timestamp": "2021-09-27T18:16:03Z",
+      "user": "72.66.56.63",
+      "userid": 0,
+      "size": 8709,
+      "comment": "Added the award of the Defense Distinguished Service Medal which had been omitted.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1049906770,
+      "parentid": 1046846900,
+      "timestamp": "2021-10-14T15:23:46Z",
+      "user": "Willbarnhill",
+      "userid": 42280566,
+      "size": 9328,
+      "comment": "Added section about 2022 senate campaign",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1049975165,
+      "parentid": 1049906770,
+      "timestamp": "2021-10-15T00:50:37Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 9541,
+      "comment": "/* 2022 U.S. Senate election in Iowa */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1049975272,
+      "parentid": 1049975165,
+      "timestamp": "2021-10-15T00:51:56Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 9541,
+      "comment": "/* 2022 U.S. Senate election in Iowa */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1049975788,
+      "parentid": 1049975272,
+      "timestamp": "2021-10-15T00:57:50Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 9592,
+      "comment": "/* 2022 U.S. Senate election in Iowa */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1050066059,
+      "parentid": 1049975788,
+      "timestamp": "2021-10-15T15:21:31Z",
+      "user": "Frietjes",
+      "userid": 13791031,
+      "size": 9568,
+      "comment": "Clean up [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]] using [[:en:User:Frietjes/findargdups|findargdups]]: repairing duplicate |access-date =;",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1062563266,
+      "parentid": 1050066059,
+      "timestamp": "2021-12-29T05:59:31Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 9622,
+      "comment": "add category [[Category:Military personnel from Iowa]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1077850280,
+      "parentid": 1062563266,
+      "timestamp": "2022-03-18T14:36:44Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 9446,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1077850358,
+      "parentid": 1077850280,
+      "timestamp": "2022-03-18T14:37:12Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 9476,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1078129401,
+      "parentid": 1077850358,
+      "timestamp": "2022-03-20T01:05:19Z",
+      "user": "Davide King",
+      "userid": 18916437,
+      "size": 9496,
+      "comment": "ce",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1080858631,
+      "parentid": 1078129401,
+      "timestamp": "2022-04-03T21:59:00Z",
+      "user": "Jpgordon",
+      "userid": 96897,
+      "size": 9373,
+      "comment": "/* 2022 U.S. Senate election in Iowa */ first in 7 years? Big deal. Hardly worth mentioning.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1082713006,
+      "parentid": 1080858631,
+      "timestamp": "2022-04-14T16:26:01Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 9443,
+      "comment": "copyedits and structuring",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1082713151,
+      "parentid": 1082713006,
+      "timestamp": "2022-04-14T16:27:05Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 9392,
+      "comment": "lede copyedits",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1088411024,
+      "parentid": 1082713151,
+      "timestamp": "2022-05-17T21:12:26Z",
+      "user": "2604:2D80:560C:300:3C0E:B4E5:218E:1D0C",
+      "userid": 0,
+      "size": 9493,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091206832,
+      "parentid": 1088411024,
+      "timestamp": "2022-06-02T21:24:51Z",
+      "user": "4.35.250.228",
+      "userid": 0,
+      "size": 9738,
+      "comment": "Biography edit. For 2020 Senate Election",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1091206912,
+      "parentid": 1091206832,
+      "timestamp": "2022-06-02T21:25:24Z",
+      "user": "Bentogoa",
+      "userid": 4282335,
+      "size": 9493,
+      "comment": "Reverted edits by [[Special:Contributions/4.35.250.228|4.35.250.228]] ([[User talk:4.35.250.228|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.8)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1091207540,
+      "parentid": 1091206912,
+      "timestamp": "2022-06-02T21:30:41Z",
+      "user": "4.35.250.228",
+      "userid": 0,
+      "size": 9738,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1091207570,
+      "parentid": 1091207540,
+      "timestamp": "2022-06-02T21:30:57Z",
+      "user": "Bentogoa",
+      "userid": 4282335,
+      "size": 9493,
+      "comment": "Reverted edits by [[Special:Contributions/4.35.250.228|4.35.250.228]] ([[User talk:4.35.250.228|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.8)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1091319424,
+      "parentid": 1091207570,
+      "timestamp": "2022-06-03T15:09:56Z",
+      "user": "2604:2D80:560C:300:C97C:AC3F:7322:4172",
+      "userid": 0,
+      "size": 9500,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091331284,
+      "parentid": 1091319424,
+      "timestamp": "2022-06-03T16:46:43Z",
+      "user": "72.188.38.107",
+      "userid": 0,
+      "size": 9744,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1091331349,
+      "parentid": 1091331284,
+      "timestamp": "2022-06-03T16:47:13Z",
+      "user": "Discospinster",
+      "userid": 82432,
+      "size": 9500,
+      "comment": "Reverted edits by [[Special:Contributions/72.188.38.107|72.188.38.107]] ([[User talk:72.188.38.107|talk]]): not providing a [[WP:RS|reliable source]] ([[WP:CITE]], [[WP:RS]]) ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1091471690,
+      "parentid": 1091331349,
+      "timestamp": "2022-06-04T14:44:00Z",
+      "user": "72.188.38.107",
+      "userid": 0,
+      "size": 9759,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1091473312,
+      "parentid": 1091471690,
+      "timestamp": "2022-06-04T14:53:55Z",
+      "user": "72.188.38.107",
+      "userid": 0,
+      "size": 9804,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1091473757,
+      "parentid": 1091473312,
+      "timestamp": "2022-06-04T14:57:04Z",
+      "user": "72.188.38.107",
+      "userid": 0,
+      "size": 9910,
+      "comment": "Update Twitter information.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1091473860,
+      "parentid": 1091473757,
+      "timestamp": "2022-06-04T14:57:47Z",
+      "user": "72.188.38.107",
+      "userid": 0,
+      "size": 9909,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1091555327,
+      "parentid": 1091473860,
+      "timestamp": "2022-06-05T01:03:01Z",
+      "user": "UgaThirteen",
+      "userid": 37520043,
+      "size": 9650,
+      "comment": "removed an unsourced edit from an editor with possible coi",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091861179,
+      "parentid": 1091555327,
+      "timestamp": "2022-06-06T20:45:56Z",
+      "user": "72.188.38.107",
+      "userid": 0,
+      "size": 9971,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1091908084,
+      "parentid": 1091861179,
+      "timestamp": "2022-06-07T02:53:34Z",
+      "user": "Cdmonson",
+      "userid": 24955258,
+      "size": 9650,
+      "comment": "Undid revision 1091861179 by [[Special:Contributions/72.188.38.107|72.188.38.107]] ([[User talk:72.188.38.107|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091984873,
+      "parentid": 1091908084,
+      "timestamp": "2022-06-07T14:53:22Z",
+      "user": "4.35.250.228",
+      "userid": 0,
+      "size": 9893,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1091985748,
+      "parentid": 1091984873,
+      "timestamp": "2022-06-07T14:59:37Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9650,
+      "comment": "Reverted 1 edit by [[Special:Contributions/4.35.250.228|4.35.250.228]] ([[User talk:4.35.250.228|talk]]): [[WP:BLP]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1091989178,
+      "parentid": 1091985748,
+      "timestamp": "2022-06-07T15:19:52Z",
+      "user": "4.35.250.228",
+      "userid": 0,
+      "size": 9893,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1092003406,
+      "parentid": 1091989178,
+      "timestamp": "2022-06-07T17:01:54Z",
+      "user": "173.244.134.42",
+      "userid": 0,
+      "size": 9651,
+      "comment": "No source and grammatically flawed.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092073687,
+      "parentid": 1092003406,
+      "timestamp": "2022-06-08T01:46:38Z",
+      "user": "UncomfortablySmug",
+      "userid": 40445215,
+      "size": 9546,
+      "comment": "/* Personal life */ Not a public relations platform.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1092073880,
+      "parentid": 1092073687,
+      "timestamp": "2022-06-08T01:47:49Z",
+      "user": "UncomfortablySmug",
+      "userid": 40445215,
+      "size": 9477,
+      "comment": "/* External links */ Link doesn't work.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1092074302,
+      "parentid": 1092073880,
+      "timestamp": "2022-06-08T01:50:31Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9545,
+      "comment": "restored [[WP:ELOFFICIAL]], it's a .com rather than a .org",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092079941,
+      "parentid": 1092074302,
+      "timestamp": "2022-06-08T02:30:43Z",
+      "user": "Walor",
+      "userid": 3252575,
+      "size": 9538,
+      "comment": "[[MOS:HYPOCORISM]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092080908,
+      "parentid": 1092079941,
+      "timestamp": "2022-06-08T02:38:23Z",
+      "user": "50.158.44.186",
+      "userid": 0,
+      "size": 9527,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092080954,
+      "parentid": 1092080908,
+      "timestamp": "2022-06-08T02:38:44Z",
+      "user": "50.158.44.186",
+      "userid": 0,
+      "size": 9527,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092083329,
+      "parentid": 1092080954,
+      "timestamp": "2022-06-08T02:58:29Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 9866,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092084106,
+      "parentid": 1092083329,
+      "timestamp": "2022-06-08T03:03:40Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 10081,
+      "comment": "/* 2022 U.S. Senate election in Iowa */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092084291,
+      "parentid": 1092084106,
+      "timestamp": "2022-06-08T03:04:56Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 10231,
+      "comment": "/* 2020 U.S. Senate election in Iowa */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092084386,
+      "parentid": 1092084291,
+      "timestamp": "2022-06-08T03:05:35Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 10231,
+      "comment": "Muboshgu moved page [[Michael T. Franken]] to [[Michael Franken]] over redirect: [[WP:COMMONNAME]], unnecessary disambiguation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1092084523,
+      "parentid": 1092084386,
+      "timestamp": "2022-06-08T03:06:26Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 10226,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092085274,
+      "parentid": 1092084523,
+      "timestamp": "2022-06-08T03:11:37Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 10547,
+      "comment": "Filling in 2 references using [[WP:REFLINKS|Reflinks]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092089649,
+      "parentid": 1092085274,
+      "timestamp": "2022-06-08T03:42:28Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10536,
+      "comment": "/* Career */ copyedits",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092089754,
+      "parentid": 1092089649,
+      "timestamp": "2022-06-08T03:43:12Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10491,
+      "comment": "/* Personal life */ ?",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092122357,
+      "parentid": 1092089754,
+      "timestamp": "2022-06-08T08:55:56Z",
+      "user": "DocWatson42",
+      "userid": 38455,
+      "size": 10512,
+      "comment": "Cleaned up [[MOS:LAYOUT]] and other matters, including references.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1092123574,
+      "parentid": 1092122357,
+      "timestamp": "2022-06-08T09:07:44Z",
+      "user": "DocWatson42",
+      "userid": 38455,
+      "size": 10478,
+      "comment": "/* Navy career */ Cleaned up references and other matters.",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1092123782,
+      "parentid": 1092123574,
+      "timestamp": "2022-06-08T09:10:03Z",
+      "user": "DocWatson42",
+      "userid": 38455,
+      "size": 10756,
+      "comment": "/* top */ Cleaned up a reference and other matters.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1092148554,
+      "parentid": 1092123782,
+      "timestamp": "2022-06-08T13:10:10Z",
+      "user": "Billmckern",
+      "userid": 1869658,
+      "size": 11142,
+      "comment": "/* Personal life */ Reference",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092148614,
+      "parentid": 1092148554,
+      "timestamp": "2022-06-08T13:10:41Z",
+      "user": "Billmckern",
+      "userid": 1869658,
+      "size": 11135,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092164777,
+      "parentid": 1092148614,
+      "timestamp": "2022-06-08T15:21:08Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 11111,
+      "comment": "v2.04 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Stars and Stripes]] / Fix errors for [[WP:WCW|CW project]] (Duplicate arguments in template calls)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1092167490,
+      "parentid": 1092164777,
+      "timestamp": "2022-06-08T15:43:02Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 11161,
+      "comment": "[[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1092214650,
+      "parentid": 1092167490,
+      "timestamp": "2022-06-08T21:45:03Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11253,
+      "comment": "Tweaks",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093161690,
+      "parentid": 1092214650,
+      "timestamp": "2022-06-14T23:39:42Z",
+      "user": "Chsdrummajor07",
+      "userid": 5623853,
+      "size": 11271,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093584968,
+      "parentid": 1093161690,
+      "timestamp": "2022-06-17T15:13:14Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11311,
+      "comment": "Added AE template",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093586555,
+      "parentid": 1093584968,
+      "timestamp": "2022-06-17T15:24:35Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11373,
+      "comment": "/* External links */ expanded links",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093632417,
+      "parentid": 1093586555,
+      "timestamp": "2022-06-17T21:28:08Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11391,
+      "comment": "added children to infobox",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1094345968,
+      "parentid": 1093632417,
+      "timestamp": "2022-06-22T02:24:57Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 11410,
+      "comment": "/* 2020 U.S. Senate campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1094345994,
+      "parentid": 1094345968,
+      "timestamp": "2022-06-22T02:25:20Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 11437,
+      "comment": "/* 2022 U.S. Senate campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1097958931,
+      "parentid": 1094345994,
+      "timestamp": "2022-07-13T14:10:59Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11407,
+      "comment": "Reorganized sections",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1098453693,
+      "parentid": 1097958931,
+      "timestamp": "2022-07-15T22:39:20Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 11682,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1098453905,
+      "parentid": 1098453693,
+      "timestamp": "2022-07-15T22:40:48Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 11782,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1098454236,
+      "parentid": 1098453905,
+      "timestamp": "2022-07-15T22:43:25Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 11992,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1098454323,
+      "parentid": 1098454236,
+      "timestamp": "2022-07-15T22:44:07Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 12028,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1098454592,
+      "parentid": 1098454323,
+      "timestamp": "2022-07-15T22:45:56Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 12136,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1098454784,
+      "parentid": 1098454592,
+      "timestamp": "2022-07-15T22:47:21Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 12195,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1098456169,
+      "parentid": 1098454784,
+      "timestamp": "2022-07-15T22:57:14Z",
+      "user": "AndreJustAndre",
+      "userid": 13732,
+      "size": 12137,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1098967134,
+      "parentid": 1098456169,
+      "timestamp": "2022-07-18T09:57:27Z",
+      "user": "TDKR Chicago 101",
+      "userid": 17209722,
+      "size": 12146,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1098979858,
+      "parentid": 1098967134,
+      "timestamp": "2022-07-18T11:29:49Z",
+      "user": "2600:1702:CC4:20F0:C54E:E69D:71EA:F9B0",
+      "userid": 0,
+      "size": 12191,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1100278200,
+      "parentid": 1098979858,
+      "timestamp": "2022-07-25T02:56:59Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 11836,
+      "comment": "infobox formatting",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1102369483,
+      "parentid": 1100278200,
+      "timestamp": "2022-08-04T18:32:43Z",
+      "user": "DailyJew",
+      "userid": 44150186,
+      "size": 11984,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1105709622,
+      "parentid": 1102369483,
+      "timestamp": "2022-08-21T11:31:43Z",
+      "user": "Ser!",
+      "userid": 31259259,
+      "size": 12370,
+      "comment": "/* 2022 */ better source for it being an upset",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1107118287,
+      "parentid": 1105709622,
+      "timestamp": "2022-08-28T07:23:35Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 12184,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107118338,
+      "parentid": 1107118287,
+      "timestamp": "2022-08-28T07:24:06Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 12224,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107261286,
+      "parentid": 1107118338,
+      "timestamp": "2022-08-29T02:06:33Z",
+      "user": "73.71.207.173",
+      "userid": 0,
+      "size": 12253,
+      "comment": "/* Early life and education */Added a link for Naval Postgraduate School",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1107261347,
+      "parentid": 1107261286,
+      "timestamp": "2022-08-29T02:07:06Z",
+      "user": "73.71.207.173",
+      "userid": 0,
+      "size": 12227,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1107261398,
+      "parentid": 1107261347,
+      "timestamp": "2022-08-29T02:07:25Z",
+      "user": "73.71.207.173",
+      "userid": 0,
+      "size": 12228,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1110372081,
+      "parentid": 1107261398,
+      "timestamp": "2022-09-15T02:49:54Z",
+      "user": "Evans1982",
+      "userid": 7403563,
+      "size": 12246,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111639593,
+      "parentid": 1110372081,
+      "timestamp": "2022-09-22T02:39:20Z",
+      "user": "MaineCrab",
+      "userid": 35322434,
+      "size": 12852,
+      "comment": "adding section",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111639657,
+      "parentid": 1111639593,
+      "timestamp": "2022-09-22T02:39:52Z",
+      "user": "MaineCrab",
+      "userid": 35322434,
+      "size": 13052,
+      "comment": "Filled in 1 bare reference(s) with reFill 2",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111753696,
+      "parentid": 1111639657,
+      "timestamp": "2022-09-22T18:47:29Z",
+      "user": "67.128.219.2",
+      "userid": 0,
+      "size": 12246,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "Section blanking",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1111753728,
+      "parentid": 1111753696,
+      "timestamp": "2022-09-22T18:47:47Z",
+      "user": "Hey man im josh",
+      "userid": 40123752,
+      "size": 13052,
+      "comment": "Reverted edits by [[Special:Contributions/67.128.219.2|67.128.219.2]] ([[User talk:67.128.219.2|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1114634551,
+      "parentid": 1111753728,
+      "timestamp": "2022-10-07T13:53:31Z",
+      "user": "2600:8803:A906:4100:90A5:2969:D146:1077",
+      "userid": 0,
+      "size": 13055,
+      "comment": "/* Sexual assault accusation */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1114642322,
+      "parentid": 1114634551,
+      "timestamp": "2022-10-07T14:42:20Z",
+      "user": "2600:8803:A906:4100:90A5:2969:D146:1077",
+      "userid": 0,
+      "size": 13051,
+      "comment": "/* Sexual misconduct accusation */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1114879140,
+      "parentid": 1114642322,
+      "timestamp": "2022-10-08T18:58:45Z",
+      "user": "ContemporaryHistorical",
+      "userid": 33113070,
+      "size": 13051,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1116093437,
+      "parentid": 1114879140,
+      "timestamp": "2022-10-14T19:29:05Z",
+      "user": "Thr5li",
+      "userid": 44669937,
+      "size": 12961,
+      "comment": "/* Sexual misconduct accusation */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1116290940,
+      "parentid": 1116093437,
+      "timestamp": "2022-10-15T20:55:02Z",
+      "user": "Qwed117",
+      "userid": 20521999,
+      "size": 12950,
+      "comment": "/* Sexual misconduct accusation */  deleted 'disgruntled', an evident violation of NPOV",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1116291346,
+      "parentid": 1116290940,
+      "timestamp": "2022-10-15T20:57:38Z",
+      "user": "Qwed117",
+      "userid": 20521999,
+      "size": 12944,
+      "comment": "/* Sexual misconduct accusation */  as before NPOV, a \"false police report\" is an independent legal statement, and would have to be validated in a court trial",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1116462519,
+      "parentid": 1116291346,
+      "timestamp": "2022-10-16T18:08:24Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 12246,
+      "comment": "Why is there a level 2 heading section with [[WP:BLPGOSSIP]]?",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1116750344,
+      "parentid": 1116462519,
+      "timestamp": "2022-10-18T04:09:22Z",
+      "user": "Count Awesome",
+      "userid": 18301628,
+      "size": 12266,
+      "comment": "Franken’s tenure as Director of the Defense POW/MIA Accounting Agency lasted until September 2017, several months into the presidency of Donald Trump.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1117009463,
+      "parentid": 1116750344,
+      "timestamp": "2022-10-19T13:20:56Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 12826,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1117800913,
+      "parentid": 1117009463,
+      "timestamp": "2022-10-23T17:16:00Z",
+      "user": "Ser!",
+      "userid": 31259259,
+      "size": 12838,
+      "comment": "/* Personal life */ probably better to be specific",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1118078102,
+      "parentid": 1117800913,
+      "timestamp": "2022-10-25T02:33:18Z",
+      "user": "2601:806:8204:7850:BE:8581:247F:1F47",
+      "userid": 0,
+      "size": 12266,
+      "comment": "/* Personal life */I removed an item that was apparently added very recently (weeks before the election) that recounted unfounded claims against Franken. Since an investigation showed no wrong doing, there is really no reason to include this in Franken’s personal information.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1118160788,
+      "parentid": 1118078102,
+      "timestamp": "2022-10-25T14:12:12Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 12838,
+      "comment": "Undid revision 1118078102 by [[Special:Contributions/2601:806:8204:7850:BE:8581:247F:1F47|2601:806:8204:7850:BE:8581:247F:1F47]] ([[User talk:2601:806:8204:7850:BE:8581:247F:1F47|talk]]) It's important to note in this article that these claims were false",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118168778,
+      "parentid": 1118160788,
+      "timestamp": "2022-10-25T15:02:52Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 12266,
+      "comment": "Reverted 1 edit by [[Special:Contributions/GeorgeBailey|GeorgeBailey]] ([[User talk:GeorgeBailey|talk]]): No, [[WP:BLPGOSSIP]]. It's not important to note the claims",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1119808345,
+      "parentid": 1118168778,
+      "timestamp": "2022-11-03T14:43:43Z",
+      "user": "Openmy",
+      "userid": 15904502,
+      "size": 12286,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120287514,
+      "parentid": 1119808345,
+      "timestamp": "2022-11-06T06:22:47Z",
+      "user": "DocWatson42",
+      "userid": 38455,
+      "size": 12275,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"Retired United States Navy officer (born 1957)\" to \"Retired US Navy officer (born 1957)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1121289982,
+      "parentid": 1120287514,
+      "timestamp": "2022-11-11T14:32:41Z",
+      "user": "IntoThinAir",
+      "userid": 18336458,
+      "size": 12371,
+      "comment": "update 2022 result",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121591508,
+      "parentid": 1121289982,
+      "timestamp": "2022-11-13T03:03:24Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 12438,
+      "comment": "added [[Category:Candidates in the 2022 United States Senate elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1125112325,
+      "parentid": 1121591508,
+      "timestamp": "2022-12-02T07:09:26Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 12438,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1175781090,
+      "parentid": 1125112325,
+      "timestamp": "2023-09-17T11:22:46Z",
+      "user": "Airborne84",
+      "userid": 9474535,
+      "size": 12398,
+      "comment": "/* Early life and education */ link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1180060205,
+      "parentid": 1175781090,
+      "timestamp": "2023-10-14T07:11:26Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 12508,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 15686",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1213977454,
+      "parentid": 1180060205,
+      "timestamp": "2024-03-16T07:24:02Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 12531,
+      "comment": "Disambiguating links to [[Morningside College]] (link changed to [[Morningside University]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1225661447,
+      "parentid": 1213977454,
+      "timestamp": "2024-05-25T22:31:56Z",
+      "user": "Evru200",
+      "userid": 47763170,
+      "size": 12593,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1225661500,
+      "parentid": 1225661447,
+      "timestamp": "2024-05-25T22:32:34Z",
+      "user": "Evru200",
+      "userid": 47763170,
+      "size": 12601,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1225716474,
+      "parentid": 1225661500,
+      "timestamp": "2024-05-26T07:34:33Z",
+      "user": "178.84.221.209",
+      "userid": 0,
+      "size": 12586,
+      "comment": "/* 2022 */56 - 44 isn't guite a landslide, especially as is was Grassley's closest election since 1980",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1240273356,
+      "parentid": 1225716474,
+      "timestamp": "2024-08-14T14:07:33Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 13214,
+      "comment": "Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Ost316|Ost316]] - 20847",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1245745776,
+      "parentid": 1240273356,
+      "timestamp": "2024-09-14T20:41:46Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 13261,
+      "comment": "Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Losipov | [[Category:Candidates in the 2022 United States Senate elections]] | #UCB_Category 21/71",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Franken"
+}

@@ -1,0 +1,110 @@
+{
+  "page_title": "Toni_Gilhooley",
+  "candidate_name": "Toni Gilhooley",
+  "collection_date": "2025-12-28T16:56:54.984354",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 8,
+    "unique_editors": 8,
+    "date_range": {
+      "start": "2008-05-24T00:38:33Z",
+      "end": "2018-12-08T21:28:17Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 214536659,
+      "parentid": 0,
+      "timestamp": "2008-05-24T00:38:33Z",
+      "user": "Rividian",
+      "userid": 6396870,
+      "size": 435,
+      "comment": "[[WP:AES|←]]Created page with ''''Toni Gilhooley''' is the Republican candidate for [[United States Congress]] in [[Pennsylvania's 17th congressional district|Pennsylvania’s 17th District]]. He...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 214537214,
+      "parentid": 214536659,
+      "timestamp": "2008-05-24T00:43:00Z",
+      "user": "Jonny-mt",
+      "userid": 1514772,
+      "size": 446,
+      "comment": "{{politician-stub}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 214541748,
+      "parentid": 214537214,
+      "timestamp": "2008-05-24T01:13:41Z",
+      "user": "Chzz",
+      "userid": 6996885,
+      "size": 471,
+      "comment": "Added {{[[Template:expand|expand]]}} tag to article. using [[WP:FRIENDLY|Friendly]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 215378211,
+      "parentid": 214541748,
+      "timestamp": "2008-05-27T22:44:40Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 484,
+      "comment": "Stub-sorting. [[Wikipedia:WikiProject Stub sorting|You can help!]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 222023767,
+      "parentid": 215378211,
+      "timestamp": "2008-06-27T05:21:58Z",
+      "user": "Stormie",
+      "userid": 20772,
+      "size": 96,
+      "comment": "redirect to election article: per [[WP:BIO]], candidacy does not equal notability; no other assertion of notability",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 295503760,
+      "parentid": 222023767,
+      "timestamp": "2009-06-10T02:45:37Z",
+      "user": "DefaultsortBot",
+      "userid": 9721846,
+      "size": 171,
+      "comment": "Added DEFAULTSORT to page (used a WikiProject banner's listas parameter on the talk page). [[User talk:DefaultsortBot|Did I get it wrong?]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 356495638,
+      "parentid": 295503760,
+      "timestamp": "2010-04-17T00:25:49Z",
+      "user": "Mikaey",
+      "userid": 5839083,
+      "size": 129,
+      "comment": "Removing [[:Category:Possible cut-and-paste moves]] using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872735358,
+      "parentid": 356495638,
+      "timestamp": "2018-12-08T21:28:17Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 128,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Pennsylvania]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Toni_Gilhooley"
+}

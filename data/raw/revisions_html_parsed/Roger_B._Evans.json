@@ -1,0 +1,176 @@
+{
+  "page_title": "Roger_B._Evans",
+  "candidate_name": "Roger B. Evans",
+  "collection_date": "2025-12-28T16:52:50.670875",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 14,
+    "unique_editors": 7,
+    "date_range": {
+      "start": "2008-10-29T04:14:01Z",
+      "end": "2018-12-08T20:35:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 248346868,
+      "parentid": 0,
+      "timestamp": "2008-10-29T04:14:01Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 2893,
+      "comment": "Created page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248347088,
+      "parentid": 248346868,
+      "timestamp": "2008-10-29T04:16:48Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 2970,
+      "comment": "New section: \"External links\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248349631,
+      "parentid": 248347088,
+      "timestamp": "2008-10-29T04:44:45Z",
+      "user": "ArielGold",
+      "userid": 395740,
+      "size": 3043,
+      "comment": "needs refs - living person [[WP:BLP]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248472209,
+      "parentid": 248349631,
+      "timestamp": "2008-10-29T20:28:05Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3061,
+      "comment": "Date maintenance tags and general  fixes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 248682092,
+      "parentid": 248472209,
+      "timestamp": "2008-10-30T20:30:01Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 3452,
+      "comment": "Added references",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248682149,
+      "parentid": 248682092,
+      "timestamp": "2008-10-30T20:30:17Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 3417,
+      "comment": "Rm unreferenced tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250715191,
+      "parentid": 248682149,
+      "timestamp": "2008-11-09T20:13:03Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 3502,
+      "comment": "Update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251685549,
+      "parentid": 250715191,
+      "timestamp": "2008-11-14T01:54:41Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 3450,
+      "comment": "Rm future election candidates template",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 255663745,
+      "parentid": 251685549,
+      "timestamp": "2008-12-03T17:21:55Z",
+      "user": "Gene Nygaard",
+      "userid": 146986,
+      "size": 3507,
+      "comment": "fix missorting, why is this hidden away with no mention at [[Roger Evans]]?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 258030036,
+      "parentid": 255663745,
+      "timestamp": "2008-12-15T01:55:41Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 3539,
+      "comment": "+cat.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 288389723,
+      "parentid": 258030036,
+      "timestamp": "2009-05-07T01:31:32Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 89,
+      "comment": "Redirected page to \"United States House of Representatives elections in Hawaii, 2008\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 295277802,
+      "parentid": 288389723,
+      "timestamp": "2009-06-09T00:11:19Z",
+      "user": "DefaultsortBot",
+      "userid": 9721846,
+      "size": 164,
+      "comment": "Added DEFAULTSORT to page (used a WikiProject banner's listas parameter on the talk page). [[User talk:DefaultsortBot|Did I get it wrong?]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 297127160,
+      "parentid": 295277802,
+      "timestamp": "2009-06-18T09:22:52Z",
+      "user": "Mikaey",
+      "userid": 5839083,
+      "size": 122,
+      "comment": "removing [[:Category:Possible cut-and-paste moves]] using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872728267,
+      "parentid": 297127160,
+      "timestamp": "2018-12-08T20:35:02Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 121,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Hawaii]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_B._Evans"
+}

@@ -1,0 +1,356 @@
+{
+  "page_title": "Yvonne_Hayes_Hinson",
+  "candidate_name": "Yvonne Hayes Hinson",
+  "collection_date": "2025-12-28T16:57:43.562968",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 28,
+    "unique_editors": 19,
+    "date_range": {
+      "start": "2020-11-18T06:52:16Z",
+      "end": "2024-11-30T23:50:07Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 989309250,
+      "parentid": 0,
+      "timestamp": "2020-11-18T06:52:16Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 1408,
+      "comment": "Created the page.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 989324967,
+      "parentid": 989309250,
+      "timestamp": "2020-11-18T09:58:59Z",
+      "user": "Northern Escapee",
+      "userid": 39778420,
+      "size": 1473,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"Member of Florida House of Representatives\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 990852122,
+      "parentid": 989324967,
+      "timestamp": "2020-11-26T21:37:58Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 1521,
+      "comment": "add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 996314947,
+      "parentid": 990852122,
+      "timestamp": "2020-12-25T21:03:19Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 1456,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 2 templates: del empty params (5×); del |url-status= (1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 997712747,
+      "parentid": 996314947,
+      "timestamp": "2021-01-01T21:42:28Z",
+      "user": "Dillon251992",
+      "userid": 29762726,
+      "size": 4425,
+      "comment": "Added template and Election results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 997717888,
+      "parentid": 997712747,
+      "timestamp": "2021-01-01T22:15:48Z",
+      "user": "Dillon251992",
+      "userid": 29762726,
+      "size": 4448,
+      "comment": "Added official portrait photo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024771130,
+      "parentid": 997717888,
+      "timestamp": "2021-05-24T00:57:43Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 4484,
+      "comment": "defsort",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1027535482,
+      "parentid": 1024771130,
+      "timestamp": "2021-06-08T13:48:56Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4482,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:21st-century American women politicians]] | #UCB_Category 3259/4064",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1032834742,
+      "parentid": 1027535482,
+      "timestamp": "2021-07-09T23:44:09Z",
+      "user": "Certes",
+      "userid": 5984052,
+      "size": 4468,
+      "comment": "Remove unlikely authors (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1036457362,
+      "parentid": 1032834742,
+      "timestamp": "2021-07-31T17:26:34Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 4975,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1063245056,
+      "parentid": 1036457362,
+      "timestamp": "2022-01-02T01:03:50Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 4957,
+      "comment": "/* top */Removed [[MOS:OVERLINK|overlinked]] country wikilink and [[WP:GENFIX|general fixes]] ([[Wikipedia:Bots/Requests_for_approval/SdkbBot_2|task 2]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1089609440,
+      "parentid": 1063245056,
+      "timestamp": "2022-05-24T19:35:50Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 5016,
+      "comment": "added [[Category:African-American state legislators in Florida]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1124892079,
+      "parentid": 1089609440,
+      "timestamp": "2022-12-01T02:03:38Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 5002,
+      "comment": "/* External links */intersect Democratic and Florida representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1132030545,
+      "parentid": 1124892079,
+      "timestamp": "2023-01-06T23:03:01Z",
+      "user": "Builder29",
+      "userid": 45129646,
+      "size": 5931,
+      "comment": "included notable activity",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1151022654,
+      "parentid": 1132030545,
+      "timestamp": "2023-04-21T12:40:35Z",
+      "user": "Curbon7",
+      "userid": 35354423,
+      "size": 5940,
+      "comment": "portrait",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1159197767,
+      "parentid": 1151022654,
+      "timestamp": "2023-06-08T21:33:52Z",
+      "user": "The Green Star Collector",
+      "userid": 43306454,
+      "size": 5946,
+      "comment": "Infobox formatting.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1194564549,
+      "parentid": 1159197767,
+      "timestamp": "2024-01-09T16:54:00Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 5994,
+      "comment": "added [[Category:African-American women in politics]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1206332886,
+      "parentid": 1194564549,
+      "timestamp": "2024-02-11T21:40:38Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5993,
+      "comment": "move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1207775348,
+      "parentid": 1206332886,
+      "timestamp": "2024-02-15T18:00:36Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6032,
+      "comment": "Altered title. Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Лисан аль-Гаиб | #UCB_webform 458/480",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1207872019,
+      "parentid": 1207775348,
+      "timestamp": "2024-02-15T23:14:57Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6078,
+      "comment": "/* External links */add [[Category:21st-century Florida politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1218527140,
+      "parentid": 1207872019,
+      "timestamp": "2024-04-12T06:58:49Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 6034,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1225174618,
+      "parentid": 1218527140,
+      "timestamp": "2024-05-22T20:15:58Z",
+      "user": "Jessicapierce",
+      "userid": 2003421,
+      "size": 6037,
+      "comment": "minor copy edits",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1233150699,
+      "parentid": 1225174618,
+      "timestamp": "2024-07-07T14:53:27Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 6122,
+      "comment": "added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1238425162,
+      "parentid": 1233150699,
+      "timestamp": "2024-08-03T20:27:50Z",
+      "user": "Coqui002",
+      "userid": 32087068,
+      "size": 6135,
+      "comment": "Moving from [[Category:African-American women in politics]] to [[Category:21st-century African-American women politicians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1239127339,
+      "parentid": 1238425162,
+      "timestamp": "2024-08-07T13:55:58Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 6190,
+      "comment": "Copying from [[Category:21st-century African-American women politicians]] to [[Category:21st-century African-American politicians]] Diffusing per [[WP:DIFFUSE]] and/or [[WP:ALLINCLUDED]]  using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260472863,
+      "parentid": 1239127339,
+      "timestamp": "2024-11-30T23:28:11Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 6251,
+      "comment": "added [[:Category:21st-century members of the Florida Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260475135,
+      "parentid": 1260472863,
+      "timestamp": "2024-11-30T23:44:28Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 6205,
+      "comment": "Removing from [[Category:21st-century Florida politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260475962,
+      "parentid": 1260475135,
+      "timestamp": "2024-11-30T23:50:07Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 6158,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yvonne_Hayes_Hinson"
+}

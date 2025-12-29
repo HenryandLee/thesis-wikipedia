@@ -1,0 +1,44 @@
+{
+  "page_title": "Joel_Gill",
+  "candidate_name": "Joel Gill",
+  "collection_date": "2025-12-28T16:43:10.792260",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-01-03T05:13:57Z",
+      "end": "2018-12-08T18:02:35Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 588927303,
+      "parentid": 0,
+      "timestamp": "2014-01-03T05:13:57Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 94,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Mississippi, 2010#District 3]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872707515,
+      "parentid": 588927303,
+      "timestamp": "2018-12-08T18:02:35Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 93,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Mississippi]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joel_Gill"
+}

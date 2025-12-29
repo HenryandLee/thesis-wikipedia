@@ -1,0 +1,4456 @@
+{
+  "page_title": "Harriet_Hageman",
+  "candidate_name": "Harriet Hageman",
+  "collection_date": "2025-12-28T16:40:09.572896",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 324,
+    "unique_editors": 177,
+    "date_range": {
+      "start": "2021-09-08T14:22:03Z",
+      "end": "2024-12-27T11:23:40Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1043133251,
+      "parentid": 0,
+      "timestamp": "2021-09-08T14:22:03Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 49,
+      "comment": "Redirect",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1044402315,
+      "parentid": 1043133251,
+      "timestamp": "2021-09-15T02:02:28Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 126,
+      "comment": "changed redirect",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1044402532,
+      "parentid": 1044402315,
+      "timestamp": "2021-09-15T02:04:08Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 18,
+      "comment": "cont.",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 1044402634,
+      "parentid": 1044402532,
+      "timestamp": "2021-09-15T02:05:02Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 77,
+      "comment": "cont.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1057588042,
+      "parentid": 1044402634,
+      "timestamp": "2021-11-28T14:23:35Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5694,
+      "comment": "Created page.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-removed-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1057669337,
+      "parentid": 1057588042,
+      "timestamp": "2021-11-29T00:01:55Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 77,
+      "comment": "does not meet [[WP:NPOL]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1073689904,
+      "parentid": 1057669337,
+      "timestamp": "2022-02-24T01:45:36Z",
+      "user": "Robert McClenon",
+      "userid": 318807,
+      "size": 132,
+      "comment": "Added {{[[:Template:R with possibilities|R with possibilities]]}} tag  to redirect",
+      "minor": true,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1090369775,
+      "parentid": 1073689904,
+      "timestamp": "2022-05-29T04:35:48Z",
+      "user": "FloridaArmy",
+      "userid": 29750937,
+      "size": 5688,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2022 United States House of Representatives election in Wyoming]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1090369887,
+      "parentid": 1090369775,
+      "timestamp": "2022-05-29T04:37:15Z",
+      "user": "FloridaArmy",
+      "userid": 29750937,
+      "size": 5907,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1090369984,
+      "parentid": 1090369887,
+      "timestamp": "2022-05-29T04:38:55Z",
+      "user": "FloridaArmy",
+      "userid": 29750937,
+      "size": 5853,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1090370331,
+      "parentid": 1090369984,
+      "timestamp": "2022-05-29T04:42:35Z",
+      "user": "FloridaArmy",
+      "userid": 29750937,
+      "size": 132,
+      "comment": "[[WP:AES|←]]Redirected page to [[2022 United States House of Representatives election in Wyoming]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1093497454,
+      "parentid": 1090370331,
+      "timestamp": "2022-06-17T00:33:53Z",
+      "user": "2.53.27.29",
+      "userid": 0,
+      "size": 5907,
+      "comment": "notability established recently",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-removed-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093562733,
+      "parentid": 1093497454,
+      "timestamp": "2022-06-17T12:08:58Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 5983,
+      "comment": "uncategorized",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1093562789,
+      "parentid": 1093562733,
+      "timestamp": "2022-06-17T12:09:30Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 6010,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093563684,
+      "parentid": 1093562789,
+      "timestamp": "2022-06-17T12:18:41Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 6434,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Harriet Hageman]].",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1093623492,
+      "parentid": 1093563684,
+      "timestamp": "2022-06-17T20:20:02Z",
+      "user": "Ira Leviton",
+      "userid": 25046916,
+      "size": 6408,
+      "comment": "Fixed references.  Please see [[Category:CS1 maint: numeric names: authors list]].",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093700073,
+      "parentid": 1093623492,
+      "timestamp": "2022-06-18T08:46:50Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 6476,
+      "comment": "/* References */ add cats",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1093901832,
+      "parentid": 1093700073,
+      "timestamp": "2022-06-19T14:51:07Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6635,
+      "comment": "Alter: template type. Add: publisher, date, title, isbn, newspaper. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 561/1572",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1093908668,
+      "parentid": 1093901832,
+      "timestamp": "2022-06-19T15:50:27Z",
+      "user": "98.203.196.94",
+      "userid": 0,
+      "size": 6881,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1094361613,
+      "parentid": 1093908668,
+      "timestamp": "2022-06-22T04:43:32Z",
+      "user": "Tataral",
+      "userid": 11538300,
+      "size": 6890,
+      "comment": "has never held any political office or worked in politics",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1094362710,
+      "parentid": 1094361613,
+      "timestamp": "2022-06-22T04:51:13Z",
+      "user": "Curbon7",
+      "userid": 35354423,
+      "size": 6881,
+      "comment": "Reverting edit(s) by [[Special:Contributions/Tataral|Tataral]] ([[User_talk:Tataral|talk]]) to rev. 1093908668 by 98.203.196.94: just let the afd play out, it's not a biggie at the moment as this will be the revert version later [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn"
+      ]
+    },
+    {
+      "revid": 1094800719,
+      "parentid": 1094362710,
+      "timestamp": "2022-06-24T15:30:13Z",
+      "user": "Rodw",
+      "userid": 125972,
+      "size": 6914,
+      "comment": "Disambiguating links to [[Republican]] (link changed to [[Republican Party (United States)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1094860447,
+      "parentid": 1094800719,
+      "timestamp": "2022-06-24T23:55:05Z",
+      "user": "Liz",
+      "userid": 19404073,
+      "size": 118,
+      "comment": "[[Wikipedia:Articles for deletion/Harriet Hageman]] closed as redirect ([[WP:XFDC#4.0.13|XFDcloser]])",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1094975445,
+      "parentid": 1094860447,
+      "timestamp": "2022-06-25T17:46:25Z",
+      "user": "Sal2100",
+      "userid": 35140259,
+      "size": 137,
+      "comment": "link to the specific section where the subject is covered",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104779680,
+      "parentid": 1094975445,
+      "timestamp": "2022-08-16T21:30:06Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 158,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2022 United States House of Representatives election in Wyoming#Republican primary]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104779720,
+      "parentid": 1104779680,
+      "timestamp": "2022-08-16T21:30:20Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 159,
+      "comment": "[[WP:AES|←]]Redirected page to [[2022 United States House of Representatives election in Wyoming#Republican primary]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104823837,
+      "parentid": 1104779720,
+      "timestamp": "2022-08-17T02:48:11Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 6490,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2022 United States House of Representatives election in Wyoming#Republican primary]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104824014,
+      "parentid": 1104823837,
+      "timestamp": "2022-08-17T02:49:34Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 9970,
+      "comment": "consolidated with draft article",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104824171,
+      "parentid": 1104824014,
+      "timestamp": "2022-08-17T02:50:44Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 10101,
+      "comment": "copyedits and categories",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104827334,
+      "parentid": 1104824171,
+      "timestamp": "2022-08-17T03:18:47Z",
+      "user": "172.58.83.37",
+      "userid": 0,
+      "size": 10104,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "ios app edit",
+        "Possible disruption",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104830000,
+      "parentid": 1104827334,
+      "timestamp": "2022-08-17T03:42:41Z",
+      "user": "2600:1700:3B80:E70:D101:A4D4:D35E:C0B7",
+      "userid": 0,
+      "size": 10136,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104830043,
+      "parentid": 1104830000,
+      "timestamp": "2022-08-17T03:43:10Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 159,
+      "comment": "Restored revision 1104779720 by [[Special:Contributions/Deansfa|Deansfa]] ([[User talk:Deansfa|talk]]): Per [[Wikipedia:Articles for deletion/Harriet Hageman]], we have to wait until she wins the general election",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104830331,
+      "parentid": 1104830043,
+      "timestamp": "2022-08-17T03:46:04Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 10136,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2022 United States House of Representatives election in Wyoming#Republican primary]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104830410,
+      "parentid": 1104830331,
+      "timestamp": "2022-08-17T03:46:46Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 10104,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104831852,
+      "parentid": 1104830410,
+      "timestamp": "2022-08-17T03:59:49Z",
+      "user": "Ponydepression",
+      "userid": 11936234,
+      "size": 10104,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1104831954,
+      "parentid": 1104831852,
+      "timestamp": "2022-08-17T04:00:34Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 10149,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104832393,
+      "parentid": 1104831954,
+      "timestamp": "2022-08-17T04:03:59Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 10459,
+      "comment": "/* Career */ additional source",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1104832707,
+      "parentid": 1104832393,
+      "timestamp": "2022-08-17T04:06:35Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 10665,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104832937,
+      "parentid": 1104832707,
+      "timestamp": "2022-08-17T04:08:44Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 10873,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104832990,
+      "parentid": 1104832937,
+      "timestamp": "2022-08-17T04:09:05Z",
+      "user": "Rogerd",
+      "userid": 205136,
+      "size": 10926,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American lawyer and politician\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1104833166,
+      "parentid": 1104832990,
+      "timestamp": "2022-08-17T04:10:43Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 10952,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104833482,
+      "parentid": 1104833166,
+      "timestamp": "2022-08-17T04:13:23Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 10961,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104833792,
+      "parentid": 1104833482,
+      "timestamp": "2022-08-17T04:15:59Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 11022,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104833930,
+      "parentid": 1104833792,
+      "timestamp": "2022-08-17T04:17:35Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 11043,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104834009,
+      "parentid": 1104833930,
+      "timestamp": "2022-08-17T04:18:17Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 11051,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104834027,
+      "parentid": 1104834009,
+      "timestamp": "2022-08-17T04:18:25Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 11094,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104834238,
+      "parentid": 1104834027,
+      "timestamp": "2022-08-17T04:20:20Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 11125,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104834269,
+      "parentid": 1104834238,
+      "timestamp": "2022-08-17T04:20:36Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 11127,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104834403,
+      "parentid": 1104834269,
+      "timestamp": "2022-08-17T04:21:48Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 11102,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104838366,
+      "parentid": 1104834403,
+      "timestamp": "2022-08-17T04:58:31Z",
+      "user": "2.53.160.112",
+      "userid": 0,
+      "size": 11269,
+      "comment": "defeated the incumbent",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104839228,
+      "parentid": 1104838366,
+      "timestamp": "2022-08-17T05:06:45Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 11291,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104839279,
+      "parentid": 1104839228,
+      "timestamp": "2022-08-17T05:07:13Z",
+      "user": "Curbon7",
+      "userid": 35354423,
+      "size": 11124,
+      "comment": "Undid revision 1104838366 by [[Special:Contributions/2.53.160.112|2.53.160.112]] ([[User talk:2.53.160.112|talk]]) no [[WP:RS|reliable source]]; [[WP:NPOV]].",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104839497,
+      "parentid": 1104839279,
+      "timestamp": "2022-08-17T05:09:24Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 11188,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104840477,
+      "parentid": 1104839497,
+      "timestamp": "2022-08-17T05:18:56Z",
+      "user": "2402:D000:811C:213C:7844:A678:BF34:BABC",
+      "userid": 0,
+      "size": 11207,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104840636,
+      "parentid": 1104840477,
+      "timestamp": "2022-08-17T05:20:45Z",
+      "user": "47.184.205.38",
+      "userid": 0,
+      "size": 11188,
+      "comment": "Undid revision 1104840477 by [[Special:Contributions/2402:D000:811C:213C:7844:A678:BF34:BABC|2402:D000:811C:213C:7844:A678:BF34:BABC]] ([[User talk:2402:D000:811C:213C:7844:A678:BF34:BABC|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104840748,
+      "parentid": 1104840636,
+      "timestamp": "2022-08-17T05:21:44Z",
+      "user": "182.239.121.125",
+      "userid": 0,
+      "size": 11184,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104841431,
+      "parentid": 1104840748,
+      "timestamp": "2022-08-17T05:28:11Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 11223,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1104841856,
+      "parentid": 1104841431,
+      "timestamp": "2022-08-17T05:32:38Z",
+      "user": "Cyve",
+      "userid": 5972129,
+      "size": 11227,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104841907,
+      "parentid": 1104841856,
+      "timestamp": "2022-08-17T05:33:08Z",
+      "user": "Cyve",
+      "userid": 5972129,
+      "size": 11223,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1104843628,
+      "parentid": 1104841907,
+      "timestamp": "2022-08-17T05:47:36Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11132,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104847823,
+      "parentid": 1104843628,
+      "timestamp": "2022-08-17T06:15:09Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 11171,
+      "comment": "/* External links */ Objective truth reverted without explanation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104849271,
+      "parentid": 1104847823,
+      "timestamp": "2022-08-17T06:26:10Z",
+      "user": "PickleG13",
+      "userid": 23762609,
+      "size": 11176,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1104853478,
+      "parentid": 1104849271,
+      "timestamp": "2022-08-17T07:00:15Z",
+      "user": "MrMemer223",
+      "userid": 42624727,
+      "size": 12304,
+      "comment": "2022 Wyoming Republican primary",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104858920,
+      "parentid": 1104853478,
+      "timestamp": "2022-08-17T07:36:47Z",
+      "user": "Hottytoddygoshalmighty",
+      "userid": 30388798,
+      "size": 12326,
+      "comment": "https://caspercollegefoundation.org/2010-harriet-hageman/",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1104881025,
+      "parentid": 1104858920,
+      "timestamp": "2022-08-17T10:26:52Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 12607,
+      "comment": "Rescuing orphaned refs (\"candfilings\" from [[2022 United States House of Representatives election in Wyoming]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1104882761,
+      "parentid": 1104881025,
+      "timestamp": "2022-08-17T10:42:00Z",
+      "user": "2600:1702:CC4:20F0:59C0:38FC:7CD4:2197",
+      "userid": 0,
+      "size": 12711,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104883034,
+      "parentid": 1104882761,
+      "timestamp": "2022-08-17T10:44:22Z",
+      "user": "2600:1702:CC4:20F0:59C0:38FC:7CD4:2197",
+      "userid": 0,
+      "size": 12773,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104883137,
+      "parentid": 1104883034,
+      "timestamp": "2022-08-17T10:45:21Z",
+      "user": "2600:1702:CC4:20F0:59C0:38FC:7CD4:2197",
+      "userid": 0,
+      "size": 12777,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104883226,
+      "parentid": 1104883137,
+      "timestamp": "2022-08-17T10:46:10Z",
+      "user": "2600:1702:CC4:20F0:59C0:38FC:7CD4:2197",
+      "userid": 0,
+      "size": 12796,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104883312,
+      "parentid": 1104883226,
+      "timestamp": "2022-08-17T10:46:55Z",
+      "user": "2600:1702:CC4:20F0:59C0:38FC:7CD4:2197",
+      "userid": 0,
+      "size": 12822,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104883543,
+      "parentid": 1104883312,
+      "timestamp": "2022-08-17T10:48:55Z",
+      "user": "2600:1702:CC4:20F0:59C0:38FC:7CD4:2197",
+      "userid": 0,
+      "size": 12886,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104898631,
+      "parentid": 1104883543,
+      "timestamp": "2022-08-17T12:35:33Z",
+      "user": "Curbon7",
+      "userid": 35354423,
+      "size": 12860,
+      "comment": "Undid revision 1104883312 by [[Special:Contributions/2600:1702:CC4:20F0:59C0:38FC:7CD4:2197|2600:1702:CC4:20F0:59C0:38FC:7CD4:2197]] ([[User talk:2600:1702:CC4:20F0:59C0:38FC:7CD4:2197|talk]]); POV, the others are fine",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104907217,
+      "parentid": 1104898631,
+      "timestamp": "2022-08-17T13:32:28Z",
+      "user": "Whoisjohngalt",
+      "userid": 272397,
+      "size": 12857,
+      "comment": "Minor clean up",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104912999,
+      "parentid": 1104907217,
+      "timestamp": "2022-08-17T14:13:26Z",
+      "user": "Whoisjohngalt",
+      "userid": 272397,
+      "size": 13327,
+      "comment": "/* 2022 U.S. House election */ Quote from back in Sept 2021 as to the reason she was running.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104918768,
+      "parentid": 1104912999,
+      "timestamp": "2022-08-17T14:51:26Z",
+      "user": "MagicatthemovieS",
+      "userid": 19507760,
+      "size": 13313,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104919734,
+      "parentid": 1104918768,
+      "timestamp": "2022-08-17T14:58:28Z",
+      "user": "FloridaKitties",
+      "userid": 23656290,
+      "size": 13308,
+      "comment": "/* 2022 U.S. House election */Fixed typo.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1104925220,
+      "parentid": 1104919734,
+      "timestamp": "2022-08-17T15:32:50Z",
+      "user": "Gazamp",
+      "userid": 34220856,
+      "size": 13363,
+      "comment": "Cleanup",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104928881,
+      "parentid": 1104925220,
+      "timestamp": "2022-08-17T15:58:18Z",
+      "user": "Clementi",
+      "userid": 37456,
+      "size": 13356,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1104929986,
+      "parentid": 1104928881,
+      "timestamp": "2022-08-17T16:06:10Z",
+      "user": "金色黎明",
+      "userid": 35843509,
+      "size": 13486,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104931281,
+      "parentid": 1104929986,
+      "timestamp": "2022-08-17T16:15:18Z",
+      "user": "Syaz351",
+      "userid": 31003709,
+      "size": 13515,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104943366,
+      "parentid": 1104931281,
+      "timestamp": "2022-08-17T17:36:41Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 13518,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104946169,
+      "parentid": 1104943366,
+      "timestamp": "2022-08-17T17:55:45Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 13514,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104964958,
+      "parentid": 1104946169,
+      "timestamp": "2022-08-17T20:07:42Z",
+      "user": "Wikipeditor A",
+      "userid": 44360777,
+      "size": 14000,
+      "comment": "i added a short sentence to highlight Hageman's endorsement of lies that the 2020 presidential election was fraudulent.",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104966118,
+      "parentid": 1104964958,
+      "timestamp": "2022-08-17T20:15:46Z",
+      "user": "Spf121188",
+      "userid": 36239432,
+      "size": 13514,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Wikipeditor A|Wikipeditor A]] ([[User talk:Wikipeditor A|talk]]): This isn't suitable for the lead of this article, I would take this to the talk page",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1104976333,
+      "parentid": 1104966118,
+      "timestamp": "2022-08-17T21:27:58Z",
+      "user": "Kbabej",
+      "userid": 19166314,
+      "size": 13523,
+      "comment": "The subject is not a politician. They have never held political office.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104977311,
+      "parentid": 1104976333,
+      "timestamp": "2022-08-17T21:34:38Z",
+      "user": "59.153.220.108",
+      "userid": 0,
+      "size": 13523,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104983057,
+      "parentid": 1104977311,
+      "timestamp": "2022-08-17T22:16:51Z",
+      "user": "JLo-Watson",
+      "userid": 31141063,
+      "size": 13595,
+      "comment": "More detail on Cheney and incumbency",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1104984423,
+      "parentid": 1104983057,
+      "timestamp": "2022-08-17T22:27:10Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 13670,
+      "comment": "Requesting speedy deletion ([[WP:CSD#G4|CSD G4]]).",
+      "minor": false,
+      "tags": [
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104984827,
+      "parentid": 1104984423,
+      "timestamp": "2022-08-17T22:30:14Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 13595,
+      "comment": "feel free to nominate again",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104985353,
+      "parentid": 1104984827,
+      "timestamp": "2022-08-17T22:34:39Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 13670,
+      "comment": "Undid revision 1104984827 by [[Special:Contributions/Novemberjazz|Novemberjazz]] ([[User talk:Novemberjazz|talk]]) From [[WP:CSD]]: \"For most speedy deletion criteria, the creator of a page may not remove the deletion tag from it; only an editor who is not the creator of a page may do so.\" Feel free to contest on the talk page.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104985840,
+      "parentid": 1104985353,
+      "timestamp": "2022-08-17T22:38:42Z",
+      "user": "Sdrqaz",
+      "userid": 27233032,
+      "size": 13595,
+      "comment": "Declination of G4 CSD nomination – it only applies to \"a page *deleted* via its most recent deletion discussion\". The AfD ended with a \"redirect\" result; speedy deletion is not for overturning deletion discussions",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104986097,
+      "parentid": 1104985840,
+      "timestamp": "2022-08-17T22:40:53Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 77,
+      "comment": "The deletion discussion closed with consensus to wait for creation until she wins the *general election*, and that consensus should be respected. Redirecting.",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104986516,
+      "parentid": 1104986097,
+      "timestamp": "2022-08-17T22:44:18Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 126,
+      "comment": "Added {{[[:Template:R from person|R from person]]}} tag  to redirect",
+      "minor": false,
+      "tags": [
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1104986929,
+      "parentid": 1104986516,
+      "timestamp": "2022-08-17T22:47:46Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 13595,
+      "comment": "nope",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104988653,
+      "parentid": 1104986929,
+      "timestamp": "2022-08-17T23:01:34Z",
+      "user": "Praxidicae",
+      "userid": 28040267,
+      "size": 126,
+      "comment": "Undid revision 1104986929 by [[Special:Contributions/Novemberjazz|Novemberjazz]] ([[User talk:Novemberjazz|talk]]) per [[WP:AFD]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105037160,
+      "parentid": 1104988653,
+      "timestamp": "2022-08-18T05:44:54Z",
+      "user": "50.38.111.73",
+      "userid": 0,
+      "size": 149,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1105037200,
+      "parentid": 1105037160,
+      "timestamp": "2022-08-18T05:45:13Z",
+      "user": "TEMPO156",
+      "userid": 36722704,
+      "size": 126,
+      "comment": "Reverted 1 edit by [[Special:Contributions/50.38.111.73|50.38.111.73]] ([[User talk:50.38.111.73|talk]]) to last revision by Praxidicae",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1105041329,
+      "parentid": 1105037200,
+      "timestamp": "2022-08-18T06:23:25Z",
+      "user": "El C",
+      "userid": 92203,
+      "size": 13595,
+      "comment": "[[WP:NOTBURO|Wikipedia is not a bureaucracy]]: AfD is not cannon. The OP for the [[Wikipedia:Articles for deletion/Harriet Hageman|deletion discussion]] opened with: \"WP:BLP of a person notable only as an as yet non-winning candidate in a political party primary\" — well, she won. So is the argument just purely procedural? See also [[ Draft:Harriet Hageman]] whose content may be merged with this page. This is not an admin action",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1105065940,
+      "parentid": 1105041329,
+      "timestamp": "2022-08-18T10:09:51Z",
+      "user": "Srich32977",
+      "userid": 8372814,
+      "size": 13607,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1105066900,
+      "parentid": 1105065940,
+      "timestamp": "2022-08-18T10:18:17Z",
+      "user": "Srich32977",
+      "userid": 8372814,
+      "size": 13607,
+      "comment": "ALLCAPS",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1105067121,
+      "parentid": 1105066900,
+      "timestamp": "2022-08-18T10:20:15Z",
+      "user": "Srich32977",
+      "userid": 8372814,
+      "size": 13601,
+      "comment": "book year",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1105105777,
+      "parentid": 1105067121,
+      "timestamp": "2022-08-18T15:06:10Z",
+      "user": "2.53.165.88",
+      "userid": 0,
+      "size": 13630,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105106843,
+      "parentid": 1105105777,
+      "timestamp": "2022-08-18T15:13:36Z",
+      "user": "Kbabej",
+      "userid": 19166314,
+      "size": 13629,
+      "comment": "- space",
+      "minor": true,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105109799,
+      "parentid": 1105106843,
+      "timestamp": "2022-08-18T15:34:05Z",
+      "user": "2.53.165.88",
+      "userid": 0,
+      "size": 13614,
+      "comment": "removing peacock",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105135625,
+      "parentid": 1105109799,
+      "timestamp": "2022-08-18T18:27:15Z",
+      "user": "Mksword",
+      "userid": 751144,
+      "size": 13897,
+      "comment": "/* 2022 U.S. House election */ The upcoming November general election",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105136320,
+      "parentid": 1105135625,
+      "timestamp": "2022-08-18T18:31:50Z",
+      "user": "Mksword",
+      "userid": 751144,
+      "size": 13908,
+      "comment": "/* 2022 U.S. House election */ Improved footnote",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105136647,
+      "parentid": 1105136320,
+      "timestamp": "2022-08-18T18:34:03Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 13961,
+      "comment": "added [[Category:21st-century American women politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1105174070,
+      "parentid": 1105136647,
+      "timestamp": "2022-08-18T23:00:57Z",
+      "user": "Openmy",
+      "userid": 15904502,
+      "size": 13981,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105254691,
+      "parentid": 1105174070,
+      "timestamp": "2022-08-19T09:57:25Z",
+      "user": "Tataral",
+      "userid": 11538300,
+      "size": 126,
+      "comment": "this article on an obscure local lawyer who is not a member of any national parliament was just deleted. Please use the [[WP:DELREV]] procedure if you disagree with the result.",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105259435,
+      "parentid": 1105254691,
+      "timestamp": "2022-08-19T10:37:43Z",
+      "user": "2.53.171.209",
+      "userid": 0,
+      "size": 13981,
+      "comment": "Undid revision 1105254691 by [[Special:Contributions/Tataral|Tataral]] ([[User talk:Tataral|talk]])Notability established; she is shoo-in for the House",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-removed-redirect",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105323095,
+      "parentid": 1105259435,
+      "timestamp": "2022-08-19T17:37:26Z",
+      "user": "Tataral",
+      "userid": 11538300,
+      "size": 126,
+      "comment": "restore stable version, as agreed on by recent AfD consensus. Please obtain consensus for any changes; see [[WP:DELREV]] if you want to overturn the AfD consensus",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105331022,
+      "parentid": 1105323095,
+      "timestamp": "2022-08-19T18:30:29Z",
+      "user": "Carson Wentz",
+      "userid": 30797208,
+      "size": 13981,
+      "comment": "remove redirect.  Per [[User:EL C]] Wikipedia is not a bureaucracy: AfD is not cannon. The OP for the deletion discussion opened with: \"WP:BLP of a person notable only as an as yet non-winning candidate in a political party primary\" — well, she won. So is the argument just purely procedural? See also Draft:Harriet Hageman whose content may be merged with this page.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-removed-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105341637,
+      "parentid": 1105331022,
+      "timestamp": "2022-08-19T19:41:00Z",
+      "user": "Deepfriedokra",
+      "userid": 1025532,
+      "size": 13981,
+      "comment": "Protected \"[[Harriet Hageman]]\": [[WP:PP#Content disputes|Edit warring / content dispute]] ([Edit=Require administrator access] (expires 19:41, 23 August 2022 (UTC)))",
+      "minor": true,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1105341642,
+      "parentid": 1105341637,
+      "timestamp": "2022-08-19T19:41:00Z",
+      "user": "Deepfriedokra",
+      "userid": 1025532,
+      "size": 14006,
+      "comment": "Adding {{pp-dispute}}",
+      "minor": false,
+      "tags": [
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1106282032,
+      "parentid": 1105341642,
+      "timestamp": "2022-08-23T23:17:57Z",
+      "user": "DumbBOT",
+      "userid": 1310918,
+      "size": 13981,
+      "comment": "removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1106559868,
+      "parentid": 1106282032,
+      "timestamp": "2022-08-25T06:40:41Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 14252,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Harriet Hageman (2nd nomination)]].",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1106592653,
+      "parentid": 1106559868,
+      "timestamp": "2022-08-25T11:05:13Z",
+      "user": "2600:1702:CC4:20F0:6C90:B45E:5567:59B8",
+      "userid": 0,
+      "size": 14256,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106593004,
+      "parentid": 1106592653,
+      "timestamp": "2022-08-25T11:07:53Z",
+      "user": "2600:1702:CC4:20F0:6C90:B45E:5567:59B8",
+      "userid": 0,
+      "size": 14271,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106651365,
+      "parentid": 1106593004,
+      "timestamp": "2022-08-25T19:01:55Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 14554,
+      "comment": "/* Early life and education */ community college info",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1106773689,
+      "parentid": 1106651365,
+      "timestamp": "2022-08-26T10:59:23Z",
+      "user": "2.53.10.141",
+      "userid": 0,
+      "size": 14580,
+      "comment": "/* 2022 U.S. House election */ Cheney's $4.5 million",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106926517,
+      "parentid": 1106773689,
+      "timestamp": "2022-08-27T05:43:02Z",
+      "user": "Mifter",
+      "userid": 6362721,
+      "size": 14309,
+      "comment": "[[Wikipedia:Articles for deletion/Harriet Hageman (2nd nomination)]] closed as [[WP:SNOW|SNOW]] Keep ([[WP:XFDC#4.0.13|XFDcloser]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1107244146,
+      "parentid": 1106926517,
+      "timestamp": "2022-08-29T00:03:05Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 19959,
+      "comment": "major expansion, merging from draft article",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107374653,
+      "parentid": 1107244146,
+      "timestamp": "2022-08-29T17:37:55Z",
+      "user": "2.52.76.111",
+      "userid": 0,
+      "size": 19985,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107419834,
+      "parentid": 1107374653,
+      "timestamp": "2022-08-29T22:41:50Z",
+      "user": "Aaronw1109",
+      "userid": 29717583,
+      "size": 19984,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107434781,
+      "parentid": 1107419834,
+      "timestamp": "2022-08-30T00:23:52Z",
+      "user": "2.53.170.47",
+      "userid": 0,
+      "size": 20118,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107537763,
+      "parentid": 1107434781,
+      "timestamp": "2022-08-30T14:28:22Z",
+      "user": "Michaeldble",
+      "userid": 39361517,
+      "size": 20599,
+      "comment": "/* Political positions */ Added to political positions page on climate",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107576970,
+      "parentid": 1107537763,
+      "timestamp": "2022-08-30T19:00:00Z",
+      "user": "Whoisjohngalt",
+      "userid": 272397,
+      "size": 20591,
+      "comment": "/* 2022 U.S. House election */ Copy edit.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107577115,
+      "parentid": 1107576970,
+      "timestamp": "2022-08-30T19:00:51Z",
+      "user": "Whoisjohngalt",
+      "userid": 272397,
+      "size": 20589,
+      "comment": "/* Political positions */ Adgenda to plan",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107585040,
+      "parentid": 1107577115,
+      "timestamp": "2022-08-30T19:53:57Z",
+      "user": "Deansfa",
+      "userid": 187286,
+      "size": 20210,
+      "comment": "/* External links */ remove the commented categories",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107983415,
+      "parentid": 1107585040,
+      "timestamp": "2022-09-01T22:29:29Z",
+      "user": "Openmy",
+      "userid": 15904502,
+      "size": 20230,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108319563,
+      "parentid": 1107983415,
+      "timestamp": "2022-09-03T19:00:02Z",
+      "user": "MrMemer223",
+      "userid": 42624727,
+      "size": 20293,
+      "comment": "website",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108319835,
+      "parentid": 1108319563,
+      "timestamp": "2022-09-03T19:01:37Z",
+      "user": "MrMemer223",
+      "userid": 42624727,
+      "size": 20300,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108376454,
+      "parentid": 1108319835,
+      "timestamp": "2022-09-04T01:51:33Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 20322,
+      "comment": "/* 2022 U.S. House election */ grammar",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1109119319,
+      "parentid": 1108376454,
+      "timestamp": "2022-09-08T02:12:30Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 20360,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1113075341,
+      "parentid": 1109119319,
+      "timestamp": "2022-09-29T16:09:49Z",
+      "user": "HistorianAJG",
+      "userid": 43412612,
+      "size": 20749,
+      "comment": "/* 2022 U.S. House election */ corrected misrepresentation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1113853632,
+      "parentid": 1113075341,
+      "timestamp": "2022-10-03T15:10:42Z",
+      "user": "Qwerfjkl (bot)",
+      "userid": 42522270,
+      "size": 20743,
+      "comment": "Removed [[Help:Self link|link(s) to title]] ([[Wikipedia:WikiProject Check Wikipedia/List of errors#48|CW Error #48]]); [[WP:GENFIXES|general fixes]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1113860123,
+      "parentid": 1113853632,
+      "timestamp": "2022-10-03T15:40:28Z",
+      "user": "Jjj1238",
+      "userid": 18288353,
+      "size": 20749,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119734462,
+      "parentid": 1113860123,
+      "timestamp": "2022-11-03T03:55:18Z",
+      "user": "2402:D000:811C:3C55:F181:11E5:5D3D:B2FE",
+      "userid": 0,
+      "size": 20770,
+      "comment": "Placed on record that Mrs Harriet Hageman is actually a man, biologically speaking.",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119734623,
+      "parentid": 1119734462,
+      "timestamp": "2022-11-03T03:55:59Z",
+      "user": "Saintstephen000",
+      "userid": 40970218,
+      "size": 20749,
+      "comment": "Undid unsourced revision 1119734462 by [[Special:Contributions/2402:D000:811C:3C55:F181:11E5:5D3D:B2FE|2402:D000:811C:3C55:F181:11E5:5D3D:B2FE]] ([[User talk:2402:D000:811C:3C55:F181:11E5:5D3D:B2FE|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1120678611,
+      "parentid": 1119734623,
+      "timestamp": "2022-11-08T06:52:23Z",
+      "user": "2A04:CEC0:1124:588A:0:65:8161:D501",
+      "userid": 0,
+      "size": 20751,
+      "comment": "fixed facts",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1120678768,
+      "parentid": 1120678611,
+      "timestamp": "2022-11-08T06:53:49Z",
+      "user": "Raydann",
+      "userid": 44475625,
+      "size": 20749,
+      "comment": "Reverted edits by [[Special:Contributions/2A04:CEC0:1124:588A:0:65:8161:D501|2A04:CEC0:1124:588A:0:65:8161:D501]] ([[User talk:2A04:CEC0:1124:588A:0:65:8161:D501|talk]]) ([[User:Ingenuity/AntiVandal|AV]])",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1120688894,
+      "parentid": 1120678768,
+      "timestamp": "2022-11-08T08:23:07Z",
+      "user": "2A04:CEC0:1124:588A:0:65:8161:D501",
+      "userid": 0,
+      "size": 20769,
+      "comment": "Fixed facts again !",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1120688934,
+      "parentid": 1120688894,
+      "timestamp": "2022-11-08T08:23:38Z",
+      "user": "Saintstephen000",
+      "userid": 40970218,
+      "size": 20749,
+      "comment": "Undid revision 1120688894 by [[Special:Contributions/2A04:CEC0:1124:588A:0:65:8161:D501|2A04:CEC0:1124:588A:0:65:8161:D501]] ([[User talk:2A04:CEC0:1124:588A:0:65:8161:D501|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1120891696,
+      "parentid": 1120688934,
+      "timestamp": "2022-11-09T10:56:19Z",
+      "user": "Shipping address",
+      "userid": 41025607,
+      "size": 20916,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1120946206,
+      "parentid": 1120891696,
+      "timestamp": "2022-11-09T17:46:35Z",
+      "user": "2601:586:C700:CB90:41F7:330F:2CC5:C1F7",
+      "userid": 0,
+      "size": 20916,
+      "comment": "/* 2022 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120946799,
+      "parentid": 1120946206,
+      "timestamp": "2022-11-09T17:50:08Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 20742,
+      "comment": "infobox cleanup",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120995070,
+      "parentid": 1120946799,
+      "timestamp": "2022-11-09T23:29:45Z",
+      "user": "HistorianAJG",
+      "userid": 43412612,
+      "size": 20924,
+      "comment": "added member elect to lead",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121151772,
+      "parentid": 1120995070,
+      "timestamp": "2022-11-10T19:52:27Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 21021,
+      "comment": "added [[Category:Republican Party members of the United States House of Representatives from Wyoming]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1121373842,
+      "parentid": 1121151772,
+      "timestamp": "2022-11-11T23:34:34Z",
+      "user": "2601:447:CA01:3920:30F3:4630:EC61:1CBF",
+      "userid": 0,
+      "size": 21050,
+      "comment": "/* 2022 U.S. House election */Updated for 2022 results",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1122465240,
+      "parentid": 1121373842,
+      "timestamp": "2022-11-17T18:41:33Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 21186,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122486395,
+      "parentid": 1122465240,
+      "timestamp": "2022-11-17T21:05:03Z",
+      "user": "Curioushamm",
+      "userid": 28785163,
+      "size": 22758,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122632411,
+      "parentid": 1122486395,
+      "timestamp": "2022-11-18T17:17:56Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 22800,
+      "comment": "/* Political positions */break up run on",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1122632564,
+      "parentid": 1122632411,
+      "timestamp": "2022-11-18T17:19:24Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 22875,
+      "comment": "/* 2022 U.S. House election */tighten",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1122676384,
+      "parentid": 1122632564,
+      "timestamp": "2022-11-18T23:33:47Z",
+      "user": "Poppa shark",
+      "userid": 39597926,
+      "size": 22808,
+      "comment": "It's an odd picture to include for an elected official, and includes a watermark. I'd leave the page without one until her official portrait is available",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122683460,
+      "parentid": 1122676384,
+      "timestamp": "2022-11-19T00:32:38Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 22875,
+      "comment": "Undid revision 1122676384 by [[Special:Contributions/Poppa shark|Poppa shark]] ([[User talk:Poppa shark|talk]]) It's a perfectly fine picture, your standards are way too high",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122683750,
+      "parentid": 1122683460,
+      "timestamp": "2022-11-19T00:35:00Z",
+      "user": "BottleOfChocolateMilk",
+      "userid": 29090325,
+      "size": 22907,
+      "comment": "Photo cropped to remove watermark",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1123066016,
+      "parentid": 1122683750,
+      "timestamp": "2022-11-21T16:13:04Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 22935,
+      "comment": "/* 2022 U.S. House election */ update percentage",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1123990566,
+      "parentid": 1123066016,
+      "timestamp": "2022-11-26T20:21:58Z",
+      "user": "Seamusfleming92",
+      "userid": 44579410,
+      "size": 23164,
+      "comment": "Fixed middle name",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1123991152,
+      "parentid": 1123990566,
+      "timestamp": "2022-11-26T20:25:56Z",
+      "user": "Judekkan",
+      "userid": 44139398,
+      "size": 22935,
+      "comment": "Undid revision 1123990566 by [[Special:Contributions/Seamusfleming92|Seamusfleming92]] ([[User talk:Seamusfleming92|talk]]) I am not confident in this change",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124189451,
+      "parentid": 1123991152,
+      "timestamp": "2022-11-27T19:46:47Z",
+      "user": "LD1998",
+      "userid": 35371542,
+      "size": 22930,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1124296900,
+      "parentid": 1124189451,
+      "timestamp": "2022-11-28T06:45:28Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 22930,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125561060,
+      "parentid": 1124296900,
+      "timestamp": "2022-12-04T17:33:54Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 22977,
+      "comment": "/* External links */add [[Category:21st-century American politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1126490163,
+      "parentid": 1125561060,
+      "timestamp": "2022-12-09T16:38:05Z",
+      "user": "2001:9E8:34E:E00:3541:AB2C:5E1F:514A",
+      "userid": 0,
+      "size": 22945,
+      "comment": "/* 2022 U.S. House election */ more compact style",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1129749989,
+      "parentid": 1126490163,
+      "timestamp": "2022-12-26T23:44:32Z",
+      "user": "Leoc4321",
+      "userid": 43064577,
+      "size": 23143,
+      "comment": "i added a more professional portrait for the congresswoman elect.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1129750221,
+      "parentid": 1129749989,
+      "timestamp": "2022-12-26T23:46:12Z",
+      "user": "Leoc4321",
+      "userid": 43064577,
+      "size": 23143,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1129828005,
+      "parentid": 1129750221,
+      "timestamp": "2022-12-27T08:22:52Z",
+      "user": "Filedelinkerbot",
+      "userid": 20611691,
+      "size": 23102,
+      "comment": "Bot: Removing [[c:File:Harriethagemanportrait.jpg]] ([[:File:Harriethagemanportrait.jpg|en]]). Deleted by [[:C:User:Túrelio|Túrelio]] ([[Commons:COM:L|Copyright violation]]: From the source, it's a campaign photo, not likely under a free license).",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1130524259,
+      "parentid": 1129828005,
+      "timestamp": "2022-12-30T16:06:06Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 23164,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1130528009,
+      "parentid": 1130524259,
+      "timestamp": "2022-12-30T16:32:43Z",
+      "user": "Abjanssen2023",
+      "userid": 43159950,
+      "size": 23201,
+      "comment": "Added her membership and election to the U.S House",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1131296489,
+      "parentid": 1130528009,
+      "timestamp": "2023-01-03T13:56:41Z",
+      "user": "91.140.26.186",
+      "userid": 0,
+      "size": 23201,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131305075,
+      "parentid": 1131296489,
+      "timestamp": "2023-01-03T14:55:55Z",
+      "user": "2601:283:C101:E320:6C69:FE66:6752:925C",
+      "userid": 0,
+      "size": 23193,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1131318399,
+      "parentid": 1131305075,
+      "timestamp": "2023-01-03T16:27:18Z",
+      "user": "Muhibm0307",
+      "userid": 40568114,
+      "size": 23201,
+      "comment": "Undid revision 1131305075 by [[Special:Contributions/2601:283:C101:E320:6C69:FE66:6752:925C|2601:283:C101:E320:6C69:FE66:6752:925C]] ([[User talk:2601:283:C101:E320:6C69:FE66:6752:925C|talk]]): Term does not begin until noon EST.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1131318436,
+      "parentid": 1131318399,
+      "timestamp": "2023-01-03T16:27:34Z",
+      "user": "Muhibm0307",
+      "userid": 40568114,
+      "size": 23201,
+      "comment": "Undid revision 1131296489 by [[Special:Contributions/91.140.26.186|91.140.26.186]] ([[User talk:91.140.26.186|talk]]): Term does not begin until noon EST.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1131325435,
+      "parentid": 1131318436,
+      "timestamp": "2023-01-03T17:04:48Z",
+      "user": "Muhibm0307",
+      "userid": 40568114,
+      "size": 23193,
+      "comment": "118th Congress has begun.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1131337028,
+      "parentid": 1131325435,
+      "timestamp": "2023-01-03T18:15:21Z",
+      "user": "MostlyPolitical",
+      "userid": 32370648,
+      "size": 23169,
+      "comment": "Updated photo",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131388290,
+      "parentid": 1131337028,
+      "timestamp": "2023-01-03T23:09:50Z",
+      "user": "Harrytsang",
+      "userid": 26878118,
+      "size": 23161,
+      "comment": "have not been sworn in as there is no speaker in US House",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1131389739,
+      "parentid": 1131388290,
+      "timestamp": "2023-01-03T23:18:17Z",
+      "user": "2607:FEA8:20C0:E20:3DC5:D864:C53B:F49B",
+      "userid": 0,
+      "size": 23169,
+      "comment": "It doesn't matter as long as the new congess had officially started Jan 3, 2023.",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131527066,
+      "parentid": 1131389739,
+      "timestamp": "2023-01-04T14:48:04Z",
+      "user": "Impaulrators",
+      "userid": 44792191,
+      "size": 23800,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131603365,
+      "parentid": 1131527066,
+      "timestamp": "2023-01-04T22:43:02Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 23793,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1131653996,
+      "parentid": 1131603365,
+      "timestamp": "2023-01-05T04:21:40Z",
+      "user": "Hayden64",
+      "userid": 35043271,
+      "size": 24105,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1131654069,
+      "parentid": 1131653996,
+      "timestamp": "2023-01-05T04:22:20Z",
+      "user": "Hayden64",
+      "userid": 35043271,
+      "size": 24095,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131654318,
+      "parentid": 1131654069,
+      "timestamp": "2023-01-05T04:24:16Z",
+      "user": "Hayden64",
+      "userid": 35043271,
+      "size": 24091,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132085393,
+      "parentid": 1131654318,
+      "timestamp": "2023-01-07T05:22:58Z",
+      "user": "Politicsfan4",
+      "userid": 40629262,
+      "size": 24086,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132088360,
+      "parentid": 1132085393,
+      "timestamp": "2023-01-07T05:45:08Z",
+      "user": "47.205.116.13",
+      "userid": 0,
+      "size": 24086,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132091219,
+      "parentid": 1132088360,
+      "timestamp": "2023-01-07T06:05:32Z",
+      "user": "GoodDay",
+      "userid": 589223,
+      "size": 24086,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132095563,
+      "parentid": 1132091219,
+      "timestamp": "2023-01-07T06:44:07Z",
+      "user": "Rushtheeditor",
+      "userid": 39102135,
+      "size": 24086,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132100070,
+      "parentid": 1132095563,
+      "timestamp": "2023-01-07T07:20:46Z",
+      "user": "GoodDay",
+      "userid": 589223,
+      "size": 24086,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1132108535,
+      "parentid": 1132100070,
+      "timestamp": "2023-01-07T08:28:26Z",
+      "user": "23.115.137.65",
+      "userid": 0,
+      "size": 24086,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132134534,
+      "parentid": 1132108535,
+      "timestamp": "2023-01-07T12:06:15Z",
+      "user": "2A02:C7E:1183:2300:3043:1374:DD87:4845",
+      "userid": 0,
+      "size": 24074,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1132136176,
+      "parentid": 1132134534,
+      "timestamp": "2023-01-07T12:18:34Z",
+      "user": "2A02:C7E:1183:2300:3043:1374:DD87:4845",
+      "userid": 0,
+      "size": 24074,
+      "comment": "Her term officially started at the start of the 118th Congress on January 3rd 2023",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1132396089,
+      "parentid": 1132136176,
+      "timestamp": "2023-01-08T17:59:15Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 24585,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132690322,
+      "parentid": 1132396089,
+      "timestamp": "2023-01-10T02:30:39Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 24752,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133512999,
+      "parentid": 1132690322,
+      "timestamp": "2023-01-14T04:49:16Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 24826,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1133801837,
+      "parentid": 1133512999,
+      "timestamp": "2023-01-15T16:04:14Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 24944,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1133935953,
+      "parentid": 1133801837,
+      "timestamp": "2023-01-16T05:25:34Z",
+      "user": "Debartolo2917",
+      "userid": 32677190,
+      "size": 24905,
+      "comment": "Fixed link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135010073,
+      "parentid": 1133935953,
+      "timestamp": "2023-01-22T01:37:54Z",
+      "user": "Evans1982",
+      "userid": 7403563,
+      "size": 25194,
+      "comment": "/* U.S. House of Representatives */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135010981,
+      "parentid": 1135010073,
+      "timestamp": "2023-01-22T01:45:18Z",
+      "user": "Evans1982",
+      "userid": 7403563,
+      "size": 25330,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135011161,
+      "parentid": 1135010981,
+      "timestamp": "2023-01-22T01:46:39Z",
+      "user": "Evans1982",
+      "userid": 7403563,
+      "size": 25326,
+      "comment": "/* 2022 */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135042684,
+      "parentid": 1135011161,
+      "timestamp": "2023-01-22T07:45:10Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 25148,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1138460606,
+      "parentid": 1135042684,
+      "timestamp": "2023-02-09T20:32:18Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 25180,
+      "comment": "also a member of RSC",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1138886324,
+      "parentid": 1138460606,
+      "timestamp": "2023-02-12T04:59:11Z",
+      "user": "WikiFazBear1984",
+      "userid": 43671374,
+      "size": 25203,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1139604341,
+      "parentid": 1138886324,
+      "timestamp": "2023-02-15T23:54:25Z",
+      "user": "74.76.42.121",
+      "userid": 0,
+      "size": 25198,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1139862063,
+      "parentid": 1139604341,
+      "timestamp": "2023-02-17T07:24:04Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 25203,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1142113300,
+      "parentid": 1139862063,
+      "timestamp": "2023-02-28T15:46:59Z",
+      "user": "Ganesha811",
+      "userid": 19637353,
+      "size": 25233,
+      "comment": "Copying from [[Category:American women lawyers]] to [[Category:American lawyers]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1142211428,
+      "parentid": 1142113300,
+      "timestamp": "2023-03-01T03:18:47Z",
+      "user": "Noahp2",
+      "userid": 43637531,
+      "size": 25311,
+      "comment": "Adding relevant templates",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1143427208,
+      "parentid": 1142211428,
+      "timestamp": "2023-03-07T17:18:17Z",
+      "user": "Fenetrejones",
+      "userid": 32992551,
+      "size": 25559,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1143427320,
+      "parentid": 1143427208,
+      "timestamp": "2023-03-07T17:19:05Z",
+      "user": "Fenetrejones",
+      "userid": 32992551,
+      "size": 25666,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1143427784,
+      "parentid": 1143427320,
+      "timestamp": "2023-03-07T17:22:33Z",
+      "user": "Fenetrejones",
+      "userid": 32992551,
+      "size": 25668,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1143927983,
+      "parentid": 1143427784,
+      "timestamp": "2023-03-10T19:22:20Z",
+      "user": "Fenetrejones",
+      "userid": 32992551,
+      "size": 26041,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145176147,
+      "parentid": 1143927983,
+      "timestamp": "2023-03-17T17:07:13Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 25953,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145276047,
+      "parentid": 1145176147,
+      "timestamp": "2023-03-18T06:15:28Z",
+      "user": "WikiFazBear1984",
+      "userid": 43671374,
+      "size": 26001,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1145276266,
+      "parentid": 1145276047,
+      "timestamp": "2023-03-18T06:18:23Z",
+      "user": "WikiFazBear1984",
+      "userid": 43671374,
+      "size": 26001,
+      "comment": "Ce",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1146562441,
+      "parentid": 1145276266,
+      "timestamp": "2023-03-25T17:08:19Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 25953,
+      "comment": "reverting sock",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1146817398,
+      "parentid": 1146562441,
+      "timestamp": "2023-03-27T03:43:57Z",
+      "user": "2600:8807:BA0A:ED00:106D:F6BE:5946:1DEA",
+      "userid": 0,
+      "size": 25988,
+      "comment": "Trumpism",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1146832052,
+      "parentid": 1146817398,
+      "timestamp": "2023-03-27T06:24:44Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 25989,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1146893059,
+      "parentid": 1146832052,
+      "timestamp": "2023-03-27T15:58:17Z",
+      "user": "Minilammas",
+      "userid": 37812161,
+      "size": 26076,
+      "comment": "Cheney won 2 counties: https://commons.wikimedia.org/wiki/File:2022_United_States_House_of_Representatives_Republican_primary_election_in_Wyoming_results_map_by_county.svg#mw-jump-to-license",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1147618919,
+      "parentid": 1146893059,
+      "timestamp": "2023-04-01T03:10:06Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 26197,
+      "comment": "Alter: title. Add: work, title. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Superegz | [[Category:Female members of the United States House of Representatives‎]] | #UCB_Category 34/383",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1148154343,
+      "parentid": 1147618919,
+      "timestamp": "2023-04-04T11:57:53Z",
+      "user": "Mako001",
+      "userid": 42727488,
+      "size": 26233,
+      "comment": "Tagging pages with bare URLs for citation, prior to follow up with tools (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1148764090,
+      "parentid": 1148154343,
+      "timestamp": "2023-04-08T05:07:27Z",
+      "user": "Mako001",
+      "userid": 42727488,
+      "size": 26328,
+      "comment": "Fixed bare url (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1150346401,
+      "parentid": 1148764090,
+      "timestamp": "2023-04-17T16:47:44Z",
+      "user": "216.196.178.212",
+      "userid": 0,
+      "size": 26379,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150346448,
+      "parentid": 1150346401,
+      "timestamp": "2023-04-17T16:48:06Z",
+      "user": "I am Being Here to Help You",
+      "userid": 43009163,
+      "size": 26328,
+      "comment": "Reverted edits by [[Special:Contribs/216.196.178.212|216.196.178.212]] ([[User talk:216.196.178.212|talk]]) to last version by Mako001",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-rollback",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1151597226,
+      "parentid": 1150346448,
+      "timestamp": "2023-04-25T01:16:10Z",
+      "user": "LosPajaros",
+      "userid": 42479068,
+      "size": 26579,
+      "comment": "Adding Voice Box",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1154479906,
+      "parentid": 1151597226,
+      "timestamp": "2023-05-12T19:50:25Z",
+      "user": "MikeduffyiiiofDuxbury",
+      "userid": 42036934,
+      "size": 26613,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1158003543,
+      "parentid": 1154479906,
+      "timestamp": "2023-06-01T10:32:19Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 26613,
+      "comment": "update seniority (Cicilline resigned)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158770757,
+      "parentid": 1158003543,
+      "timestamp": "2023-06-06T03:45:04Z",
+      "user": "Corgi Stays",
+      "userid": 33724671,
+      "size": 26900,
+      "comment": "/* Syria */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158869113,
+      "parentid": 1158770757,
+      "timestamp": "2023-06-06T19:08:50Z",
+      "user": "Shearonink",
+      "userid": 11902450,
+      "size": 27091,
+      "comment": "C/E: Adjusted/fixed bare URL ref",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158871402,
+      "parentid": 1158869113,
+      "timestamp": "2023-06-06T19:26:25Z",
+      "user": "2600:1008:B082:5953:41F4:D2CA:4C84:3281",
+      "userid": 0,
+      "size": 27100,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1158874434,
+      "parentid": 1158871402,
+      "timestamp": "2023-06-06T19:50:09Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 27091,
+      "comment": "Undid revision 1158871402 by [[Special:Contributions/2600:1008:B082:5953:41F4:D2CA:4C84:3281|2600:1008:B082:5953:41F4:D2CA:4C84:3281]] ([[User talk:2600:1008:B082:5953:41F4:D2CA:4C84:3281|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1160040078,
+      "parentid": 1158874434,
+      "timestamp": "2023-06-14T02:11:42Z",
+      "user": "HistorianAJG",
+      "userid": 43412612,
+      "size": 27115,
+      "comment": "/* 2022 */ cite edit",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1161661393,
+      "parentid": 1160040078,
+      "timestamp": "2023-06-24T05:51:12Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 27114,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"U.S. representative from Wyoming\" to \"American politician (born 1962)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1161661826,
+      "parentid": 1161661393,
+      "timestamp": "2023-06-24T05:56:12Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 27184,
+      "comment": "Add: date. | [[:en:WP:UCB|Use this tool]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_Gadget",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1165715917,
+      "parentid": 1161661826,
+      "timestamp": "2023-07-17T00:04:05Z",
+      "user": "Jacobin 357",
+      "userid": 44962582,
+      "size": 27180,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1165716107,
+      "parentid": 1165715917,
+      "timestamp": "2023-07-17T00:05:06Z",
+      "user": "Jacobin 357",
+      "userid": 44962582,
+      "size": 27202,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1165716981,
+      "parentid": 1165716107,
+      "timestamp": "2023-07-17T00:11:23Z",
+      "user": "Jacobin 357",
+      "userid": 44962582,
+      "size": 27219,
+      "comment": "/* Syria */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1173381737,
+      "parentid": 1165716981,
+      "timestamp": "2023-09-02T02:11:11Z",
+      "user": "LosPajaros",
+      "userid": 42479068,
+      "size": 27418,
+      "comment": "replacing audio file with one from her time in congress",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1173429422,
+      "parentid": 1173381737,
+      "timestamp": "2023-09-02T10:44:30Z",
+      "user": "SuperWIKI",
+      "userid": 32395809,
+      "size": 27421,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1176714205,
+      "parentid": 1173429422,
+      "timestamp": "2023-09-23T14:46:15Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 27421,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1178465519,
+      "parentid": 1176714205,
+      "timestamp": "2023-10-03T20:56:21Z",
+      "user": "ElliAWB",
+      "userid": 41052350,
+      "size": 27505,
+      "comment": "Disambiguating links to [[2023 Speaker of the United States House of Representatives election]] (link changed to [[January 2023 Speaker of the United States House of Representatives election]]; link changed to [[January 2023 Speaker of the United States House of Representatives election]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1179514764,
+      "parentid": 1178465519,
+      "timestamp": "2023-10-10T16:52:59Z",
+      "user": "RockinJack18",
+      "userid": 17862183,
+      "size": 27333,
+      "comment": "irrelevant info for the lede",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1180352578,
+      "parentid": 1179514764,
+      "timestamp": "2023-10-16T02:48:43Z",
+      "user": "Reppop",
+      "userid": 31211555,
+      "size": 27413,
+      "comment": "/* U.S. House of Representatives */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1182639631,
+      "parentid": 1180352578,
+      "timestamp": "2023-10-30T13:55:14Z",
+      "user": "Thmymerc",
+      "userid": 46468629,
+      "size": 28452,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1182643966,
+      "parentid": 1182639631,
+      "timestamp": "2023-10-30T14:30:54Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 27413,
+      "comment": "[[WP:POV]] language",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1183711169,
+      "parentid": 1182643966,
+      "timestamp": "2023-11-06T01:22:55Z",
+      "user": "NBS13QRS",
+      "userid": 43684340,
+      "size": 27437,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1187027074,
+      "parentid": 1183711169,
+      "timestamp": "2023-11-27T00:32:57Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 27746,
+      "comment": "add ref",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1188281024,
+      "parentid": 1187027074,
+      "timestamp": "2023-12-04T11:39:33Z",
+      "user": "Faolin42",
+      "userid": 11526809,
+      "size": 27816,
+      "comment": "link to Attempts to overturn the 2020 United States presidential election",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1192169222,
+      "parentid": 1188281024,
+      "timestamp": "2023-12-28T00:30:37Z",
+      "user": "Debartolo2917",
+      "userid": 32677190,
+      "size": 27791,
+      "comment": "Fixed link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1193586537,
+      "parentid": 1192169222,
+      "timestamp": "2024-01-04T15:42:27Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 27791,
+      "comment": "/* External links */ https://www.cbsnews.com/news/kevin-mccarthy-retire-end-of-december-2023-historic-ouster/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1200655743,
+      "parentid": 1193586537,
+      "timestamp": "2024-01-30T00:15:56Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 27791,
+      "comment": "/* External links */ update seniority (Johnson resigned)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1205903616,
+      "parentid": 1200655743,
+      "timestamp": "2024-02-10T18:39:40Z",
+      "user": "Jenny Death",
+      "userid": 24152474,
+      "size": 27851,
+      "comment": "added [[Category:Candidates in the 2018 United States elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1210154736,
+      "parentid": 1205903616,
+      "timestamp": "2024-02-25T06:56:36Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 28636,
+      "comment": "/* Committee assignments */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1210154759,
+      "parentid": 1210154736,
+      "timestamp": "2024-02-25T06:56:48Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 28638,
+      "comment": "/* Committee assignments */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1211078675,
+      "parentid": 1210154759,
+      "timestamp": "2024-02-29T19:06:42Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 29069,
+      "comment": "Updated",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1211353609,
+      "parentid": 1211078675,
+      "timestamp": "2024-03-02T03:03:08Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 29070,
+      "comment": "move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1215883771,
+      "parentid": 1211353609,
+      "timestamp": "2024-03-27T18:26:12Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 29070,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215955923,
+      "parentid": 1215883771,
+      "timestamp": "2024-03-28T04:38:29Z",
+      "user": "70.187.152.42",
+      "userid": 0,
+      "size": 29090,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215955994,
+      "parentid": 1215955923,
+      "timestamp": "2024-03-28T04:39:30Z",
+      "user": "Codename Noreste",
+      "userid": 45911552,
+      "size": 29070,
+      "comment": "Reverted edits by [[Special:Contributions/70.187.152.42|70.187.152.42]] ([[User talk:70.187.152.42|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1215956197,
+      "parentid": 1215955994,
+      "timestamp": "2024-03-28T04:41:59Z",
+      "user": "70.187.152.42",
+      "userid": 0,
+      "size": 29090,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215956235,
+      "parentid": 1215956197,
+      "timestamp": "2024-03-28T04:42:26Z",
+      "user": "Codename Noreste",
+      "userid": 45911552,
+      "size": 29070,
+      "comment": "Reverted edits by [[Special:Contributions/70.187.152.42|70.187.152.42]] ([[User talk:70.187.152.42|talk]]): nonconstructive edits ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1215956299,
+      "parentid": 1215956235,
+      "timestamp": "2024-03-28T04:43:15Z",
+      "user": "70.187.152.42",
+      "userid": 0,
+      "size": 29090,
+      "comment": "Undid revision [[Special:Diff/1215956235|1215956235]] by [[Special:Contributions/Codename Noreste|Codename Noreste]] ([[User talk:Codename Noreste|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1216080946,
+      "parentid": 1215956299,
+      "timestamp": "2024-03-28T22:43:01Z",
+      "user": "2601:145:0:5910:5157:E57E:A44B:5E75",
+      "userid": 0,
+      "size": 29070,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1220879674,
+      "parentid": 1216080946,
+      "timestamp": "2024-04-26T13:58:42Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 29070,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1225523341,
+      "parentid": 1220879674,
+      "timestamp": "2024-05-25T00:03:18Z",
+      "user": "Mr. McCreery",
+      "userid": 47729377,
+      "size": 29118,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1232125722,
+      "parentid": 1225523341,
+      "timestamp": "2024-07-02T02:37:42Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 29114,
+      "comment": "fixed [[Template:Broken ref/cite error list|2x invalid ref position, extra whitespace in citation ( url=), extra whitespace in citation (url= )]] using [[User:TheJJJunk/ARA|ARA]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1232466961,
+      "parentid": 1232125722,
+      "timestamp": "2024-07-03T21:46:16Z",
+      "user": "2601:84:C981:FAF0:406D:BE5D:D153:1D2A",
+      "userid": 0,
+      "size": 29104,
+      "comment": "Hageman is not unopposed for re-election",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1232884611,
+      "parentid": 1232466961,
+      "timestamp": "2024-07-06T03:50:45Z",
+      "user": "Jay8g",
+      "userid": 14650386,
+      "size": 29100,
+      "comment": "Disambiguating links to [[ABC News (disambiguation)]] (link removed) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1235599712,
+      "parentid": 1232884611,
+      "timestamp": "2024-07-20T04:47:55Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 29100,
+      "comment": "/* External links */ update seniority ([[Sheila Jackson Lee]] died)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236306482,
+      "parentid": 1235599712,
+      "timestamp": "2024-07-24T00:23:02Z",
+      "user": "23.251.71.122",
+      "userid": 0,
+      "size": 29109,
+      "comment": "/* Legal career */Added context",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1236316122,
+      "parentid": 1236306482,
+      "timestamp": "2024-07-24T01:40:25Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 29579,
+      "comment": "/* Political positions */ Harris remarks, citation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236332573,
+      "parentid": 1236316122,
+      "timestamp": "2024-07-24T03:50:37Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30208,
+      "comment": "/* Tenure */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236332621,
+      "parentid": 1236332573,
+      "timestamp": "2024-07-24T03:51:06Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30209,
+      "comment": "/* Tenure */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236341977,
+      "parentid": 1236332621,
+      "timestamp": "2024-07-24T05:16:09Z",
+      "user": "Alessandra.A.Palma",
+      "userid": 46708060,
+      "size": 30503,
+      "comment": "/* Early life and education */  Added requested name of Great grandfather, and citation of his Migration from Tx to Wy.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1236342094,
+      "parentid": 1236341977,
+      "timestamp": "2024-07-24T05:17:35Z",
+      "user": "Alessandra.A.Palma",
+      "userid": 46708060,
+      "size": 30503,
+      "comment": "Comma moved.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1236343067,
+      "parentid": 1236342094,
+      "timestamp": "2024-07-24T05:27:52Z",
+      "user": "Alessandra.A.Palma",
+      "userid": 46708060,
+      "size": 30557,
+      "comment": "Updated URL of Google Book Reference, to a book with preview options.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1236343259,
+      "parentid": 1236343067,
+      "timestamp": "2024-07-24T05:29:55Z",
+      "user": "Alessandra.A.Palma",
+      "userid": 46708060,
+      "size": 30588,
+      "comment": "Updated Google Books Citation.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1236395402,
+      "parentid": 1236343259,
+      "timestamp": "2024-07-24T13:13:20Z",
+      "user": "TomboPC",
+      "userid": 35412608,
+      "size": 30649,
+      "comment": "/* Political positions */ Added the bracketed element in the following sentence: Speaking about Kamala Harris in 2024, Hageman called Harris \"a DEI hire\" (a reference to diversity, equity and inclusion initiatives) who is \"intellectually, just really kind of the bottom of the barrel\".",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1236401556,
+      "parentid": 1236395402,
+      "timestamp": "2024-07-24T14:00:06Z",
+      "user": "47.185.229.225",
+      "userid": 0,
+      "size": 30019,
+      "comment": "/* Tenure */Removal of opinion",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1236402425,
+      "parentid": 1236401556,
+      "timestamp": "2024-07-24T14:06:44Z",
+      "user": "ZimZalaBim",
+      "userid": 28422,
+      "size": 30649,
+      "comment": "Reverted 1 edit by [[Special:Contributions/47.185.229.225|47.185.229.225]] ([[User talk:47.185.229.225|talk]]): Improper removal of sourced conent",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1236415262,
+      "parentid": 1236402425,
+      "timestamp": "2024-07-24T15:33:10Z",
+      "user": "179.42.211.164",
+      "userid": 0,
+      "size": 30670,
+      "comment": "Fixed typo #article-section-source-editor",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "possible libel or vandalism",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1236415553,
+      "parentid": 1236415262,
+      "timestamp": "2024-07-24T15:35:29Z",
+      "user": "Frost",
+      "userid": 30292728,
+      "size": 30649,
+      "comment": "Reverted edits by [[Special:Contributions/179.42.211.164|179.42.211.164]] ([[User talk:179.42.211.164|talk]]) ([[WP:HG|HG]]) (3.4.12)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1236670505,
+      "parentid": 1236415553,
+      "timestamp": "2024-07-25T23:51:16Z",
+      "user": "DividedFrame",
+      "userid": 10531370,
+      "size": 30649,
+      "comment": "/* top */ Capitalization",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236879411,
+      "parentid": 1236670505,
+      "timestamp": "2024-07-27T01:06:18Z",
+      "user": "71.15.211.164",
+      "userid": 0,
+      "size": 30742,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1236913475,
+      "parentid": 1236879411,
+      "timestamp": "2024-07-27T06:00:09Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30754,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236913927,
+      "parentid": 1236913475,
+      "timestamp": "2024-07-27T06:03:56Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30863,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236913980,
+      "parentid": 1236913927,
+      "timestamp": "2024-07-27T06:04:22Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30221,
+      "comment": "/* Tenure */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236914030,
+      "parentid": 1236913980,
+      "timestamp": "2024-07-27T06:04:49Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30225,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236915088,
+      "parentid": 1236914030,
+      "timestamp": "2024-07-27T06:14:05Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30337,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236915412,
+      "parentid": 1236915088,
+      "timestamp": "2024-07-27T06:17:28Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30264,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1236915534,
+      "parentid": 1236915412,
+      "timestamp": "2024-07-27T06:18:32Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 30284,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1237150386,
+      "parentid": 1236915534,
+      "timestamp": "2024-07-28T10:55:36Z",
+      "user": "Cdonovan01",
+      "userid": 39205445,
+      "size": 30381,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1237150535,
+      "parentid": 1237150386,
+      "timestamp": "2024-07-28T10:56:55Z",
+      "user": "Cdonovan01",
+      "userid": 39205445,
+      "size": 30385,
+      "comment": "/* 2022 */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1237543068,
+      "parentid": 1237150535,
+      "timestamp": "2024-07-30T08:52:58Z",
+      "user": "76.88.250.233",
+      "userid": 0,
+      "size": 30401,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241705795,
+      "parentid": 1237543068,
+      "timestamp": "2024-08-22T18:12:37Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 30401,
+      "comment": "/* External links */ https://newjerseyglobe.com/congress/bill-pascrell-14-term-congressman-and-son-of-paterson-dies-at-87/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242317828,
+      "parentid": 1241705795,
+      "timestamp": "2024-08-26T05:40:32Z",
+      "user": "GatewayPolitics",
+      "userid": 47039277,
+      "size": 30015,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1242478078,
+      "parentid": 1242317828,
+      "timestamp": "2024-08-27T00:45:28Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 29964,
+      "comment": "Altered url. URLs might have been anonymized. Added work. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_CommandLine",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1244092491,
+      "parentid": 1242478078,
+      "timestamp": "2024-09-05T00:22:12Z",
+      "user": "Davide King",
+      "userid": 18916437,
+      "size": 30047,
+      "comment": "ce",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1244094060,
+      "parentid": 1244092491,
+      "timestamp": "2024-09-05T00:34:53Z",
+      "user": "Eyer",
+      "userid": 12608568,
+      "size": 30090,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1245408512,
+      "parentid": 1244094060,
+      "timestamp": "2024-09-12T21:00:07Z",
+      "user": "2600:1001:B028:2522:752D:5655:A1F3:A73D",
+      "userid": 0,
+      "size": 30097,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1246447920,
+      "parentid": 1245408512,
+      "timestamp": "2024-09-19T00:52:34Z",
+      "user": "188.129.80.85",
+      "userid": 0,
+      "size": 30098,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "possible vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246447963,
+      "parentid": 1246447920,
+      "timestamp": "2024-09-19T00:52:48Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 30097,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/188.129.80.85|188.129.80.85]] to version by 2600:1001:B028:2522:752D:5655:A1F3:A73D. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4345800) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1246448174,
+      "parentid": 1246447963,
+      "timestamp": "2024-09-19T00:53:57Z",
+      "user": "188.129.80.85",
+      "userid": 0,
+      "size": 30096,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246451546,
+      "parentid": 1246448174,
+      "timestamp": "2024-09-19T01:18:57Z",
+      "user": "186.11.75.58",
+      "userid": 0,
+      "size": 30097,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1246477872,
+      "parentid": 1246451546,
+      "timestamp": "2024-09-19T06:00:53Z",
+      "user": "35.138.200.222",
+      "userid": 0,
+      "size": 30408,
+      "comment": "/* Political positions */Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1246492879,
+      "parentid": 1246477872,
+      "timestamp": "2024-09-19T08:14:35Z",
+      "user": "71.112.178.55",
+      "userid": 0,
+      "size": 30551,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1246492946,
+      "parentid": 1246492879,
+      "timestamp": "2024-09-19T08:15:20Z",
+      "user": "TDKR Chicago 101",
+      "userid": 17209722,
+      "size": 30408,
+      "comment": "Undid revision [[Special:Diff/1246492879|1246492879]] by [[Special:Contributions/71.112.178.55|71.112.178.55]] ([[User talk:71.112.178.55|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246519834,
+      "parentid": 1246492946,
+      "timestamp": "2024-09-19T12:56:46Z",
+      "user": "147.235.201.133",
+      "userid": 0,
+      "size": 30411,
+      "comment": "/* 2024 Israel Terror Attack in Lebanon */",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246525664,
+      "parentid": 1246519834,
+      "timestamp": "2024-09-19T13:45:57Z",
+      "user": "94.191.152.39",
+      "userid": 0,
+      "size": 30408,
+      "comment": "/* 2024 Pager Attacks Against Hizbollah */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1246544602,
+      "parentid": 1246525664,
+      "timestamp": "2024-09-19T16:05:20Z",
+      "user": "Favonian",
+      "userid": 7007500,
+      "size": 30408,
+      "comment": "Protected \"[[Harriet Hageman]]\": Violations of the [[WP:BLP|biographies of living persons policy]]: requested at [[WP:RFPP]] ([Edit=Require autoconfirmed or confirmed access] (expires 16:05, 3 October 2024 (UTC)) [Move=Require autoconfirmed or confirmed access] (expires 16:05, 3 October 2024 (UTC)))",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1246544750,
+      "parentid": 1246544602,
+      "timestamp": "2024-09-19T16:06:23Z",
+      "user": "Favonian",
+      "userid": 7007500,
+      "size": 30429,
+      "comment": "padlock",
+      "minor": true,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1246544944,
+      "parentid": 1246544750,
+      "timestamp": "2024-09-19T16:07:58Z",
+      "user": "Favonian",
+      "userid": 7007500,
+      "size": 30118,
+      "comment": "/* 2024 Pager Attacks Against Hizbollah */ rm unsourced section; BLP issues",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1249774215,
+      "parentid": 1246544944,
+      "timestamp": "2024-10-06T19:20:25Z",
+      "user": "MusikBot II",
+      "userid": 29539620,
+      "size": 30097,
+      "comment": "Removing protection templates from unprotected page ([[User:MusikBot II/FixPP/FAQ|more info]])",
+      "minor": true,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1254047658,
+      "parentid": 1249774215,
+      "timestamp": "2024-10-29T05:07:56Z",
+      "user": "Guest2625",
+      "userid": 14410800,
+      "size": 30097,
+      "comment": "/* 2022 */Sourcing",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1254048307,
+      "parentid": 1254047658,
+      "timestamp": "2024-10-29T05:12:44Z",
+      "user": "Guest2625",
+      "userid": 14410800,
+      "size": 30171,
+      "comment": "Per [[WP:BLP]]",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1255904969,
+      "parentid": 1254048307,
+      "timestamp": "2024-11-07T06:20:14Z",
+      "user": "Vinnylospo",
+      "userid": 31057982,
+      "size": 30217,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1256116028,
+      "parentid": 1255904969,
+      "timestamp": "2024-11-08T08:24:00Z",
+      "user": "Οἶδα",
+      "userid": 39761822,
+      "size": 30250,
+      "comment": "Disambiguating links to [[Presidencies of Donald Trump]] (link changed to [[First presidency of Donald Trump]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1256914865,
+      "parentid": 1256116028,
+      "timestamp": "2024-11-12T05:22:51Z",
+      "user": "24.143.30.215",
+      "userid": 0,
+      "size": 30257,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257395584,
+      "parentid": 1256914865,
+      "timestamp": "2024-11-14T18:18:10Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 30257,
+      "comment": "/* External links */ https://thehill.com/homenews/house/4989579-matt-gaetz-resigns-attorney-general/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258241828,
+      "parentid": 1257395584,
+      "timestamp": "2024-11-18T22:30:27Z",
+      "user": "143.231.249.135",
+      "userid": 0,
+      "size": 30237,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "congressedits",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259232564,
+      "parentid": 1258241828,
+      "timestamp": "2024-11-24T02:31:24Z",
+      "user": "Pajamahop",
+      "userid": 45213009,
+      "size": 30226,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260508522,
+      "parentid": 1259232564,
+      "timestamp": "2024-12-01T04:30:45Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 30306,
+      "comment": "added [[:Category:21st-century members of the United States House of Representatives]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260513972,
+      "parentid": 1260508522,
+      "timestamp": "2024-12-01T05:16:52Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 30259,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1262471412,
+      "parentid": 1260513972,
+      "timestamp": "2024-12-11T16:20:32Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 30259,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262472856,
+      "parentid": 1262471412,
+      "timestamp": "2024-12-11T16:29:48Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 30211,
+      "comment": "Undid revision [[Special:Diff/1225523341|1225523341]] by [[Special:Contributions/Mr. McCreery|Mr. McCreery]] ([[User talk:Mr. McCreery|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263460241,
+      "parentid": 1262472856,
+      "timestamp": "2024-12-16T20:09:13Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 30211,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1265077177,
+      "parentid": 1263460241,
+      "timestamp": "2024-12-25T00:05:07Z",
+      "user": "96.227.221.45",
+      "userid": 0,
+      "size": 30237,
+      "comment": "/* Caucus memberships */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1265535743,
+      "parentid": 1265077177,
+      "timestamp": "2024-12-27T11:23:40Z",
+      "user": "BunnysBot",
+      "userid": 48643156,
+      "size": 30233,
+      "comment": "/* Electoral history */ Fix [[Wikipedia:WikiProject Check Wikipedia/List of errors|CW Errors]] with [[WP:GenFixes|GenFixes]] ([[User:BunnysBot/T1|T1]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harriet_Hageman"
+}

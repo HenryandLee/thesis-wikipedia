@@ -1,0 +1,55 @@
+{
+  "page_title": "Marty_McClendon",
+  "candidate_name": "Marty McClendon",
+  "collection_date": "2025-12-28T16:48:20.025855",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2016-08-03T04:38:16Z",
+      "end": "2018-12-08T19:02:58Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 732773455,
+      "parentid": 0,
+      "timestamp": "2016-08-03T04:38:16Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 134,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Washington, 2014#District 6]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785640200,
+      "parentid": 732773455,
+      "timestamp": "2017-06-14T16:42:36Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 168,
+      "comment": "+{{[[Template:Redirect category shell|Redirect category shell]]}} for multiple-{{R}} #Rs using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872716243,
+      "parentid": 785640200,
+      "timestamp": "2018-12-08T19:02:58Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 167,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in Washington]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marty_McClendon"
+}

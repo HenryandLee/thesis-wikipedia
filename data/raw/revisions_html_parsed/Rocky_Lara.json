@@ -1,0 +1,180 @@
+{
+  "page_title": "Rocky_Lara",
+  "candidate_name": "Rocky Lara",
+  "collection_date": "2025-12-28T16:52:47.663202",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 14,
+    "unique_editors": 12,
+    "date_range": {
+      "start": "2013-09-10T01:51:03Z",
+      "end": "2020-12-14T03:43:55Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 572276267,
+      "parentid": 0,
+      "timestamp": "2013-09-10T01:51:03Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 4052,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox Person |name        = Rocky Lara |image       =  |birth_date  =  |birth_place =  |death_date  =  |death_place =  |party       = Democratic Party (Uni...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 572276467,
+      "parentid": 572276267,
+      "timestamp": "2013-09-10T01:52:56Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 4049,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 572328914,
+      "parentid": 572276467,
+      "timestamp": "2013-09-10T11:25:01Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 4076,
+      "comment": "/* External links */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 576733858,
+      "parentid": 572328914,
+      "timestamp": "2013-10-11T15:28:01Z",
+      "user": "108.56.43.116",
+      "userid": 0,
+      "size": 4063,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 576733938,
+      "parentid": 576733858,
+      "timestamp": "2013-10-11T15:28:38Z",
+      "user": "108.56.43.116",
+      "userid": 0,
+      "size": 4058,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 579026625,
+      "parentid": 576733938,
+      "timestamp": "2013-10-27T23:35:03Z",
+      "user": "71.30.173.157",
+      "userid": 0,
+      "size": 4088,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 612020759,
+      "parentid": 579026625,
+      "timestamp": "2014-06-08T01:44:20Z",
+      "user": "107.19.144.168",
+      "userid": 0,
+      "size": 4131,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 677292682,
+      "parentid": 612020759,
+      "timestamp": "2015-08-22T08:35:35Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 4131,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 699876133,
+      "parentid": 677292682,
+      "timestamp": "2016-01-14T23:52:44Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 4132,
+      "comment": "clean up using [[Project:AWB|AWB]] (11798)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724879565,
+      "parentid": 699876133,
+      "timestamp": "2016-06-12T03:38:05Z",
+      "user": "Silverthief2",
+      "userid": 2974036,
+      "size": 4130,
+      "comment": "Tense changed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 888012219,
+      "parentid": 724879565,
+      "timestamp": "2019-03-16T09:35:15Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4181,
+      "comment": "/* External links */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 947887626,
+      "parentid": 888012219,
+      "timestamp": "2020-03-29T01:30:01Z",
+      "user": "Philoserf",
+      "userid": 548440,
+      "size": 3619,
+      "comment": "Fixing duplicate references with YABBR",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 860"
+      ]
+    },
+    {
+      "revid": 977803297,
+      "parentid": 947887626,
+      "timestamp": "2020-09-11T02:34:25Z",
+      "user": "MarnetteD",
+      "userid": 220924,
+      "size": 3574,
+      "comment": "rmv deprecated field",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994109946,
+      "parentid": 977803297,
+      "timestamp": "2020-12-14T03:43:55Z",
+      "user": "Tom.Bot",
+      "userid": 28901961,
+      "size": 3321,
+      "comment": "[[Wikipedia:Bots/Requests for approval/Tom.Bot 5|Task 6]]: +{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rocky_Lara"
+}

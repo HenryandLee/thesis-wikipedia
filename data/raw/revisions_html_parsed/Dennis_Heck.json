@@ -1,0 +1,115 @@
+{
+  "page_title": "Dennis_Heck",
+  "candidate_name": "Dennis Heck",
+  "collection_date": "2025-12-28T16:37:27.759483",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 7,
+    "unique_editors": 5,
+    "date_range": {
+      "start": "2018-12-06T04:33:26Z",
+      "end": "2022-05-09T18:58:43Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 872249770,
+      "parentid": 24276429,
+      "timestamp": "2018-12-06T04:33:26Z",
+      "user": "Feminist",
+      "userid": 25530780,
+      "size": 25,
+      "comment": "Feminist moved page [[Denny Heck]] to [[Draft:Move/Dennis Heck]] without leaving a redirect: [[WP:PMRC#4|Round-robin history swap]] step 1 using [[User:Andy M. Wang/pageswap|pageswap]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872249779,
+      "parentid": 872249770,
+      "timestamp": "2018-12-06T04:33:31Z",
+      "user": "Feminist",
+      "userid": 25530780,
+      "size": 25,
+      "comment": "Feminist moved page [[Draft:Move/Dennis Heck]] to [[Dennis Heck]] without leaving a redirect: [[WP:PMRC#4|Round-robin history swap]] step 3 using [[User:Andy M. Wang/pageswap|pageswap]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872249823,
+      "parentid": 872249779,
+      "timestamp": "2018-12-06T04:34:02Z",
+      "user": "Feminist",
+      "userid": 25530780,
+      "size": 70,
+      "comment": "Redirecting to [[Denny Heck]] ([[User:Kephir/gadgets/sagittarius|♐]])",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1056640831,
+      "parentid": 872249823,
+      "timestamp": "2021-11-22T23:31:14Z",
+      "user": "24.113.152.51",
+      "userid": 0,
+      "size": 60,
+      "comment": "[[WP:AES|←]]Removed redirect to [[Denny Heck]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1056640970,
+      "parentid": 1056640831,
+      "timestamp": "2021-11-22T23:32:44Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 70,
+      "comment": "[[WP:VAN]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1087006459,
+      "parentid": 1056640970,
+      "timestamp": "2022-05-09T18:58:34Z",
+      "user": "2601:601:1380:1D0:3025:5B26:25C3:66ED",
+      "userid": 0,
+      "size": 60,
+      "comment": "[[WP:AES|←]]Removed redirect to [[Denny Heck]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1087006490,
+      "parentid": 1087006459,
+      "timestamp": "2022-05-09T18:58:43Z",
+      "user": "3PPYB6",
+      "userid": 42453789,
+      "size": 70,
+      "comment": "[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2601:601:1380:1D0:3025:5B26:25C3:66ED|2601:601:1380:1D0:3025:5B26:25C3:66ED]] ([[User talk:2601:601:1380:1D0:3025:5B26:25C3:66ED|talk]]) to last revision by KidAd: nonconstructive edits",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-new-redirect",
+        "OAuth CID: 1805"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dennis_Heck"
+}

@@ -1,0 +1,57 @@
+{
+  "page_title": "Ben_Ray_Lujan",
+  "candidate_name": "Ben Ray Lujan",
+  "collection_date": "2025-12-28T16:33:08.590739",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2009-02-14T19:51:24Z",
+      "end": "2020-06-04T15:34:03Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 270720717,
+      "parentid": 0,
+      "timestamp": "2009-02-14T19:51:24Z",
+      "user": "Tocino",
+      "userid": 1531979,
+      "size": 27,
+      "comment": "created re-direct",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 640434104,
+      "parentid": 270720717,
+      "timestamp": "2014-12-31T21:56:23Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 28,
+      "comment": "Bot: Fixing double redirect to [[Ben Ray Luján]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 960725986,
+      "parentid": 640434104,
+      "timestamp": "2020-06-04T15:34:03Z",
+      "user": "DemonDays64",
+      "userid": 34607323,
+      "size": 64,
+      "comment": "Rcat",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ben_Ray_Lujan"
+}

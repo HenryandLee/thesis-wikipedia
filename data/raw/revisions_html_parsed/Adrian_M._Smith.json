@@ -1,0 +1,42 @@
+{
+  "page_title": "Adrian_M._Smith",
+  "candidate_name": "Adrian M. Smith",
+  "collection_date": "2025-12-28T16:31:34.054543",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-11-09T09:58:20Z",
+      "end": "2012-12-21T18:03:54Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 522153021,
+      "parentid": 0,
+      "timestamp": "2012-11-09T09:58:20Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 40,
+      "comment": "Rrius moved page [[Adrian M. Smith]] to [[Adrian Smith (politician)]]: He doesn't seem to go by his middle initial, so it isn't a great disambiguator.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 529143239,
+      "parentid": 522153021,
+      "timestamp": "2012-12-21T18:03:54Z",
+      "user": "MZMcBride",
+      "userid": 212624,
+      "size": 39,
+      "comment": "[[bugzilla:42616]]",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Adrian_M._Smith"
+}

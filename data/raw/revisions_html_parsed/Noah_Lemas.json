@@ -1,0 +1,55 @@
+{
+  "page_title": "Noah_Lemas",
+  "candidate_name": "Noah Lemas",
+  "collection_date": "2025-12-28T16:50:43.515943",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2008-04-13T20:49:31Z",
+      "end": "2018-12-08T19:45:40Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 205405732,
+      "parentid": 0,
+      "timestamp": "2008-04-13T20:49:31Z",
+      "user": "John J. Bulten",
+      "userid": 5383392,
+      "size": 54,
+      "comment": "#REDIRECT [[Oregon's 2nd congressional district#2008]] Recreate as redirect to election in which Lemas is candidate",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251000799,
+      "parentid": 205405732,
+      "timestamp": "2008-11-11T00:59:55Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 108,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Oregon, 2008#Second congressional district]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872721188,
+      "parentid": 251000799,
+      "timestamp": "2018-12-08T19:45:40Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 107,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Oregon]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Noah_Lemas"
+}

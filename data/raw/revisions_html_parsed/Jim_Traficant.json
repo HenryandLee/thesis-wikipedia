@@ -1,0 +1,53 @@
+{
+  "page_title": "Jim_Traficant",
+  "candidate_name": "Jim Traficant",
+  "collection_date": "2025-12-28T16:42:26.473275",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2012-12-19T07:16:57Z",
+      "end": "2014-09-27T19:39:38Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 528765555,
+      "parentid": 17093574,
+      "timestamp": "2012-12-19T07:16:57Z",
+      "user": "MZMcBride",
+      "userid": 212624,
+      "size": 29,
+      "comment": "[[bugzilla:42616]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 627314825,
+      "parentid": 528765555,
+      "timestamp": "2014-09-27T19:39:18Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 67,
+      "comment": "added [[Category:Unprintworthy redirects]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 627314862,
+      "parentid": 627314825,
+      "timestamp": "2014-09-27T19:39:38Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 107,
+      "comment": "added [[Category:Redirects from short names]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Traficant"
+}

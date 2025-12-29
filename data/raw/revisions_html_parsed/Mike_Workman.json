@@ -1,0 +1,44 @@
+{
+  "page_title": "Mike_Workman",
+  "candidate_name": "Mike Workman",
+  "collection_date": "2025-12-28T16:49:53.035698",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2016-08-09T20:35:03Z",
+      "end": "2018-12-06T19:45:32Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 733741460,
+      "parentid": 0,
+      "timestamp": "2016-08-09T20:35:03Z",
+      "user": "Pha telegrapher",
+      "userid": 1435246,
+      "size": 61,
+      "comment": "creates redirect page for person only notable for participation in the election linked to",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872349568,
+      "parentid": 733741460,
+      "timestamp": "2018-12-06T19:45:32Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 60,
+      "comment": "Bot: Fixing double redirect to [[2016 United States Senate election in Oklahoma]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Workman"
+}

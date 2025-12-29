@@ -1,0 +1,123 @@
+{
+  "page_title": "Bill_Day_(politician)",
+  "candidate_name": "Bill Day",
+  "collection_date": "2025-12-28T16:33:30.287510",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 9,
+    "unique_editors": 5,
+    "date_range": {
+      "start": "2007-10-05T15:01:23Z",
+      "end": "2020-06-20T01:06:48Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 162467054,
+      "parentid": 0,
+      "timestamp": "2007-10-05T15:01:23Z",
+      "user": "Captain Zyrain",
+      "userid": 676323,
+      "size": 533,
+      "comment": "create stub",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 162467171,
+      "parentid": 162467054,
+      "timestamp": "2007-10-05T15:02:05Z",
+      "user": "Captain Zyrain",
+      "userid": 676323,
+      "size": 559,
+      "comment": "31st",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 162468065,
+      "parentid": 162467171,
+      "timestamp": "2007-10-05T15:07:06Z",
+      "user": "Captain Zyrain",
+      "userid": 676323,
+      "size": 914,
+      "comment": "traffic",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 162481982,
+      "parentid": 162468065,
+      "timestamp": "2007-10-05T16:24:03Z",
+      "user": "Jeodesic",
+      "userid": 107484,
+      "size": 971,
+      "comment": "Stub sorting",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 162529661,
+      "parentid": 162481982,
+      "timestamp": "2007-10-05T20:32:07Z",
+      "user": "Captain Zyrain",
+      "userid": 676323,
+      "size": 981,
+      "comment": "alpha",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 162883315,
+      "parentid": 162529661,
+      "timestamp": "2007-10-07T15:53:14Z",
+      "user": "Captain Zyrain",
+      "userid": 676323,
+      "size": 32,
+      "comment": "redir",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 231808228,
+      "parentid": 162883315,
+      "timestamp": "2008-08-14T01:46:58Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 66,
+      "comment": "[[WP:AES|←]] Redirected page to [[Virginia's 1st congressional district election, 2008]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872619108,
+      "parentid": 231808228,
+      "timestamp": "2018-12-08T03:32:58Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 65,
+      "comment": "Bot: Fixing double redirect to [[2008 Virginia's 1st congressional district election]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 963481979,
+      "parentid": 872619108,
+      "timestamp": "2020-06-20T01:06:48Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Virginia#District 1]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Day_(politician)"
+}

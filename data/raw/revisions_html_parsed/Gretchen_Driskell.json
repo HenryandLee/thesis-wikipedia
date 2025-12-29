@@ -1,0 +1,985 @@
+{
+  "page_title": "Gretchen_Driskell",
+  "candidate_name": "Gretchen Driskell",
+  "collection_date": "2025-12-28T16:40:00.753366",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 85,
+    "unique_editors": 47,
+    "date_range": {
+      "start": "2013-07-18T02:27:23Z",
+      "end": "2024-12-06T20:15:09Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 564733049,
+      "parentid": 0,
+      "timestamp": "2013-07-18T02:27:23Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 1965,
+      "comment": "stubbiest of stubs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564733113,
+      "parentid": 564733049,
+      "timestamp": "2013-07-18T02:28:13Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 1973,
+      "comment": "copyedits",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564733195,
+      "parentid": 564733113,
+      "timestamp": "2013-07-18T02:29:19Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 2072,
+      "comment": "more copyedit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564777607,
+      "parentid": 564733195,
+      "timestamp": "2013-07-18T11:48:59Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 2148,
+      "comment": "defaultsort",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 567777345,
+      "parentid": 564777607,
+      "timestamp": "2013-08-09T05:30:00Z",
+      "user": "Ottawahitech",
+      "userid": 5327090,
+      "size": 2178,
+      "comment": "added [[Category:Women in finance]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 568584783,
+      "parentid": 567777345,
+      "timestamp": "2013-08-15T00:30:52Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 2365,
+      "comment": "[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (9421)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 581780453,
+      "parentid": 568584783,
+      "timestamp": "2013-11-15T15:21:51Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2363,
+      "comment": "removed [[Category:Real estate brokers]]; added [[Category:American realtors]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 587127869,
+      "parentid": 581780453,
+      "timestamp": "2013-12-21T18:59:52Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 2399,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 587511282,
+      "parentid": 587127869,
+      "timestamp": "2013-12-24T13:30:12Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 2398,
+      "comment": "fixed [[:Category:CS1 errors: dates|CS1 errors: dates]] & [[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]] (9816)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 618181025,
+      "parentid": 587511282,
+      "timestamp": "2014-07-23T21:48:54Z",
+      "user": "50.33.194.76",
+      "userid": 0,
+      "size": 2431,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 628122696,
+      "parentid": 618181025,
+      "timestamp": "2014-10-03T19:45:53Z",
+      "user": "Meandeanmachine",
+      "userid": 22736564,
+      "size": 2504,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "gettingstarted edit"
+      ]
+    },
+    {
+      "revid": 628122869,
+      "parentid": 628122696,
+      "timestamp": "2014-10-03T19:47:39Z",
+      "user": "Richard Yin",
+      "userid": 21253570,
+      "size": 2431,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Meandeanmachine|Meandeanmachine]] ([[User talk:Meandeanmachine|talk]]) to last revision by 50.33.194.76. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 646376841,
+      "parentid": 628122869,
+      "timestamp": "2015-02-09T17:59:41Z",
+      "user": "68.40.137.88",
+      "userid": 0,
+      "size": 2666,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 646390244,
+      "parentid": 646376841,
+      "timestamp": "2015-02-09T19:42:56Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 2703,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 653252325,
+      "parentid": 646390244,
+      "timestamp": "2015-03-24T02:47:46Z",
+      "user": "Criticalthinker",
+      "userid": 466067,
+      "size": 3501,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 653259932,
+      "parentid": 653252325,
+      "timestamp": "2015-03-24T04:11:16Z",
+      "user": "Criticalthinker",
+      "userid": 466067,
+      "size": 4187,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 662742618,
+      "parentid": 653259932,
+      "timestamp": "2015-05-17T09:22:09Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4214,
+      "comment": "genfixes using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 677509629,
+      "parentid": 662742618,
+      "timestamp": "2015-08-23T19:25:31Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 4281,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 677987728,
+      "parentid": 677509629,
+      "timestamp": "2015-08-26T19:09:46Z",
+      "user": "Lp734",
+      "userid": 7678316,
+      "size": 4318,
+      "comment": "/* External links */ Added campaign website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 678270930,
+      "parentid": 677987728,
+      "timestamp": "2015-08-28T10:30:11Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 4329,
+      "comment": "Robot - Moving category American realtors to [[:Category:American real estate brokers]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 July 19]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 686284153,
+      "parentid": 678270930,
+      "timestamp": "2015-10-18T05:47:09Z",
+      "user": "Lp734",
+      "userid": 7678316,
+      "size": 4328,
+      "comment": "Fixed typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 698214566,
+      "parentid": 686284153,
+      "timestamp": "2016-01-04T18:34:37Z",
+      "user": "Delaywaves",
+      "userid": 13989377,
+      "size": 4393,
+      "comment": "Add photo.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 701026635,
+      "parentid": 698214566,
+      "timestamp": "2016-01-22T01:35:25Z",
+      "user": "Carguy13",
+      "userid": 27380670,
+      "size": 4752,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 711237311,
+      "parentid": 701026635,
+      "timestamp": "2016-03-21T18:07:56Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 4738,
+      "comment": "/* U.S. House of Representatives elections */ Adding dates for clarity",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 711237371,
+      "parentid": 711237311,
+      "timestamp": "2016-03-21T18:08:20Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 4738,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 711237735,
+      "parentid": 711237371,
+      "timestamp": "2016-03-21T18:10:40Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 4810,
+      "comment": "Conform to source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 711237844,
+      "parentid": 711237735,
+      "timestamp": "2016-03-21T18:11:31Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 4857,
+      "comment": "Edits for flow",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723354549,
+      "parentid": 711237844,
+      "timestamp": "2016-06-02T15:16:32Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 4599,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Gretchen Driskell|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731648499,
+      "parentid": 723354549,
+      "timestamp": "2016-07-26T17:29:47Z",
+      "user": "NavyBlueSunglasses",
+      "userid": 27613779,
+      "size": 4791,
+      "comment": "/* U.S. House of Representatives elections */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 748044715,
+      "parentid": 731648499,
+      "timestamp": "2016-11-06T00:52:46Z",
+      "user": "Cindys313",
+      "userid": 29341492,
+      "size": 4931,
+      "comment": "/* U.S. House of Representatives elections */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 748044807,
+      "parentid": 748044715,
+      "timestamp": "2016-11-06T00:53:15Z",
+      "user": "Cindys313",
+      "userid": 29341492,
+      "size": 4932,
+      "comment": "/* U.S. House of Representatives elections */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 748044973,
+      "parentid": 748044807,
+      "timestamp": "2016-11-06T00:54:08Z",
+      "user": "Cindys313",
+      "userid": 29341492,
+      "size": 4933,
+      "comment": "/* U.S. House of Representatives elections */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 748046515,
+      "parentid": 748044973,
+      "timestamp": "2016-11-06T01:04:07Z",
+      "user": "Cindys313",
+      "userid": 29341492,
+      "size": 5172,
+      "comment": "/* Michigan House of Representatives */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 748109663,
+      "parentid": 748046515,
+      "timestamp": "2016-11-06T11:23:57Z",
+      "user": "Criticalthinker",
+      "userid": 466067,
+      "size": 4933,
+      "comment": "Undid revision 748046515 by [[Special:Contributions/Cindys313|Cindys313]] ([[User talk:Cindys313|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 749708493,
+      "parentid": 748109663,
+      "timestamp": "2016-11-15T19:52:48Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 5421,
+      "comment": "/* U.S. House of Representatives elections */ Added election results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756173598,
+      "parentid": 749708493,
+      "timestamp": "2016-12-22T13:24:25Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5468,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756795084,
+      "parentid": 756173598,
+      "timestamp": "2016-12-26T22:04:33Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5512,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 762149960,
+      "parentid": 756795084,
+      "timestamp": "2017-01-26T23:50:18Z",
+      "user": "Jacknorman1",
+      "userid": 30151998,
+      "size": 5521,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 765510849,
+      "parentid": 762149960,
+      "timestamp": "2017-02-14T20:36:45Z",
+      "user": "Alistair1978",
+      "userid": 86816,
+      "size": 5522,
+      "comment": "sp",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 768494269,
+      "parentid": 765510849,
+      "timestamp": "2017-03-04T04:03:32Z",
+      "user": "50.36.174.121",
+      "userid": 0,
+      "size": 5527,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 768494730,
+      "parentid": 768494269,
+      "timestamp": "2017-03-04T04:07:55Z",
+      "user": "50.36.174.121",
+      "userid": 0,
+      "size": 5545,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 768767476,
+      "parentid": 768494730,
+      "timestamp": "2017-03-05T17:48:59Z",
+      "user": "97.92.238.23",
+      "userid": 0,
+      "size": 5546,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 768767530,
+      "parentid": 768767476,
+      "timestamp": "2017-03-05T17:49:19Z",
+      "user": "97.92.238.23",
+      "userid": 0,
+      "size": 5548,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 781901590,
+      "parentid": 768767530,
+      "timestamp": "2017-05-23T21:41:35Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 5538,
+      "comment": "removed [[Category:People from Washtenaw County, Michigan]]; added [[Category:People from Saline, Michigan]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 799028625,
+      "parentid": 781901590,
+      "timestamp": "2017-09-05T06:12:39Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 5595,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 806780708,
+      "parentid": 799028625,
+      "timestamp": "2017-10-24T03:14:51Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 5766,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6beta3)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 816948017,
+      "parentid": 806780708,
+      "timestamp": "2017-12-24T22:29:44Z",
+      "user": "Vvertuccio",
+      "userid": 32297946,
+      "size": 6031,
+      "comment": "/* U.S. House of Representatives elections */ 2018",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 817391772,
+      "parentid": 816948017,
+      "timestamp": "2017-12-28T02:55:12Z",
+      "user": "Carguy13",
+      "userid": 27380670,
+      "size": 6231,
+      "comment": "/* U.S. House of Representatives elections */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 817393397,
+      "parentid": 817391772,
+      "timestamp": "2017-12-28T03:10:33Z",
+      "user": "Carguy13",
+      "userid": 27380670,
+      "size": 6234,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 823213037,
+      "parentid": 817393397,
+      "timestamp": "2018-01-30T22:37:10Z",
+      "user": "RayneVanDunem",
+      "userid": 12934447,
+      "size": 6225,
+      "comment": "removed [[Category:Women mayors of places in the United States]]; added [[Category:Women mayors of places in Michigan]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 826224914,
+      "parentid": 823213037,
+      "timestamp": "2018-02-17T23:02:24Z",
+      "user": "Sam11333",
+      "userid": 11121466,
+      "size": 6391,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853980504,
+      "parentid": 826224914,
+      "timestamp": "2018-08-08T04:44:40Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 6523,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853980598,
+      "parentid": 853980504,
+      "timestamp": "2018-08-08T04:45:36Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 6817,
+      "comment": "Filling in 2 references using [[WP:REFLINKS|Reflinks]], date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]], date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 853980767,
+      "parentid": 853980598,
+      "timestamp": "2018-08-08T04:48:07Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 6930,
+      "comment": "/* 2018 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 854027340,
+      "parentid": 853980767,
+      "timestamp": "2018-08-08T13:27:28Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6643,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 854027384,
+      "parentid": 854027340,
+      "timestamp": "2018-08-08T13:27:46Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6649,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864252290,
+      "parentid": 854027384,
+      "timestamp": "2018-10-16T02:21:27Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6658,
+      "comment": "/* External links */recategorize",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 864252389,
+      "parentid": 864252290,
+      "timestamp": "2018-10-16T02:22:30Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6668,
+      "comment": "/* 2018 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867505538,
+      "parentid": 864252389,
+      "timestamp": "2018-11-06T04:13:48Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6668,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 901761083,
+      "parentid": 867505538,
+      "timestamp": "2019-06-14T03:12:03Z",
+      "user": "DontCallMeLateForDinner",
+      "userid": 21958668,
+      "size": 6674,
+      "comment": "edited citation to more accurately describe source",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 907728594,
+      "parentid": 901761083,
+      "timestamp": "2019-07-24T21:38:52Z",
+      "user": "Sam11333",
+      "userid": 11121466,
+      "size": 6909,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 918560792,
+      "parentid": 907728594,
+      "timestamp": "2019-09-29T08:05:11Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 6870,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (1×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 933862396,
+      "parentid": 918560792,
+      "timestamp": "2020-01-03T12:13:57Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 6913,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 941452769,
+      "parentid": 933862396,
+      "timestamp": "2020-02-18T17:40:06Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 6973,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956115471,
+      "parentid": 941452769,
+      "timestamp": "2020-05-11T15:54:59Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 7060,
+      "comment": "/* External links */ Alumni categories",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956115639,
+      "parentid": 956115471,
+      "timestamp": "2020-05-11T15:55:56Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 7104,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956116694,
+      "parentid": 956115639,
+      "timestamp": "2020-05-11T16:01:43Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 7370,
+      "comment": "Added navbox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 956118957,
+      "parentid": 956116694,
+      "timestamp": "2020-05-11T16:14:00Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 7428,
+      "comment": "/* External links */ added links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961933010,
+      "parentid": 956118957,
+      "timestamp": "2020-06-11T05:27:56Z",
+      "user": "RoundSquare",
+      "userid": 31226026,
+      "size": 7536,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 963097002,
+      "parentid": 961933010,
+      "timestamp": "2020-06-17T20:18:07Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 7619,
+      "comment": "Added website to infobox and VoteSmart to external links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 966971209,
+      "parentid": 963097002,
+      "timestamp": "2020-07-10T10:27:34Z",
+      "user": "EditQwerty",
+      "userid": 38639689,
+      "size": 7641,
+      "comment": "Reference edited with [[Wikipedia:ProveIt|ProveIt]]",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "ProveIt edit"
+      ]
+    },
+    {
+      "revid": 974313120,
+      "parentid": 966971209,
+      "timestamp": "2020-08-22T08:15:54Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 7647,
+      "comment": "Moving [[:Category:Lynchburg College alumni]] to [[:Category:University of Lynchburg alumni]] per [[Wikipedia:Categories for discussion/Speedy]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 983181707,
+      "parentid": 974313120,
+      "timestamp": "2020-10-12T18:43:48Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 7645,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 998183087,
+      "parentid": 983181707,
+      "timestamp": "2021-01-04T05:36:55Z",
+      "user": "NukeFrost",
+      "userid": 37022324,
+      "size": 7705,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American politician and businesswoman\", overriding Wikidata description \"American politician and businessman\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1017109850,
+      "parentid": 998183087,
+      "timestamp": "2021-04-10T21:41:21Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 7455,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1024654429,
+      "parentid": 1017109850,
+      "timestamp": "2021-05-23T12:17:13Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7486,
+      "comment": "Copying from [[Category:American accountants]] to [[Category:Women accountants]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1035234681,
+      "parentid": 1024654429,
+      "timestamp": "2021-07-24T13:30:14Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 7704,
+      "comment": "Add: date, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 139/1634",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1062053337,
+      "parentid": 1035234681,
+      "timestamp": "2021-12-25T23:30:00Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 7707,
+      "comment": "/* Elections */archive link repair, may include: archive.* -> archive.today, and http->https for ghostarchive.org and archive.org ([[wp:el#Specifying_protocols]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1128976467,
+      "parentid": 1062053337,
+      "timestamp": "2022-12-23T00:15:32Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 7691,
+      "comment": "/* External links */intersect Democratic and Michigan representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1149048484,
+      "parentid": 1128976467,
+      "timestamp": "2023-04-09T21:59:05Z",
+      "user": "Kjell Knudde",
+      "userid": 7436027,
+      "size": 7700,
+      "comment": "Added more categories.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215504876,
+      "parentid": 1149048484,
+      "timestamp": "2024-03-25T15:07:48Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 7785,
+      "comment": "added [[Category:Candidates in the 2020 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1230776365,
+      "parentid": 1215504876,
+      "timestamp": "2024-06-24T17:00:58Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 7897,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1233154489,
+      "parentid": 1230776365,
+      "timestamp": "2024-07-07T15:18:59Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 7922,
+      "comment": "removed [[Category:Candidates in the 2018 United States elections]]; added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1259567565,
+      "parentid": 1233154489,
+      "timestamp": "2024-11-25T21:31:16Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 7875,
+      "comment": "Removing from [[Category:21st-century American politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261572340,
+      "parentid": 1259567565,
+      "timestamp": "2024-12-06T20:15:09Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 7937,
+      "comment": "added [[Category:21st-century members of the Michigan Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gretchen_Driskell"
+}

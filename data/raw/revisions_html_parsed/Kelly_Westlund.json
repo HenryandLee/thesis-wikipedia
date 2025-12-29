@@ -1,0 +1,44 @@
+{
+  "page_title": "Kelly_Westlund",
+  "candidate_name": "Kelly Westlund",
+  "collection_date": "2025-12-28T16:45:36.265046",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-07-04T21:24:22Z",
+      "end": "2018-12-08T18:23:36Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 615622390,
+      "parentid": 0,
+      "timestamp": "2014-07-04T21:24:22Z",
+      "user": "Lightbreather",
+      "userid": 3969442,
+      "size": 92,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Wisconsin, 2014#District 7]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872710748,
+      "parentid": 615622390,
+      "timestamp": "2018-12-08T18:23:36Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in Wisconsin]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kelly_Westlund"
+}

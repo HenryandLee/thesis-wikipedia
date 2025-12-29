@@ -1,0 +1,42 @@
+{
+  "page_title": "Robert_Goodman",
+  "candidate_name": "Robert Goodman",
+  "collection_date": "2025-12-28T16:52:43.134136",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2009-06-10T05:24:06Z",
+      "end": "2010-04-17T00:34:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 295523447,
+      "parentid": 78027629,
+      "timestamp": "2009-06-10T05:24:06Z",
+      "user": "DefaultsortBot",
+      "userid": 9721846,
+      "size": 101,
+      "comment": "Added DEFAULTSORT to page (used a WikiProject banner's listas parameter on the talk page). [[User talk:DefaultsortBot|Did I get it wrong?]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 356497285,
+      "parentid": 295523447,
+      "timestamp": "2010-04-17T00:34:02Z",
+      "user": "Mikaey",
+      "userid": 5839083,
+      "size": 59,
+      "comment": "Removing [[:Category:Possible cut-and-paste moves]] using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Goodman"
+}

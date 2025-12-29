@@ -1,0 +1,505 @@
+{
+  "page_title": "Burt_Saunders",
+  "candidate_name": "Burt Saunders",
+  "collection_date": "2025-12-28T16:34:28.735161",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 43,
+    "unique_editors": 33,
+    "date_range": {
+      "start": "2007-10-16T06:03:40Z",
+      "end": "2024-11-30T23:39:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 164896547,
+      "parentid": 0,
+      "timestamp": "2007-10-16T06:03:40Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1715,
+      "comment": "NEW",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 182532955,
+      "parentid": 164896547,
+      "timestamp": "2008-01-06T14:54:13Z",
+      "user": "76.101.213.11",
+      "userid": 0,
+      "size": 1929,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201072412,
+      "parentid": 182532955,
+      "timestamp": "2008-03-26T15:29:53Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 2064,
+      "comment": "free image please -   using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 206053311,
+      "parentid": 201072412,
+      "timestamp": "2008-04-16T17:00:09Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 2063,
+      "comment": "clean up, remove redundant cat.  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 226176698,
+      "parentid": 206053311,
+      "timestamp": "2008-07-17T04:35:14Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 2082,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 238470703,
+      "parentid": 226176698,
+      "timestamp": "2008-09-15T00:06:26Z",
+      "user": "75.203.228.241",
+      "userid": 0,
+      "size": 2283,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 238470797,
+      "parentid": 238470703,
+      "timestamp": "2008-09-15T00:07:07Z",
+      "user": "75.203.228.241",
+      "userid": 0,
+      "size": 2270,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 238471041,
+      "parentid": 238470797,
+      "timestamp": "2008-09-15T00:08:39Z",
+      "user": "75.203.228.241",
+      "userid": 0,
+      "size": 2363,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 247098390,
+      "parentid": 238471041,
+      "timestamp": "2008-10-23T03:27:52Z",
+      "user": "75.202.86.141",
+      "userid": 0,
+      "size": 2693,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 247106769,
+      "parentid": 247098390,
+      "timestamp": "2008-10-23T04:33:30Z",
+      "user": "RedHillian",
+      "userid": 643982,
+      "size": 2363,
+      "comment": "Reverted edits by [[Special:Contributions/75.202.86.141|75.202.86.141]] to last version by 75.203.228.241 ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 247741463,
+      "parentid": 247106769,
+      "timestamp": "2008-10-26T09:28:51Z",
+      "user": "76.3.164.135",
+      "userid": 0,
+      "size": 2244,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 247741517,
+      "parentid": 247741463,
+      "timestamp": "2008-10-26T09:29:31Z",
+      "user": "76.3.164.135",
+      "userid": 0,
+      "size": 2260,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248239853,
+      "parentid": 247741517,
+      "timestamp": "2008-10-28T18:20:58Z",
+      "user": "75.198.34.38",
+      "userid": 0,
+      "size": 2661,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250254656,
+      "parentid": 248239853,
+      "timestamp": "2008-11-07T15:58:17Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 2649,
+      "comment": "Date audit per [[wp:mosnum|mosnum]]/[[wp:overlink|overlink]]/Other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 253476926,
+      "parentid": 250254656,
+      "timestamp": "2008-11-22T22:34:31Z",
+      "user": "68.49.202.249",
+      "userid": 0,
+      "size": 2522,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 253477131,
+      "parentid": 253476926,
+      "timestamp": "2008-11-22T22:35:45Z",
+      "user": "68.49.202.249",
+      "userid": 0,
+      "size": 2532,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 264403706,
+      "parentid": 253477131,
+      "timestamp": "2009-01-16T04:33:56Z",
+      "user": "Academic Challenger",
+      "userid": 30528,
+      "size": 2663,
+      "comment": "his performance really wasn't that bad for an independent.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 277619119,
+      "parentid": 264403706,
+      "timestamp": "2009-03-16T11:18:50Z",
+      "user": "RogDel",
+      "userid": 6192846,
+      "size": 2661,
+      "comment": "Removed redundant space between sections",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 287073927,
+      "parentid": 277619119,
+      "timestamp": "2009-04-30T16:19:13Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 2678,
+      "comment": "Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]], Replaced: [[attorney at law| → [[Attorney at law (United States)| using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 339185486,
+      "parentid": 287073927,
+      "timestamp": "2010-01-21T17:55:55Z",
+      "user": "68.51.252.92",
+      "userid": 0,
+      "size": 2362,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 339185880,
+      "parentid": 339185486,
+      "timestamp": "2010-01-21T17:58:14Z",
+      "user": "68.51.252.92",
+      "userid": 0,
+      "size": 2172,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 339185995,
+      "parentid": 339185880,
+      "timestamp": "2010-01-21T17:58:53Z",
+      "user": "68.51.252.92",
+      "userid": 0,
+      "size": 2181,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385513062,
+      "parentid": 339185995,
+      "timestamp": "2010-09-18T10:27:33Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 2445,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7147)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 429237462,
+      "parentid": 385513062,
+      "timestamp": "2011-05-15T14:29:31Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 2433,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7702)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459058664,
+      "parentid": 429237462,
+      "timestamp": "2011-11-04T23:52:49Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 2453,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 494724868,
+      "parentid": 459058664,
+      "timestamp": "2012-05-28T04:06:47Z",
+      "user": "Alan Liefting",
+      "userid": 36352,
+      "size": 2426,
+      "comment": "rm File:Replace this image male.svg per discussion using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 516563483,
+      "parentid": 494724868,
+      "timestamp": "2012-10-08T01:52:11Z",
+      "user": "174.63.138.214",
+      "userid": 0,
+      "size": 2405,
+      "comment": "Deleted spouse",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 543757519,
+      "parentid": 516563483,
+      "timestamp": "2013-03-13T03:45:11Z",
+      "user": "Finetooth",
+      "userid": 4788944,
+      "size": 2401,
+      "comment": "rem Mr. per Manual of Style",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712791472,
+      "parentid": 543757519,
+      "timestamp": "2016-03-31T04:18:53Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 2117,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Burt Saunders|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 748914286,
+      "parentid": 712791472,
+      "timestamp": "2016-11-11T04:10:50Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 2160,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 861042890,
+      "parentid": 748914286,
+      "timestamp": "2018-09-24T19:26:12Z",
+      "user": "Timrollpickering",
+      "userid": 32005,
+      "size": 2160,
+      "comment": "Moving from [[Category:Florida State Senators]] to [[Category:Florida state senators]] per [[Wikipedia:Categories for discussion/Log/2018 September 17]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 893388231,
+      "parentid": 861042890,
+      "timestamp": "2019-04-21T00:27:51Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 2942,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974065329,
+      "parentid": 893388231,
+      "timestamp": "2020-08-20T22:01:21Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 2920,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 975328178,
+      "parentid": 974065329,
+      "timestamp": "2020-08-27T22:11:31Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 3506,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1034402353,
+      "parentid": 975328178,
+      "timestamp": "2021-07-19T17:15:12Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 4417,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1065511141,
+      "parentid": 1034402353,
+      "timestamp": "2022-01-13T23:01:19Z",
+      "user": "TheGables",
+      "userid": 32737392,
+      "size": 4420,
+      "comment": "paragraph separation",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1068694484,
+      "parentid": 1065511141,
+      "timestamp": "2022-01-29T21:22:02Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4603,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1415/2173",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1072538644,
+      "parentid": 1068694484,
+      "timestamp": "2022-02-18T06:17:16Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4644,
+      "comment": "/* top */add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1072651470,
+      "parentid": 1072538644,
+      "timestamp": "2022-02-18T19:58:35Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 4691,
+      "comment": "{{[[Template:Dead link|Dead link]]}} tag on [[WP:Bare URLs|bare URL]] refs which return [[HTTP 404]] or [[List_of_HTTP_status_codes#410|410]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1077750358,
+      "parentid": 1072651470,
+      "timestamp": "2022-03-18T01:07:11Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 4965,
+      "comment": "/* top */Archiving dead bare references",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1079897218,
+      "parentid": 1077750358,
+      "timestamp": "2022-03-29T06:26:33Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 5371,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1179/2841",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1126902903,
+      "parentid": 1079897218,
+      "timestamp": "2022-12-11T21:34:22Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 5371,
+      "comment": "intersect Republican and Florida representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260474403,
+      "parentid": 1126902903,
+      "timestamp": "2024-11-30T23:39:28Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 5432,
+      "comment": "added [[:Category:21st-century members of the Florida Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Burt_Saunders"
+}

@@ -1,0 +1,99 @@
+{
+  "page_title": "Bill_Gunn_(Massachusetts_politician)",
+  "candidate_name": "William Gunn",
+  "collection_date": "2025-12-28T16:33:32.641611",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 7,
+    "unique_editors": 6,
+    "date_range": {
+      "start": "2010-06-04T20:20:21Z",
+      "end": "2018-12-08T04:18:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 366075811,
+      "parentid": 0,
+      "timestamp": "2010-06-04T20:20:21Z",
+      "user": "Designate",
+      "userid": 10226061,
+      "size": 2666,
+      "comment": "Created",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 369238635,
+      "parentid": 366075811,
+      "timestamp": "2010-06-20T21:07:53Z",
+      "user": "Mandarax",
+      "userid": 191757,
+      "size": 2693,
+      "comment": "Add DEFAULTSORT per [[WP:NAMESORT]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 369839074,
+      "parentid": 369238635,
+      "timestamp": "2010-06-24T01:18:24Z",
+      "user": "Bberchin",
+      "userid": 11423009,
+      "size": 2810,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 375649244,
+      "parentid": 369839074,
+      "timestamp": "2010-07-27T00:56:37Z",
+      "user": "SoxBot",
+      "userid": 5787719,
+      "size": 2838,
+      "comment": "[[Wikipedia:Bots/Requests for approval/Sambot 12|BOT]]: tagging [[:File:BillGunn.jpg]] with {{[[Template:deletable image-caption|]]}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 378873311,
+      "parentid": 375649244,
+      "timestamp": "2010-08-14T13:31:39Z",
+      "user": "Bberchin",
+      "userid": 11423009,
+      "size": 2693,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 391115639,
+      "parentid": 378873311,
+      "timestamp": "2010-10-16T20:25:57Z",
+      "user": "RayAYang",
+      "userid": 558477,
+      "size": 96,
+      "comment": "redirecting per [[WP:POLITICIAN]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872623232,
+      "parentid": 391115639,
+      "timestamp": "2018-12-08T04:18:02Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 95,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Massachusetts]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Gunn_(Massachusetts_politician)"
+}

@@ -1,0 +1,57 @@
+{
+  "page_title": "Robb_Cunningham",
+  "candidate_name": "Robb Cunningham",
+  "collection_date": "2025-12-28T16:52:39.514615",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2014-05-25T10:59:21Z",
+      "end": "2018-12-08T20:32:22Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 610057223,
+      "parentid": 0,
+      "timestamp": "2014-05-25T10:59:21Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Missouri, 2010#District 1]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863030537,
+      "parentid": 610057223,
+      "timestamp": "2018-10-08T08:08:13Z",
+      "user": "Aaronw1109",
+      "userid": 29717583,
+      "size": 91,
+      "comment": "Highest vote total in MO-1 congressional race was 2008; 13.14%",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 872727774,
+      "parentid": 863030537,
+      "timestamp": "2018-12-08T20:32:22Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Missouri]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robb_Cunningham"
+}

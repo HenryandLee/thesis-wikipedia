@@ -1,0 +1,289 @@
+{
+  "page_title": "Jason_Levesque",
+  "candidate_name": "Jason Levesque",
+  "collection_date": "2025-12-28T16:41:18.101282",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 20,
+    "unique_editors": 9,
+    "date_range": {
+      "start": "2010-10-24T16:00:05Z",
+      "end": "2024-12-19T20:22:33Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 392612767,
+      "parentid": 0,
+      "timestamp": "2010-10-24T16:00:05Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 88,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Maine, 2010#District 2]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872705634,
+      "parentid": 392612767,
+      "timestamp": "2018-12-08T17:47:55Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 87,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Maine]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1188614020,
+      "parentid": 872705634,
+      "timestamp": "2023-12-06T15:16:08Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 1378,
+      "comment": "create",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188614664,
+      "parentid": 1188614020,
+      "timestamp": "2023-12-06T15:21:50Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 2196,
+      "comment": "add",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188614703,
+      "parentid": 1188614664,
+      "timestamp": "2023-12-06T15:22:12Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 2227,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188616038,
+      "parentid": 1188614703,
+      "timestamp": "2023-12-06T15:33:08Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 2840,
+      "comment": "expand",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188616185,
+      "parentid": 1188616038,
+      "timestamp": "2023-12-06T15:34:05Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 2925,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188616210,
+      "parentid": 1188616185,
+      "timestamp": "2023-12-06T15:34:16Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 2923,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188616997,
+      "parentid": 1188616210,
+      "timestamp": "2023-12-06T15:40:22Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 3027,
+      "comment": "copyediting",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1191314451,
+      "parentid": 1188616997,
+      "timestamp": "2023-12-22T20:01:29Z",
+      "user": "WikiCleanerBot",
+      "userid": 18872885,
+      "size": 3027,
+      "comment": "v2.05b - [[User:WikiCleanerBot#T12|Bot T12 CW#548]] - Fix errors for [[WP:WCW|CW project]] (Punctuation in link)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1191369692,
+      "parentid": 1191314451,
+      "timestamp": "2023-12-23T03:33:27Z",
+      "user": "Dinsm8re",
+      "userid": 46877057,
+      "size": 3073,
+      "comment": "added information",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1191369714,
+      "parentid": 1191369692,
+      "timestamp": "2023-12-23T03:33:42Z",
+      "user": "Dinsm8re",
+      "userid": 46877057,
+      "size": 3077,
+      "comment": "added hyperlink",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1191461629,
+      "parentid": 1191369714,
+      "timestamp": "2023-12-23T18:18:02Z",
+      "user": "FlightTime",
+      "userid": 8356162,
+      "size": 3027,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Dinsm8re|Dinsm8re]] ([[User talk:Dinsm8re|talk]]): Common term, no need to link per [[WP:OVERLINKING]]",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1246831451,
+      "parentid": 1191461629,
+      "timestamp": "2024-09-21T10:12:01Z",
+      "user": "M2545",
+      "userid": 9455233,
+      "size": 3079,
+      "comment": "see also",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1256568160,
+      "parentid": 1246831451,
+      "timestamp": "2024-11-10T15:29:09Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 3131,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256568185,
+      "parentid": 1256568160,
+      "timestamp": "2024-11-10T15:29:19Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 3173,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1258176169,
+      "parentid": 1256568185,
+      "timestamp": "2024-11-18T15:10:01Z",
+      "user": "2603:7080:C641:572F:9CE8:ED0D:B44D:C928",
+      "userid": 0,
+      "size": 3557,
+      "comment": "added some key biographical content and successes",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP",
+        "mw-reverted",
+        "editcheck-references",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1258186747,
+      "parentid": 1258176169,
+      "timestamp": "2024-11-18T16:23:46Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 3173,
+      "comment": "Undid revision [[Special:Diff/1258176169|1258176169]] by [[Special:Contributions/2603:7080:C641:572F:9CE8:ED0D:B44D:C928|2603:7080:C641:572F:9CE8:ED0D:B44D:C928]] ([[User talk:2603:7080:C641:572F:9CE8:ED0D:B44D:C928|talk]]) overly promotional",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258187775,
+      "parentid": 1258186747,
+      "timestamp": "2024-11-18T16:31:01Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 3166,
+      "comment": "/* Politics */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263991281,
+      "parentid": 1258187775,
+      "timestamp": "2024-12-19T20:22:33Z",
+      "user": "74.75.0.186",
+      "userid": 0,
+      "size": 3172,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jason_Levesque"
+}

@@ -1,0 +1,751 @@
+{
+  "page_title": "Scott_Reske",
+  "candidate_name": "Scott Reske",
+  "collection_date": "2025-12-28T16:54:04.586557",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 63,
+    "unique_editors": 42,
+    "date_range": {
+      "start": "2008-03-28T23:48:30Z",
+      "end": "2024-12-12T23:22:22Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 201700446,
+      "parentid": 0,
+      "timestamp": "2008-03-28T23:48:30Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1448,
+      "comment": "NEW",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201702131,
+      "parentid": 201700446,
+      "timestamp": "2008-03-28T23:57:41Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1448,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201715478,
+      "parentid": 201702131,
+      "timestamp": "2008-03-29T01:15:32Z",
+      "user": "Styrofoam1994",
+      "userid": 2053545,
+      "size": 1447,
+      "comment": "clean up with typo fixing  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 223597410,
+      "parentid": 201715478,
+      "timestamp": "2008-07-04T20:24:22Z",
+      "user": "Reywas92",
+      "userid": 1233313,
+      "size": 1441,
+      "comment": "Remove unnecessary bold; clean up  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 383852251,
+      "parentid": 223597410,
+      "timestamp": "2010-09-09T15:55:49Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 1479,
+      "comment": "Adding category [[:Category:Purdue University alumni]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 387676896,
+      "parentid": 383852251,
+      "timestamp": "2010-09-29T06:12:34Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 1711,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7192)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 413235363,
+      "parentid": 387676896,
+      "timestamp": "2011-02-11T03:27:14Z",
+      "user": "Jack Cox",
+      "userid": 194464,
+      "size": 1747,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 429890312,
+      "parentid": 413235363,
+      "timestamp": "2011-05-19T14:48:30Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 1736,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7708)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 453694354,
+      "parentid": 429890312,
+      "timestamp": "2011-10-03T13:18:27Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 2255,
+      "comment": "running for congress",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 459556002,
+      "parentid": 453694354,
+      "timestamp": "2011-11-08T01:23:56Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 2275,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 460616190,
+      "parentid": 459556002,
+      "timestamp": "2011-11-14T15:05:43Z",
+      "user": "Kaclock",
+      "userid": 834101,
+      "size": 4794,
+      "comment": "Addes personal biography and congressional campaign announcement",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 460618394,
+      "parentid": 460616190,
+      "timestamp": "2011-11-14T15:20:19Z",
+      "user": "Kaclock",
+      "userid": 834101,
+      "size": 4838,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 461766863,
+      "parentid": 460618394,
+      "timestamp": "2011-11-21T14:02:16Z",
+      "user": "Kaclock",
+      "userid": 834101,
+      "size": 4872,
+      "comment": "added marines category",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 461835072,
+      "parentid": 461766863,
+      "timestamp": "2011-11-21T21:51:05Z",
+      "user": "CmdrObot",
+      "userid": 1079367,
+      "size": 4865,
+      "comment": "Fix broken URL",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 478167107,
+      "parentid": 461835072,
+      "timestamp": "2012-02-22T00:17:54Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 4899,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 478169227,
+      "parentid": 478167107,
+      "timestamp": "2012-02-22T00:35:04Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 4638,
+      "comment": "reorganized and wikified",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 478170399,
+      "parentid": 478169227,
+      "timestamp": "2012-02-22T00:44:01Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 5844,
+      "comment": "added information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 478173127,
+      "parentid": 478170399,
+      "timestamp": "2012-02-22T01:05:46Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 11073,
+      "comment": "/* Indiana House of Representatives */ added information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 480779128,
+      "parentid": 478173127,
+      "timestamp": "2012-03-08T03:55:19Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 11029,
+      "comment": "Removing links to deleted file [[:File:Scott Reske Official Statehouse Portrait.jpg]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 482300511,
+      "parentid": 480779128,
+      "timestamp": "2012-03-17T02:18:24Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 10977,
+      "comment": "Delink dates, removed stub tag",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 487206212,
+      "parentid": 482300511,
+      "timestamp": "2012-04-13T17:38:58Z",
+      "user": "184.17.123.251",
+      "userid": 0,
+      "size": 10526,
+      "comment": "/* Tenure */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 487243976,
+      "parentid": 487206212,
+      "timestamp": "2012-04-13T21:55:19Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 10977,
+      "comment": "Reverted 1 edit by [[Special:Contributions/184.17.123.251|184.17.123.251]] ([[User talk:184.17.123.251|talk]]): Didnt give a reason why. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 495176998,
+      "parentid": 487243976,
+      "timestamp": "2012-05-30T19:18:28Z",
+      "user": "Kaclock",
+      "userid": 834101,
+      "size": 6542,
+      "comment": "/* Tenure */ Entire section titled \"Labor Union rights\" written about the \"right-to-work\" bill should be in the Indiana House article; Not relevant to just this particular legislator; Should be re-written on Reske's involvement if added back",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 528811707,
+      "parentid": 495176998,
+      "timestamp": "2012-12-19T15:24:59Z",
+      "user": "Kaclock",
+      "userid": 834101,
+      "size": 6152,
+      "comment": "Changed 2012 election mentions to past tense; added election results; removed mention of being current member of IN House",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 547897743,
+      "parentid": 528811707,
+      "timestamp": "2013-03-30T23:34:28Z",
+      "user": "Ottawahitech",
+      "userid": 5327090,
+      "size": 6199,
+      "comment": "added [[Category:City University of Seattle alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 560822460,
+      "parentid": 547897743,
+      "timestamp": "2013-06-20T23:56:55Z",
+      "user": "Nikkimaria",
+      "userid": 372290,
+      "size": 6199,
+      "comment": "ce",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 563559349,
+      "parentid": 560822460,
+      "timestamp": "2013-07-09T18:50:27Z",
+      "user": "Kaclock",
+      "userid": 834101,
+      "size": 6501,
+      "comment": "Updated current career",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 628033195,
+      "parentid": 563559349,
+      "timestamp": "2014-10-03T02:52:51Z",
+      "user": "2001:18E8:2:12C0:3501:B502:685C:1AF4",
+      "userid": 0,
+      "size": 6746,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 628033207,
+      "parentid": 628033195,
+      "timestamp": "2014-10-03T02:53:02Z",
+      "user": "Donner60",
+      "userid": 12744454,
+      "size": 6501,
+      "comment": "Reverted edits by [[Special:Contributions/2001:18E8:2:12C0:3501:B502:685C:1AF4|2001:18E8:2:12C0:3501:B502:685C:1AF4]] ([[User talk:2001:18E8:2:12C0:3501:B502:685C:1AF4|talk]]) ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 633434896,
+      "parentid": 628033207,
+      "timestamp": "2014-11-11T21:22:42Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 6550,
+      "comment": "added [[Category:People from Madison County, Indiana]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 633435045,
+      "parentid": 633434896,
+      "timestamp": "2014-11-11T21:23:51Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 6594,
+      "comment": "added [[Category:People from Pendleton, Indiana]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 648629981,
+      "parentid": 633435045,
+      "timestamp": "2015-02-24T14:11:46Z",
+      "user": "Armyornurse",
+      "userid": 24229566,
+      "size": 7156,
+      "comment": "Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 648802552,
+      "parentid": 648629981,
+      "timestamp": "2015-02-25T16:02:33Z",
+      "user": "Armyornurse",
+      "userid": 24229566,
+      "size": 7148,
+      "comment": "Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 650009964,
+      "parentid": 648802552,
+      "timestamp": "2015-03-05T16:36:32Z",
+      "user": "Dthomsen8",
+      "userid": 6277327,
+      "size": 7152,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: transfered → transferred using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 683250792,
+      "parentid": 650009964,
+      "timestamp": "2015-09-29T02:50:57Z",
+      "user": "167.102.150.4",
+      "userid": 0,
+      "size": 7010,
+      "comment": "/* Early life, education, and military service */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683251123,
+      "parentid": 683250792,
+      "timestamp": "2015-09-29T02:52:43Z",
+      "user": "167.102.150.4",
+      "userid": 0,
+      "size": 7009,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683251807,
+      "parentid": 683251123,
+      "timestamp": "2015-09-29T02:56:46Z",
+      "user": "167.102.150.4",
+      "userid": 0,
+      "size": 6984,
+      "comment": "/* Early life, education, and military service */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713987888,
+      "parentid": 683251807,
+      "timestamp": "2016-04-06T23:50:10Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 6733,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Scott Reske|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 736467891,
+      "parentid": 713987888,
+      "timestamp": "2016-08-27T18:18:37Z",
+      "user": "70.193.165.132",
+      "userid": 0,
+      "size": 6765,
+      "comment": "/* Early life, education, and military service */Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "canned edit summary"
+      ]
+    },
+    {
+      "revid": 741082080,
+      "parentid": 736467891,
+      "timestamp": "2016-09-25T08:31:36Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 6766,
+      "comment": "/* Tenure */http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 741710845,
+      "parentid": 741082080,
+      "timestamp": "2016-09-29T05:36:01Z",
+      "user": "2601:282:901:69F0:6575:89D3:2BF1:818",
+      "userid": 0,
+      "size": 6735,
+      "comment": "/* Early life, education, and military service */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756323787,
+      "parentid": 741710845,
+      "timestamp": "2016-12-23T13:10:14Z",
+      "user": "174.218.16.13",
+      "userid": 0,
+      "size": 6730,
+      "comment": "/* Early life, education, and military service */Fixed inaccurate information",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 761080473,
+      "parentid": 756323787,
+      "timestamp": "2017-01-20T19:34:45Z",
+      "user": "167.102.150.4",
+      "userid": 0,
+      "size": 6698,
+      "comment": "/* Early life, education, and military service */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 771634105,
+      "parentid": 761080473,
+      "timestamp": "2017-03-22T17:45:30Z",
+      "user": "Loopy30",
+      "userid": 19691760,
+      "size": 6699,
+      "comment": "typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 776241168,
+      "parentid": 771634105,
+      "timestamp": "2017-04-19T20:15:23Z",
+      "user": "174.223.136.32",
+      "userid": 0,
+      "size": 6737,
+      "comment": "/* Early life, education, and military service */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 832731138,
+      "parentid": 776241168,
+      "timestamp": "2018-03-27T18:08:52Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 7518,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 838693400,
+      "parentid": 832731138,
+      "timestamp": "2018-04-28T18:03:50Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 7517,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 840264140,
+      "parentid": 838693400,
+      "timestamp": "2018-05-08T19:37:49Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 7763,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.5)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 852556676,
+      "parentid": 840264140,
+      "timestamp": "2018-07-29T20:25:14Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 7753,
+      "comment": "standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 889970399,
+      "parentid": 852556676,
+      "timestamp": "2019-03-29T04:17:54Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7796,
+      "comment": "add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 904591849,
+      "parentid": 889970399,
+      "timestamp": "2019-07-03T04:49:26Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 7800,
+      "comment": "replaced: -  →  –  (2), Colonel → colonel",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 904658721,
+      "parentid": 904591849,
+      "timestamp": "2019-07-03T16:26:21Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 7800,
+      "comment": "replaced: Deputy → deputy, Executive Director → executive director, etc.",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 919159099,
+      "parentid": 904658721,
+      "timestamp": "2019-10-02T04:16:31Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 7799,
+      "comment": "/* Personal life */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 951374888,
+      "parentid": 919159099,
+      "timestamp": "2020-04-16T21:19:10Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 7798,
+      "comment": "/* Early life, education, and military service */replaced: Masters → Master",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 985655434,
+      "parentid": 951374888,
+      "timestamp": "2020-10-27T04:40:45Z",
+      "user": "ThurstonMitchell",
+      "userid": 39569616,
+      "size": 7821,
+      "comment": "removed [[Category:Purdue University alumni]]; added [[Category:Purdue University College of Engineering alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1047572499,
+      "parentid": 985655434,
+      "timestamp": "2021-10-01T13:42:03Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 8493,
+      "comment": "Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1035/2195",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1060309131,
+      "parentid": 1047572499,
+      "timestamp": "2021-12-14T18:35:30Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 8535,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1065301211,
+      "parentid": 1060309131,
+      "timestamp": "2022-01-12T21:11:17Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 8539,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1077346386,
+      "parentid": 1065301211,
+      "timestamp": "2022-03-15T21:13:10Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 8540,
+      "comment": "remove square brackets from [[WP:bare URLs|bare URL]] inline refs. The URL is much more helpful than a random number",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1078038165,
+      "parentid": 1077346386,
+      "timestamp": "2022-03-19T14:40:32Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 8570,
+      "comment": "{{[[Template:Dead link|Dead link]]}} tagged 1 [[WP:Bare URLs|bare URL]] ref to 1 dead website: http://reske.indianahousedemocrats.org",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1105653602,
+      "parentid": 1078038165,
+      "timestamp": "2022-08-21T05:14:43Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 8604,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 2179/3840",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1250096515,
+      "parentid": 1105653602,
+      "timestamp": "2024-10-08T13:12:45Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 8604,
+      "comment": "/* top */ Clean up spacing around commas and other punctuation fixes, replaced: ,  → ,",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1262745331,
+      "parentid": 1250096515,
+      "timestamp": "2024-12-12T23:22:22Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8670,
+      "comment": "added [[Category:21st-century members of the Indiana General Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Scott_Reske"
+}

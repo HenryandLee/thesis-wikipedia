@@ -1,0 +1,985 @@
+{
+  "page_title": "Joe_Pinion",
+  "candidate_name": "Joe Pinion",
+  "collection_date": "2025-12-28T16:43:00.039937",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 74,
+    "unique_editors": 43,
+    "date_range": {
+      "start": "2022-03-15T15:53:47Z",
+      "end": "2024-12-26T12:58:04Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1077295200,
+      "parentid": 0,
+      "timestamp": "2022-03-15T15:53:47Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5581,
+      "comment": "created the page",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1077406011,
+      "parentid": 1077295200,
+      "timestamp": "2022-03-16T04:14:46Z",
+      "user": "ZI Jony",
+      "userid": 30607451,
+      "size": 5581,
+      "comment": "v2.04b - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1077467684,
+      "parentid": 1077406011,
+      "timestamp": "2022-03-16T13:53:37Z",
+      "user": "Vincelord",
+      "userid": 14054348,
+      "size": 5609,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1077957479,
+      "parentid": 1077467684,
+      "timestamp": "2022-03-19T03:40:47Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5678,
+      "comment": "description",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1078301335,
+      "parentid": 1077957479,
+      "timestamp": "2022-03-20T21:50:04Z",
+      "user": "Muhibm0307",
+      "userid": 40568114,
+      "size": 5651,
+      "comment": "Better terminology and fixing [[WP:TYPO|typoes]].",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1078302352,
+      "parentid": 1078301335,
+      "timestamp": "2022-03-20T21:56:07Z",
+      "user": "Muhibm0307",
+      "userid": 40568114,
+      "size": 5818,
+      "comment": "[[WP:PROD|Proposed deletion]] of this article since it does not appear to meet [[WP:N|notability guidelines]].",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1078322867,
+      "parentid": 1078302352,
+      "timestamp": "2022-03-21T00:18:24Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5651,
+      "comment": "\"You may remove this message if you improve the article or otherwise object to deletion for any reason\"",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1078328334,
+      "parentid": 1078322867,
+      "timestamp": "2022-03-21T00:57:20Z",
+      "user": "Muhibm0307",
+      "userid": 40568114,
+      "size": 5651,
+      "comment": "Muhibm0307 moved page [[Joe Pinion]] to [[Draft:Joe Pinion]]: Does not meet [[WP:GNG|general notability guidelines]]",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1078328810,
+      "parentid": 1078328334,
+      "timestamp": "2022-03-21T01:00:25Z",
+      "user": "JJMC89 bot",
+      "userid": 27446209,
+      "size": 5700,
+      "comment": "Add {{drafts moved from mainspace}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1078332927,
+      "parentid": 1078328810,
+      "timestamp": "2022-03-21T01:27:45Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 5723,
+      "comment": "/* References */Added [[Template:Draft categories]] per [[WP:DRAFTNOCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1083194328,
+      "parentid": 1078332927,
+      "timestamp": "2022-04-17T16:03:56Z",
+      "user": "Muhibm0307",
+      "userid": 40568114,
+      "size": 5865,
+      "comment": "AfC submission button",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1088615596,
+      "parentid": 1083194328,
+      "timestamp": "2022-05-19T03:38:19Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5871,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1088615642,
+      "parentid": 1088615596,
+      "timestamp": "2022-05-19T03:38:51Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5991,
+      "comment": "Submitting using [[WP:AFCSW|AfC-submit-wizard]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1088617214,
+      "parentid": 1088615642,
+      "timestamp": "2022-05-19T03:57:04Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 6250,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1088650463,
+      "parentid": 1088617214,
+      "timestamp": "2022-05-19T10:12:05Z",
+      "user": "HenryTemplo",
+      "userid": 40576993,
+      "size": 6250,
+      "comment": "HenryTemplo moved page [[Draft:Joe Pinion]] to [[Joe Pinion (politician)]]: Publishing accepted [[Wikipedia:Articles for creation|Articles for creation]] submission ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1088650470,
+      "parentid": 1088650463,
+      "timestamp": "2022-05-19T10:12:07Z",
+      "user": "HenryTemplo",
+      "userid": 40576993,
+      "size": 6000,
+      "comment": "Cleaning up accepted [[Wikipedia:Articles for creation|Articles for creation]] submission ([[WP:AFCH|AFCH]] 0.9.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1088690618,
+      "parentid": 1088650470,
+      "timestamp": "2022-05-19T16:07:09Z",
+      "user": "DrVogel",
+      "userid": 32849731,
+      "size": 6000,
+      "comment": "DrVogel moved page [[Joe Pinion (politician)]] to [[Joe Pinion]] without leaving a redirect: [[Special:Permalink/1088689993|Requested]] by GeorgeBailey at [[WP:RM/TR]]: Joe Pinion is currently a redirect, and the article created through Afc was named with the parenthesis at the end, which is not needed. I would like to move the current article to the name that is currently the redirect. I apologize if this is in the wrong place, this is the first time I have done this!",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1088712272,
+      "parentid": 1088690618,
+      "timestamp": "2022-05-19T18:22:42Z",
+      "user": "Kj cheetham",
+      "userid": 6972236,
+      "size": 5962,
+      "comment": "Authority control",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091517609,
+      "parentid": 1088712272,
+      "timestamp": "2022-06-04T19:55:03Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 6031,
+      "comment": "pic",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1092315330,
+      "parentid": 1091517609,
+      "timestamp": "2022-06-09T14:47:41Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5794,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1092726651,
+      "parentid": 1092315330,
+      "timestamp": "2022-06-12T05:10:39Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 5833,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1095556036,
+      "parentid": 1092726651,
+      "timestamp": "2022-06-29T01:48:03Z",
+      "user": "-A-M-B-1996-",
+      "userid": 31839633,
+      "size": 5769,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095560734,
+      "parentid": 1095556036,
+      "timestamp": "2022-06-29T02:36:56Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 6114,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "possible unreferenced addition to BLP",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095560935,
+      "parentid": 1095560734,
+      "timestamp": "2022-06-29T02:39:05Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6067,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095560955,
+      "parentid": 1095560935,
+      "timestamp": "2022-06-29T02:39:18Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6071,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095574879,
+      "parentid": 1095560955,
+      "timestamp": "2022-06-29T04:38:33Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 6148,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095575279,
+      "parentid": 1095574879,
+      "timestamp": "2022-06-29T04:41:29Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 6211,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095575504,
+      "parentid": 1095575279,
+      "timestamp": "2022-06-29T04:43:08Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 6271,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095637472,
+      "parentid": 1095575504,
+      "timestamp": "2022-06-29T13:42:35Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 6262,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095701611,
+      "parentid": 1095637472,
+      "timestamp": "2022-06-29T21:08:21Z",
+      "user": "Ian Tompaso",
+      "userid": 38813563,
+      "size": 6304,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095959523,
+      "parentid": 1095701611,
+      "timestamp": "2022-07-01T12:29:33Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 6433,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1101600328,
+      "parentid": 1095959523,
+      "timestamp": "2022-07-31T22:01:05Z",
+      "user": "2601:203:583:60B0:FDF2:3FCF:CAAF:9BDB",
+      "userid": 0,
+      "size": 6581,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1101600675,
+      "parentid": 1101600328,
+      "timestamp": "2022-07-31T22:03:15Z",
+      "user": "Tommi1986",
+      "userid": 33508191,
+      "size": 6433,
+      "comment": "Reverting edit(s) by [[Special:Contributions/2601:203:583:60B0:FDF2:3FCF:CAAF:9BDB|2601:203:583:60B0:FDF2:3FCF:CAAF:9BDB]] ([[User_talk:2601:203:583:60B0:FDF2:3FCF:CAAF:9BDB|talk]]) to rev. 1095959523 by GeorgeBailey: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn"
+      ]
+    },
+    {
+      "revid": 1104107616,
+      "parentid": 1101600675,
+      "timestamp": "2022-08-12T18:28:07Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 6476,
+      "comment": "added [[Category:People from Yonkers, New York]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1118330882,
+      "parentid": 1104107616,
+      "timestamp": "2022-10-26T12:00:07Z",
+      "user": "216.226.127.70",
+      "userid": 0,
+      "size": 6499,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118330904,
+      "parentid": 1118330882,
+      "timestamp": "2022-10-26T12:00:19Z",
+      "user": "2601:240:CD04:20B:D0BC:676B:87E1:DBEF",
+      "userid": 0,
+      "size": 6476,
+      "comment": "Undid revision 1118330882 by [[Special:Contributions/216.226.127.70|216.226.127.70]] ([[User talk:216.226.127.70|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118330983,
+      "parentid": 1118330904,
+      "timestamp": "2022-10-26T12:01:02Z",
+      "user": "216.226.127.70",
+      "userid": 0,
+      "size": 6529,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118331016,
+      "parentid": 1118330983,
+      "timestamp": "2022-10-26T12:01:15Z",
+      "user": "2601:240:CD04:20B:D0BC:676B:87E1:DBEF",
+      "userid": 0,
+      "size": 6476,
+      "comment": "Undid revision 1118330983 by [[Special:Contributions/216.226.127.70|216.226.127.70]] ([[User talk:216.226.127.70|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118886423,
+      "parentid": 1118331016,
+      "timestamp": "2022-10-29T14:25:29Z",
+      "user": "Kodiologist",
+      "userid": 16242689,
+      "size": 6472,
+      "comment": "/* top */ \"black individual\" → \"black person\"",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119238556,
+      "parentid": 1118886423,
+      "timestamp": "2022-10-31T12:16:58Z",
+      "user": "2600:4041:5113:800:31C5:57A7:EA82:23BD",
+      "userid": 0,
+      "size": 6457,
+      "comment": "Removed the word “entrepreneur” from introductory paragraph as his biography does not have evidence to support",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1119482667,
+      "parentid": 1119238556,
+      "timestamp": "2022-11-01T20:51:28Z",
+      "user": "2A02:A420:13:FE77:41D7:9697:82D9:9782",
+      "userid": 0,
+      "size": 6547,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1119811995,
+      "parentid": 1119482667,
+      "timestamp": "2022-11-03T15:08:45Z",
+      "user": "Openmy",
+      "userid": 15904502,
+      "size": 6588,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120241562,
+      "parentid": 1119811995,
+      "timestamp": "2022-11-05T23:46:09Z",
+      "user": "2603:8090:1200:FE66:90B8:7CD5:6A25:E02E",
+      "userid": 0,
+      "size": 6592,
+      "comment": "Correction some errors",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1121223538,
+      "parentid": 1120241562,
+      "timestamp": "2022-11-11T05:11:22Z",
+      "user": "220.245.98.214",
+      "userid": 0,
+      "size": 6603,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121797735,
+      "parentid": 1121223538,
+      "timestamp": "2022-11-14T05:39:41Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6601,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Smasongarrison | [[Category:Colgate University alumni]] | #UCB_Category 311/314",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1122782490,
+      "parentid": 1121797735,
+      "timestamp": "2022-11-19T18:15:51Z",
+      "user": "Apocheir",
+      "userid": 19042704,
+      "size": 6602,
+      "comment": "tense",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1122785951,
+      "parentid": 1122782490,
+      "timestamp": "2022-11-19T18:44:58Z",
+      "user": "Apocheir",
+      "userid": 19042704,
+      "size": 6826,
+      "comment": "ref tweaks",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1122786343,
+      "parentid": 1122785951,
+      "timestamp": "2022-11-19T18:48:37Z",
+      "user": "Apocheir",
+      "userid": 19042704,
+      "size": 6848,
+      "comment": "/* Career */ link bob inglis",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1122786368,
+      "parentid": 1122786343,
+      "timestamp": "2022-11-19T18:48:47Z",
+      "user": "Apocheir",
+      "userid": 19042704,
+      "size": 6879,
+      "comment": "Added {{[[Template:Peacock|Peacock]]}} tag",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1122787513,
+      "parentid": 1122786368,
+      "timestamp": "2022-11-19T18:58:32Z",
+      "user": "Apocheir",
+      "userid": 19042704,
+      "size": 6568,
+      "comment": "/* Early life and education */ first ref seems very sketchy and contradicts the colgate site so removing it, other ce",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1122787806,
+      "parentid": 1122787513,
+      "timestamp": "2022-11-19T19:00:45Z",
+      "user": "Apocheir",
+      "userid": 19042704,
+      "size": 6558,
+      "comment": "/* Career */ ce",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1122787900,
+      "parentid": 1122787806,
+      "timestamp": "2022-11-19T19:01:30Z",
+      "user": "Ira Leviton",
+      "userid": 25046916,
+      "size": 6541,
+      "comment": "Fixed a reference.  Please see [[Category:Pages using duplicate arguments in template calls]].",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122788371,
+      "parentid": 1122787900,
+      "timestamp": "2022-11-19T19:05:44Z",
+      "user": "Apocheir",
+      "userid": 19042704,
+      "size": 6545,
+      "comment": "/* Politics */ link",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1123178906,
+      "parentid": 1122788371,
+      "timestamp": "2022-11-22T10:02:39Z",
+      "user": "Rodw",
+      "userid": 125972,
+      "size": 6555,
+      "comment": "Disambiguating links to [[1010 WINS]] (link changed to [[WINS (AM)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1123693743,
+      "parentid": 1123178906,
+      "timestamp": "2022-11-25T04:35:42Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 6553,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1125113347,
+      "parentid": 1123693743,
+      "timestamp": "2022-12-02T07:18:59Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 6620,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125441599,
+      "parentid": 1125113347,
+      "timestamp": "2022-12-04T01:09:39Z",
+      "user": "Pentobox",
+      "userid": 37849282,
+      "size": 6498,
+      "comment": "redundant",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131135461,
+      "parentid": 1125441599,
+      "timestamp": "2023-01-02T18:49:54Z",
+      "user": "GlobeGores",
+      "userid": 3401982,
+      "size": 7233,
+      "comment": "/* Politics */ add summary of pinion's performance",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1149056813,
+      "parentid": 1131135461,
+      "timestamp": "2023-04-09T23:11:02Z",
+      "user": "Zcash64",
+      "userid": 45278485,
+      "size": 7238,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "newcomer task",
+        "newcomer task copyedit"
+      ]
+    },
+    {
+      "revid": 1158728855,
+      "parentid": 1149056813,
+      "timestamp": "2023-06-05T22:03:24Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 7256,
+      "comment": "/* Politics */ different groups",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1171454911,
+      "parentid": 1158728855,
+      "timestamp": "2023-08-21T05:14:52Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 7304,
+      "comment": "Copying from [[Category:People from Yonkers, New York]] to [[Category:Politicians from Yonkers, New York]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1171455026,
+      "parentid": 1171454911,
+      "timestamp": "2023-08-21T05:16:04Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 7315,
+      "comment": "Moving from [[Category:People from Yonkers, New York]] to [[Category:Mass media people from Yonkers, New York]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1175248727,
+      "parentid": 1171455026,
+      "timestamp": "2023-09-13T18:38:12Z",
+      "user": "Ken Gallager",
+      "userid": 1175300,
+      "size": 7315,
+      "comment": "lower case here",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1175591509,
+      "parentid": 1175248727,
+      "timestamp": "2023-09-16T03:08:14Z",
+      "user": "NBAGreats",
+      "userid": 42602238,
+      "size": 7309,
+      "comment": "grammar edits",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1190593443,
+      "parentid": 1175591509,
+      "timestamp": "2023-12-18T19:50:45Z",
+      "user": "Jj956004492",
+      "userid": 45388747,
+      "size": 7793,
+      "comment": "Updated grammatical errors, added sources where relevant, added college information, and changed promotional language to be more fact-based.",
+      "minor": false,
+      "tags": [
+        "newcomer task",
+        "wikieditor",
+        "newcomer task copyedit"
+      ]
+    },
+    {
+      "revid": 1193643918,
+      "parentid": 1190593443,
+      "timestamp": "2024-01-04T21:47:01Z",
+      "user": "Jj956004492",
+      "userid": 45388747,
+      "size": 7762,
+      "comment": "Removing peacock label, information revised to be non-promotional and neutral, as well as fact-checked. Sources verified.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1198538129,
+      "parentid": 1193643918,
+      "timestamp": "2024-01-24T10:55:46Z",
+      "user": "Wbm1058",
+      "userid": 14383484,
+      "size": 7763,
+      "comment": "redirect bypass from [[Bachelor of Art]] to [[Bachelor of Arts]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1236154923,
+      "parentid": 1198538129,
+      "timestamp": "2024-07-23T05:57:09Z",
+      "user": "ProfessorKaiFlai",
+      "userid": 42108076,
+      "size": 7833,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1239689869,
+      "parentid": 1236154923,
+      "timestamp": "2024-08-10T21:54:47Z",
+      "user": "ProfessorKaiFlai",
+      "userid": 42108076,
+      "size": 7913,
+      "comment": "/* References */ Added See also section",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1240283162,
+      "parentid": 1239689869,
+      "timestamp": "2024-08-14T15:21:43Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 8119,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Ost316|Ost316]] - 20847",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1256890296,
+      "parentid": 1240283162,
+      "timestamp": "2024-11-12T02:10:24Z",
+      "user": "CGP05",
+      "userid": 41202752,
+      "size": 8081,
+      "comment": "removed campaign website since it is no longer working",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1259567935,
+      "parentid": 1256890296,
+      "timestamp": "2024-11-25T21:33:15Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 8034,
+      "comment": "Removing from [[Category:21st-century American politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1262015915,
+      "parentid": 1259567935,
+      "timestamp": "2024-12-09T04:34:01Z",
+      "user": "AuH2ORepublican",
+      "userid": 1877623,
+      "size": 8036,
+      "comment": "/* Politics */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1265347141,
+      "parentid": 1262015915,
+      "timestamp": "2024-12-26T12:58:04Z",
+      "user": "2600:1702:CC4:20F0:6E8B:1252:DCA2:9116",
+      "userid": 0,
+      "size": 8030,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Pinion"
+}

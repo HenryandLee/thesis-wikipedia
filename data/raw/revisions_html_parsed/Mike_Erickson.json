@@ -1,0 +1,2173 @@
+{
+  "page_title": "Mike_Erickson",
+  "candidate_name": "Mike Erickson",
+  "collection_date": "2025-12-28T16:49:22.440866",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 184,
+    "unique_editors": 82,
+    "date_range": {
+      "start": "2006-11-07T01:39:24Z",
+      "end": "2024-12-13T01:37:32Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 86180235,
+      "parentid": 80523180,
+      "timestamp": "2006-11-07T01:39:24Z",
+      "user": "198.138.209.4",
+      "userid": 0,
+      "size": 762,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86308856,
+      "parentid": 86180235,
+      "timestamp": "2006-11-07T17:46:15Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 682,
+      "comment": "link to district page has a map, no need for external link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86610555,
+      "parentid": 86308856,
+      "timestamp": "2006-11-09T00:39:07Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 727,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86610580,
+      "parentid": 86610555,
+      "timestamp": "2006-11-09T00:39:16Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 737,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 86610734,
+      "parentid": 86610580,
+      "timestamp": "2006-11-09T00:40:12Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 756,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 87651860,
+      "parentid": 86610734,
+      "timestamp": "2006-11-14T00:24:55Z",
+      "user": "Mockdwig",
+      "userid": 2636193,
+      "size": 759,
+      "comment": "Corrected company name:  changed \"Logistical Management\" to \"Logistics Management\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 128054736,
+      "parentid": 87651860,
+      "timestamp": "2007-05-03T21:12:09Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 821,
+      "comment": "+cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 136379229,
+      "parentid": 128054736,
+      "timestamp": "2007-06-06T16:09:35Z",
+      "user": "Valfontis",
+      "userid": 759211,
+      "size": 1081,
+      "comment": "{{prod}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 136660015,
+      "parentid": 136379229,
+      "timestamp": "2007-06-07T19:10:04Z",
+      "user": "PinkPotato",
+      "userid": 4588656,
+      "size": 1258,
+      "comment": "Notation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 136660091,
+      "parentid": 136660015,
+      "timestamp": "2007-06-07T19:10:26Z",
+      "user": "Exploding Boy",
+      "userid": 37736,
+      "size": 1081,
+      "comment": "Reverted edits by [[Special:Contributions/PinkPotato|PinkPotato]] ([[User talk:PinkPotato|talk]]) to last version by Katr67",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 137549325,
+      "parentid": 136660091,
+      "timestamp": "2007-06-11T22:12:41Z",
+      "user": "159.238.171.130",
+      "userid": 0,
+      "size": 498,
+      "comment": "Congressional candidates are notable",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 137550310,
+      "parentid": 137549325,
+      "timestamp": "2007-06-11T22:17:39Z",
+      "user": "PatrikR",
+      "userid": 97865,
+      "size": 1081,
+      "comment": "[[WP:UNDO|Undid]] revision 137549325 by [[Special:Contributions/159.238.171.130|159.238.171.130]] ([[User talk:159.238.171.130|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 137553904,
+      "parentid": 137550310,
+      "timestamp": "2007-06-11T22:35:51Z",
+      "user": "Valfontis",
+      "userid": 759211,
+      "size": 498,
+      "comment": "rv--prod template removed in good faith, per instructions--I'll go ahead and take this to Afd as a contested prod",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 137554200,
+      "parentid": 137553904,
+      "timestamp": "2007-06-11T22:37:27Z",
+      "user": "Valfontis",
+      "userid": 759211,
+      "size": 1081,
+      "comment": "rv further to replace material accidentally deleted",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 137554558,
+      "parentid": 137554200,
+      "timestamp": "2007-06-11T22:39:25Z",
+      "user": "Valfontis",
+      "userid": 759211,
+      "size": 821,
+      "comment": "rm prod",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 142950969,
+      "parentid": 137554558,
+      "timestamp": "2007-07-06T19:08:16Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 85,
+      "comment": "notable for 2006 Oregon House race, so redirect to that article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 160202344,
+      "parentid": 142950969,
+      "timestamp": "2007-09-25T07:24:14Z",
+      "user": "タチコマ robot",
+      "userid": 421426,
+      "size": 107,
+      "comment": "Robot: Fixing double redirect",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 192254461,
+      "parentid": 160202344,
+      "timestamp": "2008-02-18T07:18:12Z",
+      "user": "MikeErickson4Congress",
+      "userid": 6464922,
+      "size": 4002,
+      "comment": "Completed summary of Mike Erickson",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192255967,
+      "parentid": 192254461,
+      "timestamp": "2008-02-18T07:30:39Z",
+      "user": "MikeErickson4Congress",
+      "userid": 6464922,
+      "size": 4001,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192400053,
+      "parentid": 192255967,
+      "timestamp": "2008-02-18T21:35:03Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 4016,
+      "comment": "he meets notability now, but tag puff piece for cleanup",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192441046,
+      "parentid": 192400053,
+      "timestamp": "2008-02-19T00:43:00Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 1735,
+      "comment": "rm campaign literature; feel free to add back positions with citations",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192484630,
+      "parentid": 192441046,
+      "timestamp": "2008-02-19T04:49:19Z",
+      "user": "Tdl1060",
+      "userid": 646386,
+      "size": 1813,
+      "comment": "adding ref. / boldening name",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192485128,
+      "parentid": 192484630,
+      "timestamp": "2008-02-19T04:52:07Z",
+      "user": "Tdl1060",
+      "userid": 646386,
+      "size": 1775,
+      "comment": "/* External links */ removing non existant cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192491592,
+      "parentid": 192485128,
+      "timestamp": "2008-02-19T05:31:41Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 2039,
+      "comment": "edit, cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192494105,
+      "parentid": 192491592,
+      "timestamp": "2008-02-19T05:46:53Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 2343,
+      "comment": "/* Life and career */ more on football career",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192494180,
+      "parentid": 192494105,
+      "timestamp": "2008-02-19T05:47:20Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 2350,
+      "comment": "/* External links */ refine cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192904881,
+      "parentid": 192494180,
+      "timestamp": "2008-02-20T22:45:27Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 2336,
+      "comment": "Removing deleted [[:Image:Erickson2.jpg|image]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210124678,
+      "parentid": 192904881,
+      "timestamp": "2008-05-04T16:09:35Z",
+      "user": "66.93.40.77",
+      "userid": 0,
+      "size": 2430,
+      "comment": "/* Life and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210133953,
+      "parentid": 210124678,
+      "timestamp": "2008-05-04T17:03:18Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 2336,
+      "comment": "[[WP:UNDO|Undid]] revision 210124678 by [[Special:Contributions/66.93.40.77|66.93.40.77]] ([[User talk:66.93.40.77|talk]]) rvv",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210134194,
+      "parentid": 210133953,
+      "timestamp": "2008-05-04T17:04:41Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 2387,
+      "comment": "/* Life and career */ add competition",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210134254,
+      "parentid": 210134194,
+      "timestamp": "2008-05-04T17:04:59Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 2388,
+      "comment": "/* Life and career */ fix link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210134493,
+      "parentid": 210134254,
+      "timestamp": "2008-05-04T17:06:18Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 2374,
+      "comment": "/* Life and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 211354532,
+      "parentid": 210134493,
+      "timestamp": "2008-05-09T22:46:50Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3406,
+      "comment": "expand a bit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 211354616,
+      "parentid": 211354532,
+      "timestamp": "2008-05-09T22:47:17Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3407,
+      "comment": "/* Life and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 211358845,
+      "parentid": 211354616,
+      "timestamp": "2008-05-09T23:13:14Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3401,
+      "comment": "more info to infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212203832,
+      "parentid": 211358845,
+      "timestamp": "2008-05-13T21:16:31Z",
+      "user": "JustAGal",
+      "userid": 1499324,
+      "size": 3458,
+      "comment": "disambig punter, added links",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 212241880,
+      "parentid": 212203832,
+      "timestamp": "2008-05-14T00:26:01Z",
+      "user": "Therefore",
+      "userid": 266340,
+      "size": 3494,
+      "comment": "/* Life and career */ added context for poorly sourced statement",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212415807,
+      "parentid": 212241880,
+      "timestamp": "2008-05-14T19:08:59Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3929,
+      "comment": "cite fastest-growing company stat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212415900,
+      "parentid": 212415807,
+      "timestamp": "2008-05-14T19:09:27Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3928,
+      "comment": "/* Life and career */ fix cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212416108,
+      "parentid": 212415900,
+      "timestamp": "2008-05-14T19:10:19Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 3962,
+      "comment": "/* Life and career */ fix another citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212661879,
+      "parentid": 212416108,
+      "timestamp": "2008-05-15T18:48:58Z",
+      "user": "Nickdahl",
+      "userid": 7114352,
+      "size": 4613,
+      "comment": "/* Political career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 212666785,
+      "parentid": 212661879,
+      "timestamp": "2008-05-15T19:11:53Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5030,
+      "comment": "/* Political career */ inline citations, provide non-editorial link, other links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212666892,
+      "parentid": 212666785,
+      "timestamp": "2008-05-15T19:12:25Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5031,
+      "comment": "/* Political career */ fix cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212667183,
+      "parentid": 212666892,
+      "timestamp": "2008-05-15T19:13:42Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5109,
+      "comment": "/* Political career */ add url to citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 213881021,
+      "parentid": 212667183,
+      "timestamp": "2008-05-21T04:47:39Z",
+      "user": "75.72.245.242",
+      "userid": 0,
+      "size": 5109,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 213999068,
+      "parentid": 213881021,
+      "timestamp": "2008-05-21T18:27:05Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5358,
+      "comment": "/* Political career */ update with results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 213999141,
+      "parentid": 213999068,
+      "timestamp": "2008-05-21T18:27:26Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 5357,
+      "comment": "/* Political career */ tpoy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 217791098,
+      "parentid": 213999141,
+      "timestamp": "2008-06-07T18:18:21Z",
+      "user": "Ahimsa52",
+      "userid": 503538,
+      "size": 5861,
+      "comment": "Added quote of woman to clarify that she, in addition to her friend, claimed Erickson facilitated her abortion. Added Oetken's name",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218230242,
+      "parentid": 217791098,
+      "timestamp": "2008-06-09T19:12:55Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 6000,
+      "comment": "/* Political career */removed email author's name (confusing to whom it refers). Also rm quotation already summarized; add details on Erickson's denial, add another citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221248069,
+      "parentid": 218230242,
+      "timestamp": "2008-06-23T18:24:17Z",
+      "user": "Traveliter",
+      "userid": 3039143,
+      "size": 6844,
+      "comment": "/* Political career */  Added updated article references to detailed interview with ex-girlfriend, published today.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221248274,
+      "parentid": 221248069,
+      "timestamp": "2008-06-23T18:25:17Z",
+      "user": "Traveliter",
+      "userid": 3039143,
+      "size": 6837,
+      "comment": "/* Political career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 221313481,
+      "parentid": 221248274,
+      "timestamp": "2008-06-23T23:54:38Z",
+      "user": "132.241.245.120",
+      "userid": 0,
+      "size": 6901,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221313527,
+      "parentid": 221313481,
+      "timestamp": "2008-06-23T23:54:58Z",
+      "user": "132.241.245.120",
+      "userid": 0,
+      "size": 6905,
+      "comment": "/* Abortion problem */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221317405,
+      "parentid": 221313527,
+      "timestamp": "2008-06-24T00:17:13Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 7011,
+      "comment": "clean up a bit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221317518,
+      "parentid": 221317405,
+      "timestamp": "2008-06-24T00:17:54Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 7012,
+      "comment": "tpyo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221582929,
+      "parentid": 221317518,
+      "timestamp": "2008-06-25T04:14:20Z",
+      "user": "Aaronjhill",
+      "userid": 6687469,
+      "size": 7091,
+      "comment": "/* Abortion controversy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221583100,
+      "parentid": 221582929,
+      "timestamp": "2008-06-25T04:15:44Z",
+      "user": "Aaronjhill",
+      "userid": 6687469,
+      "size": 7101,
+      "comment": "/* Abortion controversy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221583409,
+      "parentid": 221583100,
+      "timestamp": "2008-06-25T04:18:13Z",
+      "user": "Aaronjhill",
+      "userid": 6687469,
+      "size": 7202,
+      "comment": "/* Abortion controversy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221583722,
+      "parentid": 221583409,
+      "timestamp": "2008-06-25T04:20:45Z",
+      "user": "Aaronjhill",
+      "userid": 6687469,
+      "size": 7192,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221688763,
+      "parentid": 221583722,
+      "timestamp": "2008-06-25T17:10:13Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 7238,
+      "comment": "/* Abortion controversy */ need citations",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221700547,
+      "parentid": 221688763,
+      "timestamp": "2008-06-25T18:13:18Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 7613,
+      "comment": "/* Abortion controversy */ add citations",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 221700662,
+      "parentid": 221700547,
+      "timestamp": "2008-06-25T18:13:54Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 7613,
+      "comment": "fix space",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225873410,
+      "parentid": 221700662,
+      "timestamp": "2008-07-15T20:18:42Z",
+      "user": "98.232.135.162",
+      "userid": 0,
+      "size": 7664,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225873937,
+      "parentid": 225873410,
+      "timestamp": "2008-07-15T20:21:38Z",
+      "user": "98.232.135.162",
+      "userid": 0,
+      "size": 7614,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 234449072,
+      "parentid": 225873937,
+      "timestamp": "2008-08-26T22:31:08Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 7618,
+      "comment": "/* Political career */ link Brian",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 234449396,
+      "parentid": 234449072,
+      "timestamp": "2008-08-26T22:33:10Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 7658,
+      "comment": "Quick-adding category \"People from Tigard, Oregon\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 235874924,
+      "parentid": 234449396,
+      "timestamp": "2008-09-02T19:30:54Z",
+      "user": "WillowGrove",
+      "userid": 7715046,
+      "size": 7681,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 241839857,
+      "parentid": 235874924,
+      "timestamp": "2008-09-29T19:37:30Z",
+      "user": "98.232.135.162",
+      "userid": 0,
+      "size": 4360,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 241840020,
+      "parentid": 241839857,
+      "timestamp": "2008-09-29T19:38:20Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 7681,
+      "comment": "Reverted edits by [[Special:Contributions/98.232.135.162|98.232.135.162]] ([[User talk:98.232.135.162|talk]]) to last version by WillowGrove",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 241881068,
+      "parentid": 241840020,
+      "timestamp": "2008-09-29T22:47:43Z",
+      "user": "98.232.135.162",
+      "userid": 0,
+      "size": 4333,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 241888029,
+      "parentid": 241881068,
+      "timestamp": "2008-09-29T23:26:36Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 7681,
+      "comment": "[[WP:UNDO|Undid]] revision 241881068 by [[Special:Contributions/98.232.135.162|98.232.135.162]] ([[User talk:98.232.135.162|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 241895166,
+      "parentid": 241888029,
+      "timestamp": "2008-09-30T00:06:24Z",
+      "user": "Peteforsyth",
+      "userid": 710296,
+      "size": 7717,
+      "comment": "/* External links */ +cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 241895329,
+      "parentid": 241895166,
+      "timestamp": "2008-09-30T00:07:09Z",
+      "user": "Peteforsyth",
+      "userid": 710296,
+      "size": 7689,
+      "comment": "update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 246784717,
+      "parentid": 241895329,
+      "timestamp": "2008-10-21T19:30:13Z",
+      "user": "Googuse",
+      "userid": 117455,
+      "size": 7721,
+      "comment": "Add category",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 246799388,
+      "parentid": 246784717,
+      "timestamp": "2008-10-21T20:41:21Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 7721,
+      "comment": "Removed category \"Oregon Politicians\"; Quick-adding category \"Oregon politicians\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 249256206,
+      "parentid": 246799388,
+      "timestamp": "2008-11-02T20:53:20Z",
+      "user": "24.22.67.47",
+      "userid": 0,
+      "size": 7720,
+      "comment": "/* Life and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249803694,
+      "parentid": 249256206,
+      "timestamp": "2008-11-05T07:24:07Z",
+      "user": "67.171.184.160",
+      "userid": 0,
+      "size": 7724,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 249858142,
+      "parentid": 249803694,
+      "timestamp": "2008-11-05T16:09:22Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 7874,
+      "comment": "update, restructure a bit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250484948,
+      "parentid": 249858142,
+      "timestamp": "2008-11-08T18:44:37Z",
+      "user": "Peteforsyth",
+      "userid": 710296,
+      "size": 8247,
+      "comment": "more in lead",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250697250,
+      "parentid": 250484948,
+      "timestamp": "2008-11-09T18:44:59Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 8227,
+      "comment": "fix wikiformatting, reword for clarity",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250835629,
+      "parentid": 250697250,
+      "timestamp": "2008-11-10T09:06:52Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 8174,
+      "comment": "rm election template",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 250835695,
+      "parentid": 250835629,
+      "timestamp": "2008-11-10T09:07:51Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 8176,
+      "comment": "/* 2008 Congressional campaign */ typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 250835912,
+      "parentid": 250835695,
+      "timestamp": "2008-11-10T09:10:16Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 8239,
+      "comment": "Quick-adding category \"United States House of Representatives candidates\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 250939890,
+      "parentid": 250835912,
+      "timestamp": "2008-11-10T19:59:25Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 8258,
+      "comment": "Removed category \"United States House of Representatives candidates\"; Quick-adding category \"Candidates to the United States House of Representatives from Oregon\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 267151824,
+      "parentid": 250939890,
+      "timestamp": "2009-01-29T08:04:03Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 8258,
+      "comment": "Removed category \"Oregon politicians\"; Quick-adding category \"Oregon Republicans\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 292099502,
+      "parentid": 267151824,
+      "timestamp": "2009-05-24T22:04:03Z",
+      "user": "CmdrObot",
+      "userid": 1079367,
+      "size": 8257,
+      "comment": "sp: an Portland→a Portland",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 299059774,
+      "parentid": 292099502,
+      "timestamp": "2009-06-28T04:21:37Z",
+      "user": "71.115.205.41",
+      "userid": 0,
+      "size": 8260,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 299060179,
+      "parentid": 299059774,
+      "timestamp": "2009-06-28T04:25:34Z",
+      "user": "71.115.205.41",
+      "userid": 0,
+      "size": 8305,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 299147828,
+      "parentid": 299060179,
+      "timestamp": "2009-06-28T17:10:33Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 8257,
+      "comment": "rvv",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 319883590,
+      "parentid": 299147828,
+      "timestamp": "2009-10-14T20:48:45Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 8283,
+      "comment": "/* 2008 Congressional campaign */disambiguation using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 328879470,
+      "parentid": 319883590,
+      "timestamp": "2009-11-30T21:07:49Z",
+      "user": "Full-date unlinking bot",
+      "userid": 10076435,
+      "size": 8260,
+      "comment": "Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AModd(×1), ISO1(×4)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 345203097,
+      "parentid": 328879470,
+      "timestamp": "2010-02-20T12:17:45Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 8260,
+      "comment": "/* 2008 Congressional campaign */citation parameter fixes, replaced: |accessdate- → |accessdate= using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 351412631,
+      "parentid": 345203097,
+      "timestamp": "2010-03-22T19:11:20Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 8319,
+      "comment": "/* Life and career */ better citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 380182438,
+      "parentid": 351412631,
+      "timestamp": "2010-08-21T17:59:05Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 8368,
+      "comment": "CiteCompletion, {{dead link}}s: 1 using [[Project:AWB|AWB]] (7018)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 386578738,
+      "parentid": 380182438,
+      "timestamp": "2010-09-23T17:40:11Z",
+      "user": "H3llBot",
+      "userid": 12323565,
+      "size": 8516,
+      "comment": "BOT: [[User:H3llBot/T2|Checking dead links]]; Added 1 archived Wayback link, Removed 1 {{Dead link}} template, Marked 1 link with {{Dead link}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 393341370,
+      "parentid": 386578738,
+      "timestamp": "2010-10-28T02:21:01Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 8785,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7345)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 436895613,
+      "parentid": 393341370,
+      "timestamp": "2011-06-29T18:23:15Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 8718,
+      "comment": "/* Life and career */ update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 436895703,
+      "parentid": 436895613,
+      "timestamp": "2011-06-29T18:23:42Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 8708,
+      "comment": "/* Life and career */ fix cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 484240602,
+      "parentid": 436895703,
+      "timestamp": "2012-03-27T20:37:20Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 8707,
+      "comment": "[[WP:CHECKWIKI]] error  fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (8041)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 497256191,
+      "parentid": 484240602,
+      "timestamp": "2012-06-12T17:49:54Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 8671,
+      "comment": "/* External links */ rm cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 501984569,
+      "parentid": 497256191,
+      "timestamp": "2012-07-13T01:54:17Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 8589,
+      "comment": "Robot - Removing category Candidates to the United States House of Representatives from Oregon per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 July 5]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 546734194,
+      "parentid": 501984569,
+      "timestamp": "2013-03-24T13:58:01Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 8614,
+      "comment": "/* External links */add persondata short description using [[Project:AWB|AWB]] (8759)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 647761248,
+      "parentid": 546734194,
+      "timestamp": "2015-02-18T20:44:37Z",
+      "user": "Valfontis",
+      "userid": 759211,
+      "size": 8582,
+      "comment": "/* Early political career */clean up using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 700211182,
+      "parentid": 647761248,
+      "timestamp": "2016-01-17T02:56:28Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 8743,
+      "comment": "Rescuing 1 sources, flagging 0 as dead, and archiving 11 sources. #IABot",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709305016,
+      "parentid": 700211182,
+      "timestamp": "2016-03-10T05:38:45Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 8449,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Mike Erickson|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737197737,
+      "parentid": 709305016,
+      "timestamp": "2016-09-01T08:46:41Z",
+      "user": "Cabayi",
+      "userid": 6561336,
+      "size": 8437,
+      "comment": "/* External links */recategorise, replaced: Category:People from Seattle, Washington → Category:People from Seattle using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 738398930,
+      "parentid": 737197737,
+      "timestamp": "2016-09-08T18:41:04Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 8439,
+      "comment": "[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 777070060,
+      "parentid": 738398930,
+      "timestamp": "2017-04-25T01:48:13Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 8447,
+      "comment": "removed [[Category:People from Seattle]]; added [[Category:Businesspeople from Seattle]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 800829408,
+      "parentid": 777070060,
+      "timestamp": "2017-09-15T23:10:30Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 8452,
+      "comment": "removed [[Category:People from Lake Oswego, Oregon]]; added [[Category:Politicians from Lake Oswego, Oregon]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 832911250,
+      "parentid": 800829408,
+      "timestamp": "2018-03-28T17:08:51Z",
+      "user": "Darryl.P.Pike",
+      "userid": 32830770,
+      "size": 8472,
+      "comment": "/* 2008 Congressional campaign */ Verified link and format date= to clear CS1 error.  Added accessdate=.  This article was on the WikiProject: Oregon Clean-up list.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 878799294,
+      "parentid": 832911250,
+      "timestamp": "2019-01-17T00:29:40Z",
+      "user": "Mikecaps47",
+      "userid": 35627838,
+      "size": 1191,
+      "comment": "Different Mike Erickson",
+      "minor": false,
+      "tags": [
+        "blanking"
+      ]
+    },
+    {
+      "revid": 878799370,
+      "parentid": 878799294,
+      "timestamp": "2019-01-17T00:30:24Z",
+      "user": "Mikecaps47",
+      "userid": 35627838,
+      "size": 1184,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 878799397,
+      "parentid": 878799370,
+      "timestamp": "2019-01-17T00:30:40Z",
+      "user": "Mikecaps47",
+      "userid": 35627838,
+      "size": 1141,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 878799461,
+      "parentid": 878799397,
+      "timestamp": "2019-01-17T00:31:07Z",
+      "user": "Mikecaps47",
+      "userid": 35627838,
+      "size": 1139,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 878805780,
+      "parentid": 878799461,
+      "timestamp": "2019-01-17T01:26:17Z",
+      "user": "EdwardUK",
+      "userid": 28516722,
+      "size": 8472,
+      "comment": "restore content - if more than one start a separate article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 917968969,
+      "parentid": 878805780,
+      "timestamp": "2019-09-26T10:40:34Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 8476,
+      "comment": "/* 2008 Congressional campaign */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 945670731,
+      "parentid": 917968969,
+      "timestamp": "2020-03-15T13:10:09Z",
+      "user": "JzG",
+      "userid": 760284,
+      "size": 8482,
+      "comment": "/* 2008 Congressional campaign */Artice was renamed years ago per [[WP:NPOV]]: \"pro-life\" is [[framing (psychology)|framing language]]., replaced: a [[pro-life]] →  an [[anti-abortion]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 948908399,
+      "parentid": 945670731,
+      "timestamp": "2020-04-03T17:56:21Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 8637,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984465657,
+      "parentid": 948908399,
+      "timestamp": "2020-10-20T06:55:21Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 8632,
+      "comment": "Add: work. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox4 | via #UCB_webform_linked 3697/4000",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 992865321,
+      "parentid": 984465657,
+      "timestamp": "2020-12-07T14:45:48Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 8630,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 18 templates: del empty params (1×); hyphenate params (4×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1087029312,
+      "parentid": 992865321,
+      "timestamp": "2022-05-09T21:53:24Z",
+      "user": "96.65.205.97",
+      "userid": 0,
+      "size": 8631,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1087030677,
+      "parentid": 1087029312,
+      "timestamp": "2022-05-09T22:04:59Z",
+      "user": "96.65.205.97",
+      "userid": 0,
+      "size": 8907,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1087142583,
+      "parentid": 1087030677,
+      "timestamp": "2022-05-10T16:42:55Z",
+      "user": "Newmedianw",
+      "userid": 43859457,
+      "size": 12009,
+      "comment": "Added portrait photo, started 2022 Congressional campaign information, added fundraising and spending information, added in known media references, appearances, and interviews",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1087298118,
+      "parentid": 1087142583,
+      "timestamp": "2022-05-11T16:26:58Z",
+      "user": "Newmedianw",
+      "userid": 43859457,
+      "size": 12012,
+      "comment": "Adjusted chronology of events; reverse",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1087298611,
+      "parentid": 1087298118,
+      "timestamp": "2022-05-11T16:30:33Z",
+      "user": "Newmedianw",
+      "userid": 43859457,
+      "size": 12061,
+      "comment": "Added university",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1088551863,
+      "parentid": 1087298611,
+      "timestamp": "2022-05-18T18:21:10Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 12134,
+      "comment": "add 2022 and update lede",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1088574860,
+      "parentid": 1088551863,
+      "timestamp": "2022-05-18T21:36:57Z",
+      "user": "Kadı",
+      "userid": 38426944,
+      "size": 12134,
+      "comment": "([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Mike-headshot.jpg]] → [[File:Mike-Erickson.jpg]] [[c:COM:FR#FR2|Criterion 2]] (meaningless or ambiguous name)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1088911442,
+      "parentid": 1088574860,
+      "timestamp": "2022-05-20T20:00:48Z",
+      "user": "2600:1702:CC4:20F0:C097:83FE:D61C:6ABF",
+      "userid": 0,
+      "size": 12143,
+      "comment": "/* 2008 Congressional Campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1088937010,
+      "parentid": 1088911442,
+      "timestamp": "2022-05-20T23:07:45Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11957,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1089068811,
+      "parentid": 1088937010,
+      "timestamp": "2022-05-21T19:02:37Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 11949,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1089405759,
+      "parentid": 1089068811,
+      "timestamp": "2022-05-23T16:15:35Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 11946,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1089406110,
+      "parentid": 1089405759,
+      "timestamp": "2022-05-23T16:18:22Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 11900,
+      "comment": "[[MOS:Headings]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1089406504,
+      "parentid": 1089406110,
+      "timestamp": "2022-05-23T16:21:14Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 9627,
+      "comment": "[[WP:NOTLINKS]] - move links to talk page, use as references for content",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1089407040,
+      "parentid": 1089406504,
+      "timestamp": "2022-05-23T16:25:08Z",
+      "user": "Esprqii",
+      "userid": 1955864,
+      "size": 9698,
+      "comment": "add main article, avoid redir",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1091721094,
+      "parentid": 1089407040,
+      "timestamp": "2022-06-05T23:50:30Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 9718,
+      "comment": "+",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095563067,
+      "parentid": 1091721094,
+      "timestamp": "2022-06-29T03:04:53Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 9700,
+      "comment": "Removing [[:c:File:Mike-Erickson.jpg|Mike-Erickson.jpg]]; it has been deleted from Commons by [[:c:User:King of Hearts|King of Hearts]] because: [[:c:COM:VRT|No permission]] since 17 May 2022.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1095632659,
+      "parentid": 1095563067,
+      "timestamp": "2022-06-29T13:06:48Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 9710,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1101608208,
+      "parentid": 1095632659,
+      "timestamp": "2022-07-31T22:56:31Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 9715,
+      "comment": "removed [[Category:People from Tigard, Oregon]]; added [[Category:Politicians from Tigard, Oregon]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1103184314,
+      "parentid": 1101608208,
+      "timestamp": "2022-08-08T17:39:06Z",
+      "user": "RuanPablo95",
+      "userid": 44268143,
+      "size": 9711,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1106656555,
+      "parentid": 1103184314,
+      "timestamp": "2022-08-25T19:35:18Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9421,
+      "comment": "copyedits, expand",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106657179,
+      "parentid": 1106656555,
+      "timestamp": "2022-08-25T19:39:02Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9060,
+      "comment": "/* 2008 congressional campaign */ tag many dead links",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106657278,
+      "parentid": 1106657179,
+      "timestamp": "2022-08-25T19:39:41Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9073,
+      "comment": "/* 2008 congressional campaign */ another one",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106660730,
+      "parentid": 1106657278,
+      "timestamp": "2022-08-25T20:00:00Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 9158,
+      "comment": "Dating maintenance tags: {{Dead link}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1112632382,
+      "parentid": 1106660730,
+      "timestamp": "2022-09-27T07:57:38Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 9163,
+      "comment": "{{[[Template:Dead link|Dead link]]}} tag goes BEFORE </ref>",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1123973757,
+      "parentid": 1112632382,
+      "timestamp": "2022-11-26T18:31:54Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 9159,
+      "comment": "/* 2022 congressional campaign */ -",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124132059,
+      "parentid": 1123973757,
+      "timestamp": "2022-11-27T14:01:29Z",
+      "user": "2601:640:C401:C20:C09F:FAAB:3166:21FE",
+      "userid": 0,
+      "size": 9174,
+      "comment": "/* 2022 congressional campaign */Changed that Erikson lost the 2022 election.  He lost to Andrea Salinas.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1125106787,
+      "parentid": 1124132059,
+      "timestamp": "2022-12-02T06:20:35Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 9259,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125114870,
+      "parentid": 1125106787,
+      "timestamp": "2022-12-02T07:33:13Z",
+      "user": "WhiteKnightSTU",
+      "userid": 40809603,
+      "size": 10550,
+      "comment": "/* 2022 congressional campaign */Fixed the wording on how Erickson lost the election (pervious version came off as opinionated). Added additional information regarding the lawsuit filled my Erickson against Salinas which could overturn the election.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1125447831,
+      "parentid": 1125114870,
+      "timestamp": "2022-12-04T01:51:11Z",
+      "user": "FormalDude",
+      "userid": 30481996,
+      "size": 10929,
+      "comment": "Update lede sentence and add a ref.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1125837645,
+      "parentid": 1125447831,
+      "timestamp": "2022-12-06T03:54:50Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10886,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125837736,
+      "parentid": 1125837645,
+      "timestamp": "2022-12-06T03:55:34Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10929,
+      "comment": "whoops, misclick",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125837924,
+      "parentid": 1125837736,
+      "timestamp": "2022-12-06T03:57:16Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10928,
+      "comment": "/* 2022 congressional campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125838038,
+      "parentid": 1125837924,
+      "timestamp": "2022-12-06T03:58:13Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10929,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132203806,
+      "parentid": 1125838038,
+      "timestamp": "2023-01-07T19:20:28Z",
+      "user": "75.164.211.144",
+      "userid": 0,
+      "size": 10929,
+      "comment": "/* 2022 congressional campaign */ Spelling corretion",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1182906044,
+      "parentid": 1132203806,
+      "timestamp": "2023-11-01T02:53:16Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 15386,
+      "comment": "Add electoral history",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1182906225,
+      "parentid": 1182906044,
+      "timestamp": "2023-11-01T02:54:33Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 18022,
+      "comment": "Rescuing 15 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 5481"
+      ]
+    },
+    {
+      "revid": 1184069175,
+      "parentid": 1182906225,
+      "timestamp": "2023-11-08T04:13:41Z",
+      "user": "174.174.52.65",
+      "userid": 0,
+      "size": 18039,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1187347599,
+      "parentid": 1184069175,
+      "timestamp": "2023-11-28T18:01:59Z",
+      "user": "AlaskaGal",
+      "userid": 39672532,
+      "size": 18041,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1208068685,
+      "parentid": 1187347599,
+      "timestamp": "2024-02-16T11:32:06Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 18114,
+      "comment": "/* 2008 congressional campaign */From existing source",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1208111578,
+      "parentid": 1208068685,
+      "timestamp": "2024-02-16T14:24:06Z",
+      "user": "Achmad Rachmani",
+      "userid": 21112944,
+      "size": 18113,
+      "comment": "/* 2008 congressional campaign */ Added archive-url.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1214574016,
+      "parentid": 1208111578,
+      "timestamp": "2024-03-19T19:57:08Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 18100,
+      "comment": "/* 2008 congressional campaign */ mid what trimester? not seeing anything about that in the sources anyway",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221250708,
+      "parentid": 1214574016,
+      "timestamp": "2024-04-28T20:01:11Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 18267,
+      "comment": "[[Wikipedia:MOSNUMscript|script]]-assisted date audit and style fixes per [[MOS:NUM]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221306360,
+      "parentid": 1221250708,
+      "timestamp": "2024-04-29T03:48:38Z",
+      "user": "2600:1702:CC4:20F0:1C3E:53CF:DCA9:E8DF",
+      "userid": 0,
+      "size": 18354,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1230147481,
+      "parentid": 1221306360,
+      "timestamp": "2024-06-20T23:26:01Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 18225,
+      "comment": "/* 2022 congressional campaign */ Copyedit, remove unsourced statute number",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1230148025,
+      "parentid": 1230147481,
+      "timestamp": "2024-06-20T23:32:00Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 18672,
+      "comment": "/* 2022 congressional campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1230148808,
+      "parentid": 1230148025,
+      "timestamp": "2024-06-20T23:40:43Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 19528,
+      "comment": "/* 2024 congressional campaign */ Add current campaign",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1230148919,
+      "parentid": 1230148808,
+      "timestamp": "2024-06-20T23:42:09Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 19617,
+      "comment": "/* 2024 congressional campaign */ Link main page",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1231030213,
+      "parentid": 1230148919,
+      "timestamp": "2024-06-26T02:00:18Z",
+      "user": "Atremari",
+      "userid": 44127043,
+      "size": 19684,
+      "comment": "Added short description #article-add-desc",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1232093994,
+      "parentid": 1231030213,
+      "timestamp": "2024-07-01T22:37:15Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 19667,
+      "comment": "fixed [[Template:Broken ref/cite error list|7x extra whitespace in citation (url =), 7x extra whitespace in citation (url= ), 3x extra whitespace in citation ( url = )]] using [[User:TheJJJunk/ARA|ARA]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1242139928,
+      "parentid": 1232093994,
+      "timestamp": "2024-08-25T07:02:27Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 19664,
+      "comment": "Altered title. Added newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Superegz | [[Category:Oregon Republicans]] | #UCB_Category 27/150",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1242399642,
+      "parentid": 1242139928,
+      "timestamp": "2024-08-26T16:51:49Z",
+      "user": "Qwerfjkl",
+      "userid": 41195652,
+      "size": 19701,
+      "comment": "Added 1 {{[[Template:Bare URL inline|Bare URL inline]]}}   tag(s) using [[User:BrownHairedGirl/BareURLinline.js|a script]]. For other recently-tagged pages with [[WP:Bare URLs|bare URLs]], see [[:Category:Articles with bare URLs for citations from August 2024]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1242973416,
+      "parentid": 1242399642,
+      "timestamp": "2024-08-29T19:36:24Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 19657,
+      "comment": "Move 2 urls. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#cbsnews.com/stories]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1248662310,
+      "parentid": 1242973416,
+      "timestamp": "2024-09-30T19:37:26Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 19689,
+      "comment": "Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#foxnews.com/story]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1256159598,
+      "parentid": 1248662310,
+      "timestamp": "2024-11-08T14:57:54Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 19774,
+      "comment": "added [[Category:Candidates in the 2024 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256405263,
+      "parentid": 1256159598,
+      "timestamp": "2024-11-09T20:15:15Z",
+      "user": "2601:1C0:4600:A210:70E8:795B:ED9B:CCF7",
+      "userid": 0,
+      "size": 20168,
+      "comment": "/* 2024 congressional campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256405399,
+      "parentid": 1256405263,
+      "timestamp": "2024-11-09T20:16:11Z",
+      "user": "2601:1C0:4600:A210:70E8:795B:ED9B:CCF7",
+      "userid": 0,
+      "size": 20230,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256405657,
+      "parentid": 1256405399,
+      "timestamp": "2024-11-09T20:18:10Z",
+      "user": "2601:1C0:4600:A210:70E8:795B:ED9B:CCF7",
+      "userid": 0,
+      "size": 20298,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256405757,
+      "parentid": 1256405657,
+      "timestamp": "2024-11-09T20:18:51Z",
+      "user": "2601:1C0:4600:A210:70E8:795B:ED9B:CCF7",
+      "userid": 0,
+      "size": 20306,
+      "comment": "/* 2024 congressional campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1256423694,
+      "parentid": 1256405757,
+      "timestamp": "2024-11-09T21:57:47Z",
+      "user": "2601:1C0:4600:A210:14B0:FAC9:7D71:E986",
+      "userid": 0,
+      "size": 20284,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261609020,
+      "parentid": 1256423694,
+      "timestamp": "2024-12-06T23:54:16Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 20281,
+      "comment": "Fix [[MOS:REFSPACE]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1261980860,
+      "parentid": 1261609020,
+      "timestamp": "2024-12-09T00:11:20Z",
+      "user": "2601:1C0:4600:A210:3145:1BE7:2E1A:E949",
+      "userid": 0,
+      "size": 20281,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262751555,
+      "parentid": 1261980860,
+      "timestamp": "2024-12-12T23:59:56Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 20281,
+      "comment": "Update, per lede.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262751689,
+      "parentid": 1262751555,
+      "timestamp": "2024-12-13T00:00:41Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 20291,
+      "comment": "Per source in biography.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262766170,
+      "parentid": 1262751689,
+      "timestamp": "2024-12-13T01:37:32Z",
+      "user": "Jamedeus",
+      "userid": 38000645,
+      "size": 21442,
+      "comment": "/* Electoral history */ Add 2024 election results",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Erickson"
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Burton_LeFlore",
+  "candidate_name": "Burton LeFlore",
+  "collection_date": "2025-12-28T16:34:28.918019",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2013-10-31T21:43:35Z",
+      "end": "2018-11-28T04:20:03Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 579665662,
+      "parentid": 0,
+      "timestamp": "2013-10-31T21:43:35Z",
+      "user": "Gobonobo",
+      "userid": 784330,
+      "size": 73,
+      "comment": "[[WP:AES|←]]Redirected page to [[Alabama's 1st congressional district special election, 2013]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 870977448,
+      "parentid": 579665662,
+      "timestamp": "2018-11-28T04:20:03Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 72,
+      "comment": "Bot: Fixing double redirect to [[2013 Alabama's 1st congressional district special election]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Burton_LeFlore"
+}

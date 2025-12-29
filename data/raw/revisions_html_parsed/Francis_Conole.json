@@ -1,0 +1,259 @@
+{
+  "page_title": "Francis_Conole",
+  "candidate_name": "Francis Conole",
+  "collection_date": "2025-12-28T16:39:04.940517",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 18,
+    "unique_editors": 10,
+    "date_range": {
+      "start": "2020-05-01T19:23:46Z",
+      "end": "2024-06-27T02:28:26Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 954310254,
+      "parentid": 0,
+      "timestamp": "2020-05-01T19:23:46Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 182,
+      "comment": "[[WP:AES|←]]Redirected page to [[2020 United States House of Representatives elections in New York#District 24]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1091831779,
+      "parentid": 954310254,
+      "timestamp": "2022-06-06T17:12:07Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 214,
+      "comment": "[[WP:AES|←]]Changed redirect target from [[2020 United States House of Representatives elections in New York#District 24]] to [[2022 United States House of Representatives elections in New York#District 22]]",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1110187040,
+      "parentid": 1091831779,
+      "timestamp": "2022-09-14T03:47:57Z",
+      "user": "Johnnycorns5354",
+      "userid": 40384118,
+      "size": 9642,
+      "comment": "Page created",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 1110190829,
+      "parentid": 1110187040,
+      "timestamp": "2022-09-14T04:22:10Z",
+      "user": "Johnnycorns5354",
+      "userid": 40384118,
+      "size": 12372,
+      "comment": "Added electoral history",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1110190934,
+      "parentid": 1110190829,
+      "timestamp": "2022-09-14T04:23:01Z",
+      "user": "Johnnycorns5354",
+      "userid": 40384118,
+      "size": 12393,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician\" to \"American politician and military officer\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1110193394,
+      "parentid": 1110190934,
+      "timestamp": "2022-09-14T04:45:14Z",
+      "user": "Johnnycorns5354",
+      "userid": 40384118,
+      "size": 12396,
+      "comment": "/* Defense Secretary Policy Advisor */ typographical correction",
+      "minor": true,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1110317778,
+      "parentid": 1110193394,
+      "timestamp": "2022-09-14T20:01:47Z",
+      "user": "Akrabbim",
+      "userid": 425699,
+      "size": 12392,
+      "comment": "/* 2020 */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1110369541,
+      "parentid": 1110317778,
+      "timestamp": "2022-09-15T02:29:13Z",
+      "user": "Johnnycorns5354",
+      "userid": 40384118,
+      "size": 12757,
+      "comment": "Added birth place",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1110499694,
+      "parentid": 1110369541,
+      "timestamp": "2022-09-15T20:47:30Z",
+      "user": "Johnnycorns5354",
+      "userid": 40384118,
+      "size": 12806,
+      "comment": "Expanding on military service",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1110800412,
+      "parentid": 1110499694,
+      "timestamp": "2022-09-17T16:08:32Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 12855,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111465369,
+      "parentid": 1110800412,
+      "timestamp": "2022-09-21T03:35:40Z",
+      "user": "Robby",
+      "userid": 1934512,
+      "size": 12840,
+      "comment": "/* External links */ no such category on Commons (at least not now)",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1112977261,
+      "parentid": 1111465369,
+      "timestamp": "2022-09-29T02:36:18Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12875,
+      "comment": "Added {{[[Template:Notability|Notability]]}} tag: questionable whether he meets [[WP:NPOL]]",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1112977818,
+      "parentid": 1112977261,
+      "timestamp": "2022-09-29T02:40:19Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12368,
+      "comment": "copyedits, drop poor source",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1112977942,
+      "parentid": 1112977818,
+      "timestamp": "2022-09-29T02:41:15Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12800,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Francis Conole]].",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1113852186,
+      "parentid": 1112977942,
+      "timestamp": "2022-10-03T15:03:40Z",
+      "user": "Qwerfjkl (bot)",
+      "userid": 42522270,
+      "size": 12792,
+      "comment": "Removed [[Help:Self link|link(s) to title]] ([[Wikipedia:WikiProject Check Wikipedia/List of errors#48|CW Error #48]]); [[WP:GENFIXES|general fixes]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1114374596,
+      "parentid": 1113852186,
+      "timestamp": "2022-10-06T05:23:02Z",
+      "user": "Liz",
+      "userid": 19404073,
+      "size": 132,
+      "comment": "[[Wikipedia:Articles for deletion/Francis Conole]] closed as redirect ([[WP:XFDC#4.0.13|XFDcloser]])",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1231209327,
+      "parentid": 1114374596,
+      "timestamp": "2024-06-27T02:24:06Z",
+      "user": "76.146.44.234",
+      "userid": 0,
+      "size": 124,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2022 United States House of Representatives elections in New York#District 22]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1231209875,
+      "parentid": 1231209327,
+      "timestamp": "2024-06-27T02:28:26Z",
+      "user": "Acroterion",
+      "userid": 1839637,
+      "size": 132,
+      "comment": "Reverted edit by [[Special:Contribs/76.146.44.234|76.146.44.234]] ([[User talk:76.146.44.234|talk]]) to last version by Liz",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-new-redirect"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Conole"
+}

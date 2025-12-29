@@ -1,0 +1,55 @@
+{
+  "page_title": "Jim_O'Donnell",
+  "candidate_name": "James O'Donnell",
+  "collection_date": "2025-12-28T16:42:21.479023",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2009-01-26T03:32:20Z",
+      "end": "2018-12-08T17:57:55Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 266452168,
+      "parentid": 0,
+      "timestamp": "2009-01-26T03:32:20Z",
+      "user": "Parmensis",
+      "userid": 8816931,
+      "size": 32,
+      "comment": "[[WP:AES|←]]Redirected page to [[James J. O'Donnell]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632785684,
+      "parentid": 266452168,
+      "timestamp": "2014-11-07T03:49:22Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 91,
+      "comment": "Redirecting main header delineating American political figure from [[New York]], [[Jim O'Donnell]], to the entry, [[United States House of Representatives elections in New York, 2014]], which mentions his run for [[New York's 27th congressional district]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872706921,
+      "parentid": 632785684,
+      "timestamp": "2018-12-08T17:57:55Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in New York]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_O'Donnell"
+}

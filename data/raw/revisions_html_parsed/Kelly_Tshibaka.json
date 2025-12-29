@@ -1,0 +1,3311 @@
+{
+  "page_title": "Kelly_Tshibaka",
+  "candidate_name": "Kelly Tshibaka",
+  "collection_date": "2025-12-28T16:45:36.071454",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 249,
+    "unique_editors": 53,
+    "date_range": {
+      "start": "2021-03-30T15:52:57Z",
+      "end": "2024-05-22T06:07:36Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1015090234,
+      "parentid": 0,
+      "timestamp": "2021-03-30T15:52:57Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 198,
+      "comment": "[[WP:AES|←]]Redirected page to [[2022 United States Senate election in Alaska#Republican Party]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1027780163,
+      "parentid": 1015090234,
+      "timestamp": "2021-06-09T23:45:46Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 154,
+      "comment": "changing redirect target",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-changed-redirect-target",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1027801615,
+      "parentid": 1027780163,
+      "timestamp": "2021-06-10T02:48:54Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 161,
+      "comment": "Bot: Fixing double redirect to [[Draft:Kelly N. Tshibaka]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1027801801,
+      "parentid": 1027801615,
+      "timestamp": "2021-06-10T02:51:04Z",
+      "user": "DMacks",
+      "userid": 712163,
+      "size": 198,
+      "comment": "Restored revision 1015090234 by [[Special:Contributions/Muboshgu|Muboshgu]] ([[User talk:Muboshgu|talk]]): Not viable yet",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-changed-redirect-target",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1117701572,
+      "parentid": 1027801801,
+      "timestamp": "2022-10-23T03:50:16Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 4681,
+      "comment": "start BLP",
+      "minor": false,
+      "tags": [
+        "nowiki added",
+        "mw-removed-redirect",
+        "disambiguator-link-added",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117701925,
+      "parentid": 1117701572,
+      "timestamp": "2022-10-23T03:53:17Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 4929,
+      "comment": "add fn, rmv cat",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117701963,
+      "parentid": 1117701925,
+      "timestamp": "2022-10-23T03:53:40Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 4930,
+      "comment": "/* Personal */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702121,
+      "parentid": 1117701963,
+      "timestamp": "2022-10-23T03:55:02Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5250,
+      "comment": "/* 2022 campaign for U.S. Senate */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702236,
+      "parentid": 1117702121,
+      "timestamp": "2022-10-23T03:55:58Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5282,
+      "comment": "+",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702277,
+      "parentid": 1117702236,
+      "timestamp": "2022-10-23T03:56:16Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5280,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702425,
+      "parentid": 1117702277,
+      "timestamp": "2022-10-23T03:57:31Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5284,
+      "comment": "/* Early life, education, and career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702514,
+      "parentid": 1117702425,
+      "timestamp": "2022-10-23T03:58:12Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5292,
+      "comment": "/* Early life, education, and career */ in 2021",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702584,
+      "parentid": 1117702514,
+      "timestamp": "2022-10-23T03:58:46Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5301,
+      "comment": "/* Early life, education, and career */ March of 2021",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702643,
+      "parentid": 1117702584,
+      "timestamp": "2022-10-23T03:59:11Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5303,
+      "comment": "/* Early life, education, and career */ split paragraph",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117702846,
+      "parentid": 1117702643,
+      "timestamp": "2022-10-23T04:00:40Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 5296,
+      "comment": "/* Personal */ rephrase a little",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117704418,
+      "parentid": 1117702846,
+      "timestamp": "2022-10-23T04:14:03Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 6253,
+      "comment": "/* 2022 campaign for U.S. Senate */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117704573,
+      "parentid": 1117704418,
+      "timestamp": "2022-10-23T04:15:30Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 6235,
+      "comment": "/* 2022 campaign for U.S. Senate */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117704752,
+      "parentid": 1117704573,
+      "timestamp": "2022-10-23T04:17:00Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 6262,
+      "comment": "/* 2022 campaign for U.S. Senate */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117704862,
+      "parentid": 1117704752,
+      "timestamp": "2022-10-23T04:17:55Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 6262,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117705273,
+      "parentid": 1117704862,
+      "timestamp": "2022-10-23T04:21:51Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 6692,
+      "comment": "/* 2022 campaign for U.S. Senate */ + Trump endorsement",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117705396,
+      "parentid": 1117705273,
+      "timestamp": "2022-10-23T04:22:51Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 6682,
+      "comment": "/* Early life, education, and career */ rmv \"sensitive\"",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117706970,
+      "parentid": 1117705396,
+      "timestamp": "2022-10-23T04:37:08Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 7466,
+      "comment": "Just noticed [[Draft:Kelly Tshibaka]], copying some stuff from there",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117707128,
+      "parentid": 1117706970,
+      "timestamp": "2022-10-23T04:38:39Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 7483,
+      "comment": "per cited source",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117707853,
+      "parentid": 1117707128,
+      "timestamp": "2022-10-23T04:44:24Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 7570,
+      "comment": "/* 2022 campaign for U.S. Senate */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117708824,
+      "parentid": 1117707853,
+      "timestamp": "2022-10-23T04:51:44Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 8103,
+      "comment": "/* Early life, education, and career */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117708859,
+      "parentid": 1117708824,
+      "timestamp": "2022-10-23T04:52:07Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 8107,
+      "comment": "/* Early life, education, and career */ wlink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117708962,
+      "parentid": 1117708859,
+      "timestamp": "2022-10-23T04:52:58Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 8114,
+      "comment": "/* Early life, education, and career */ tweak re. Harvard Law Record",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117709386,
+      "parentid": 1117708962,
+      "timestamp": "2022-10-23T04:56:27Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 8524,
+      "comment": "/* 2022 campaign for U.S. Senate */ From [[Draft:Kelly Tshibaka]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117710262,
+      "parentid": 1117709386,
+      "timestamp": "2022-10-23T05:04:17Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9197,
+      "comment": "/* Early life, education, and career */ add and clarify with help from [[draft:Kelly Tshibaka]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117710349,
+      "parentid": 1117710262,
+      "timestamp": "2022-10-23T05:05:04Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9201,
+      "comment": "/* Career */ wlink",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117710905,
+      "parentid": 1117710349,
+      "timestamp": "2022-10-23T05:10:16Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9242,
+      "comment": "/* References */ add cat",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117711660,
+      "parentid": 1117710905,
+      "timestamp": "2022-10-23T05:17:18Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9241,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117718879,
+      "parentid": 1117711660,
+      "timestamp": "2022-10-23T06:27:25Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9754,
+      "comment": "/* Career */ accusations regarding 600 hours",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117719084,
+      "parentid": 1117718879,
+      "timestamp": "2022-10-23T06:29:21Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9762,
+      "comment": "/* Career */ add year (2011)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117719291,
+      "parentid": 1117719084,
+      "timestamp": "2022-10-23T06:31:20Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9757,
+      "comment": "/* 2022 campaign for U.S. Senate */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117719498,
+      "parentid": 1117719291,
+      "timestamp": "2022-10-23T06:33:35Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 9756,
+      "comment": "/* Career */ rephrase a little",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117720650,
+      "parentid": 1117719498,
+      "timestamp": "2022-10-23T06:45:50Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10260,
+      "comment": "/* Career */ + moving expenses, etc.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117720764,
+      "parentid": 1117720650,
+      "timestamp": "2022-10-23T06:47:22Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10265,
+      "comment": "/* Career */ insert “then”",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117720877,
+      "parentid": 1117720764,
+      "timestamp": "2022-10-23T06:48:31Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10274,
+      "comment": "/* Career */ insert “In 2019”",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117725591,
+      "parentid": 1117720877,
+      "timestamp": "2022-10-23T07:28:02Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10295,
+      "comment": "/* 2022 campaign for U.S. Senate */ modify footnote",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117726774,
+      "parentid": 1117725591,
+      "timestamp": "2022-10-23T07:40:04Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10573,
+      "comment": "/* 2022 campaign for U.S. Senate */ split sentence, insert footnote",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117726834,
+      "parentid": 1117726774,
+      "timestamp": "2022-10-23T07:40:36Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10577,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117726882,
+      "parentid": 1117726834,
+      "timestamp": "2022-10-23T07:41:08Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10579,
+      "comment": "/* 2022 campaign for U.S. Senate */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117726957,
+      "parentid": 1117726882,
+      "timestamp": "2022-10-23T07:41:47Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10578,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117727087,
+      "parentid": 1117726957,
+      "timestamp": "2022-10-23T07:42:49Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10603,
+      "comment": "/* 2022 campaign for U.S. Senate */ expand preface to blockquote",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117727693,
+      "parentid": 1117727087,
+      "timestamp": "2022-10-23T07:47:14Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10604,
+      "comment": "/* 2022 campaign for U.S. Senate */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117728589,
+      "parentid": 1117727693,
+      "timestamp": "2022-10-23T07:54:01Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10606,
+      "comment": "/* 2022 campaign for U.S. Senate */ header level",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117729361,
+      "parentid": 1117728589,
+      "timestamp": "2022-10-23T08:01:33Z",
+      "user": "Twotwofourtysix",
+      "userid": 36866393,
+      "size": 10633,
+      "comment": "Disambiguating links to [[Mike Dunleavy]] (link changed to [[Mike Dunleavy (politician)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1117729785,
+      "parentid": 1117729361,
+      "timestamp": "2022-10-23T08:05:01Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10632,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117743377,
+      "parentid": 1117729785,
+      "timestamp": "2022-10-23T09:58:49Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10644,
+      "comment": "/* Career */ name ref",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117743652,
+      "parentid": 1117743377,
+      "timestamp": "2022-10-23T10:00:56Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10807,
+      "comment": "/* Personal */ +religion",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117744449,
+      "parentid": 1117743652,
+      "timestamp": "2022-10-23T10:07:40Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10932,
+      "comment": "/* Personal */ re. grandfather",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117744991,
+      "parentid": 1117744449,
+      "timestamp": "2022-10-23T10:12:51Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10906,
+      "comment": "/* Personal */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117789660,
+      "parentid": 1117744991,
+      "timestamp": "2022-10-23T16:02:34Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 10864,
+      "comment": "copyedits",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1117816857,
+      "parentid": 1117789660,
+      "timestamp": "2022-10-23T18:59:47Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 10868,
+      "comment": "/* 2022 campaign for U.S. Senate */ wlink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117905973,
+      "parentid": 1117816857,
+      "timestamp": "2022-10-24T05:05:24Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 11364,
+      "comment": "/* 2022 campaign for U.S. Senate */ add nyt info",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117907253,
+      "parentid": 1117905973,
+      "timestamp": "2022-10-24T05:18:24Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 11676,
+      "comment": "/* 2022 campaign for U.S. Senate */ add re. Barrett confirmation, citing AP",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117907317,
+      "parentid": 1117907253,
+      "timestamp": "2022-10-24T05:18:58Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 11677,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117908347,
+      "parentid": 1117907317,
+      "timestamp": "2022-10-24T05:28:57Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 11780,
+      "comment": "/* 2022 campaign for U.S. Senate */ revise a bit",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117908425,
+      "parentid": 1117908347,
+      "timestamp": "2022-10-24T05:29:40Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 11781,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117911110,
+      "parentid": 1117908425,
+      "timestamp": "2022-10-24T05:56:41Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 12014,
+      "comment": "/* 2022 campaign for U.S. Senate */ add ref",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117911485,
+      "parentid": 1117911110,
+      "timestamp": "2022-10-24T06:00:39Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 12034,
+      "comment": "/* 2022 campaign for U.S. Senate */ add Tim Murtaugh",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117911920,
+      "parentid": 1117911485,
+      "timestamp": "2022-10-24T06:05:08Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 12030,
+      "comment": "/* 2022 campaign for U.S. Senate */ un-wlink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117986478,
+      "parentid": 1117911920,
+      "timestamp": "2022-10-24T16:02:39Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 12571,
+      "comment": "/* 2022 campaign for U.S. Senate */ add Washington Post info & footnote",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117986549,
+      "parentid": 1117986478,
+      "timestamp": "2022-10-24T16:03:09Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 12570,
+      "comment": "/* 2022 campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117995555,
+      "parentid": 1117986549,
+      "timestamp": "2022-10-24T17:05:16Z",
+      "user": "206.198.132.26",
+      "userid": 0,
+      "size": 12189,
+      "comment": "Removal of 'disinformation' caused by inadequate context.",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117996848,
+      "parentid": 1117995555,
+      "timestamp": "2022-10-24T17:14:00Z",
+      "user": "206.198.132.26",
+      "userid": 0,
+      "size": 12040,
+      "comment": "Removed false/disinformation, lacking context & facts/data",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117997065,
+      "parentid": 1117996848,
+      "timestamp": "2022-10-24T17:15:22Z",
+      "user": "Drmies",
+      "userid": 5183450,
+      "size": 12570,
+      "comment": "Reverted 2 edits by [[Special:Contributions/206.198.132.26|206.198.132.26]] ([[User talk:206.198.132.26|talk]]): Hmm is that so. false? that first thing seems well verified",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1117997943,
+      "parentid": 1117997065,
+      "timestamp": "2022-10-24T17:21:01Z",
+      "user": "206.198.132.26",
+      "userid": 0,
+      "size": 12057,
+      "comment": "Disinformation, improper context",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1117999590,
+      "parentid": 1117997943,
+      "timestamp": "2022-10-24T17:30:50Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 12570,
+      "comment": "Reverted edits by [[Special:Contribs/206.198.132.26|206.198.132.26]] ([[User talk:206.198.132.26|talk]]) to last version by Drmies",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1118024557,
+      "parentid": 1117999590,
+      "timestamp": "2022-10-24T20:09:34Z",
+      "user": "2601:205:3:DEE2:C18D:B810:D768:62B9",
+      "userid": 0,
+      "size": 12583,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118025217,
+      "parentid": 1118024557,
+      "timestamp": "2022-10-24T20:13:41Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 12885,
+      "comment": "This is better than pronunciation symbols that no one understands",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118033870,
+      "parentid": 1118025217,
+      "timestamp": "2022-10-24T21:13:01Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13390,
+      "comment": "Clarify & nsert two footnotes",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118058462,
+      "parentid": 1118033870,
+      "timestamp": "2022-10-25T00:12:08Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13641,
+      "comment": "Add U. Anchorage",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118058984,
+      "parentid": 1118058462,
+      "timestamp": "2022-10-25T00:15:41Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13752,
+      "comment": "/* Personal */ add NRA, etc",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118061825,
+      "parentid": 1118058984,
+      "timestamp": "2022-10-25T00:34:02Z",
+      "user": "Banana Republic",
+      "userid": 2424439,
+      "size": 13764,
+      "comment": "There is absolutely no reason to quote her website verbatim. Part of the subject covered by the quote does not even belong in her personal life section. It belongs in the early life section, so that material was transferred (and rephrased so it would not be a verbatim quote)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118062441,
+      "parentid": 1118061825,
+      "timestamp": "2022-10-25T00:37:39Z",
+      "user": "Banana Republic",
+      "userid": 2424439,
+      "size": 13770,
+      "comment": "/* Early life and education */ add missing tag",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118064870,
+      "parentid": 1118062441,
+      "timestamp": "2022-10-25T00:52:53Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13784,
+      "comment": "/* Early life and education */ let’s just state the facts, without “in spite of”",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118067584,
+      "parentid": 1118064870,
+      "timestamp": "2022-10-25T01:11:00Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13786,
+      "comment": "/* Personal */ fix fn",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118071469,
+      "parentid": 1118067584,
+      "timestamp": "2022-10-25T01:38:57Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13813,
+      "comment": "/* Early life and education */ insert fn",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118072027,
+      "parentid": 1118071469,
+      "timestamp": "2022-10-25T01:43:31Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13834,
+      "comment": "/* Personal */ rephrase a little, as Tshibaka wasn’t her name before marriage",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118072114,
+      "parentid": 1118072027,
+      "timestamp": "2022-10-25T01:44:22Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13836,
+      "comment": "/* Personal */ split paragraph",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118072276,
+      "parentid": 1118072114,
+      "timestamp": "2022-10-25T01:46:02Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13908,
+      "comment": "/* Personal */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118072498,
+      "parentid": 1118072276,
+      "timestamp": "2022-10-25T01:47:57Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13904,
+      "comment": "/* Early life and education */ split sentence",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118085400,
+      "parentid": 1118072498,
+      "timestamp": "2022-10-25T03:33:45Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13909,
+      "comment": "/* Personal */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118089062,
+      "parentid": 1118085400,
+      "timestamp": "2022-10-25T04:06:41Z",
+      "user": "Banana Republic",
+      "userid": 2424439,
+      "size": 13931,
+      "comment": "/* Early life and education */ Her biography states it, because she states it. The biography does not come together from thin air.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118089318,
+      "parentid": 1118089062,
+      "timestamp": "2022-10-25T04:09:12Z",
+      "user": "Banana Republic",
+      "userid": 2424439,
+      "size": 13927,
+      "comment": "/* Early life and education */ no need to repeat the same link in two consecutive sentences.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118091029,
+      "parentid": 1118089318,
+      "timestamp": "2022-10-25T04:25:51Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13920,
+      "comment": "/* Early life and education */ Per [[WP:CLAIM]] and [[WP:HOWEVER]], we need to be careful to avoid editorializing or calling her statements into question. A reader may infer that she used the word “family” in context of discussing her nuclear family, not her extended family. and we shouldn’t insist that’s false.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118091847,
+      "parentid": 1118091029,
+      "timestamp": "2022-10-25T04:33:35Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13903,
+      "comment": "/* Early life and education */ rmv superfluous",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118186738,
+      "parentid": 1118091847,
+      "timestamp": "2022-10-25T16:52:18Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13903,
+      "comment": "/* Personal */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118197330,
+      "parentid": 1118186738,
+      "timestamp": "2022-10-25T17:50:07Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13920,
+      "comment": "/* Early life and education */ Prudhoe Bay",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118197477,
+      "parentid": 1118197330,
+      "timestamp": "2022-10-25T17:50:56Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 13942,
+      "comment": "/* Early life and education */ pipe link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118208636,
+      "parentid": 1118197477,
+      "timestamp": "2022-10-25T18:43:20Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 14398,
+      "comment": "/* Career */ post office work",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118210205,
+      "parentid": 1118208636,
+      "timestamp": "2022-10-25T18:51:50Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 14612,
+      "comment": "/* Career */ add fn",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118219242,
+      "parentid": 1118210205,
+      "timestamp": "2022-10-25T19:40:58Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 15517,
+      "comment": "/* 2022 campaign for U.S. Senate */ add re. McConnell",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118224368,
+      "parentid": 1118219242,
+      "timestamp": "2022-10-25T20:09:52Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 16091,
+      "comment": "/* Career */ add info about her tenure at Dept. of Administration",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118227760,
+      "parentid": 1118224368,
+      "timestamp": "2022-10-25T20:30:18Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 16815,
+      "comment": "/* Career */ same",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118228015,
+      "parentid": 1118227760,
+      "timestamp": "2022-10-25T20:32:03Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 16853,
+      "comment": "/* Career */ wlink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118229128,
+      "parentid": 1118228015,
+      "timestamp": "2022-10-25T20:39:48Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 16853,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118232472,
+      "parentid": 1118229128,
+      "timestamp": "2022-10-25T20:57:54Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17102,
+      "comment": "/* Career */ subheaders, add intro to career section",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118232989,
+      "parentid": 1118232472,
+      "timestamp": "2022-10-25T21:01:05Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17118,
+      "comment": "/* Federal government work */ split long paragraph",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118233194,
+      "parentid": 1118232989,
+      "timestamp": "2022-10-25T21:02:25Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17138,
+      "comment": "/* Federal government work */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118233941,
+      "parentid": 1118233194,
+      "timestamp": "2022-10-25T21:07:17Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17133,
+      "comment": "/* 2022 campaign for U.S. Senate */ shorten header",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118235953,
+      "parentid": 1118233941,
+      "timestamp": "2022-10-25T21:20:46Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17325,
+      "comment": "Mentioning 17 years of federal service in lead.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118236080,
+      "parentid": 1118235953,
+      "timestamp": "2022-10-25T21:21:28Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17315,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118236320,
+      "parentid": 1118236080,
+      "timestamp": "2022-10-25T21:23:10Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17314,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118239963,
+      "parentid": 1118236320,
+      "timestamp": "2022-10-25T21:48:22Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17332,
+      "comment": "Mention “home state”",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118265732,
+      "parentid": 1118239963,
+      "timestamp": "2022-10-26T01:12:48Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 17280,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118265772,
+      "parentid": 1118265732,
+      "timestamp": "2022-10-26T01:13:07Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 17296,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118266378,
+      "parentid": 1118265772,
+      "timestamp": "2022-10-26T01:18:08Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 17382,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118279976,
+      "parentid": 1118266378,
+      "timestamp": "2022-10-26T03:15:19Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17415,
+      "comment": "/* Campaign for U.S. Senate */ wlink",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118284663,
+      "parentid": 1118279976,
+      "timestamp": "2022-10-26T04:02:09Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 17375,
+      "comment": "[[WP:NOTEVERYTHING]]",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118291166,
+      "parentid": 1118284663,
+      "timestamp": "2022-10-26T05:07:03Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 17415,
+      "comment": "Doesn't apply since it's literally the point of the section. Happy to play this game forever tho!",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118296973,
+      "parentid": 1118291166,
+      "timestamp": "2022-10-26T06:04:10Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17451,
+      "comment": "/* Campaign for U.S. Senate */ Senate Leadership Fund",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118309145,
+      "parentid": 1118296973,
+      "timestamp": "2022-10-26T08:02:12Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17451,
+      "comment": "/* Campaign for U.S. Senate */ Move paragraph up, no other change",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118310123,
+      "parentid": 1118309145,
+      "timestamp": "2022-10-26T08:12:33Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17783,
+      "comment": "/* Campaign for U.S. Senate */ add image just prior to references",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118310194,
+      "parentid": 1118310123,
+      "timestamp": "2022-10-26T08:13:21Z",
+      "user": "Bruce1ee",
+      "userid": 211905,
+      "size": 17782,
+      "comment": "fixed [[Special:LintErrors|lint errors]] – file options",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1118316842,
+      "parentid": 1118310194,
+      "timestamp": "2022-10-26T09:19:57Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17712,
+      "comment": "/* Campaign for U.S. Senate */ conciser caption",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118319214,
+      "parentid": 1118316842,
+      "timestamp": "2022-10-26T09:40:55Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17712,
+      "comment": "/* Campaign for U.S. Senate */ changing 24 to 23",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118346254,
+      "parentid": 1118319214,
+      "timestamp": "2022-10-26T14:22:50Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 17672,
+      "comment": "gain consensus",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118352280,
+      "parentid": 1118346254,
+      "timestamp": "2022-10-26T15:15:03Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 17642,
+      "comment": "copyedits",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1118450692,
+      "parentid": 1118352280,
+      "timestamp": "2022-10-27T02:28:44Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17633,
+      "comment": "/* Campaign for U.S. Senate */ conciser in caption",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118476435,
+      "parentid": 1118450692,
+      "timestamp": "2022-10-27T06:14:19Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17636,
+      "comment": "/* State government work */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118558539,
+      "parentid": 1118476435,
+      "timestamp": "2022-10-27T17:53:49Z",
+      "user": "Pemilligan",
+      "userid": 1682772,
+      "size": 17607,
+      "comment": "Adjusted reference details.[[MOS:CURLY|Replaced curly quotes]]. [[Wikipedia:MOSNUMscript|Script]]-assisted date audit and style fixes per [[MOS:NUM]].",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118585541,
+      "parentid": 1118558539,
+      "timestamp": "2022-10-27T20:25:33Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17606,
+      "comment": "/* Campaign for U.S. Senate */ punct.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118604916,
+      "parentid": 1118585541,
+      "timestamp": "2022-10-27T22:42:00Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 17845,
+      "comment": "/* References */ start external link section",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118611486,
+      "parentid": 1118604916,
+      "timestamp": "2022-10-27T23:39:26Z",
+      "user": "Pemilligan",
+      "userid": 1682772,
+      "size": 17845,
+      "comment": "Moved external links per [[MOS:SECTIONORDER]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118703651,
+      "parentid": 1118611486,
+      "timestamp": "2022-10-28T11:41:53Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 17866,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118741051,
+      "parentid": 1118703651,
+      "timestamp": "2022-10-28T16:17:24Z",
+      "user": "209.161.164.18",
+      "userid": 0,
+      "size": 17865,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118741125,
+      "parentid": 1118741051,
+      "timestamp": "2022-10-28T16:17:56Z",
+      "user": "209.161.164.18",
+      "userid": 0,
+      "size": 17866,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118741194,
+      "parentid": 1118741125,
+      "timestamp": "2022-10-28T16:18:27Z",
+      "user": "209.161.164.18",
+      "userid": 0,
+      "size": 17866,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118741232,
+      "parentid": 1118741194,
+      "timestamp": "2022-10-28T16:18:42Z",
+      "user": "209.161.164.18",
+      "userid": 0,
+      "size": 17865,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118741283,
+      "parentid": 1118741232,
+      "timestamp": "2022-10-28T16:18:56Z",
+      "user": "209.161.164.18",
+      "userid": 0,
+      "size": 17866,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118743036,
+      "parentid": 1118741283,
+      "timestamp": "2022-10-28T16:30:23Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18039,
+      "comment": "/* External links */ +1",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118825050,
+      "parentid": 1118743036,
+      "timestamp": "2022-10-29T03:39:46Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18044,
+      "comment": "/* Campaign for U.S. Senate */ insert “also”",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118938681,
+      "parentid": 1118825050,
+      "timestamp": "2022-10-29T20:46:23Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18185,
+      "comment": "/* External links */ +3",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118938836,
+      "parentid": 1118938681,
+      "timestamp": "2022-10-29T20:47:44Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18185,
+      "comment": "/* External links */ alphabetize cats",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118939108,
+      "parentid": 1118938836,
+      "timestamp": "2022-10-29T20:49:58Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18252,
+      "comment": "/* External links */ +1",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118939903,
+      "parentid": 1118939108,
+      "timestamp": "2022-10-29T20:56:46Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18277,
+      "comment": "/* External links */ +1",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1118951657,
+      "parentid": 1118939903,
+      "timestamp": "2022-10-29T22:39:36Z",
+      "user": "100.17.19.108",
+      "userid": 0,
+      "size": 18276,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119795277,
+      "parentid": 1118951657,
+      "timestamp": "2022-11-03T13:04:56Z",
+      "user": "24.237.158.249",
+      "userid": 0,
+      "size": 18277,
+      "comment": "/* Personal life */Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1119795764,
+      "parentid": 1119795277,
+      "timestamp": "2022-11-03T13:08:56Z",
+      "user": "Openmy",
+      "userid": 15904502,
+      "size": 18296,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120021993,
+      "parentid": 1119795764,
+      "timestamp": "2022-11-04T17:32:53Z",
+      "user": "William Graham",
+      "userid": 328964,
+      "size": 18301,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120029583,
+      "parentid": 1120021993,
+      "timestamp": "2022-11-04T18:23:09Z",
+      "user": "William Graham",
+      "userid": 328964,
+      "size": 18333,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120223276,
+      "parentid": 1120029583,
+      "timestamp": "2022-11-05T21:07:42Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18554,
+      "comment": "/* Early life and education */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120223552,
+      "parentid": 1120223276,
+      "timestamp": "2022-11-05T21:09:58Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18591,
+      "comment": "/* Early life and education */ fix ref",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120223606,
+      "parentid": 1120223552,
+      "timestamp": "2022-11-05T21:10:21Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18590,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120225884,
+      "parentid": 1120223606,
+      "timestamp": "2022-11-05T21:29:15Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18732,
+      "comment": "/* Early life and education */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120225931,
+      "parentid": 1120225884,
+      "timestamp": "2022-11-05T21:29:40Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18732,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120226542,
+      "parentid": 1120225931,
+      "timestamp": "2022-11-05T21:34:41Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18992,
+      "comment": "/* Early life and education */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120226664,
+      "parentid": 1120226542,
+      "timestamp": "2022-11-05T21:35:42Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18990,
+      "comment": "/* Early life and education */ tweak",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120226938,
+      "parentid": 1120226664,
+      "timestamp": "2022-11-05T21:37:59Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18990,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120227546,
+      "parentid": 1120226938,
+      "timestamp": "2022-11-05T21:42:16Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18991,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120259991,
+      "parentid": 1120227546,
+      "timestamp": "2022-11-06T02:15:52Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18977,
+      "comment": "/* Early life and education */ conciser",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120262137,
+      "parentid": 1120259991,
+      "timestamp": "2022-11-06T02:36:35Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18976,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120281543,
+      "parentid": 1120262137,
+      "timestamp": "2022-11-06T05:25:56Z",
+      "user": "Epiceditor1213",
+      "userid": 28663506,
+      "size": 18975,
+      "comment": "Grammatical error. Couple is singular.",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1120375603,
+      "parentid": 1120281543,
+      "timestamp": "2022-11-06T17:47:34Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 18908,
+      "comment": "removed [[Category:Candidates in the 2022 United States Senate elections]] using [[WP:HC|HotCat]] This should not be added until after the election, if she loses",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120521017,
+      "parentid": 1120375603,
+      "timestamp": "2022-11-07T12:33:13Z",
+      "user": "Nardog",
+      "userid": 5908908,
+      "size": 18905,
+      "comment": "fix pron",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120938479,
+      "parentid": 1120521017,
+      "timestamp": "2022-11-09T16:56:43Z",
+      "user": "2001:4898:80E8:F:9438:CAD:4763:38F7",
+      "userid": 0,
+      "size": 18906,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121184502,
+      "parentid": 1120938479,
+      "timestamp": "2022-11-10T23:25:57Z",
+      "user": "71.71.231.126",
+      "userid": 0,
+      "size": 18909,
+      "comment": "/* Campaign for U.S. Senate */Ex-president is not a correct statement, meaning someone who is president can become not president. The correct language should be former president.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1121217900,
+      "parentid": 1121184502,
+      "timestamp": "2022-11-11T04:06:29Z",
+      "user": "2600:1702:CC4:20F0:5538:B183:EA4B:5E1C",
+      "userid": 0,
+      "size": 18951,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121218836,
+      "parentid": 1121217900,
+      "timestamp": "2022-11-11T04:15:49Z",
+      "user": "2600:1702:CC4:20F0:5538:B183:EA4B:5E1C",
+      "userid": 0,
+      "size": 18976,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121218901,
+      "parentid": 1121218836,
+      "timestamp": "2022-11-11T04:16:45Z",
+      "user": "2600:1702:CC4:20F0:5538:B183:EA4B:5E1C",
+      "userid": 0,
+      "size": 18972,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121219105,
+      "parentid": 1121218901,
+      "timestamp": "2022-11-11T04:19:20Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18973,
+      "comment": "/* Early life and education */ c/e",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121223424,
+      "parentid": 1121219105,
+      "timestamp": "2022-11-11T05:09:58Z",
+      "user": "Tasker United",
+      "userid": 29277813,
+      "size": 18991,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121225905,
+      "parentid": 1121223424,
+      "timestamp": "2022-11-11T05:34:48Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18974,
+      "comment": "/* Campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1121409374,
+      "parentid": 1121225905,
+      "timestamp": "2022-11-12T04:08:08Z",
+      "user": "Dr. Van Nostrand",
+      "userid": 32247672,
+      "size": 18973,
+      "comment": "Deleted space",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1121621556,
+      "parentid": 1121409374,
+      "timestamp": "2022-11-13T07:25:21Z",
+      "user": "Stoarm",
+      "userid": 43727261,
+      "size": 18940,
+      "comment": "r/w, c/e, avoid one-sentence paragraphs when possible",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122164745,
+      "parentid": 1121621556,
+      "timestamp": "2022-11-16T05:03:28Z",
+      "user": "69.178.30.7",
+      "userid": 0,
+      "size": 18943,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1122164909,
+      "parentid": 1122164745,
+      "timestamp": "2022-11-16T05:05:25Z",
+      "user": "69.178.30.7",
+      "userid": 0,
+      "size": 18940,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1122207846,
+      "parentid": 1122164909,
+      "timestamp": "2022-11-16T11:40:00Z",
+      "user": "KylieTastic",
+      "userid": 2790592,
+      "size": 18691,
+      "comment": "Removed missing image - File was deleted from English Wikipedia - 16 November 2022",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122368768,
+      "parentid": 1122207846,
+      "timestamp": "2022-11-17T06:22:35Z",
+      "user": "Str1977",
+      "userid": 244946,
+      "size": 18667,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122789400,
+      "parentid": 1122368768,
+      "timestamp": "2022-11-19T19:13:53Z",
+      "user": "144.121.165.91",
+      "userid": 0,
+      "size": 18671,
+      "comment": "/* Personal life */Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123407916,
+      "parentid": 1122789400,
+      "timestamp": "2022-11-23T15:45:08Z",
+      "user": "106.78.44.2",
+      "userid": 0,
+      "size": 18641,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1123408169,
+      "parentid": 1123407916,
+      "timestamp": "2022-11-23T15:46:46Z",
+      "user": "106.78.44.2",
+      "userid": 0,
+      "size": 18672,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1123408253,
+      "parentid": 1123408169,
+      "timestamp": "2022-11-23T15:47:20Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18702,
+      "comment": "Undid revision 1123407916 by [[Special:Contributions/106.78.44.2|106.78.44.2]] ([[User talk:106.78.44.2|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1123408700,
+      "parentid": 1123408253,
+      "timestamp": "2022-11-23T15:50:11Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 18671,
+      "comment": "Undid revision 1123408169 by [[Special:Contributions/106.78.44.2|106.78.44.2]] ([[User talk:106.78.44.2|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1123500784,
+      "parentid": 1123408700,
+      "timestamp": "2022-11-24T02:33:07Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 18738,
+      "comment": "added [[Category:Candidates in the 2022 United States Senate elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1123553874,
+      "parentid": 1123500784,
+      "timestamp": "2022-11-24T10:19:04Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 18735,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123554148,
+      "parentid": 1123553874,
+      "timestamp": "2022-11-24T10:21:27Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 18733,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123556476,
+      "parentid": 1123554148,
+      "timestamp": "2022-11-24T10:42:57Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 18962,
+      "comment": "Updated political status and added citation for new info.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123556598,
+      "parentid": 1123556476,
+      "timestamp": "2022-11-24T10:44:06Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 18961,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123559216,
+      "parentid": 1123556598,
+      "timestamp": "2022-11-24T11:09:01Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 18958,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123561580,
+      "parentid": 1123559216,
+      "timestamp": "2022-11-24T11:31:35Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 18958,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123562212,
+      "parentid": 1123561580,
+      "timestamp": "2022-11-24T11:37:47Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 19030,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123562561,
+      "parentid": 1123562212,
+      "timestamp": "2022-11-24T11:40:41Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 19022,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123562699,
+      "parentid": 1123562561,
+      "timestamp": "2022-11-24T11:41:58Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 19022,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123562886,
+      "parentid": 1123562699,
+      "timestamp": "2022-11-24T11:43:37Z",
+      "user": "2600:1700:100:C120:5552:5F8B:8A26:460E",
+      "userid": 0,
+      "size": 19020,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1123718471,
+      "parentid": 1123562886,
+      "timestamp": "2022-11-25T08:34:29Z",
+      "user": "2601:8C3:8600:CA30:6964:67F9:70F7:AFEE",
+      "userid": 0,
+      "size": 19021,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124160168,
+      "parentid": 1123718471,
+      "timestamp": "2022-11-27T17:07:17Z",
+      "user": "HandsomeFella",
+      "userid": 12971673,
+      "size": 19112,
+      "comment": "c/e",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1124160489,
+      "parentid": 1124160168,
+      "timestamp": "2022-11-27T17:09:25Z",
+      "user": "HandsomeFella",
+      "userid": 12971673,
+      "size": 19114,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1125561147,
+      "parentid": 1124160489,
+      "timestamp": "2022-12-04T17:34:28Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19158,
+      "comment": "add [[Category:21st-century American politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1126004338,
+      "parentid": 1125561147,
+      "timestamp": "2022-12-07T01:11:35Z",
+      "user": "LonelyPrawn",
+      "userid": 41031996,
+      "size": 19233,
+      "comment": "Added links to other relevant wiki entries.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1126004453,
+      "parentid": 1126004338,
+      "timestamp": "2022-12-07T01:12:20Z",
+      "user": "LonelyPrawn",
+      "userid": 41031996,
+      "size": 19256,
+      "comment": "Fixed a link.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1126023130,
+      "parentid": 1126004453,
+      "timestamp": "2022-12-07T03:24:18Z",
+      "user": "Pemilligan",
+      "userid": 1682772,
+      "size": 19252,
+      "comment": "[[MOS:CURLY|Replaced curly quotes.]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126023783,
+      "parentid": 1126023130,
+      "timestamp": "2022-12-07T03:29:14Z",
+      "user": "Pemilligan",
+      "userid": 1682772,
+      "size": 19264,
+      "comment": "Adjusted reference details",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1129761950,
+      "parentid": 1126023783,
+      "timestamp": "2022-12-27T01:07:50Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 19250,
+      "comment": "List markup",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1129782214,
+      "parentid": 1129761950,
+      "timestamp": "2022-12-27T03:09:51Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 19253,
+      "comment": "cleanup",
+      "minor": false,
+      "tags": [
+        "AWB",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1130132989,
+      "parentid": 1129782214,
+      "timestamp": "2022-12-28T19:08:22Z",
+      "user": "Longbongwong",
+      "userid": 38896967,
+      "size": 19235,
+      "comment": "/* Campaign for U.S. Senate */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1132994419,
+      "parentid": 1130132989,
+      "timestamp": "2023-01-11T18:59:52Z",
+      "user": "Pemilligan",
+      "userid": 1682772,
+      "size": 19232,
+      "comment": "Undid revision 1129782214 by [[Special:Contributions/MB|MB]] ([[User talk:MB|talk]]) The source uses \"2nd\", not \"Second\". Don't try to fix quotes.",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135478189,
+      "parentid": 1132994419,
+      "timestamp": "2023-01-24T22:34:47Z",
+      "user": "Trajan1",
+      "userid": 29411812,
+      "size": 19471,
+      "comment": "added photo of Tshibaka",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1135480079,
+      "parentid": 1135478189,
+      "timestamp": "2023-01-24T22:47:30Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 19448,
+      "comment": "Removing [[:c:File:Tshibakaphoto.png|Tshibakaphoto.png]]; it has been deleted from Commons by [[:c:User:Elcobbola|Elcobbola]] because: [[:c:COM:NETCOPYRIGHT|Copyright violation]], no indication of a [[:c:COM:L|free license]] on the source site ([[:c:COM:C",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1140188055,
+      "parentid": 1135480079,
+      "timestamp": "2023-02-18T22:08:11Z",
+      "user": "Windorrum",
+      "userid": 38188006,
+      "size": 19508,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140190306,
+      "parentid": 1140188055,
+      "timestamp": "2023-02-18T22:21:45Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 19448,
+      "comment": "Undid revision 1140188055 by [[Special:Contributions/Windorrum|Windorrum]] ([[User talk:Windorrum|talk]]). We already have [[:Category:Candidates in the 2022 United States Senate election]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1165406623,
+      "parentid": 1140190306,
+      "timestamp": "2023-07-15T00:23:34Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 19477,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1168876751,
+      "parentid": 1165406623,
+      "timestamp": "2023-08-05T16:58:04Z",
+      "user": "HeyElliott",
+      "userid": 44120587,
+      "size": 19463,
+      "comment": "[[MOS:CQ]], [[WP:LQ]]",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1175598505,
+      "parentid": 1168876751,
+      "timestamp": "2023-09-16T04:31:14Z",
+      "user": "2600:8805:B485:2000:FD11:F9A:CC08:1176",
+      "userid": 0,
+      "size": 19470,
+      "comment": "Corrected misinformation",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1175602335,
+      "parentid": 1175598505,
+      "timestamp": "2023-09-16T04:49:57Z",
+      "user": "2600:8805:B485:2000:FD11:F9A:CC08:1176",
+      "userid": 0,
+      "size": 19463,
+      "comment": "Corrected mistake",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1184053107,
+      "parentid": 1175602335,
+      "timestamp": "2023-11-08T01:47:16Z",
+      "user": "Bananah20",
+      "userid": 30594091,
+      "size": 19487,
+      "comment": "Pronunciation respelling guide",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1192030763,
+      "parentid": 1184053107,
+      "timestamp": "2023-12-27T06:45:32Z",
+      "user": "TaurusEmerald",
+      "userid": 37671486,
+      "size": 19554,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1216261220,
+      "parentid": 1192030763,
+      "timestamp": "2024-03-30T01:16:09Z",
+      "user": "BasedNewEnglander",
+      "userid": 47509720,
+      "size": 19595,
+      "comment": "adding caption",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1218057478,
+      "parentid": 1216261220,
+      "timestamp": "2024-04-09T13:22:08Z",
+      "user": "2402:8100:396A:660A:8814:4B7F:6A46:9A1E",
+      "userid": 0,
+      "size": 19571,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1220483932,
+      "parentid": 1218057478,
+      "timestamp": "2024-04-24T01:52:30Z",
+      "user": "2600:1005:B197:4BBF:B5C9:E43E:F760:58FC",
+      "userid": 0,
+      "size": 19595,
+      "comment": "Undid revision [[Special:Diff/1218057478|1218057478]] by [[Special:Contributions/2402:8100:396A:660A:8814:4B7F:6A46:9A1E|2402:8100:396A:660A:8814:4B7F:6A46:9A1E]] ([[User talk:2402:8100:396A:660A:8814:4B7F:6A46:9A1E|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1220532521,
+      "parentid": 1220483932,
+      "timestamp": "2024-04-24T11:08:49Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 20054,
+      "comment": "Added archive links to refs",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1220532549,
+      "parentid": 1220532521,
+      "timestamp": "2024-04-24T11:09:14Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 20089,
+      "comment": "Added notability template, see Talk",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1220580255,
+      "parentid": 1220532549,
+      "timestamp": "2024-04-24T17:57:14Z",
+      "user": "Pemilligan",
+      "userid": 1682772,
+      "size": 20084,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221336642,
+      "parentid": 1220580255,
+      "timestamp": "2024-04-29T09:37:11Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 20508,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Kelly Tshibaka]].",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1221382311,
+      "parentid": 1221336642,
+      "timestamp": "2024-04-29T16:15:34Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21432,
+      "comment": "/* Campaign for U.S. Senate */ update",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221382515,
+      "parentid": 1221382311,
+      "timestamp": "2024-04-29T16:17:01Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21413,
+      "comment": "/* Career after Senate campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221382869,
+      "parentid": 1221382515,
+      "timestamp": "2024-04-29T16:19:59Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21422,
+      "comment": "/* Career after Senate campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221383133,
+      "parentid": 1221382869,
+      "timestamp": "2024-04-29T16:22:03Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21428,
+      "comment": "/* Career after Senate campaign */ header level",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221383250,
+      "parentid": 1221383133,
+      "timestamp": "2024-04-29T16:23:02Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21444,
+      "comment": "/* Activities after Senate campaign */ author into fn",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221383630,
+      "parentid": 1221383250,
+      "timestamp": "2024-04-29T16:25:31Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 21376,
+      "comment": "ce, NPOV",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221383669,
+      "parentid": 1221383630,
+      "timestamp": "2024-04-29T16:25:44Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21433,
+      "comment": "/* Activities after Senate campaign */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221384099,
+      "parentid": 1221383669,
+      "timestamp": "2024-04-29T16:27:53Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21536,
+      "comment": "/* Campaign for U.S. Senate */ denouement",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221384969,
+      "parentid": 1221384099,
+      "timestamp": "2024-04-29T16:33:55Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 21577,
+      "comment": "ce",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221386248,
+      "parentid": 1221384969,
+      "timestamp": "2024-04-29T16:42:00Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21751,
+      "comment": "Add per new subsection",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221386386,
+      "parentid": 1221386248,
+      "timestamp": "2024-04-29T16:42:42Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21750,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221388491,
+      "parentid": 1221386386,
+      "timestamp": "2024-04-29T16:58:04Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21795,
+      "comment": "Pipe",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221388708,
+      "parentid": 1221388491,
+      "timestamp": "2024-04-29T16:59:52Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 21839,
+      "comment": "Pipe",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221441506,
+      "parentid": 1221388708,
+      "timestamp": "2024-04-29T23:51:53Z",
+      "user": "Pemilligan",
+      "userid": 1682772,
+      "size": 21828,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1221497039,
+      "parentid": 1221441506,
+      "timestamp": "2024-04-30T08:30:08Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 19756,
+      "comment": "Removed WP:UNDUE detail.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221669151,
+      "parentid": 1221497039,
+      "timestamp": "2024-05-01T08:23:07Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 20295,
+      "comment": "/* Campaign for U.S. Senate */ shortening and restoring.  Readers who want to learn more can use these footnotes RS’s.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221669364,
+      "parentid": 1221669151,
+      "timestamp": "2024-05-01T08:25:37Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 20932,
+      "comment": "/* Campaign for U.S. Senate */ same",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221683681,
+      "parentid": 1221669364,
+      "timestamp": "2024-05-01T11:18:37Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 20588,
+      "comment": "/* Campaign for U.S. Senate */ rm random copyright blockquote, which is itself quoting from her campaign website (MOS:QUOTE, doesn't add anything to article, not NPOV)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221684744,
+      "parentid": 1221683681,
+      "timestamp": "2024-05-01T11:31:45Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 20188,
+      "comment": "summarised Q&A, ce",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221684848,
+      "parentid": 1221684744,
+      "timestamp": "2024-05-01T11:33:05Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 19447,
+      "comment": "Rm non-notable licence plate section.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221685859,
+      "parentid": 1221684848,
+      "timestamp": "2024-05-01T11:43:49Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 19364,
+      "comment": "/* Campaign for U.S. Senate */ Rm quote (and concluded that, “we don't feel like these votes and decisions represent us - who is \"we\", who is she speaking on behalf of?). Not encyc style, [[WP:QUOTECRUFT]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221686051,
+      "parentid": 1221685859,
+      "timestamp": "2024-05-01T11:45:51Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 19279,
+      "comment": "/* Campaign for U.S. Senate */ ce. All candidates get hit with attack ads (which are generally distortive). Relevance here is McConnell contradicting Alaska Republicans. Ads themselves of little consequence. Left cite in.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221698377,
+      "parentid": 1221686051,
+      "timestamp": "2024-05-01T13:49:18Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 19582,
+      "comment": "/* State government work */ shorten and restore.  Readers can find out more using the footnote.  AP and CTV are reliable sources.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221701865,
+      "parentid": 1221698377,
+      "timestamp": "2024-05-01T14:16:39Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 19395,
+      "comment": "/* Early life and education */ UNDUE",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221702862,
+      "parentid": 1221701865,
+      "timestamp": "2024-05-01T14:23:51Z",
+      "user": "Hemmers",
+      "userid": 7556255,
+      "size": 19788,
+      "comment": "/* Early life and education */ added cite",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221704522,
+      "parentid": 1221702862,
+      "timestamp": "2024-05-01T14:36:53Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 19788,
+      "comment": "/* Early life and education */ Per [[WP:Says]].",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221704684,
+      "parentid": 1221704522,
+      "timestamp": "2024-05-01T14:38:06Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 19789,
+      "comment": "Meant [[WP:SAYS]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1221778239,
+      "parentid": 1221704684,
+      "timestamp": "2024-05-01T23:01:56Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 19788,
+      "comment": "/* State government work */deleted extra period",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1221778923,
+      "parentid": 1221778239,
+      "timestamp": "2024-05-01T23:06:21Z",
+      "user": "Anythingyouwant",
+      "userid": 61960,
+      "size": 19786,
+      "comment": "/* Early life and education */Removed space.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1222642021,
+      "parentid": 1221778923,
+      "timestamp": "2024-05-07T02:41:32Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 19813,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Eastmain|Eastmain]] - 19346",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1223921946,
+      "parentid": 1222642021,
+      "timestamp": "2024-05-15T05:39:01Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 20017,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Eastmain|Eastmain]] - 19512",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1225073149,
+      "parentid": 1223921946,
+      "timestamp": "2024-05-22T06:07:36Z",
+      "user": "OwenX",
+      "userid": 159620,
+      "size": 99,
+      "comment": "[[Wikipedia:Articles for deletion/Kelly Tshibaka]] closed as redirect ([[WP:XFDC#4.0.13-beta|XFDcloser]])",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kelly_Tshibaka"
+}

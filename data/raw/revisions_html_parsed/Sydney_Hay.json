@@ -1,0 +1,55 @@
+{
+  "page_title": "Sydney_Hay",
+  "candidate_name": "Sydney Hay",
+  "collection_date": "2025-12-28T16:55:20.809876",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2007-12-24T20:34:59Z",
+      "end": "2018-12-08T21:12:26Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 180010693,
+      "parentid": 0,
+      "timestamp": "2007-12-24T20:34:59Z",
+      "user": "Tdl1060",
+      "userid": 646386,
+      "size": 28,
+      "comment": "creating redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 248816948,
+      "parentid": 180010693,
+      "timestamp": "2008-10-31T14:00:13Z",
+      "user": "RussBot",
+      "userid": 279219,
+      "size": 90,
+      "comment": "Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -\"Sydney Ann Hay\" +\"United States House of Representatives elections in Arizona, 2008#District_1\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872733446,
+      "parentid": 248816948,
+      "timestamp": "2018-12-08T21:12:26Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 89,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Arizona]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sydney_Hay"
+}

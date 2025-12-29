@@ -1,0 +1,943 @@
+{
+  "page_title": "Dave_Crooks",
+  "candidate_name": "Dave Crooks",
+  "collection_date": "2025-12-28T16:36:47.709694",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 82,
+    "unique_editors": 41,
+    "date_range": {
+      "start": "2008-03-28T23:57:19Z",
+      "end": "2024-12-13T02:41:25Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 201702062,
+      "parentid": 0,
+      "timestamp": "2008-03-28T23:57:19Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1694,
+      "comment": "NEW",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201715187,
+      "parentid": 201702062,
+      "timestamp": "2008-03-29T01:14:14Z",
+      "user": "Styrofoam1994",
+      "userid": 2053545,
+      "size": 1693,
+      "comment": "clean up with typo fixing  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 223596435,
+      "parentid": 201715187,
+      "timestamp": "2008-07-04T20:18:44Z",
+      "user": "Reywas92",
+      "userid": 1233313,
+      "size": 1687,
+      "comment": "Remove unnecessary bold; clean up  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 236802701,
+      "parentid": 223596435,
+      "timestamp": "2008-09-07T05:27:10Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 1683,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 252305812,
+      "parentid": 236802701,
+      "timestamp": "2008-11-17T05:12:09Z",
+      "user": "TheHoosierState89",
+      "userid": 3939287,
+      "size": 1708,
+      "comment": "update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385672179,
+      "parentid": 252305812,
+      "timestamp": "2010-09-19T05:56:57Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 1971,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7147)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 425048926,
+      "parentid": 385672179,
+      "timestamp": "2011-04-20T19:19:45Z",
+      "user": "207.250.189.4",
+      "userid": 0,
+      "size": 1992,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 425049129,
+      "parentid": 425048926,
+      "timestamp": "2011-04-20T19:20:55Z",
+      "user": "207.250.189.4",
+      "userid": 0,
+      "size": 2018,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 429411201,
+      "parentid": 425049129,
+      "timestamp": "2011-05-16T15:57:52Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 2006,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7702)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459069157,
+      "parentid": 429411201,
+      "timestamp": "2011-11-05T01:23:03Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 2026,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 465245010,
+      "parentid": 459069157,
+      "timestamp": "2011-12-11T05:47:25Z",
+      "user": "Politicsislife",
+      "userid": 13647431,
+      "size": 4013,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465288813,
+      "parentid": 465245010,
+      "timestamp": "2011-12-11T14:07:58Z",
+      "user": "Politicsislife",
+      "userid": 13647431,
+      "size": 4016,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465369571,
+      "parentid": 465288813,
+      "timestamp": "2011-12-11T23:27:31Z",
+      "user": "ThomasRBarnett85",
+      "userid": 15899439,
+      "size": 5721,
+      "comment": "Explanation of how David Crooks was chosen at the caucus.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465374560,
+      "parentid": 465369571,
+      "timestamp": "2011-12-12T00:02:00Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 5718,
+      "comment": "/* State Representative */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465374724,
+      "parentid": 465374560,
+      "timestamp": "2011-12-12T00:03:08Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 5617,
+      "comment": "/* Early Life and Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465375086,
+      "parentid": 465374724,
+      "timestamp": "2011-12-12T00:05:53Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 3778,
+      "comment": "/* US Congress */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465375172,
+      "parentid": 465375086,
+      "timestamp": "2011-12-12T00:06:38Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 3812,
+      "comment": "/* Personal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465375319,
+      "parentid": 465375172,
+      "timestamp": "2011-12-12T00:07:52Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 3800,
+      "comment": "/* Early Life and Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465377914,
+      "parentid": 465375319,
+      "timestamp": "2011-12-12T00:27:21Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 3781,
+      "comment": "/* US Congress */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465378123,
+      "parentid": 465377914,
+      "timestamp": "2011-12-12T00:28:59Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 3626,
+      "comment": "/* State Representative */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465380948,
+      "parentid": 465378123,
+      "timestamp": "2011-12-12T00:50:19Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 4141,
+      "comment": "/* Early Life and Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465381308,
+      "parentid": 465380948,
+      "timestamp": "2011-12-12T00:53:06Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 4333,
+      "comment": "/* State Representative */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465381969,
+      "parentid": 465381308,
+      "timestamp": "2011-12-12T00:58:19Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 4219,
+      "comment": "/* US Congress */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465382263,
+      "parentid": 465381969,
+      "timestamp": "2011-12-12T01:00:30Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 4170,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465383892,
+      "parentid": 465382263,
+      "timestamp": "2011-12-12T01:13:05Z",
+      "user": "216.252.50.38",
+      "userid": 0,
+      "size": 4170,
+      "comment": "/* Early Life and Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465386424,
+      "parentid": 465383892,
+      "timestamp": "2011-12-12T01:33:03Z",
+      "user": "ThomasRBarnett85",
+      "userid": 15899439,
+      "size": 4173,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465637835,
+      "parentid": 465386424,
+      "timestamp": "2011-12-13T13:57:52Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 5123,
+      "comment": "added info and reorganized",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465640587,
+      "parentid": 465637835,
+      "timestamp": "2011-12-13T14:21:09Z",
+      "user": "WikHead",
+      "userid": 6338983,
+      "size": 5151,
+      "comment": "Cleared the cite-error",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 465681980,
+      "parentid": 465640587,
+      "timestamp": "2011-12-13T18:57:50Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5162,
+      "comment": "primary isn't until may",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465683734,
+      "parentid": 465681980,
+      "timestamp": "2011-12-13T19:08:26Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5157,
+      "comment": "/* Early life, education, and business career */ tone down promotional language, add cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465683856,
+      "parentid": 465683734,
+      "timestamp": "2011-12-13T19:09:12Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5167,
+      "comment": "/* Elections */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465683987,
+      "parentid": 465683856,
+      "timestamp": "2011-12-13T19:10:06Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5216,
+      "comment": "/* Elections */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465686615,
+      "parentid": 465683987,
+      "timestamp": "2011-12-13T19:26:30Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5317,
+      "comment": "/* Committee assignments */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465687994,
+      "parentid": 465686615,
+      "timestamp": "2011-12-13T19:35:29Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5325,
+      "comment": "/* Committee assignments */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465688506,
+      "parentid": 465687994,
+      "timestamp": "2011-12-13T19:39:37Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5664,
+      "comment": "/* 2012 congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465688630,
+      "parentid": 465688506,
+      "timestamp": "2011-12-13T19:40:25Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5638,
+      "comment": "/* 2012 congressional election */ cant find support, maybe original research?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465689546,
+      "parentid": 465688630,
+      "timestamp": "2011-12-13T19:46:53Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5877,
+      "comment": "/* 2012 congressional election */ scates hasn't actually endorsed yet",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465689623,
+      "parentid": 465689546,
+      "timestamp": "2011-12-13T19:47:24Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5564,
+      "comment": "/* 2012 congressional election */ remove analysis/commentary",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465689950,
+      "parentid": 465689623,
+      "timestamp": "2011-12-13T19:49:33Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5359,
+      "comment": "/* External links */ remove unnamed external links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 465692885,
+      "parentid": 465689950,
+      "timestamp": "2011-12-13T20:09:41Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 5397,
+      "comment": "Dating maintenance tags: {{Fact}} {{When}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 474618634,
+      "parentid": 465692885,
+      "timestamp": "2012-02-02T18:32:17Z",
+      "user": "AccuracyIndiana",
+      "userid": 16217315,
+      "size": 5625,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 474621027,
+      "parentid": 474618634,
+      "timestamp": "2012-02-02T18:47:51Z",
+      "user": "AccuracyIndiana",
+      "userid": 16217315,
+      "size": 6270,
+      "comment": "/* State legislature */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 474622938,
+      "parentid": 474621027,
+      "timestamp": "2012-02-02T19:00:11Z",
+      "user": "AccuracyIndiana",
+      "userid": 16217315,
+      "size": 6294,
+      "comment": "/* Voting Record */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 474623026,
+      "parentid": 474622938,
+      "timestamp": "2012-02-02T19:00:42Z",
+      "user": "AccuracyIndiana",
+      "userid": 16217315,
+      "size": 6289,
+      "comment": "/* Voting Record */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 474633975,
+      "parentid": 474623026,
+      "timestamp": "2012-02-02T20:06:08Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5625,
+      "comment": "Reverted to revision 474618634 by AccuracyIndiana: unless he sponsored this bill, i don't see why this lone vote should represent his \"voting record\". ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 474648447,
+      "parentid": 474633975,
+      "timestamp": "2012-02-02T21:36:23Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 5640,
+      "comment": "/* State legislature */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 511423345,
+      "parentid": 474648447,
+      "timestamp": "2012-09-08T19:47:10Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 5152,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 511424013,
+      "parentid": 511423345,
+      "timestamp": "2012-09-08T19:51:31Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 5205,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 511424362,
+      "parentid": 511424013,
+      "timestamp": "2012-09-08T19:53:46Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 5204,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 511425011,
+      "parentid": 511424362,
+      "timestamp": "2012-09-08T19:57:54Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 5317,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 511425182,
+      "parentid": 511425011,
+      "timestamp": "2012-09-08T19:59:10Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 5328,
+      "comment": "/* 2012 congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 511425712,
+      "parentid": 511425182,
+      "timestamp": "2012-09-08T20:02:39Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 5338,
+      "comment": "/* 2012 congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 577051156,
+      "parentid": 511425712,
+      "timestamp": "2013-10-13T22:38:11Z",
+      "user": "140.200.212.226",
+      "userid": 0,
+      "size": 5338,
+      "comment": "/* Elections */ spelling error",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 577051181,
+      "parentid": 577051156,
+      "timestamp": "2013-10-13T22:38:23Z",
+      "user": "Jim1138",
+      "userid": 7695475,
+      "size": 5338,
+      "comment": "Reverted edits by [[Special:Contributions/140.200.212.226|140.200.212.226]] ([[User talk:140.200.212.226|talk]]) to last revision by 184.78.81.245 ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 586869213,
+      "parentid": 577051181,
+      "timestamp": "2013-12-20T00:14:49Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 5314,
+      "comment": "Remove stub template(s). Page is start class or higher. Also check for and do General Fixes + Checkwiki fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 634103805,
+      "parentid": 586869213,
+      "timestamp": "2014-11-16T18:00:21Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 5357,
+      "comment": "added [[Category:People from Sullivan, Indiana]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 644028983,
+      "parentid": 634103805,
+      "timestamp": "2015-01-24T23:54:49Z",
+      "user": "Greenshed",
+      "userid": 642378,
+      "size": 5408,
+      "comment": "David Crooks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 644029069,
+      "parentid": 644028983,
+      "timestamp": "2015-01-24T23:55:32Z",
+      "user": "Greenshed",
+      "userid": 642378,
+      "size": 5412,
+      "comment": "David L. Crooks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 644349432,
+      "parentid": 644029069,
+      "timestamp": "2015-01-27T03:03:42Z",
+      "user": "Niceguyedc",
+      "userid": 5288432,
+      "size": 5497,
+      "comment": "[[:en:WP:CLEANER|WPCleaner]] v1.34 - change hatnote",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 713987909,
+      "parentid": 644349432,
+      "timestamp": "2016-04-06T23:50:21Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 5215,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Dave Crooks|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715456846,
+      "parentid": 713987909,
+      "timestamp": "2016-04-15T22:38:22Z",
+      "user": "Nihiltres",
+      "userid": 236191,
+      "size": 5206,
+      "comment": "Merging [[Template:About3]] to [[Template:About]] per [[Wikipedia:Templates for discussion/Log/2016 April 3#About3 & About4]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 726238058,
+      "parentid": 715456846,
+      "timestamp": "2016-06-20T22:47:17Z",
+      "user": "Plandu",
+      "userid": 34084,
+      "size": 5208,
+      "comment": "Democrat --> Democratic for adjectival forms",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 738759085,
+      "parentid": 726238058,
+      "timestamp": "2016-09-10T22:16:28Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 5209,
+      "comment": "[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 753473735,
+      "parentid": 738759085,
+      "timestamp": "2016-12-07T11:03:12Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 5290,
+      "comment": "Rescuing 0 sources and tagging 1 as dead. #IABot (v1.2.7.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785964867,
+      "parentid": 753473735,
+      "timestamp": "2017-06-16T13:21:55Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 5569,
+      "comment": "update to remove article from [[:Category:Pages using Template:CongLinks with unknown parameters]] (via JWB)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 793300536,
+      "parentid": 785964867,
+      "timestamp": "2017-07-31T22:06:25Z",
+      "user": "68.51.87.119",
+      "userid": 0,
+      "size": 5712,
+      "comment": "/* 2012 congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 797690552,
+      "parentid": 793300536,
+      "timestamp": "2017-08-28T16:56:53Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5704,
+      "comment": "/* 2012 congressional election */Removed invisible unicode characters + other fixes ([[User:Yobot/55|Task 55]]), replaced: →   (6) using [[Project:AWB|AWB]] (12151)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 799046499,
+      "parentid": 797690552,
+      "timestamp": "2017-09-05T09:15:00Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 5743,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 832394596,
+      "parentid": 799046499,
+      "timestamp": "2018-03-25T18:59:56Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 5833,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 933451810,
+      "parentid": 832394596,
+      "timestamp": "2020-01-01T01:37:57Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 5853,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974794625,
+      "parentid": 933451810,
+      "timestamp": "2020-08-25T02:06:06Z",
+      "user": "216.252.1.123",
+      "userid": 0,
+      "size": 5849,
+      "comment": "/* Personal life */I know Mr. Crooks through friends. He resides in Brazil, IN with his wife on State Road 340. He owns several radio stations, one location being in Brazil, IN",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 976508270,
+      "parentid": 974794625,
+      "timestamp": "2020-09-03T09:57:40Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 5822,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1068902792,
+      "parentid": 976508270,
+      "timestamp": "2022-01-30T18:16:32Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 5955,
+      "comment": "Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 777/2173",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1072697392,
+      "parentid": 1068902792,
+      "timestamp": "2022-02-19T01:48:26Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5990,
+      "comment": "/* top */add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1095392265,
+      "parentid": 1072697392,
+      "timestamp": "2022-06-28T03:10:13Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 5990,
+      "comment": "clean up",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1112419183,
+      "parentid": 1095392265,
+      "timestamp": "2022-09-26T07:21:59Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 6032,
+      "comment": "Add banner {{[[Template:Cleanup bare URLs|Cleanup bare URLs]]}}. After at least 7 passes by @[[User:Citation bot|Citation bot]] since 20220903, this article still has 3 untagged [[WP:Bare URLs|bare URL]] refs",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1115789032,
+      "parentid": 1112419183,
+      "timestamp": "2022-10-13T06:17:42Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 6167,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.2",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1128788196,
+      "parentid": 1115789032,
+      "timestamp": "2022-12-22T00:40:48Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 6153,
+      "comment": "/* External links */intersect Democratic and Indiana representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1180041574,
+      "parentid": 1128788196,
+      "timestamp": "2023-10-14T03:21:04Z",
+      "user": "The Green Star Collector",
+      "userid": 43306454,
+      "size": 6184,
+      "comment": "Infobox formatting; DOB.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1180041599,
+      "parentid": 1180041574,
+      "timestamp": "2023-10-14T03:21:23Z",
+      "user": "The Green Star Collector",
+      "userid": 43306454,
+      "size": 6177,
+      "comment": "Infobox formatting.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1210497988,
+      "parentid": 1180041599,
+      "timestamp": "2024-02-26T22:38:55Z",
+      "user": "Wcquidditch",
+      "userid": 454221,
+      "size": 6171,
+      "comment": "fix redlink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262776028,
+      "parentid": 1210497988,
+      "timestamp": "2024-12-13T02:41:25Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 6303,
+      "comment": "+[[Category:20th-century members of the Indiana General Assembly]]; +[[Category:21st-century members of the Indiana General Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dave_Crooks"
+}

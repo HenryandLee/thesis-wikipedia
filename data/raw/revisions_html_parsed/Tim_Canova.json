@@ -1,0 +1,4631 @@
+{
+  "page_title": "Tim_Canova",
+  "candidate_name": "Tim Canova",
+  "collection_date": "2025-12-28T16:56:03.057099",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 404,
+    "unique_editors": 155,
+    "date_range": {
+      "start": "2016-02-22T21:41:42Z",
+      "end": "2024-11-25T14:39:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 706356169,
+      "parentid": 0,
+      "timestamp": "2016-02-22T21:41:42Z",
+      "user": "Quidster4040",
+      "userid": 13805538,
+      "size": 1702,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox officeholder |name          = Tim Canova |image         =  |office        =  |term_start    =  |term_end      =  |predecessor   = |successor     =  |st...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 706420399,
+      "parentid": 706356169,
+      "timestamp": "2016-02-23T06:12:32Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 1702,
+      "comment": "[[WP:CHECKWIKI]] error fix for #52.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 706512482,
+      "parentid": 706420399,
+      "timestamp": "2016-02-23T19:10:07Z",
+      "user": "Blue844098",
+      "userid": 19720187,
+      "size": 1720,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 706572754,
+      "parentid": 706512482,
+      "timestamp": "2016-02-24T01:49:35Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 1701,
+      "comment": "Removing \"Canova-timothy.jpg\", it has been deleted from Commons by [[commons:User:Hedwig in Washington|Hedwig in Washington]] because: Copyright violation, see [[:c:Commons:Licensing|]] https://www.law.nova.edu/faculty/full-time-faculty/canova-timothy.htm",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 707410773,
+      "parentid": 706572754,
+      "timestamp": "2016-02-28T18:45:29Z",
+      "user": "2601:5C1:4501:FCEE:8DBA:5B42:1011:C6D7",
+      "userid": 0,
+      "size": 3526,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 707420154,
+      "parentid": 707410773,
+      "timestamp": "2016-02-28T19:50:07Z",
+      "user": "Wikid77",
+      "userid": 1403682,
+      "size": 3534,
+      "comment": "fix cite for bar \"|..\" in title",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 707673662,
+      "parentid": 707420154,
+      "timestamp": "2016-03-01T04:04:10Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 3937,
+      "comment": "Nominated for deletion; see [[Wikipedia:Articles for deletion/Tim Canova]]. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 707918563,
+      "parentid": 707673662,
+      "timestamp": "2016-03-02T15:41:50Z",
+      "user": "2601:C6:C004:E6D0:389A:943F:9E57:AE83",
+      "userid": 0,
+      "size": 4143,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709323437,
+      "parentid": 707918563,
+      "timestamp": "2016-03-10T08:27:11Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 4155,
+      "comment": "/* Personal life */ Added Wikilinks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709333915,
+      "parentid": 709323437,
+      "timestamp": "2016-03-10T09:46:58Z",
+      "user": "50.34.102.73",
+      "userid": 0,
+      "size": 4489,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709351718,
+      "parentid": 709333915,
+      "timestamp": "2016-03-10T12:30:32Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 4566,
+      "comment": "Updated Infobox of stub article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709351969,
+      "parentid": 709351718,
+      "timestamp": "2016-03-10T12:32:54Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 5221,
+      "comment": "Reformatted",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709352147,
+      "parentid": 709351969,
+      "timestamp": "2016-03-10T12:34:40Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 4566,
+      "comment": "Undid revision 709351969 by [[Special:Contributions/Activist|Activist]] ([[User talk:Activist|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709352507,
+      "parentid": 709352147,
+      "timestamp": "2016-03-10T12:37:36Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 5575,
+      "comment": "Reformatted problematic page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709353101,
+      "parentid": 709352507,
+      "timestamp": "2016-03-10T12:42:20Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 5966,
+      "comment": "Added material to lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709353431,
+      "parentid": 709353101,
+      "timestamp": "2016-03-10T12:45:09Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 5834,
+      "comment": "Deleted redundant paragraph",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709453765,
+      "parentid": 709353431,
+      "timestamp": "2016-03-11T01:04:10Z",
+      "user": "WillMorganSeattle",
+      "userid": 3318442,
+      "size": 5887,
+      "comment": "added reference to published works",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709499419,
+      "parentid": 709453765,
+      "timestamp": "2016-03-11T08:02:04Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5886,
+      "comment": "[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11971)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709501051,
+      "parentid": 709499419,
+      "timestamp": "2016-03-11T08:17:25Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 6099,
+      "comment": "Expanded lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709501447,
+      "parentid": 709501051,
+      "timestamp": "2016-03-11T08:21:26Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 6002,
+      "comment": "Edited lede by moving citation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709503356,
+      "parentid": 709501447,
+      "timestamp": "2016-03-11T08:40:13Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 6298,
+      "comment": "Added cite for position on STOP, edited lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709505862,
+      "parentid": 709503356,
+      "timestamp": "2016-03-11T09:02:44Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 6598,
+      "comment": "/* Political positions */ Free trade",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709507433,
+      "parentid": 709505862,
+      "timestamp": "2016-03-11T09:12:48Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 6913,
+      "comment": "/* Political positions */ Campaign finance reform and bipartisanship",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709509296,
+      "parentid": 709507433,
+      "timestamp": "2016-03-11T09:31:24Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7251,
+      "comment": "/*Political Positions*/Criminal justice reform",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709509557,
+      "parentid": 709509296,
+      "timestamp": "2016-03-11T09:33:52Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7273,
+      "comment": "Better modifier",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709555615,
+      "parentid": 709509557,
+      "timestamp": "2016-03-11T16:41:09Z",
+      "user": "CryptoStorm",
+      "userid": 176328,
+      "size": 7264,
+      "comment": "Updating link so it doesn't go to 404'd subpage",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709653120,
+      "parentid": 709555615,
+      "timestamp": "2016-03-12T05:59:53Z",
+      "user": "65.74.4.35",
+      "userid": 0,
+      "size": 7263,
+      "comment": "/* Congressional Campaign */ Cleaned up typos",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 709689876,
+      "parentid": 709653120,
+      "timestamp": "2016-03-12T13:04:30Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 7261,
+      "comment": "[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11971)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709706436,
+      "parentid": 709689876,
+      "timestamp": "2016-03-12T15:35:34Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7275,
+      "comment": "Resolved disambiguation problem",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709706593,
+      "parentid": 709706436,
+      "timestamp": "2016-03-12T15:36:47Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7275,
+      "comment": "Corrected Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709707034,
+      "parentid": 709706593,
+      "timestamp": "2016-03-12T15:40:38Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7287,
+      "comment": "Resolved disambiguation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709707303,
+      "parentid": 709707034,
+      "timestamp": "2016-03-12T15:42:20Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7290,
+      "comment": "Resolved disambiguation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 709833422,
+      "parentid": 709707303,
+      "timestamp": "2016-03-13T10:27:50Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7257,
+      "comment": "Removed incorrect birth date",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710084601,
+      "parentid": 709833422,
+      "timestamp": "2016-03-14T21:38:55Z",
+      "user": "70.98.153.156",
+      "userid": 0,
+      "size": 6653,
+      "comment": "npov, also content not in citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710084867,
+      "parentid": 710084601,
+      "timestamp": "2016-03-14T21:40:59Z",
+      "user": "70.98.153.156",
+      "userid": 0,
+      "size": 6125,
+      "comment": "/* Congressional Campaign */ npov, source is opinion",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710138759,
+      "parentid": 710084867,
+      "timestamp": "2016-03-15T04:40:12Z",
+      "user": "Bluestategirl",
+      "userid": 6685036,
+      "size": 7410,
+      "comment": "Inserted section highlighting his career (prior to being a candidate) as a banking and public policy expert",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710180247,
+      "parentid": 710138759,
+      "timestamp": "2016-03-15T12:34:35Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 7938,
+      "comment": "Undid revision 710084867 by [[Special:Contributions/70.98.153.156|70.98.153.156]]  Inappropriate deletion - this news, not opinion, source covers issue exhaustively",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710180600,
+      "parentid": 710180247,
+      "timestamp": "2016-03-15T12:37:44Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 8542,
+      "comment": "/* Congressional campaign */Restored deleted text and cite to more appropriate section of article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710247792,
+      "parentid": 710180600,
+      "timestamp": "2016-03-15T21:14:11Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 8651,
+      "comment": "Shortened lede, moved citations, eliminated redundancies",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710327887,
+      "parentid": 710247792,
+      "timestamp": "2016-03-16T08:55:58Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 8656,
+      "comment": "Corrected infobox details",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710328327,
+      "parentid": 710327887,
+      "timestamp": "2016-03-16T09:01:27Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 8644,
+      "comment": "Eliminated reduncancy",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 710343250,
+      "parentid": 710328327,
+      "timestamp": "2016-03-16T11:39:53Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 8716,
+      "comment": "/* Labor, banking and finance expert */ Added Prins",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710520787,
+      "parentid": 710343250,
+      "timestamp": "2016-03-17T12:37:08Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 9410,
+      "comment": "Reordered and augmented University teaching credentials, cited attributions",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710520984,
+      "parentid": 710520787,
+      "timestamp": "2016-03-17T12:39:01Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 9423,
+      "comment": "/* Labor, banking and finance expert */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710734954,
+      "parentid": 710520984,
+      "timestamp": "2016-03-18T19:10:54Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 9850,
+      "comment": "/* Congressional campaign */ Union support for campaign",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710736338,
+      "parentid": 710734954,
+      "timestamp": "2016-03-18T19:21:37Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 10272,
+      "comment": "Democratic voter file denial",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710865155,
+      "parentid": 710736338,
+      "timestamp": "2016-03-19T14:09:47Z",
+      "user": "Bluestategirl",
+      "userid": 6685036,
+      "size": 10394,
+      "comment": "Modified summary paragraph and introductory sentence to reflect his current career and expertise.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 710865282,
+      "parentid": 710865155,
+      "timestamp": "2016-03-19T14:11:06Z",
+      "user": "Bluestategirl",
+      "userid": 6685036,
+      "size": 10401,
+      "comment": "Added D-VT after Sanders to match Tsongas.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 711150524,
+      "parentid": 710865282,
+      "timestamp": "2016-03-21T04:28:48Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 10636,
+      "comment": "Provided numerous Wikilinks, corrected spelling error",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 711161970,
+      "parentid": 711150524,
+      "timestamp": "2016-03-21T06:26:58Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 10756,
+      "comment": "/* External links */ Added public banking lecture video",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 711166128,
+      "parentid": 711161970,
+      "timestamp": "2016-03-21T07:17:05Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 11239,
+      "comment": "/* Labor, banking and finance expert */ Chomsky citations of Canova 2000-2008",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 711168731,
+      "parentid": 711166128,
+      "timestamp": "2016-03-21T07:42:49Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 11483,
+      "comment": "/* Labor, banking and finance expert */ International currency regulation commentary from University of KwaZulu-Natal Centre for Civil Society",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712263420,
+      "parentid": 711168731,
+      "timestamp": "2016-03-28T01:55:12Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 11678,
+      "comment": "Added legal practice prior to entering academia",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712279519,
+      "parentid": 712263420,
+      "timestamp": "2016-03-28T04:31:44Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 11604,
+      "comment": "Half-heartedly copy-edited per the Manual of Style and Wikipedia convention.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712279692,
+      "parentid": 712279519,
+      "timestamp": "2016-03-28T04:33:28Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 11632,
+      "comment": "/* Political positions */ Changed \"LGBTQ\" to \"sexual minorities.\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712279988,
+      "parentid": 712279692,
+      "timestamp": "2016-03-28T04:35:54Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 11632,
+      "comment": "/* Political positions */ Tagged section as needing better sourcing.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712281963,
+      "parentid": 712279988,
+      "timestamp": "2016-03-28T04:56:18Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 11648,
+      "comment": "Dating maintenance tags: {{Refimprove section}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 712325989,
+      "parentid": 712281963,
+      "timestamp": "2016-03-28T12:56:36Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 11655,
+      "comment": "/* Political positions */ Switched to a description list—hopefully an improvement.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 712327671,
+      "parentid": 712325989,
+      "timestamp": "2016-03-28T13:11:38Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 12192,
+      "comment": "/* Political positions */ Added citation for BLM support quote. I'm not thrilled at citing Reddit, but, per [[WP:VERIFY]], \" [a]ll quotations . . . must include an inline citation that directly supports the material,\" and Reddit is where he said it.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712416502,
+      "parentid": 712327671,
+      "timestamp": "2016-03-28T23:48:33Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 12274,
+      "comment": "Added executive directorship NJAC to lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712641251,
+      "parentid": 712416502,
+      "timestamp": "2016-03-30T08:33:28Z",
+      "user": "Northamerica1000",
+      "userid": 14730724,
+      "size": 11871,
+      "comment": "[[Wikipedia:Articles for deletion/Tim Canova]] closed as no consensus",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712699908,
+      "parentid": 712641251,
+      "timestamp": "2016-03-30T16:35:00Z",
+      "user": "92.221.181.156",
+      "userid": 0,
+      "size": 11899,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712716801,
+      "parentid": 712699908,
+      "timestamp": "2016-03-30T18:40:32Z",
+      "user": "Egsan Bacon",
+      "userid": 603343,
+      "size": 11251,
+      "comment": "/* Labor, banking and finance expert */ improving neutrality - removing [[WP:PEACOCK]]ing, reflected glory (being in a group with a Nobel Prize winner does not make one a Nobel Prize winner)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712734125,
+      "parentid": 712716801,
+      "timestamp": "2016-03-30T20:42:03Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 11362,
+      "comment": "/* Political positions */ Corrected support for legislation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713278458,
+      "parentid": 712734125,
+      "timestamp": "2016-04-03T02:02:42Z",
+      "user": "24.79.137.157",
+      "userid": 0,
+      "size": 10504,
+      "comment": "/* Congressional campaign */ Is this really noteworthy, its SOP there",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713306517,
+      "parentid": 713278458,
+      "timestamp": "2016-04-03T06:37:27Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 11362,
+      "comment": "Undid revision 713278458 by [[Special:Contributions/24.79.137.157|24.79.137.157]] ([[User talk:24.79.137.157|talk]]) Reverted inappropriate deletion - see TALK",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713307514,
+      "parentid": 713306517,
+      "timestamp": "2016-04-03T06:45:56Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 11877,
+      "comment": "/* Congressional campaign */ Florida Democratic party reverses denial of access",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713309543,
+      "parentid": 713307514,
+      "timestamp": "2016-04-03T07:04:29Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 12157,
+      "comment": "/* Political positions */ Felony disenfranchisement citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713315159,
+      "parentid": 713309543,
+      "timestamp": "2016-04-03T08:04:01Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 12757,
+      "comment": "/* Political positions */ Added cites for \"audit the fed\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713316102,
+      "parentid": 713315159,
+      "timestamp": "2016-04-03T08:08:49Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 12762,
+      "comment": "/* Political positions */ Added year to Dodd-Frank cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715507503,
+      "parentid": 713316102,
+      "timestamp": "2016-04-16T07:28:48Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 13362,
+      "comment": "/* Congressional campaign */ Fundraising",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715510255,
+      "parentid": 715507503,
+      "timestamp": "2016-04-16T08:04:14Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 13780,
+      "comment": "Campaign fundraising and national notice",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715510660,
+      "parentid": 715510255,
+      "timestamp": "2016-04-16T08:06:42Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 13780,
+      "comment": "/* Congressional campaign */ Spelling correction",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 716125958,
+      "parentid": 715510660,
+      "timestamp": "2016-04-20T01:53:31Z",
+      "user": "Just a guy from the KP",
+      "userid": 9994896,
+      "size": 13780,
+      "comment": "/* Political positions */ univeristy → university",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 716128865,
+      "parentid": 716125958,
+      "timestamp": "2016-04-20T02:19:50Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 13778,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 716313932,
+      "parentid": 716128865,
+      "timestamp": "2016-04-21T02:16:19Z",
+      "user": "72.76.252.160",
+      "userid": 0,
+      "size": 13781,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 717865141,
+      "parentid": 716313932,
+      "timestamp": "2016-04-30T05:35:29Z",
+      "user": "Mesh22",
+      "userid": 24608005,
+      "size": 13801,
+      "comment": "Updated references to \"Schultz\" as \"Wasserman Schultz\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 717934255,
+      "parentid": 717865141,
+      "timestamp": "2016-04-30T15:54:01Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 13798,
+      "comment": "BLP related template + other fixes using [[Project:AWB|AWB]] (12006)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 717995589,
+      "parentid": 717934255,
+      "timestamp": "2016-04-30T23:06:28Z",
+      "user": "Malerooster",
+      "userid": 17562066,
+      "size": 13808,
+      "comment": "added nationality",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719410209,
+      "parentid": 717995589,
+      "timestamp": "2016-05-09T14:32:35Z",
+      "user": "204.63.44.146",
+      "userid": 0,
+      "size": 13809,
+      "comment": "Fix typo in \"Bipartisanship\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719423612,
+      "parentid": 719410209,
+      "timestamp": "2016-05-09T16:14:34Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 13814,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719961221,
+      "parentid": 719423612,
+      "timestamp": "2016-05-12T21:16:33Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 14246,
+      "comment": "/* Congressional campaign */Wasserman Schultz regarding debate willingness",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719976176,
+      "parentid": 719961221,
+      "timestamp": "2016-05-12T23:28:18Z",
+      "user": "68.39.56.47",
+      "userid": 0,
+      "size": 13881,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 720022581,
+      "parentid": 719976176,
+      "timestamp": "2016-05-13T06:59:20Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 14246,
+      "comment": "Undid revision by [[Special:Contributions/68.39.56.47| This salient issue propelled the primary challenge to Wasserman Schultz",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 720571623,
+      "parentid": 720022581,
+      "timestamp": "2016-05-16T18:18:36Z",
+      "user": "65.112.8.197",
+      "userid": 0,
+      "size": 14126,
+      "comment": "/* Political positions */ Removing reference to Rep Wasserman Schultz in political position since this section deals with Tim Canova, not her.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 720608096,
+      "parentid": 720571623,
+      "timestamp": "2016-05-16T22:13:02Z",
+      "user": "153.18.172.69",
+      "userid": 0,
+      "size": 14181,
+      "comment": "Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "canned edit summary"
+      ]
+    },
+    {
+      "revid": 720608945,
+      "parentid": 720608096,
+      "timestamp": "2016-05-16T22:18:31Z",
+      "user": "153.18.172.69",
+      "userid": 0,
+      "size": 14180,
+      "comment": "Typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 720609796,
+      "parentid": 720608945,
+      "timestamp": "2016-05-16T22:24:48Z",
+      "user": "2015 bcs orange bowl",
+      "userid": 28351118,
+      "size": 14126,
+      "comment": "Reverted vandalism in first sentence",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 720734133,
+      "parentid": 720609796,
+      "timestamp": "2016-05-17T17:04:10Z",
+      "user": "178.11.184.199",
+      "userid": 0,
+      "size": 788,
+      "comment": "cut out political advertising.",
+      "minor": false,
+      "tags": [
+        "blanking"
+      ]
+    },
+    {
+      "revid": 720734146,
+      "parentid": 720734133,
+      "timestamp": "2016-05-17T17:04:16Z",
+      "user": "Dcirovic",
+      "userid": 11795905,
+      "size": 14126,
+      "comment": "Reverted edits by [[Special:Contributions/178.11.184.199|178.11.184.199]] ([[User talk:178.11.184.199|talk]]) ([[WP:HG|HG]]) (3.1.20)",
+      "minor": false,
+      "tags": [
+        "huggle"
+      ]
+    },
+    {
+      "revid": 721122354,
+      "parentid": 720734146,
+      "timestamp": "2016-05-19T22:12:42Z",
+      "user": "2602:306:CCF3:C960:1DD0:531:A1AF:CB42",
+      "userid": 0,
+      "size": 14057,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721466634,
+      "parentid": 721122354,
+      "timestamp": "2016-05-22T01:48:22Z",
+      "user": "E.M.Gregory",
+      "userid": 22515348,
+      "size": 14008,
+      "comment": "tightening lede by moving copy down the page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721466983,
+      "parentid": 721466634,
+      "timestamp": "2016-05-22T01:51:43Z",
+      "user": "E.M.Gregory",
+      "userid": 22515348,
+      "size": 14468,
+      "comment": "expand, source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721478599,
+      "parentid": 721466983,
+      "timestamp": "2016-05-22T03:30:43Z",
+      "user": "LiamKasbar",
+      "userid": 20461732,
+      "size": 14474,
+      "comment": "Tim Canova is the best.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 721561708,
+      "parentid": 721478599,
+      "timestamp": "2016-05-22T17:48:29Z",
+      "user": "A wild Rattata",
+      "userid": 13777863,
+      "size": 14485,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 721681803,
+      "parentid": 721561708,
+      "timestamp": "2016-05-23T12:22:31Z",
+      "user": "Maile66",
+      "userid": 3102801,
+      "size": 14552,
+      "comment": "add date of primary election",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721816659,
+      "parentid": 721681803,
+      "timestamp": "2016-05-24T06:56:21Z",
+      "user": "The Gnome",
+      "userid": 509411,
+      "size": 14559,
+      "comment": "Removed unsupported text; modified language towards neutrality; removed [[WP:WEASEL|weaselly & partisan]] verbiage; added wikilinks; removed tag; wikified links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721816945,
+      "parentid": 721816659,
+      "timestamp": "2016-05-24T07:00:00Z",
+      "user": "The Gnome",
+      "userid": 509411,
+      "size": 14715,
+      "comment": "/* External links */ added item",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 721817186,
+      "parentid": 721816945,
+      "timestamp": "2016-05-24T07:02:35Z",
+      "user": "The Gnome",
+      "userid": 509411,
+      "size": 14768,
+      "comment": "/* External links */ wikifying",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 721834856,
+      "parentid": 721817186,
+      "timestamp": "2016-05-24T10:15:21Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 14775,
+      "comment": "Changed \"He's\" to \"Canova is\" in the lede; expaned ampersand in a heading per [[MOS:&]]; added comma following date with internal comma; tweaked markup.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 721892637,
+      "parentid": 721834856,
+      "timestamp": "2016-05-24T18:03:10Z",
+      "user": "NYCJosh",
+      "userid": 808624,
+      "size": 14774,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721938241,
+      "parentid": 721892637,
+      "timestamp": "2016-05-24T23:49:49Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 14668,
+      "comment": "Deleted \"weasel\" phrase, \"According to Canova's campaign.\" See talk",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721975569,
+      "parentid": 721938241,
+      "timestamp": "2016-05-25T05:47:26Z",
+      "user": "Mesh22",
+      "userid": 24608005,
+      "size": 15116,
+      "comment": "/* Political positions */ | Added deleted issues with sources",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722232419,
+      "parentid": 721975569,
+      "timestamp": "2016-05-26T19:45:02Z",
+      "user": "69.18.14.65",
+      "userid": 0,
+      "size": 13798,
+      "comment": "/* Congressional campaign */ removed irrelevant content, reworded content to a more neutral phrasing",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722232719,
+      "parentid": 722232419,
+      "timestamp": "2016-05-26T19:47:10Z",
+      "user": "69.18.14.65",
+      "userid": 0,
+      "size": 13818,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722309755,
+      "parentid": 722232719,
+      "timestamp": "2016-05-27T07:47:30Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 13847,
+      "comment": "Reverted one edit - See talk",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722747653,
+      "parentid": 722309755,
+      "timestamp": "2016-05-29T23:04:21Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 14265,
+      "comment": "/* Congressional campaign */ Sanders endorsement response",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722780933,
+      "parentid": 722747653,
+      "timestamp": "2016-05-30T03:02:08Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 15411,
+      "comment": "/* Political positions */ more on positions + on the issues on website",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 722801898,
+      "parentid": 722780933,
+      "timestamp": "2016-05-30T06:15:29Z",
+      "user": "Mesh22",
+      "userid": 24608005,
+      "size": 15405,
+      "comment": "/* Political positions */  Formatting",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 722802056,
+      "parentid": 722801898,
+      "timestamp": "2016-05-30T06:17:15Z",
+      "user": "Mesh22",
+      "userid": 24608005,
+      "size": 15398,
+      "comment": "Sentence is not a political position, it's a campaign issue.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722802117,
+      "parentid": 722802056,
+      "timestamp": "2016-05-30T06:17:59Z",
+      "user": "Mesh22",
+      "userid": 24608005,
+      "size": 15399,
+      "comment": "Moved things around",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 722812236,
+      "parentid": 722802117,
+      "timestamp": "2016-05-30T07:54:46Z",
+      "user": "Cullen328",
+      "userid": 10006598,
+      "size": 15344,
+      "comment": "/* Political career */ No need to mention that Tsongas is dead (late?) or to link to his political positions",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722975644,
+      "parentid": 722812236,
+      "timestamp": "2016-05-31T07:19:42Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 15335,
+      "comment": "Removed invisible unicode characters + other fixes, replaced: →   (2) using [[Project:AWB|AWB]] (12016)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723380734,
+      "parentid": 722975644,
+      "timestamp": "2016-06-02T18:26:08Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 15320,
+      "comment": "/* Congressional campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723385183,
+      "parentid": 723380734,
+      "timestamp": "2016-06-02T18:58:38Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 15585,
+      "comment": "Reformatted the issues section, added broader headers instead of one for each issue. Moved the section on bipartisanship to his history.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723385256,
+      "parentid": 723385183,
+      "timestamp": "2016-06-02T18:59:10Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 15581,
+      "comment": "/* Political career */ fixed a typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723387231,
+      "parentid": 723385256,
+      "timestamp": "2016-06-02T19:13:35Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 15580,
+      "comment": "/* Political positions */ Removed excessive vertical spacing.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723573544,
+      "parentid": 723387231,
+      "timestamp": "2016-06-03T20:54:51Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 15846,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723574843,
+      "parentid": 723573544,
+      "timestamp": "2016-06-03T21:02:24Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 16114,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723576566,
+      "parentid": 723574843,
+      "timestamp": "2016-06-03T21:12:53Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 16240,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723578740,
+      "parentid": 723576566,
+      "timestamp": "2016-06-03T21:27:18Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 17261,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723579295,
+      "parentid": 723578740,
+      "timestamp": "2016-06-03T21:31:45Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 17260,
+      "comment": "/* Political positions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723579405,
+      "parentid": 723579295,
+      "timestamp": "2016-06-03T21:32:42Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 17231,
+      "comment": "/* Congressional campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723989560,
+      "parentid": 723579405,
+      "timestamp": "2016-06-06T13:41:49Z",
+      "user": "Woodlot",
+      "userid": 10841396,
+      "size": 17232,
+      "comment": "/* Political career */ spelling",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724340585,
+      "parentid": 723989560,
+      "timestamp": "2016-06-08T16:25:03Z",
+      "user": "81.217.196.180",
+      "userid": 0,
+      "size": 17234,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724410044,
+      "parentid": 724340585,
+      "timestamp": "2016-06-09T02:37:31Z",
+      "user": "Caladonia",
+      "userid": 756970,
+      "size": 16837,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724708755,
+      "parentid": 724410044,
+      "timestamp": "2016-06-11T00:04:59Z",
+      "user": "John Broughton",
+      "userid": 410440,
+      "size": 14111,
+      "comment": "/* Political positions */ Removing all information failing [[WP:RS]]; also, per [[WP:NOT]], Wikipedia articles aren't to be a compendium of details.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 725330285,
+      "parentid": 724708755,
+      "timestamp": "2016-06-15T01:00:07Z",
+      "user": "136.152.208.11",
+      "userid": 0,
+      "size": 14111,
+      "comment": "/* Political positions */ spelling of \"Israel\" changed from \"Isreal\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 725450691,
+      "parentid": 725330285,
+      "timestamp": "2016-06-15T18:53:25Z",
+      "user": "Homusubi",
+      "userid": 20205455,
+      "size": 14253,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 725936268,
+      "parentid": 725450691,
+      "timestamp": "2016-06-18T21:20:20Z",
+      "user": "Kobra98",
+      "userid": 17859294,
+      "size": 14253,
+      "comment": "/* Congressional campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 726228796,
+      "parentid": 725936268,
+      "timestamp": "2016-06-20T21:22:58Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 14512,
+      "comment": "/* Political positions */ Iran deal",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 726229004,
+      "parentid": 726228796,
+      "timestamp": "2016-06-20T21:24:58Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 14727,
+      "comment": "/* Political positions */ supports iran deal now",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 726229759,
+      "parentid": 726229004,
+      "timestamp": "2016-06-20T21:31:19Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 14642,
+      "comment": "/* Political positions */ I removed the Sanders comparison (nowhere in the source), i added the msnbc interview instead of counterpunch's characterization of him",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 726230154,
+      "parentid": 726229759,
+      "timestamp": "2016-06-20T21:35:08Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 14647,
+      "comment": "/* Political positions */ wording",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 726231122,
+      "parentid": 726230154,
+      "timestamp": "2016-06-20T21:44:20Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 15618,
+      "comment": "/* Political positions */ more",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 726235637,
+      "parentid": 726231122,
+      "timestamp": "2016-06-20T22:24:53Z",
+      "user": "Rebbing",
+      "userid": 8975611,
+      "size": 15570,
+      "comment": "/* Political positions */ Changed to bulleted list (as that's what this is in fact—a list, not prose). Miscellaneous—Combined duplicate citations; fixed [[MOS:QUOTEMARKS]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 726307147,
+      "parentid": 726235637,
+      "timestamp": "2016-06-21T10:08:59Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16055,
+      "comment": "/* Congressional campaign */ Contributions continue to accumulate",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 726329733,
+      "parentid": 726307147,
+      "timestamp": "2016-06-21T13:40:50Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 16572,
+      "comment": "/* Political positions */ Fed Reserve",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 727310467,
+      "parentid": 726329733,
+      "timestamp": "2016-06-28T04:06:58Z",
+      "user": "Lawrencekhoo",
+      "userid": 461895,
+      "size": 16574,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727310540,
+      "parentid": 727310467,
+      "timestamp": "2016-06-28T04:08:11Z",
+      "user": "Lawrencekhoo",
+      "userid": 461895,
+      "size": 16580,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727310564,
+      "parentid": 727310540,
+      "timestamp": "2016-06-28T04:08:31Z",
+      "user": "Lawrencekhoo",
+      "userid": 461895,
+      "size": 16587,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727310622,
+      "parentid": 727310564,
+      "timestamp": "2016-06-28T04:09:32Z",
+      "user": "Lawrencekhoo",
+      "userid": 461895,
+      "size": 16580,
+      "comment": "/* Academic and professional career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727312298,
+      "parentid": 727310622,
+      "timestamp": "2016-06-28T04:29:54Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 16610,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 728476838,
+      "parentid": 727312298,
+      "timestamp": "2016-07-05T18:16:44Z",
+      "user": "159.63.166.194",
+      "userid": 0,
+      "size": 16609,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 728616931,
+      "parentid": 728476838,
+      "timestamp": "2016-07-06T14:07:04Z",
+      "user": "Mesh22",
+      "userid": 24608005,
+      "size": 16608,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 728950612,
+      "parentid": 728616931,
+      "timestamp": "2016-07-08T20:01:07Z",
+      "user": "2602:306:CC75:9070:5AE:EB64:184B:192B",
+      "userid": 0,
+      "size": 16635,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 728950994,
+      "parentid": 728950612,
+      "timestamp": "2016-07-08T20:03:18Z",
+      "user": "2602:306:CC75:9070:5AE:EB64:184B:192B",
+      "userid": 0,
+      "size": 16632,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731224019,
+      "parentid": 728950994,
+      "timestamp": "2016-07-23T22:43:07Z",
+      "user": "2602:306:8343:5980:253E:5355:5962:406F",
+      "userid": 0,
+      "size": 17604,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731235264,
+      "parentid": 731224019,
+      "timestamp": "2016-07-24T00:41:17Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 16632,
+      "comment": "Undid revision 731224019 by [[Special:Contributions/2602:306:8343:5980:253E:5355:5962:406F|2602:306:8343:5980:253E:5355:5962:406F]] - There is nothing about  monitoring Canova's campaign in that source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731264298,
+      "parentid": 731235264,
+      "timestamp": "2016-07-24T06:09:02Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16917,
+      "comment": "/* Political career */Johnson as Libertarian nominee",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731264964,
+      "parentid": 731264298,
+      "timestamp": "2016-07-24T06:15:43Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16928,
+      "comment": "/* 2016 Congressional campaign */Debate status",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731265259,
+      "parentid": 731264964,
+      "timestamp": "2016-07-24T06:19:57Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16930,
+      "comment": "/* 2016 Congressional campaign */Reordered for consistency",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731265782,
+      "parentid": 731265259,
+      "timestamp": "2016-07-24T06:26:20Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16929,
+      "comment": "/* 2016 Congressional campaign */ Reordered for consistency",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731266031,
+      "parentid": 731265782,
+      "timestamp": "2016-07-24T06:29:41Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16929,
+      "comment": "/* 2016 Congressional campaign */ Supplied missing date",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731302440,
+      "parentid": 731266031,
+      "timestamp": "2016-07-24T13:22:18Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16945,
+      "comment": "Disambiguated: [[Libertarian Party]] → [[Libertarian Party (United States)]]",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 99"
+      ]
+    },
+    {
+      "revid": 731302770,
+      "parentid": 731302440,
+      "timestamp": "2016-07-24T13:25:37Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16963,
+      "comment": "/* Political career */ Disambiguation edit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731303082,
+      "parentid": 731302770,
+      "timestamp": "2016-07-24T13:28:46Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 16959,
+      "comment": "/* 2016 Congressional campaign */ Removed link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731355104,
+      "parentid": 731303082,
+      "timestamp": "2016-07-24T20:34:09Z",
+      "user": "173.224.111.52",
+      "userid": 0,
+      "size": 16953,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731355107,
+      "parentid": 731355104,
+      "timestamp": "2016-07-24T20:34:10Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 16959,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/173.224.111.52|173.224.111.52]] to version by Activist. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2715718) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731362072,
+      "parentid": 731355107,
+      "timestamp": "2016-07-24T21:30:54Z",
+      "user": "EGetzler",
+      "userid": 5049613,
+      "size": 17227,
+      "comment": "Added material on Canova's opposition to Iran nuclear deal.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731374803,
+      "parentid": 731362072,
+      "timestamp": "2016-07-24T23:22:18Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 17811,
+      "comment": "/* 2016 Congressional campaign */Wasserman Schultz DNC resignation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731377701,
+      "parentid": 731374803,
+      "timestamp": "2016-07-24T23:52:53Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 16959,
+      "comment": "(i) I could not find that quote anywhere in your link. (ii) DWS' DNC problems are her own, don't belong on this page unless Canova offers his take on it to a media outlet (at which point it becomes part of the campaign)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731378960,
+      "parentid": 731377701,
+      "timestamp": "2016-07-25T00:05:59Z",
+      "user": "24.205.236.93",
+      "userid": 0,
+      "size": 16969,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731391986,
+      "parentid": 731378960,
+      "timestamp": "2016-07-25T02:06:06Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 16984,
+      "comment": "Dating maintenance tags: {{Update}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731397133,
+      "parentid": 731391986,
+      "timestamp": "2016-07-25T03:04:25Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 18344,
+      "comment": "Undid revision 731377701 by [[Special:Contributions/Snooganssnoogans|Snooganssnoogans]] and supplied requested cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731397323,
+      "parentid": 731397133,
+      "timestamp": "2016-07-25T03:06:25Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 18344,
+      "comment": "Spelling correction",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731403400,
+      "parentid": 731397323,
+      "timestamp": "2016-07-25T04:21:25Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 18390,
+      "comment": "/* Political positions */ that is from May, he had new position in June. re-organizing this a bit to reflect that and make it less repetitious",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 731403726,
+      "parentid": 731403400,
+      "timestamp": "2016-07-25T04:25:06Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 18447,
+      "comment": "/* 2016 Congressional campaign */ clarity, precise language.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 731417672,
+      "parentid": 731403726,
+      "timestamp": "2016-07-25T07:00:28Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 17298,
+      "comment": "/* 2016 Congressional campaign */ per discretionary sanctions, please don't restore challenged content without firm consensus. Also your link is a dead link.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731472464,
+      "parentid": 731417672,
+      "timestamp": "2016-07-25T15:54:04Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 18455,
+      "comment": "Undid revision 731417672 by [[Special:Contributions/Volunteer Marek|Volunteer Marek]] Updated URL and restored content meeting objections by editor Snooganssnoogans",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731473496,
+      "parentid": 731472464,
+      "timestamp": "2016-07-25T16:01:53Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 18438,
+      "comment": "/* 2016 Congressional campaign */Corrected redundant link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731473936,
+      "parentid": 731473496,
+      "timestamp": "2016-07-25T16:04:30Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 18422,
+      "comment": "/* 2016 Congressional campaign */ Deleted second redundant citation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731474880,
+      "parentid": 731473936,
+      "timestamp": "2016-07-25T16:12:06Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 18698,
+      "comment": "/* Political positions */ fracking",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 731484875,
+      "parentid": 731474880,
+      "timestamp": "2016-07-25T17:34:09Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 18696,
+      "comment": "Edited to join sentences to common citation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731502267,
+      "parentid": 731484875,
+      "timestamp": "2016-07-25T19:36:38Z",
+      "user": "Caladonia",
+      "userid": 756970,
+      "size": 19823,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731510644,
+      "parentid": 731502267,
+      "timestamp": "2016-07-25T20:36:34Z",
+      "user": "Caladonia",
+      "userid": 756970,
+      "size": 19822,
+      "comment": "/* 2016 Democratic National Committee email leak */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731520065,
+      "parentid": 731510644,
+      "timestamp": "2016-07-25T21:46:46Z",
+      "user": "172.58.153.240",
+      "userid": 0,
+      "size": 18117,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 731521126,
+      "parentid": 731520065,
+      "timestamp": "2016-07-25T21:54:57Z",
+      "user": "Ilyushka88",
+      "userid": 3484802,
+      "size": 19822,
+      "comment": "Reverted edits by [[Special:Contributions/172.58.153.240|172.58.153.240]] ([[User talk:172.58.153.240|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.1.21)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 731525355,
+      "parentid": 731521126,
+      "timestamp": "2016-07-25T22:29:34Z",
+      "user": "2601:1C0:CD01:CEF0:D83B:9911:54F9:46ED",
+      "userid": 0,
+      "size": 19830,
+      "comment": "added the word \"former\" before description of Wasserman as the \"Chairperson of the Democratic National Committee.\"",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 731561783,
+      "parentid": 731525355,
+      "timestamp": "2016-07-26T04:13:12Z",
+      "user": "EGetzler",
+      "userid": 5049613,
+      "size": 19765,
+      "comment": "/* Political positions */ Removed unimportant citation of article in Washington Post.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731563454,
+      "parentid": 731561783,
+      "timestamp": "2016-07-26T04:28:28Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 19407,
+      "comment": "/* Political positions */ removed claim not in source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731564179,
+      "parentid": 731563454,
+      "timestamp": "2016-07-26T04:34:43Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 19145,
+      "comment": "/* Political positions */ outdated web pages are not news, irrelevant OR; removed \"strenuous\" - does not reflect source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731564876,
+      "parentid": 731564179,
+      "timestamp": "2016-07-26T04:41:26Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 19830,
+      "comment": "keeping WaPo reference as it reflects his strong disapproval of the deal, unnecessary to say an old position is still archived on his page + will add reference for israel claim in 30 sec",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731564928,
+      "parentid": 731564876,
+      "timestamp": "2016-07-26T04:41:56Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 20136,
+      "comment": "/* Political positions */ this quotes him from the interview, adds other stuff",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 731565079,
+      "parentid": 731564928,
+      "timestamp": "2016-07-26T04:43:39Z",
+      "user": "2604:6000:1117:104:31D9:4E24:B9BA:D1EF",
+      "userid": 0,
+      "size": 20142,
+      "comment": "/* 2016 Congressional campaign */Updated information",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 731565144,
+      "parentid": 731565079,
+      "timestamp": "2016-07-26T04:44:11Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 20202,
+      "comment": "/* Academic career */ added source for employment (professor bio on nova.edu)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731565305,
+      "parentid": 731565144,
+      "timestamp": "2016-07-26T04:45:42Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 20254,
+      "comment": "/* Political career */ filled in missing source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731565939,
+      "parentid": 731565305,
+      "timestamp": "2016-07-26T04:53:14Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 20256,
+      "comment": "/* Political positions */ good source, thanks; ce to better reflect it",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731566537,
+      "parentid": 731565939,
+      "timestamp": "2016-07-26T04:58:55Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 20181,
+      "comment": "/* Political positions */ ce; removed \"claims to\" as [[WP:WEASEL|weasely]] - all political position are claims",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731568038,
+      "parentid": 731566537,
+      "timestamp": "2016-07-26T05:16:41Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 20171,
+      "comment": "/* Political positions */ Wording was unfair to DWS; \"ambiguity\" could be interpreted as a wiki-statement rather than a Canova accusation; reworded",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731571578,
+      "parentid": 731568038,
+      "timestamp": "2016-07-26T06:01:55Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 20162,
+      "comment": "Striking \"former.\" DWS resignation not effective until end of nominating convention",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731638653,
+      "parentid": 731571578,
+      "timestamp": "2016-07-26T16:18:34Z",
+      "user": "Aoa8212",
+      "userid": 402703,
+      "size": 20161,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731639184,
+      "parentid": 731638653,
+      "timestamp": "2016-07-26T16:22:07Z",
+      "user": "Aoa8212",
+      "userid": 402703,
+      "size": 20161,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731788512,
+      "parentid": 731639184,
+      "timestamp": "2016-07-27T14:42:09Z",
+      "user": "Benrudd888",
+      "userid": 28843898,
+      "size": 20182,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 732592350,
+      "parentid": 731788512,
+      "timestamp": "2016-08-01T23:49:29Z",
+      "user": "78.17.197.99",
+      "userid": 0,
+      "size": 20144,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 732592393,
+      "parentid": 732592350,
+      "timestamp": "2016-08-01T23:49:54Z",
+      "user": "Oshwah",
+      "userid": 3174456,
+      "size": 20182,
+      "comment": "Reverted edits by [[Special:Contributions/78.17.197.99|78.17.197.99]] ([[User talk:78.17.197.99|talk]]): Editing tests ([[WP:HG|HG]]) (3.1.21)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 732610314,
+      "parentid": 732592393,
+      "timestamp": "2016-08-02T02:40:58Z",
+      "user": "69.112.217.201",
+      "userid": 0,
+      "size": 20182,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733169948,
+      "parentid": 732610314,
+      "timestamp": "2016-08-05T21:48:11Z",
+      "user": "Josephfraga15",
+      "userid": 28903040,
+      "size": 20267,
+      "comment": "The main image",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "bad external"
+      ]
+    },
+    {
+      "revid": 733170080,
+      "parentid": 733169948,
+      "timestamp": "2016-08-05T21:49:41Z",
+      "user": "Josephfraga15",
+      "userid": 28903040,
+      "size": 20269,
+      "comment": "Added main image",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 733177677,
+      "parentid": 733170080,
+      "timestamp": "2016-08-05T23:14:33Z",
+      "user": "Gene93k",
+      "userid": 5014595,
+      "size": 20182,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Josephfraga15|Josephfraga15]] ([[User talk:Josephfraga15|talk]]): Reverted external link image. Please see [[WP:UPIMAGE]] copyright permitting. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733701577,
+      "parentid": 733177677,
+      "timestamp": "2016-08-09T15:14:55Z",
+      "user": "141.225.169.160",
+      "userid": 0,
+      "size": 20986,
+      "comment": "/* 2016 Democratic National Committee email leak */  -- added sourced info regarding FEC complaint",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733721944,
+      "parentid": 733701577,
+      "timestamp": "2016-08-09T17:59:08Z",
+      "user": "CanovaForCongress",
+      "userid": 28881729,
+      "size": 21007,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733723373,
+      "parentid": 733721944,
+      "timestamp": "2016-08-09T18:10:22Z",
+      "user": "CAPTAIN RAJU",
+      "userid": 25523690,
+      "size": 21009,
+      "comment": "v1.36 - [[WP:WCW]] project (Square brackets without correct beginning - Spelling and typography) / Help needed to fix 1 links to disambiguation pages - [[The Hill]]",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 733723551,
+      "parentid": 733723373,
+      "timestamp": "2016-08-09T18:11:56Z",
+      "user": "CAPTAIN RAJU",
+      "userid": 25523690,
+      "size": 21003,
+      "comment": "v1.36 - ++",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 733723666,
+      "parentid": 733723551,
+      "timestamp": "2016-08-09T18:13:00Z",
+      "user": "CAPTAIN RAJU",
+      "userid": 25523690,
+      "size": 21001,
+      "comment": "v1.36 - +",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 733723873,
+      "parentid": 733723666,
+      "timestamp": "2016-08-09T18:14:20Z",
+      "user": "CAPTAIN RAJU",
+      "userid": 25523690,
+      "size": 21883,
+      "comment": "Filled in 6 bare reference(s) with [[:en:WP:REFILL|reFill]] ()",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 733752993,
+      "parentid": 733723873,
+      "timestamp": "2016-08-09T21:56:15Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 21868,
+      "comment": "Removing \"Tim_Canova.jpg\", it has been deleted from Commons by [[commons:User:INeverCry|INeverCry]] because: Copyright violation, see [[:c:Commons:Licensing|]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733927743,
+      "parentid": 733752993,
+      "timestamp": "2016-08-11T00:45:09Z",
+      "user": "2601:586:C401:4AC0:848E:CE8B:5A0F:CD8A",
+      "userid": 0,
+      "size": 21868,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 734419493,
+      "parentid": 733927743,
+      "timestamp": "2016-08-14T06:25:27Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21696,
+      "comment": "/* 2016 Democratic National Committee email leak */ Redacted redundancies",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 734419756,
+      "parentid": 734419493,
+      "timestamp": "2016-08-14T06:26:18Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21694,
+      "comment": "/* 2016 Democratic National Committee email leak */ Changed tense",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 734420200,
+      "parentid": 734419756,
+      "timestamp": "2016-08-14T06:27:40Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21690,
+      "comment": "/* 2016 Democratic National Committee email leak */ Deleted overlinking",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 734421447,
+      "parentid": 734420200,
+      "timestamp": "2016-08-14T06:43:42Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 22163,
+      "comment": "/* 2016 Congressional campaign */ Debate scheduled",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 734472709,
+      "parentid": 734421447,
+      "timestamp": "2016-08-14T15:59:24Z",
+      "user": "Brucejoel99",
+      "userid": 10059061,
+      "size": 22134,
+      "comment": "/* 2016 Democratic National Committee email leak */ \"representative\" removed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 734502651,
+      "parentid": 734472709,
+      "timestamp": "2016-08-14T19:49:33Z",
+      "user": "Hashbron",
+      "userid": 9623171,
+      "size": 22385,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 734527331,
+      "parentid": 734502651,
+      "timestamp": "2016-08-14T23:14:23Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 22458,
+      "comment": "/* 2016 Congressional campaign */ Debate with Wasserman Schultz",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 734566598,
+      "parentid": 734527331,
+      "timestamp": "2016-08-15T05:58:08Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 22450,
+      "comment": "[[WP:CHECKWIKI]] error fix.  Broken bracket.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 734580008,
+      "parentid": 734566598,
+      "timestamp": "2016-08-15T08:44:26Z",
+      "user": "GVOLTT",
+      "userid": 161480,
+      "size": 22452,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 734737965,
+      "parentid": 734580008,
+      "timestamp": "2016-08-16T11:17:32Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 22868,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 735327138,
+      "parentid": 734737965,
+      "timestamp": "2016-08-20T00:16:20Z",
+      "user": "Bammie73",
+      "userid": 21640527,
+      "size": 22869,
+      "comment": "/* Political career */Minor corrections.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 735881220,
+      "parentid": 735327138,
+      "timestamp": "2016-08-23T18:36:55Z",
+      "user": "2601:45:4000:C279:15EF:6B89:B4F1:F240",
+      "userid": 0,
+      "size": 23071,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 735884721,
+      "parentid": 735881220,
+      "timestamp": "2016-08-23T19:05:08Z",
+      "user": "Neutrality",
+      "userid": 68411,
+      "size": 22587,
+      "comment": "rm unsourced text (some of it POV in nature)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 735927679,
+      "parentid": 735884721,
+      "timestamp": "2016-08-24T01:26:33Z",
+      "user": "JoshuaT",
+      "userid": 18269132,
+      "size": 22491,
+      "comment": "Clarified stated position on Israel and removed needless comparison.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 735943780,
+      "parentid": 735927679,
+      "timestamp": "2016-08-24T04:00:32Z",
+      "user": "CanovaForCongress",
+      "userid": 28881729,
+      "size": 22511,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 735978436,
+      "parentid": 735943780,
+      "timestamp": "2016-08-24T10:02:56Z",
+      "user": "Gene93k",
+      "userid": 5014595,
+      "size": 22491,
+      "comment": "Reverted 1 edit by [[Special:Contributions/CanovaForCongress|CanovaForCongress]] ([[User talk:CanovaForCongress|talk]]): Rv addition of copyrighted image tagged for deletion at Commons. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 736338370,
+      "parentid": 735978436,
+      "timestamp": "2016-08-26T20:09:41Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 22514,
+      "comment": "nickname",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 736338766,
+      "parentid": 736338370,
+      "timestamp": "2016-08-26T20:12:45Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 22528,
+      "comment": "add image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 736338964,
+      "parentid": 736338766,
+      "timestamp": "2016-08-26T20:14:23Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 22615,
+      "comment": "/* 2016 Congressional campaign */ add image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737004346,
+      "parentid": 736338964,
+      "timestamp": "2016-08-31T05:34:16Z",
+      "user": "2601:204:D003:7B40:30FF:F4CF:CDA4:7892",
+      "userid": 0,
+      "size": 22629,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": false,
+      "tags": [
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 737008328,
+      "parentid": 737004346,
+      "timestamp": "2016-08-31T06:09:26Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 22615,
+      "comment": "Reverted edits by [[Special:Contribs/2601:204:D003:7B40:30FF:F4CF:CDA4:7892|2601:204:D003:7B40:30FF:F4CF:CDA4:7892]] ([[User talk:2601:204:D003:7B40:30FF:F4CF:CDA4:7892|talk]]) to last version by MB298",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 737008700,
+      "parentid": 737008328,
+      "timestamp": "2016-08-31T06:12:46Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 18772,
+      "comment": "/* 2016 Congressional campaign */ update, shorten (now that the race is over hopefully there'll be no need to use this as a campaign platform), rmv unreliable sourcs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737009177,
+      "parentid": 737008700,
+      "timestamp": "2016-08-31T06:17:11Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 18668,
+      "comment": "/* 2016 Democratic National Committee email leak */ what the sources actually say",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737010991,
+      "parentid": 737009177,
+      "timestamp": "2016-08-31T06:37:13Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 18685,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 737041940,
+      "parentid": 737010991,
+      "timestamp": "2016-08-31T11:40:49Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 19403,
+      "comment": "/* 2016 Congressional campaign */ Results and and supporters",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737042079,
+      "parentid": 737041940,
+      "timestamp": "2016-08-31T11:42:02Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 19316,
+      "comment": "/* 2016 Congressional campaign */ Removed irrelevant portrait",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737044008,
+      "parentid": 737042079,
+      "timestamp": "2016-08-31T12:00:30Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 20526,
+      "comment": "/* 2016 Congressional campaign */ Restored inappropriate deletion",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737047683,
+      "parentid": 737044008,
+      "timestamp": "2016-08-31T12:35:30Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21096,
+      "comment": "/* 2016 Democratic National Committee email leak */ Added text from existing cite and reordered for continuity",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737048180,
+      "parentid": 737047683,
+      "timestamp": "2016-08-31T12:41:02Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21089,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Changed section title",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737050752,
+      "parentid": 737048180,
+      "timestamp": "2016-08-31T13:06:57Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21101,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Identified Alaska contact by orginal source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737051307,
+      "parentid": 737050752,
+      "timestamp": "2016-08-31T13:11:53Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21151,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737051772,
+      "parentid": 737051307,
+      "timestamp": "2016-08-31T13:15:44Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21176,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Identified major contributor by Wikilink",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737052040,
+      "parentid": 737051772,
+      "timestamp": "2016-08-31T13:18:05Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21224,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ I.D.'d execs by title",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737053870,
+      "parentid": 737052040,
+      "timestamp": "2016-08-31T13:34:16Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21602,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Notes DNC resignations",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737054189,
+      "parentid": 737053870,
+      "timestamp": "2016-08-31T13:36:55Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21604,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Fixed URL",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737054654,
+      "parentid": 737054189,
+      "timestamp": "2016-08-31T13:40:30Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21609,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Broke up overlong sentence",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 737055880,
+      "parentid": 737054654,
+      "timestamp": "2016-08-31T13:50:13Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21744,
+      "comment": "/* 2016 Congressional campaign */ Completed URL-only citation left by Volunteer Marek",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737056820,
+      "parentid": 737055880,
+      "timestamp": "2016-08-31T13:57:58Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21836,
+      "comment": "/* 2016 Congressional campaign */ Completed URL-only citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737057180,
+      "parentid": 737056820,
+      "timestamp": "2016-08-31T14:00:50Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21817,
+      "comment": "Updated tense",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737129979,
+      "parentid": 737057180,
+      "timestamp": "2016-08-31T23:05:43Z",
+      "user": "97.98.199.80",
+      "userid": 0,
+      "size": 21849,
+      "comment": "In light of recent events, the claims of notability seem flawed.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737139537,
+      "parentid": 737129979,
+      "timestamp": "2016-09-01T00:24:21Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21817,
+      "comment": "Undid revision 737129979 by [[Special:Contributions/97.98.199.80|97.98.199.80]]Undid inaccurate notification - See TALK",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737153682,
+      "parentid": 737139537,
+      "timestamp": "2016-09-01T02:05:46Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21791,
+      "comment": "Answer request extensively",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737157871,
+      "parentid": 737153682,
+      "timestamp": "2016-09-01T02:39:20Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 20333,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ two of these sources are not reliable. The other two don't mention Kay",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737163089,
+      "parentid": 737157871,
+      "timestamp": "2016-09-01T03:24:58Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21791,
+      "comment": "Undid revision 737157871 by [[Special:Contributions/Volunteer Marek|Volunteer Marek]] Kay IS mentioned - stop the vandalism",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737183740,
+      "parentid": 737163089,
+      "timestamp": "2016-09-01T06:17:14Z",
+      "user": "Lawrencekhoo",
+      "userid": 461895,
+      "size": 20333,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Activist|Activist]] ([[User talk:Activist|talk]]): Undue and not consistent with BLP policy. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737190691,
+      "parentid": 737183740,
+      "timestamp": "2016-09-01T07:35:52Z",
+      "user": "James J. Lambden",
+      "userid": 24812048,
+      "size": 21791,
+      "comment": "Undid revision 737183740 by [[Special:Contributions/Lawrencekhoo|Lawrencekhoo]] ([[User talk:Lawrencekhoo|talk]]) this is definitely relevant",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737224843,
+      "parentid": 737190691,
+      "timestamp": "2016-09-01T13:15:04Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 20333,
+      "comment": "this is a BLP vio sourced to crappy sources. Please don't restore without consensus",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737224881,
+      "parentid": 737224843,
+      "timestamp": "2016-09-01T13:15:21Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 21791,
+      "comment": "Undid revision 737224843 by [[Special:Contributions/Volunteer Marek|Volunteer Marek]] ([[User talk:Volunteer Marek|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737568946,
+      "parentid": 737224881,
+      "timestamp": "2016-09-03T18:04:45Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 20333,
+      "comment": "failure to discuss issue on talk, failure to obtain consensus, still a BLP vio",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 737765427,
+      "parentid": 737568946,
+      "timestamp": "2016-09-04T22:36:36Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 20398,
+      "comment": "v1.40 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[The Hill]], 1 to be fixed - [[John Lewis]] / [[WP:WCW]] project (Square brackets without correct beginning)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 737872737,
+      "parentid": 737765427,
+      "timestamp": "2016-09-05T14:47:38Z",
+      "user": "Narky Blert",
+      "userid": 22041646,
+      "size": 20385,
+      "comment": "/* 2016 Congressional campaign */ DN resolved",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 738237460,
+      "parentid": 737872737,
+      "timestamp": "2016-09-07T19:07:46Z",
+      "user": "98.110.16.132",
+      "userid": 0,
+      "size": 19875,
+      "comment": "Minor changes to the \"2016 Congressional Campaign\" section to make the voice more neutral. Consolidated both candidates' endorsements into one paragraph instead of loose sentences throughout the article.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 738305647,
+      "parentid": 738237460,
+      "timestamp": "2016-09-08T03:55:35Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 19871,
+      "comment": "[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 738937081,
+      "parentid": 738305647,
+      "timestamp": "2016-09-11T21:42:33Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 19937,
+      "comment": "/* 2016 Congressional campaign */ add image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 741383718,
+      "parentid": 738937081,
+      "timestamp": "2016-09-27T04:45:59Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 19935,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 749146513,
+      "parentid": 741383718,
+      "timestamp": "2016-11-12T18:30:48Z",
+      "user": "The Diaz",
+      "userid": 28587904,
+      "size": 19936,
+      "comment": "/* 2016 Congressional campaign */Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 766453763,
+      "parentid": 749146513,
+      "timestamp": "2017-02-20T08:06:47Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 19940,
+      "comment": "HTTP&rarr;HTTPS for [[The New York Times]]. using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 770409395,
+      "parentid": 766453763,
+      "timestamp": "2017-03-15T06:56:03Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 19732,
+      "comment": "/* Political positions */ Removed dead link, Facebook page no longer exists",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 770874669,
+      "parentid": 770409395,
+      "timestamp": "2017-03-18T03:37:20Z",
+      "user": "71.57.182.64",
+      "userid": 0,
+      "size": 19756,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 770874676,
+      "parentid": 770874669,
+      "timestamp": "2017-03-18T03:37:23Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 19732,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/71.57.182.64|71.57.182.64]] to version by Activist. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2975639) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 771010673,
+      "parentid": 770874676,
+      "timestamp": "2017-03-19T00:02:42Z",
+      "user": "CitationCleanerBot",
+      "userid": 15270283,
+      "size": 19701,
+      "comment": "/* Political positions */Cleanup SSRN links. Report bugs, errors, and suggestions at [[User talk:CitationCleanerBot]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 779701416,
+      "parentid": 771010673,
+      "timestamp": "2017-05-10T13:26:22Z",
+      "user": "John of Reading",
+      "userid": 11308236,
+      "size": 19700,
+      "comment": "/* Political career */Typo fixing, replaced: 4February → February using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 783586845,
+      "parentid": 779701416,
+      "timestamp": "2017-06-03T09:06:57Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19757,
+      "comment": "added [[Category:Candidates in United States elections, 2016]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783586861,
+      "parentid": 783586845,
+      "timestamp": "2017-06-03T09:07:11Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19807,
+      "comment": "added [[Category:Nova Southeastern University faculty]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783586879,
+      "parentid": 783586861,
+      "timestamp": "2017-06-03T09:07:25Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19848,
+      "comment": "added [[Category:University of Miami faculty]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783586912,
+      "parentid": 783586879,
+      "timestamp": "2017-06-03T09:07:49Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19901,
+      "comment": "added [[Category:St. Thomas University (Florida) faculty]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783586926,
+      "parentid": 783586912,
+      "timestamp": "2017-06-03T09:08:01Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19947,
+      "comment": "added [[Category:University of New Mexico faculty]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783586955,
+      "parentid": 783586926,
+      "timestamp": "2017-06-03T09:08:16Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19990,
+      "comment": "added [[Category:University of Arizona faculty]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783586977,
+      "parentid": 783586955,
+      "timestamp": "2017-06-03T09:08:36Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 20001,
+      "comment": "removed [[Category:Georgetown University alumni]]; added [[Category:Georgetown University Law Center alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783586991,
+      "parentid": 783586977,
+      "timestamp": "2017-06-03T09:08:45Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 20049,
+      "comment": "added [[Category:Franklin & Marshall College alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783587007,
+      "parentid": 783586991,
+      "timestamp": "2017-06-03T09:08:54Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 20090,
+      "comment": "added [[Category:Stockholm University alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785900000,
+      "parentid": 783587007,
+      "timestamp": "2017-06-16T02:16:31Z",
+      "user": "2605:E000:1C0B:1CA:C0B:E77B:23BE:91DB",
+      "userid": 0,
+      "size": 20204,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 786213323,
+      "parentid": 785900000,
+      "timestamp": "2017-06-18T00:54:47Z",
+      "user": "2604:6000:E3C7:3400:4C50:16C9:59AE:BCD8",
+      "userid": 0,
+      "size": 20208,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 786264298,
+      "parentid": 786213323,
+      "timestamp": "2017-06-18T09:37:47Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21434,
+      "comment": "/* 2018 rematch campaign */ Announcement",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793559914,
+      "parentid": 786264298,
+      "timestamp": "2017-08-02T14:30:17Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 20836,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Off-topic, and only one mention of Canova in the source, saying that Wasserman Schultz is facing Canova in the primary.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793560222,
+      "parentid": 793559914,
+      "timestamp": "2017-08-02T14:32:29Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 20534,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ No mention of Canova in reference",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793560480,
+      "parentid": 793560222,
+      "timestamp": "2017-08-02T14:34:23Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 20012,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */ Off-topic, and only one mention of Canova in the source, saying that Wasserman Schultz is facing Canova in the primary.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793560662,
+      "parentid": 793560480,
+      "timestamp": "2017-08-02T14:35:41Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 20198,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793561470,
+      "parentid": 793560662,
+      "timestamp": "2017-08-02T14:41:31Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 20390,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793561568,
+      "parentid": 793561470,
+      "timestamp": "2017-08-02T14:42:20Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 20382,
+      "comment": "/* 2018 rematch campaign */ Unencyclopedic",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793562893,
+      "parentid": 793561568,
+      "timestamp": "2017-08-02T14:53:32Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 20154,
+      "comment": "/* 2018 campaign */ NPOV",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793562990,
+      "parentid": 793562893,
+      "timestamp": "2017-08-02T14:54:16Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 19603,
+      "comment": "/* 2018 campaign */ Off-topic. Article on proposed pipeline doesn’t mention Canova.  Belongs in article on the pipeline.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793563456,
+      "parentid": 793562990,
+      "timestamp": "2017-08-02T14:57:59Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 19831,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793564632,
+      "parentid": 793563456,
+      "timestamp": "2017-08-02T15:07:29Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 21061,
+      "comment": "/* 2018 campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 793654264,
+      "parentid": 793564632,
+      "timestamp": "2017-08-03T03:54:11Z",
+      "user": "Space4Time3Continuum2x",
+      "userid": 28371143,
+      "size": 21090,
+      "comment": "/* 2018 campaign */ Fixed Wiki link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 795689482,
+      "parentid": 793654264,
+      "timestamp": "2017-08-15T21:25:20Z",
+      "user": "Certes",
+      "userid": 5984052,
+      "size": 21111,
+      "comment": "Disambiguating links to [[The Hill]] (link changed to [[The Hill (newspaper)]]) using [[User:Certes/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 800974283,
+      "parentid": 795689482,
+      "timestamp": "2017-09-16T22:07:03Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 21112,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 833822640,
+      "parentid": 800974283,
+      "timestamp": "2018-04-02T16:04:04Z",
+      "user": "2605:E000:854A:1F00:D996:229B:7C70:5D6F",
+      "userid": 0,
+      "size": 21087,
+      "comment": "Corrected Canova's party affiliation",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 833829329,
+      "parentid": 833822640,
+      "timestamp": "2018-04-02T16:38:15Z",
+      "user": "Gene93k",
+      "userid": 5014595,
+      "size": 21112,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2605:E000:854A:1F00:D996:229B:7C70:5D6F|2605:E000:854A:1F00:D996:229B:7C70:5D6F]] ([[User talk:2605:E000:854A:1F00:D996:229B:7C70:5D6F|talk]]) to last revision by KolbertBot. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 833830510,
+      "parentid": 833829329,
+      "timestamp": "2018-04-02T16:44:18Z",
+      "user": "Muy Mexi",
+      "userid": 33441076,
+      "size": 21125,
+      "comment": "Changed his party affiliation after today's announcement",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 833843317,
+      "parentid": 833830510,
+      "timestamp": "2018-04-02T17:52:53Z",
+      "user": "Muy Mexi",
+      "userid": 33441076,
+      "size": 21111,
+      "comment": "FL doesn't have NPP. He stated No Party Affiliation but the designation would be Independent",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 833981505,
+      "parentid": 833843317,
+      "timestamp": "2018-04-03T09:22:26Z",
+      "user": "The Terrible Travis",
+      "userid": 24080363,
+      "size": 21700,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 834031230,
+      "parentid": 833981505,
+      "timestamp": "2018-04-03T15:46:59Z",
+      "user": "Capriaf",
+      "userid": 6186795,
+      "size": 21878,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 848093761,
+      "parentid": 834031230,
+      "timestamp": "2018-06-29T19:02:54Z",
+      "user": "Quidster4040",
+      "userid": 13805538,
+      "size": 21917,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851389254,
+      "parentid": 848093761,
+      "timestamp": "2018-07-21T23:29:56Z",
+      "user": "Coreydragon",
+      "userid": 1792768,
+      "size": 21918,
+      "comment": "/* 2018 campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 852022215,
+      "parentid": 851389254,
+      "timestamp": "2018-07-26T03:19:41Z",
+      "user": "2605:6001:E24C:A700:E14B:9D0F:C071:170A",
+      "userid": 0,
+      "size": 22315,
+      "comment": "added link to one of Tim's publications which outline criticisms of IMF policies and NATO intervention in Yugoslavia",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 852023016,
+      "parentid": 852022215,
+      "timestamp": "2018-07-26T03:28:03Z",
+      "user": "This-is-name",
+      "userid": 31246691,
+      "size": 22349,
+      "comment": "added \"citation needed\" template, corrected punctuation",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 853194341,
+      "parentid": 852023016,
+      "timestamp": "2018-08-03T02:13:45Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 21391,
+      "comment": "/* Academic career */ WP:PUFFERY. The only independent source here is the HP opinion column, and even that doesn't actually say this",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853194523,
+      "parentid": 853194341,
+      "timestamp": "2018-08-03T02:15:33Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 21397,
+      "comment": "SPS",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853195156,
+      "parentid": 853194523,
+      "timestamp": "2018-08-03T02:21:37Z",
+      "user": "Volunteer Marek",
+      "userid": 263324,
+      "size": 21409,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853197635,
+      "parentid": 853195156,
+      "timestamp": "2018-08-03T02:41:40Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 21443,
+      "comment": "Dating maintenance tags: {{Primary}} {{Better source}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 854554687,
+      "parentid": 853197635,
+      "timestamp": "2018-08-12T05:46:07Z",
+      "user": "64.129.1.15",
+      "userid": 0,
+      "size": 21440,
+      "comment": "/* 2016 Congressional campaign */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 856409543,
+      "parentid": 854554687,
+      "timestamp": "2018-08-25T00:14:30Z",
+      "user": "73.193.4.136",
+      "userid": 0,
+      "size": 20181,
+      "comment": "Unrelated information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 856409825,
+      "parentid": 856409543,
+      "timestamp": "2018-08-25T00:17:56Z",
+      "user": "Neutrality",
+      "userid": 68411,
+      "size": 21440,
+      "comment": "Reverted edits by [[Special:Contribs/73.193.4.136|73.193.4.136]] ([[User talk:73.193.4.136|talk]]) to last version by 64.129.1.15",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 856459211,
+      "parentid": 856409825,
+      "timestamp": "2018-08-25T10:49:38Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 21515,
+      "comment": "/* External links */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 856721027,
+      "parentid": 856459211,
+      "timestamp": "2018-08-27T04:20:32Z",
+      "user": "Activist",
+      "userid": 1633464,
+      "size": 21516,
+      "comment": "Updated tense",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 857184833,
+      "parentid": 856721027,
+      "timestamp": "2018-08-30T02:54:38Z",
+      "user": "Jprg1966",
+      "userid": 543434,
+      "size": 21493,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 857749722,
+      "parentid": 857184833,
+      "timestamp": "2018-09-02T19:39:44Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 21337,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 857749759,
+      "parentid": 857749722,
+      "timestamp": "2018-09-02T19:40:03Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 21373,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867506873,
+      "parentid": 857749759,
+      "timestamp": "2018-11-06T04:30:48Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 21373,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868121368,
+      "parentid": 867506873,
+      "timestamp": "2018-11-10T03:57:52Z",
+      "user": "Zarte13",
+      "userid": 33575809,
+      "size": 21488,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868122045,
+      "parentid": 868121368,
+      "timestamp": "2018-11-10T04:04:38Z",
+      "user": "Zarte13",
+      "userid": 33575809,
+      "size": 21690,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868122279,
+      "parentid": 868122045,
+      "timestamp": "2018-11-10T04:07:04Z",
+      "user": "Zarte13",
+      "userid": 33575809,
+      "size": 21716,
+      "comment": "/* Political positions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 868203374,
+      "parentid": 868122279,
+      "timestamp": "2018-11-10T17:53:20Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 21093,
+      "comment": "remove poorly sourced",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868926742,
+      "parentid": 868203374,
+      "timestamp": "2018-11-15T08:20:22Z",
+      "user": "Graeme Bartlett",
+      "userid": 38427,
+      "size": 21099,
+      "comment": "clean up, replaced: candicacy → candidacy, [[WP:AWB/T|typo(s) fixed]]: Florida’s → Florida's (3)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 869288862,
+      "parentid": 868926742,
+      "timestamp": "2018-11-17T17:18:34Z",
+      "user": "AmblinX",
+      "userid": 11626988,
+      "size": 21803,
+      "comment": "2018 Election result",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874201877,
+      "parentid": 869288862,
+      "timestamp": "2018-12-17T20:06:04Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 21806,
+      "comment": "Robot - Speedily moving category Candidates in United States elections, 2016 to [[:Category:Candidates in the 2016 United States elections]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 908618193,
+      "parentid": 874201877,
+      "timestamp": "2019-07-30T21:24:18Z",
+      "user": "Philip Cross",
+      "userid": 124152,
+      "size": 21009,
+      "comment": "/* Academic career */ notability not established",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 908618769,
+      "parentid": 908618193,
+      "timestamp": "2019-07-30T21:27:37Z",
+      "user": "Philip Cross",
+      "userid": 124152,
+      "size": 21002,
+      "comment": "/* 2016 Congressional campaign */ ce (on my last edit, notability cannot be assumed to be self-evident)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 910866541,
+      "parentid": 908618769,
+      "timestamp": "2019-08-15T00:44:02Z",
+      "user": "Capriaf",
+      "userid": 6186795,
+      "size": 20961,
+      "comment": "has a lot of secondary sources",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 939739553,
+      "parentid": 910866541,
+      "timestamp": "2020-02-08T11:46:05Z",
+      "user": "John B123",
+      "userid": 21715336,
+      "size": 21006,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American law professor\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 939739613,
+      "parentid": 939739553,
+      "timestamp": "2020-02-08T11:46:59Z",
+      "user": "John B123",
+      "userid": 21715336,
+      "size": 21007,
+      "comment": "Fixed cite error",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 941450288,
+      "parentid": 939739613,
+      "timestamp": "2020-02-18T17:20:19Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 21067,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 945353057,
+      "parentid": 941450288,
+      "timestamp": "2020-03-13T12:21:54Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 21022,
+      "comment": "Alter: title. Add: ssrn. Removed URL that duplicated unique identifier. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:AManWithNoPlan]] | All pages linked from [[User:AManWithNoPlan/sandbox2]] | via #UCB_webform_linked",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 946378044,
+      "parentid": 945353057,
+      "timestamp": "2020-03-19T19:56:12Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 21023,
+      "comment": "/* Political career */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 948609613,
+      "parentid": 946378044,
+      "timestamp": "2020-04-02T00:29:22Z",
+      "user": "Unreal7",
+      "userid": 12374079,
+      "size": 21025,
+      "comment": "/* Academic career */",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 951250889,
+      "parentid": 948609613,
+      "timestamp": "2020-04-16T06:57:24Z",
+      "user": "98.181.173.206",
+      "userid": 0,
+      "size": 21025,
+      "comment": "/* 2016 DNC leaks and the Canova campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961044365,
+      "parentid": 951250889,
+      "timestamp": "2020-06-06T09:45:53Z",
+      "user": "Mirek2",
+      "userid": 2247258,
+      "size": 21020,
+      "comment": "/* 2016 Congressional campaign */ Removing biased language",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961044847,
+      "parentid": 961044365,
+      "timestamp": "2020-06-06T09:49:38Z",
+      "user": "Mirek2",
+      "userid": 2247258,
+      "size": 20055,
+      "comment": "/* 2016 Congressional campaign */ Wasserman Schultz's endorsers are not relevant to an article about Canova",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961501212,
+      "parentid": 961044847,
+      "timestamp": "2020-06-08T20:59:55Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20073,
+      "comment": "/* Political positions */ {{prose section}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961504123,
+      "parentid": 961501212,
+      "timestamp": "2020-06-08T21:20:07Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 20088,
+      "comment": "Dating maintenance tags: {{Prose}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 965038517,
+      "parentid": 961504123,
+      "timestamp": "2020-06-29T01:35:26Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 20089,
+      "comment": "/* Political career */HTTP → HTTPS for [[ABC News]], replaced: http://abcnews.go.com/ → https://abcnews.go.com/",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 970673832,
+      "parentid": 965038517,
+      "timestamp": "2020-08-01T18:50:50Z",
+      "user": "The Four Deuces",
+      "userid": 4656953,
+      "size": 20081,
+      "comment": "/* Political positions */ Replace ''CounterPunch'' ref with ''Times of Israel''",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 970673962,
+      "parentid": 970673832,
+      "timestamp": "2020-08-01T18:51:45Z",
+      "user": "The Four Deuces",
+      "userid": 4656953,
+      "size": 20093,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 970674145,
+      "parentid": 970673962,
+      "timestamp": "2020-08-01T18:52:50Z",
+      "user": "The Four Deuces",
+      "userid": 4656953,
+      "size": 20097,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 970674308,
+      "parentid": 970674145,
+      "timestamp": "2020-08-01T18:53:58Z",
+      "user": "The Four Deuces",
+      "userid": 4656953,
+      "size": 20093,
+      "comment": "Undid revision 970674145 by [[Special:Contributions/The Four Deuces|The Four Deuces]] ([[User talk:The Four Deuces|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 970682020,
+      "parentid": 970674308,
+      "timestamp": "2020-08-01T19:43:02Z",
+      "user": "Davide King",
+      "userid": 18916437,
+      "size": 20095,
+      "comment": "/* Political positions */ ce",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 972258413,
+      "parentid": 970682020,
+      "timestamp": "2020-08-11T03:28:11Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 16532,
+      "comment": "copyedits and cleanup",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 972258539,
+      "parentid": 972258413,
+      "timestamp": "2020-08-11T03:29:24Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 15889,
+      "comment": "removed Reddit AMA source",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 972261076,
+      "parentid": 972258539,
+      "timestamp": "2020-08-11T03:49:31Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 15906,
+      "comment": "Dating maintenance tags: {{Notability}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 972751114,
+      "parentid": 972261076,
+      "timestamp": "2020-08-13T16:48:10Z",
+      "user": "GünniX",
+      "userid": 237572,
+      "size": 15709,
+      "comment": "Reflist; duplicate references",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 974862068,
+      "parentid": 972751114,
+      "timestamp": "2020-08-25T13:06:23Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 15964,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Tim Canova (2nd nomination)]]. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974912341,
+      "parentid": 974862068,
+      "timestamp": "2020-08-25T19:25:51Z",
+      "user": "William Avery",
+      "userid": 1398,
+      "size": 15958,
+      "comment": "Remove well-known hypocorism - [[MOS:NICKNAME]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974924245,
+      "parentid": 974912341,
+      "timestamp": "2020-08-25T20:51:15Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 16893,
+      "comment": "/* 2018 campaign */ he claimed he got more votes than Wasserman Schultz",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974925006,
+      "parentid": 974924245,
+      "timestamp": "2020-08-25T20:56:52Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 17276,
+      "comment": "/* 2018 campaign */ asked for 2018 election to be set aside",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974925870,
+      "parentid": 974925006,
+      "timestamp": "2020-08-25T21:03:18Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 17076,
+      "comment": "Improve ref format for ref already in lead of article and re-used elsewhere",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974926095,
+      "parentid": 974925870,
+      "timestamp": "2020-08-25T21:05:07Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 16892,
+      "comment": "ce of lead",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974926368,
+      "parentid": 974926095,
+      "timestamp": "2020-08-25T21:07:02Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 16913,
+      "comment": "/* Early life and education */ neither source cited supports claim of receiving MA",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974927557,
+      "parentid": 974926368,
+      "timestamp": "2020-08-25T21:16:03Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 17298,
+      "comment": "/* Academics */ replace ludicrous PEACOCK claims unsupported by source cited with something the source supports",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974933227,
+      "parentid": 974927557,
+      "timestamp": "2020-08-25T21:45:17Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18225,
+      "comment": "/* 2016 Congressional campaign */ more info and requested citation for his 2016 platform",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974938257,
+      "parentid": 974933227,
+      "timestamp": "2020-08-25T22:09:50Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18231,
+      "comment": "/* Academics */ Zero RS support for any of these claims about his employment history",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974942132,
+      "parentid": 974938257,
+      "timestamp": "2020-08-25T22:29:51Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 18248,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 974962919,
+      "parentid": 974942132,
+      "timestamp": "2020-08-26T00:13:31Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18334,
+      "comment": "/* 2016 Congressional campaign */ article about results, endorsements, etc. where article \"Tim Canova\" should re-direct",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974964301,
+      "parentid": 974962919,
+      "timestamp": "2020-08-26T00:19:03Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18420,
+      "comment": "/* 2018 campaign */ more info about 2018 election including full results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974987063,
+      "parentid": 974964301,
+      "timestamp": "2020-08-26T02:41:17Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18187,
+      "comment": "/* Politics */ rm deadlink. I did find the actual broadcast & transcript online.  Canova not mentioned in it.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974992111,
+      "parentid": 974987063,
+      "timestamp": "2020-08-26T03:21:08Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18347,
+      "comment": "/* Politics */ Wikipedia should reflect what the RS we are citing say about a subject",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974993530,
+      "parentid": 974992111,
+      "timestamp": "2020-08-26T03:31:46Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 18338,
+      "comment": "/* Politics */ copyedits",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 975082374,
+      "parentid": 974993530,
+      "timestamp": "2020-08-26T17:00:30Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18917,
+      "comment": "/* 2016 Congressional campaign */ All pre-primary polling showed Wasserman Schultz winning, see 2018 Fla #23 page for 2 other polls",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 977448603,
+      "parentid": 975082374,
+      "timestamp": "2020-09-08T22:17:56Z",
+      "user": "Davide King",
+      "userid": 18916437,
+      "size": 18914,
+      "comment": "/* 2016 Congressional campaign */ comma",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 978225345,
+      "parentid": 977448603,
+      "timestamp": "2020-09-13T17:15:41Z",
+      "user": "Barkeep49",
+      "userid": 299135,
+      "size": 18659,
+      "comment": "AFD closed as keep ([[WP:XFDC|XFDcloser]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 978227421,
+      "parentid": 978225345,
+      "timestamp": "2020-09-13T17:29:08Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 18653,
+      "comment": "if his academic research saved the page from deletion, then he doesn't need an \"officeholder\" infobox",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 978270031,
+      "parentid": 978227421,
+      "timestamp": "2020-09-13T22:37:02Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 18263,
+      "comment": "/* Academics */ If no RS describes his work on this, it does not belong in Wikipedia",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 980166241,
+      "parentid": 978270031,
+      "timestamp": "2020-09-25T00:25:55Z",
+      "user": "Nordostsüdwest",
+      "userid": 36916708,
+      "size": 19096,
+      "comment": "Support for Trump",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 980171375,
+      "parentid": 980166241,
+      "timestamp": "2020-09-25T01:05:18Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 19196,
+      "comment": "/* Support for President Trump */ copyedits; very strange but apparently true",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 980172302,
+      "parentid": 980171375,
+      "timestamp": "2020-09-25T01:12:37Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 19379,
+      "comment": "additional info",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 980175761,
+      "parentid": 980172302,
+      "timestamp": "2020-09-25T01:41:09Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 19347,
+      "comment": "recent AfD consensus he was notable.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982524340,
+      "parentid": 980175761,
+      "timestamp": "2020-10-08T17:55:38Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 19407,
+      "comment": "added [[Category:People associated with Gibson, Dunn & Crutcher]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 985803913,
+      "parentid": 982524340,
+      "timestamp": "2020-10-28T01:28:06Z",
+      "user": "Ummyaaaa",
+      "userid": 33951177,
+      "size": 19310,
+      "comment": "/* Support for President Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 985807284,
+      "parentid": 985803913,
+      "timestamp": "2020-10-28T01:56:16Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 19537,
+      "comment": "WP:WEIGHT, this is one interview. The main takeway, referenced in article headline and elsewhere, it that he supports Trump over Biden",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 988793561,
+      "parentid": 985807284,
+      "timestamp": "2020-11-15T08:03:07Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 19533,
+      "comment": "Alter: title. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Georgetown University Law Center alumni]] | via #UCB_Category 81/776",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 996396523,
+      "parentid": 988793561,
+      "timestamp": "2020-12-26T10:06:26Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 19533,
+      "comment": "+",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1026683970,
+      "parentid": 996396523,
+      "timestamp": "2021-06-03T17:39:29Z",
+      "user": "Novaredant",
+      "userid": 41922056,
+      "size": 19836,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028045669,
+      "parentid": 1026683970,
+      "timestamp": "2021-06-11T14:26:27Z",
+      "user": "DrOwl19",
+      "userid": 35942145,
+      "size": 19836,
+      "comment": "/* 2020 Presidential Election Commentary */ Fixed capitalization.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1042137048,
+      "parentid": 1028045669,
+      "timestamp": "2021-09-03T11:08:32Z",
+      "user": "Certes",
+      "userid": 5984052,
+      "size": 19835,
+      "comment": "typo: led (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1062019111,
+      "parentid": 1042137048,
+      "timestamp": "2021-12-25T17:45:34Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 19852,
+      "comment": "Add: date. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | [[Category:Candidates in the 2016 United States elections]] | #UCB_Category 73/88",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1070977920,
+      "parentid": 1062019111,
+      "timestamp": "2022-02-10T07:25:48Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 19840,
+      "comment": "Moving [[:Category:People associated with Gibson, Dunn & Crutcher]] to [[:Category:People associated with Gibson Dunn]] per [[Wikipedia:Categories for discussion/Speedy]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1110028171,
+      "parentid": 1070977920,
+      "timestamp": "2022-09-13T05:08:30Z",
+      "user": "76.78.141.99",
+      "userid": 0,
+      "size": 19892,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1110101201,
+      "parentid": 1110028171,
+      "timestamp": "2022-09-13T15:46:21Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 19892,
+      "comment": "/* Politics */replaced: U.S. News and World Report → U.S. News & World Report; italics",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1110797017,
+      "parentid": 1110101201,
+      "timestamp": "2022-09-17T15:39:55Z",
+      "user": "76.78.141.154",
+      "userid": 0,
+      "size": 19891,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1112335115,
+      "parentid": 1110797017,
+      "timestamp": "2022-09-25T20:59:18Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 19920,
+      "comment": "Fixing [[Wikipedia:Disambiguation pages with links|links to disambiguation pages]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1115508307,
+      "parentid": 1112335115,
+      "timestamp": "2022-10-11T20:38:04Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 19931,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1119687336,
+      "parentid": 1115508307,
+      "timestamp": "2022-11-02T22:07:25Z",
+      "user": "137.52.180.41",
+      "userid": 0,
+      "size": 19932,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119687565,
+      "parentid": 1119687336,
+      "timestamp": "2022-11-02T22:09:04Z",
+      "user": "137.52.180.41",
+      "userid": 0,
+      "size": 19945,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119687791,
+      "parentid": 1119687565,
+      "timestamp": "2022-11-02T22:10:47Z",
+      "user": "137.52.180.41",
+      "userid": 0,
+      "size": 19942,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119687877,
+      "parentid": 1119687791,
+      "timestamp": "2022-11-02T22:11:25Z",
+      "user": "137.52.180.41",
+      "userid": 0,
+      "size": 19920,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "disambiguator-link-added",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1119969495,
+      "parentid": 1119687877,
+      "timestamp": "2022-11-04T11:26:27Z",
+      "user": "Rodw",
+      "userid": 125972,
+      "size": 19942,
+      "comment": "Disambiguating links to [[Democrat]] (link changed to [[Democratic Party (United States)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1128583315,
+      "parentid": 1119969495,
+      "timestamp": "2022-12-20T22:23:31Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 19917,
+      "comment": "link [[Shepard Broad College of Law]] using [[:en:User:Edward/Find link|Find link]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132507569,
+      "parentid": 1128583315,
+      "timestamp": "2023-01-09T05:32:41Z",
+      "user": "Liberaltarian12345",
+      "userid": 31827594,
+      "size": 19856,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1137717038,
+      "parentid": 1132507569,
+      "timestamp": "2023-02-06T02:36:49Z",
+      "user": "2600:4040:209C:A900:35D6:FC55:397C:D5E3",
+      "userid": 0,
+      "size": 19920,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1137731513,
+      "parentid": 1137717038,
+      "timestamp": "2023-02-06T04:44:10Z",
+      "user": "HouseOfChange",
+      "userid": 20986356,
+      "size": 19856,
+      "comment": "rv uncited",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1219181623,
+      "parentid": 1137731513,
+      "timestamp": "2024-04-16T06:25:37Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 19858,
+      "comment": "Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#thehill.com]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1233150929,
+      "parentid": 1219181623,
+      "timestamp": "2024-07-07T14:55:15Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 19883,
+      "comment": "removed [[Category:Candidates in the 2018 United States elections]]; added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1249779204,
+      "parentid": 1233150929,
+      "timestamp": "2024-10-06T19:51:46Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 19895,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American law professor\" to \"American law professor (born 1960)\"",
+      "minor": true,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1256032961,
+      "parentid": 1249779204,
+      "timestamp": "2024-11-07T21:57:01Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 19928,
+      "comment": "Disambiguating links to [[Presidencies of Donald Trump]] (link changed to [[First presidency of Donald Trump]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1259075676,
+      "parentid": 1256032961,
+      "timestamp": "2024-11-23T06:13:58Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 19928,
+      "comment": "Moving [[:Category:Florida Independents]] to [[:Category:Florida independents]] per [[Wikipedia:Categories for discussion/Log/2024 November 14#US state independents]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1259498990,
+      "parentid": 1259075676,
+      "timestamp": "2024-11-25T14:39:02Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 19933,
+      "comment": "removed [[Category:People from Freeport, New York]]; added [[Category:Politicians from Freeport, New York]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Canova"
+}

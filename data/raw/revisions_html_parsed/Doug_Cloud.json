@@ -1,0 +1,448 @@
+{
+  "page_title": "Doug_Cloud",
+  "candidate_name": "Doug Cloud",
+  "collection_date": "2025-12-28T16:38:06.561565",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 37,
+    "unique_editors": 24,
+    "date_range": {
+      "start": "2013-11-30T07:05:29Z",
+      "end": "2023-08-20T01:50:53Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 583880759,
+      "parentid": 0,
+      "timestamp": "2013-11-30T07:05:29Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 4729,
+      "comment": "created entry",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 583881725,
+      "parentid": 583880759,
+      "timestamp": "2013-11-30T07:21:07Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 5117,
+      "comment": "/* Congressional campaigns */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 583881792,
+      "parentid": 583881725,
+      "timestamp": "2013-11-30T07:22:03Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 5120,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 583881931,
+      "parentid": 583881792,
+      "timestamp": "2013-11-30T07:24:00Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 5082,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 583881982,
+      "parentid": 583881931,
+      "timestamp": "2013-11-30T07:24:39Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 5178,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 583882107,
+      "parentid": 583881982,
+      "timestamp": "2013-11-30T07:26:39Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 5177,
+      "comment": "/* Political campaigns */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 584142182,
+      "parentid": 583882107,
+      "timestamp": "2013-12-02T01:07:39Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 5335,
+      "comment": "Checkwiki 61 + General Fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 584538165,
+      "parentid": 584142182,
+      "timestamp": "2013-12-04T16:07:42Z",
+      "user": "JustAGal",
+      "userid": 1499324,
+      "size": 5393,
+      "comment": "Disambiguated: [[J.D.]] → [[Juris Doctor]], [[Pierce County]] → [[Pierce County, Washington]], [[earmarks]] → [[earmark (politics)]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 586006761,
+      "parentid": 584538165,
+      "timestamp": "2013-12-14T05:01:07Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 5889,
+      "comment": "/* Political campaigns */  updated appointment to HoR campaign",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 590546452,
+      "parentid": 586006761,
+      "timestamp": "2014-01-13T18:49:29Z",
+      "user": "Ground Zero",
+      "userid": 232133,
+      "size": 5935,
+      "comment": "dab",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 591386580,
+      "parentid": 590546452,
+      "timestamp": "2014-01-19T08:35:10Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 5963,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 591386664,
+      "parentid": 591386580,
+      "timestamp": "2014-01-19T08:36:32Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 5964,
+      "comment": "/* Political campaigns */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 591386684,
+      "parentid": 591386664,
+      "timestamp": "2014-01-19T08:36:51Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 5972,
+      "comment": "/* Political campaigns */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 591386699,
+      "parentid": 591386684,
+      "timestamp": "2014-01-19T08:37:05Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 5972,
+      "comment": "/* Political campaigns */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 593542063,
+      "parentid": 591386699,
+      "timestamp": "2014-02-02T06:00:05Z",
+      "user": "DocumentError",
+      "userid": 20243328,
+      "size": 5878,
+      "comment": "deleted \"As of 2013 he is seeking a vacancy appointment to the [[Washington House of Representatives]].\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 608493304,
+      "parentid": 593542063,
+      "timestamp": "2014-05-14T04:04:40Z",
+      "user": "BlueSalix",
+      "userid": 15940481,
+      "size": 5935,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 610253448,
+      "parentid": 608493304,
+      "timestamp": "2014-05-26T20:19:38Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 5955,
+      "comment": "/* References */add persondata short description using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 610287561,
+      "parentid": 610253448,
+      "timestamp": "2014-05-27T01:58:08Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 5898,
+      "comment": "Robot - Removing category Perennial candidates from Washington state per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2014 May 19]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723804285,
+      "parentid": 610287561,
+      "timestamp": "2016-06-05T10:20:21Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 5696,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Doug Cloud|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 729412819,
+      "parentid": 723804285,
+      "timestamp": "2016-07-12T01:02:45Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 5693,
+      "comment": "removed [[Category:People from Pierce County, Washington]]; added [[Category:People from Gig Harbor, Washington]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 800398216,
+      "parentid": 729412819,
+      "timestamp": "2017-09-13T08:32:27Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 6079,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.5.2)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 801615555,
+      "parentid": 800398216,
+      "timestamp": "2017-09-20T19:30:38Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 6080,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v462)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 877656084,
+      "parentid": 801615555,
+      "timestamp": "2019-01-10T01:50:14Z",
+      "user": "Tom johnson jr",
+      "userid": 35570692,
+      "size": 6131,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 877657272,
+      "parentid": 877656084,
+      "timestamp": "2019-01-10T02:02:06Z",
+      "user": "180.150.79.160",
+      "userid": 0,
+      "size": 6080,
+      "comment": "Undid revision 877656084 by [[Special:Contributions/Tom johnson jr|Tom johnson jr]] ([[User talk:Tom johnson jr|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "Rapid reverts"
+      ]
+    },
+    {
+      "revid": 886584792,
+      "parentid": 877657272,
+      "timestamp": "2019-03-07T05:19:22Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6130,
+      "comment": "add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 908298440,
+      "parentid": 886584792,
+      "timestamp": "2019-07-28T20:38:53Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 6293,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta15)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 918487548,
+      "parentid": 908298440,
+      "timestamp": "2019-09-28T22:34:15Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 6291,
+      "comment": "/* Political campaigns */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (3×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 921671241,
+      "parentid": 918487548,
+      "timestamp": "2019-10-17T03:52:58Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 6305,
+      "comment": "removed [[Category:University of Washington alumni]]; added [[Category:University of Washington School of Law alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 921671299,
+      "parentid": 921671241,
+      "timestamp": "2019-10-17T03:53:32Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 6379,
+      "comment": "added [[Category:University of Washington College of Arts and Sciences alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 928624669,
+      "parentid": 921671299,
+      "timestamp": "2019-11-30T15:47:28Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 6548,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 976850454,
+      "parentid": 928624669,
+      "timestamp": "2020-09-05T12:19:33Z",
+      "user": "Certes",
+      "userid": 5984052,
+      "size": 6591,
+      "comment": "Disambiguating links to [[Freedom of Information Act]] (link changed to [[Freedom of Information Act (United States)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1016061471,
+      "parentid": 976850454,
+      "timestamp": "2021-04-05T05:18:14Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 6603,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1040291275,
+      "parentid": 1016061471,
+      "timestamp": "2021-08-23T18:18:59Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 6577,
+      "comment": "/* References */Removed [[Category:Year of birth missing (living people)]] and [[WP:AWB/GF|General fixes]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1062896431,
+      "parentid": 1040291275,
+      "timestamp": "2021-12-31T02:05:09Z",
+      "user": "Rlink2 Bot",
+      "userid": 42774876,
+      "size": 6580,
+      "comment": "archive link repair, may include: archive.* -> archive.today, https for ghostarchive.org and archive.org",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1111416520,
+      "parentid": 1062896431,
+      "timestamp": "2022-09-20T22:03:18Z",
+      "user": "Hunan201p",
+      "userid": 35837895,
+      "size": 6581,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1147623009,
+      "parentid": 1111416520,
+      "timestamp": "2023-04-01T03:54:51Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6582,
+      "comment": "Alter: template type, title. Add: newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:University of Washington School of Law alumni]] | #UCB_Category 105/132",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1171265870,
+      "parentid": 1147623009,
+      "timestamp": "2023-08-20T01:50:53Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 6599,
+      "comment": "/* Early life and education */Avoid potentially ambiguous redirect, per current RfD discussion., replaced: [[B.A.]] → [[Bachelor of Arts|B.A.]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Doug_Cloud"
+}

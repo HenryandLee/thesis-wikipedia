@@ -1,0 +1,53 @@
+{
+  "page_title": "Tom_Kean_Jr.",
+  "candidate_name": "Tom Kean Jr.",
+  "collection_date": "2025-12-28T16:56:38.270168",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2006-12-12T05:08:48Z",
+      "end": "2023-10-25T21:58:40Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 93749780,
+      "parentid": 59038164,
+      "timestamp": "2006-12-12T05:08:48Z",
+      "user": "Kane5187",
+      "userid": 201441,
+      "size": 30,
+      "comment": "[[WP:AES|←]]Redirected page to [[Thomas Kean, Jr.]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719611804,
+      "parentid": 93749780,
+      "timestamp": "2016-05-10T19:01:25Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 29,
+      "comment": "Bot: Fixing double redirect to [[Thomas Kean Jr.]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1181898473,
+      "parentid": 719611804,
+      "timestamp": "2023-10-25T21:58:40Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 82,
+      "comment": "Modifying [[WP:RCAT|redirect categories]] using [[User:Wugapodes/Capricorn|Capricorn ♑]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Kean_Jr."
+}

@@ -1,0 +1,1679 @@
+{
+  "page_title": "Beth_Krom",
+  "candidate_name": "Beth Krom",
+  "collection_date": "2025-12-28T16:33:23.074935",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 147,
+    "unique_editors": 79,
+    "date_range": {
+      "start": "2009-04-03T21:01:12Z",
+      "end": "2024-11-30T15:22:24Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 281572086,
+      "parentid": 0,
+      "timestamp": "2009-04-03T21:01:12Z",
+      "user": "Viapastrengo",
+      "userid": 4282029,
+      "size": 290,
+      "comment": "created page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 281572812,
+      "parentid": 281572086,
+      "timestamp": "2009-04-03T21:05:11Z",
+      "user": "Viapastrengo",
+      "userid": 4282029,
+      "size": 309,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 284386913,
+      "parentid": 281572812,
+      "timestamp": "2009-04-17T10:02:19Z",
+      "user": "Alan Liefting",
+      "userid": 36352,
+      "size": 621,
+      "comment": "Nominated for deletion; see [[Wikipedia:Articles for deletion/Beth Krom]]. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 284652563,
+      "parentid": 284386913,
+      "timestamp": "2009-04-18T18:02:20Z",
+      "user": "71.156.33.180",
+      "userid": 0,
+      "size": 706,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 285765657,
+      "parentid": 284652563,
+      "timestamp": "2009-04-24T01:08:08Z",
+      "user": "Cirt",
+      "userid": 5389659,
+      "size": 394,
+      "comment": "[[Wikipedia:Articles for deletion/Beth Krom]] closed as keep",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 286106430,
+      "parentid": 285765657,
+      "timestamp": "2009-04-25T21:03:52Z",
+      "user": "Alan Liefting",
+      "userid": 36352,
+      "size": 431,
+      "comment": "Quick-adding category [[:Category:California politicians|California politicians]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 286340977,
+      "parentid": 286106430,
+      "timestamp": "2009-04-27T00:50:43Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 437,
+      "comment": "Removed category [[:Category:California politicians|California politicians]]; Quick-adding category [[:Category:California city councillors|California city councillors]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 286341007,
+      "parentid": 286340977,
+      "timestamp": "2009-04-27T00:50:51Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 481,
+      "comment": "Quick-adding category [[:Category:Mayors of places in California|Mayors of places in California]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 286341113,
+      "parentid": 286341007,
+      "timestamp": "2009-04-27T00:51:26Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 611,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 286341247,
+      "parentid": 286341113,
+      "timestamp": "2009-04-27T00:52:07Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 620,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 291230073,
+      "parentid": 286341247,
+      "timestamp": "2009-05-20T18:42:41Z",
+      "user": "Scientus",
+      "userid": 6839963,
+      "size": 618,
+      "comment": "splits hyperlink in firefox",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 295220590,
+      "parentid": 291230073,
+      "timestamp": "2009-06-08T18:53:33Z",
+      "user": "JMyrleFuller",
+      "userid": 2068487,
+      "size": 768,
+      "comment": "Disambiguations",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 295376257,
+      "parentid": 295220590,
+      "timestamp": "2009-06-09T14:22:57Z",
+      "user": "JMyrleFuller",
+      "userid": 2068487,
+      "size": 1103,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 295903619,
+      "parentid": 295376257,
+      "timestamp": "2009-06-12T02:32:43Z",
+      "user": "68.5.38.162",
+      "userid": 0,
+      "size": 1230,
+      "comment": "/* Family */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 295903714,
+      "parentid": 295903619,
+      "timestamp": "2009-06-12T02:33:34Z",
+      "user": "Seth ze",
+      "userid": 11152,
+      "size": 1103,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/68.5.38.162|68.5.38.162]]; Please cite sources. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 296097337,
+      "parentid": 295903714,
+      "timestamp": "2009-06-13T02:45:28Z",
+      "user": "68.5.38.162",
+      "userid": 0,
+      "size": 1347,
+      "comment": "/* added scandal */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 296421306,
+      "parentid": 296097337,
+      "timestamp": "2009-06-14T21:14:34Z",
+      "user": "68.99.180.38",
+      "userid": 0,
+      "size": 1104,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 303076128,
+      "parentid": 296421306,
+      "timestamp": "2009-07-20T05:03:09Z",
+      "user": "68.4.2.161",
+      "userid": 0,
+      "size": 1132,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 303076135,
+      "parentid": 303076128,
+      "timestamp": "2009-07-20T05:03:11Z",
+      "user": "ClueBot",
+      "userid": 4928500,
+      "size": 1104,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/68.4.2.161|68.4.2.161]] to version by 68.99.180.38. False positive? [[User:ClueBot/FalsePositives|Report it]]. Thanks, [[User:ClueBot|ClueBot]]. (740561) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 320711398,
+      "parentid": 303076135,
+      "timestamp": "2009-10-19T01:19:21Z",
+      "user": "70.187.184.12",
+      "userid": 0,
+      "size": 1168,
+      "comment": "/* Family */  added additional facts to section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 321258610,
+      "parentid": 320711398,
+      "timestamp": "2009-10-21T20:27:19Z",
+      "user": "75.149.4.81",
+      "userid": 0,
+      "size": 1108,
+      "comment": "I deleted the part about Noah evading a taxi fare because that is just a rumor.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323161560,
+      "parentid": 321258610,
+      "timestamp": "2009-10-31T20:40:11Z",
+      "user": "68.96.93.45",
+      "userid": 0,
+      "size": 1341,
+      "comment": "/* included political history --Taiwan debacle */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 327972079,
+      "parentid": 323161560,
+      "timestamp": "2009-11-26T02:09:55Z",
+      "user": "98.112.139.210",
+      "userid": 0,
+      "size": 1500,
+      "comment": "Ommitted irrelevant info about taiwan, added some backround about Beth's history as Mayor.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 327972761,
+      "parentid": 327972079,
+      "timestamp": "2009-11-26T02:15:01Z",
+      "user": "98.112.139.210",
+      "userid": 0,
+      "size": 1071,
+      "comment": "[[WP:UNDO|Undid]] revision 327972079 by [[Special:Contributions/98.112.139.210|98.112.139.210]] ([[User talk:98.112.139.210|talk]])",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 331392499,
+      "parentid": 327972761,
+      "timestamp": "2009-12-13T06:54:53Z",
+      "user": "Mandarax",
+      "userid": 191757,
+      "size": 1064,
+      "comment": "Replaced \"passed away\" with \"died\" per [[WP:EUPHEMISM]] using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 340492241,
+      "parentid": 331392499,
+      "timestamp": "2010-01-28T07:46:14Z",
+      "user": "Marcos Gray",
+      "userid": 11548227,
+      "size": 583,
+      "comment": "removed irrelevant information, see talk",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 340493474,
+      "parentid": 340492241,
+      "timestamp": "2010-01-28T08:01:45Z",
+      "user": "Marcos Gray",
+      "userid": 11548227,
+      "size": 1040,
+      "comment": "added new information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 340493534,
+      "parentid": 340493474,
+      "timestamp": "2010-01-28T08:02:22Z",
+      "user": "Marcos Gray",
+      "userid": 11548227,
+      "size": 1046,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 340493569,
+      "parentid": 340493534,
+      "timestamp": "2010-01-28T08:02:47Z",
+      "user": "Marcos Gray",
+      "userid": 11548227,
+      "size": 950,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 342159523,
+      "parentid": 340493569,
+      "timestamp": "2010-02-05T20:34:07Z",
+      "user": "JMyrleFuller",
+      "userid": 2068487,
+      "size": 1460,
+      "comment": "Restoring removed information. Limited information on family and personal life is generally permissible, if sourced, for people of all varieties.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 353009583,
+      "parentid": 342159523,
+      "timestamp": "2010-03-30T19:32:26Z",
+      "user": "67.103.189.197",
+      "userid": 0,
+      "size": 1789,
+      "comment": "/* Personal life */ /* taiwanese infamy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 353009729,
+      "parentid": 353009583,
+      "timestamp": "2010-03-30T19:33:17Z",
+      "user": "67.103.189.197",
+      "userid": 0,
+      "size": 1815,
+      "comment": "/* International Infamy */ /* fixed up refs */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 357979672,
+      "parentid": 353009729,
+      "timestamp": "2010-04-24T08:10:58Z",
+      "user": "Gogo Dodo",
+      "userid": 1257855,
+      "size": 1459,
+      "comment": "Rm, serious [[WP:NPOV]] issues",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 358758587,
+      "parentid": 357979672,
+      "timestamp": "2010-04-28T00:46:50Z",
+      "user": "Viapastrengo",
+      "userid": 4282029,
+      "size": 1467,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359127140,
+      "parentid": 358758587,
+      "timestamp": "2010-04-29T20:30:46Z",
+      "user": "98.189.17.167",
+      "userid": 0,
+      "size": 1222,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 359133106,
+      "parentid": 359127140,
+      "timestamp": "2010-04-29T21:06:22Z",
+      "user": "98.189.17.167",
+      "userid": 0,
+      "size": 1526,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359133502,
+      "parentid": 359133106,
+      "timestamp": "2010-04-29T21:08:50Z",
+      "user": "98.189.17.167",
+      "userid": 0,
+      "size": 1530,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359133692,
+      "parentid": 359133502,
+      "timestamp": "2010-04-29T21:10:00Z",
+      "user": "98.189.17.167",
+      "userid": 0,
+      "size": 1565,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359135972,
+      "parentid": 359133692,
+      "timestamp": "2010-04-29T21:23:34Z",
+      "user": "98.189.17.167",
+      "userid": 0,
+      "size": 1678,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359136906,
+      "parentid": 359135972,
+      "timestamp": "2010-04-29T21:29:17Z",
+      "user": "98.189.17.167",
+      "userid": 0,
+      "size": 1673,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359137661,
+      "parentid": 359136906,
+      "timestamp": "2010-04-29T21:33:49Z",
+      "user": "Stonehand",
+      "userid": 12257352,
+      "size": 1671,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359138394,
+      "parentid": 359137661,
+      "timestamp": "2010-04-29T21:37:50Z",
+      "user": "Stonehand",
+      "userid": 12257352,
+      "size": 2185,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359139006,
+      "parentid": 359138394,
+      "timestamp": "2010-04-29T21:41:25Z",
+      "user": "Stonehand",
+      "userid": 12257352,
+      "size": 2973,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359139093,
+      "parentid": 359139006,
+      "timestamp": "2010-04-29T21:41:59Z",
+      "user": "Stonehand",
+      "userid": 12257352,
+      "size": 2973,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 359139235,
+      "parentid": 359139093,
+      "timestamp": "2010-04-29T21:42:45Z",
+      "user": "Stonehand",
+      "userid": 12257352,
+      "size": 2972,
+      "comment": "/* Personal Life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 359139343,
+      "parentid": 359139235,
+      "timestamp": "2010-04-29T21:43:22Z",
+      "user": "Stonehand",
+      "userid": 12257352,
+      "size": 2967,
+      "comment": "/* Personal Life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 359140005,
+      "parentid": 359139343,
+      "timestamp": "2010-04-29T21:47:19Z",
+      "user": "Stonehand",
+      "userid": 12257352,
+      "size": 3980,
+      "comment": "/* Personal Life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 360106017,
+      "parentid": 359140005,
+      "timestamp": "2010-05-04T17:09:56Z",
+      "user": "67.103.189.197",
+      "userid": 0,
+      "size": 4332,
+      "comment": "/* Congressional campaign */ /* Included description and authoritative link of subject's other extra-Irvine press.  Relevent to the existing paragraph on congress. */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 362592436,
+      "parentid": 360106017,
+      "timestamp": "2010-05-17T10:41:21Z",
+      "user": "218.167.146.62",
+      "userid": 0,
+      "size": 4362,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 362592775,
+      "parentid": 362592436,
+      "timestamp": "2010-05-17T10:44:55Z",
+      "user": "218.167.146.62",
+      "userid": 0,
+      "size": 4374,
+      "comment": "/* Other Exposure */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 366039914,
+      "parentid": 362592775,
+      "timestamp": "2010-06-04T16:08:50Z",
+      "user": "JustAGal",
+      "userid": 1499324,
+      "size": 4379,
+      "comment": "disambig Irvine",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 370941814,
+      "parentid": 366039914,
+      "timestamp": "2010-06-30T06:18:02Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 4357,
+      "comment": "Correct cap in header and/or general fixes.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 371328309,
+      "parentid": 370941814,
+      "timestamp": "2010-07-02T05:18:54Z",
+      "user": "108.13.14.46",
+      "userid": 0,
+      "size": 4424,
+      "comment": "/* Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 374173343,
+      "parentid": 371328309,
+      "timestamp": "2010-07-18T18:42:47Z",
+      "user": "Nononsenseplease",
+      "userid": 7756687,
+      "size": 4567,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 375615256,
+      "parentid": 374173343,
+      "timestamp": "2010-07-26T20:54:18Z",
+      "user": "98.189.17.167",
+      "userid": 0,
+      "size": 4216,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 375969543,
+      "parentid": 375615256,
+      "timestamp": "2010-07-28T20:22:08Z",
+      "user": "Kgrad",
+      "userid": 10242667,
+      "size": 4221,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 376128141,
+      "parentid": 375969543,
+      "timestamp": "2010-07-29T18:16:05Z",
+      "user": "67.103.189.194",
+      "userid": 0,
+      "size": 4654,
+      "comment": "/* included taiwan ref */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376128567,
+      "parentid": 376128141,
+      "timestamp": "2010-07-29T18:18:35Z",
+      "user": "MajorVariola",
+      "userid": 12374754,
+      "size": 4787,
+      "comment": "/* added refs */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376511381,
+      "parentid": 376128567,
+      "timestamp": "2010-08-01T00:26:37Z",
+      "user": "169.234.122.119",
+      "userid": 0,
+      "size": 4787,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 378442169,
+      "parentid": 376511381,
+      "timestamp": "2010-08-11T22:50:45Z",
+      "user": "Ground Zero",
+      "userid": 232133,
+      "size": 4773,
+      "comment": "there are lots of Democratic and Republican parties around the world",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 381187577,
+      "parentid": 378442169,
+      "timestamp": "2010-08-26T21:07:02Z",
+      "user": "Foolboy1993",
+      "userid": 12969056,
+      "size": 4210,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 381954844,
+      "parentid": 381187577,
+      "timestamp": "2010-08-30T21:53:25Z",
+      "user": "Scanlan",
+      "userid": 1892257,
+      "size": 4208,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385974215,
+      "parentid": 381954844,
+      "timestamp": "2010-09-20T20:13:02Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 6218,
+      "comment": "/* Personal Life */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 385974646,
+      "parentid": 385974215,
+      "timestamp": "2010-09-20T20:15:31Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 6198,
+      "comment": "/* Personal Life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385975233,
+      "parentid": 385974646,
+      "timestamp": "2010-09-20T20:19:05Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 6491,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385975378,
+      "parentid": 385975233,
+      "timestamp": "2010-09-20T20:20:02Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 7656,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385975418,
+      "parentid": 385975378,
+      "timestamp": "2010-09-20T20:20:18Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 7789,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385975686,
+      "parentid": 385975418,
+      "timestamp": "2010-09-20T20:22:08Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 4610,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385975937,
+      "parentid": 385975686,
+      "timestamp": "2010-09-20T20:23:37Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 5457,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385976027,
+      "parentid": 385975937,
+      "timestamp": "2010-09-20T20:24:12Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 5449,
+      "comment": "/* 2010 Run for Congress */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385976081,
+      "parentid": 385976027,
+      "timestamp": "2010-09-20T20:24:32Z",
+      "user": "Daniellebutterfield",
+      "userid": 13108909,
+      "size": 5445,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 387394983,
+      "parentid": 385976081,
+      "timestamp": "2010-09-27T20:57:41Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5668,
+      "comment": "[[WP:CHECKWIKI]] error fixes + genfixes using [[Project:AWB|AWB]] (7194)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388179397,
+      "parentid": 387394983,
+      "timestamp": "2010-10-01T22:49:00Z",
+      "user": "MajorVariola",
+      "userid": 12374754,
+      "size": 6231,
+      "comment": "/* re-added formosa controversy.  Caution: she's running for office and may attempt to censor */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388179501,
+      "parentid": 388179397,
+      "timestamp": "2010-10-01T22:49:49Z",
+      "user": "MajorVariola",
+      "userid": 12374754,
+      "size": 6272,
+      "comment": "/* Family */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388179738,
+      "parentid": 388179501,
+      "timestamp": "2010-10-01T22:51:28Z",
+      "user": "Everard Proudfoot",
+      "userid": 12276998,
+      "size": 5668,
+      "comment": "rm controversy,  Note, I never heard of this person and have no idea what she's running for.  This para said the gaffe was caused by a staffer, not by the subject of the article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388179786,
+      "parentid": 388179738,
+      "timestamp": "2010-10-01T22:51:46Z",
+      "user": "Everard Proudfoot",
+      "userid": 12276998,
+      "size": 3358,
+      "comment": "/* Personal life */ rm entire section, unsourced",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388179832,
+      "parentid": 388179786,
+      "timestamp": "2010-10-01T22:52:05Z",
+      "user": "Everard Proudfoot",
+      "userid": 12276998,
+      "size": 2837,
+      "comment": "/* Family */ and again",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388179896,
+      "parentid": 388179832,
+      "timestamp": "2010-10-01T22:52:32Z",
+      "user": "Everard Proudfoot",
+      "userid": 12276998,
+      "size": 2869,
+      "comment": "{{blpsources}}{{selfpublished}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388179919,
+      "parentid": 388179896,
+      "timestamp": "2010-10-01T22:52:48Z",
+      "user": "Everard Proudfoot",
+      "userid": 12276998,
+      "size": 2890,
+      "comment": "/* Politics */ {{unsourced section}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388179948,
+      "parentid": 388179919,
+      "timestamp": "2010-10-01T22:53:00Z",
+      "user": "Everard Proudfoot",
+      "userid": 12276998,
+      "size": 2911,
+      "comment": "/* 2010 Run for Congress */ {{unsourced section}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388302051,
+      "parentid": 388179948,
+      "timestamp": "2010-10-02T16:30:05Z",
+      "user": "MajorVariola",
+      "userid": 12374754,
+      "size": 3543,
+      "comment": "/*  The Formosa controversy is correctly described as associated with her reign.  The page otherwise reads like a puff piece */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388372908,
+      "parentid": 388302051,
+      "timestamp": "2010-10-02T23:57:49Z",
+      "user": "Off2riorob",
+      "userid": 8453364,
+      "size": 2917,
+      "comment": "/* Political Controversy */ remove not  [[WP:RS]] citations",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388373615,
+      "parentid": 388372908,
+      "timestamp": "2010-10-03T00:02:33Z",
+      "user": "Off2riorob",
+      "userid": 8453364,
+      "size": 2817,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388373876,
+      "parentid": 388373615,
+      "timestamp": "2010-10-03T00:04:18Z",
+      "user": "Off2riorob",
+      "userid": 8453364,
+      "size": 2773,
+      "comment": "trim",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 388376100,
+      "parentid": 388373876,
+      "timestamp": "2010-10-03T00:20:25Z",
+      "user": "Off2riorob",
+      "userid": 8453364,
+      "size": 2697,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388376191,
+      "parentid": 388376100,
+      "timestamp": "2010-10-03T00:21:06Z",
+      "user": "Off2riorob",
+      "userid": 8453364,
+      "size": 2735,
+      "comment": "Added {{[[Template:unreferencedBLP|unreferencedBLP]]}} tag to article using [[WP:TW|TW]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388376309,
+      "parentid": 388376191,
+      "timestamp": "2010-10-03T00:21:58Z",
+      "user": "Off2riorob",
+      "userid": 8453364,
+      "size": 2734,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388545215,
+      "parentid": 388376309,
+      "timestamp": "2010-10-03T21:35:06Z",
+      "user": "Cirt",
+      "userid": 5389659,
+      "size": 2771,
+      "comment": "Added {{[[Template:primarysources|primarysources]]}} tag to article using [[WP:FRIENDLY|Friendly]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388545248,
+      "parentid": 388545215,
+      "timestamp": "2010-10-03T21:35:16Z",
+      "user": "Cirt",
+      "userid": 5389659,
+      "size": 2771,
+      "comment": "Protected Beth Krom: BLP issues fm [[WP:BLPN]]. ([edit=autoconfirmed] (expires 21:35, 3 November 2010 (UTC)) [move=autoconfirmed] (expires 21:35, 3 November 2010 (UTC)))",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388545328,
+      "parentid": 388545248,
+      "timestamp": "2010-10-03T21:35:45Z",
+      "user": "Cirt",
+      "userid": 5389659,
+      "size": 2803,
+      "comment": "{{pp-semi-protected|small=yes}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 391229227,
+      "parentid": 388545328,
+      "timestamp": "2010-10-17T12:52:25Z",
+      "user": "JMyrleFuller",
+      "userid": 2068487,
+      "size": 2837,
+      "comment": "mentioning maiden name",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 392940953,
+      "parentid": 391229227,
+      "timestamp": "2010-10-26T05:59:18Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 2843,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7319)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 394710387,
+      "parentid": 392940953,
+      "timestamp": "2010-11-04T02:23:11Z",
+      "user": "DumbBOT",
+      "userid": 1310918,
+      "size": 2811,
+      "comment": "removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 397374249,
+      "parentid": 394710387,
+      "timestamp": "2010-11-17T21:00:16Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 2830,
+      "comment": "fix portals, brackets, typos, dates, links, references, categories, formatting and persondata, replaced: {{unreferencedBLP| → {{BLP unsourced| using [[Project:AWB|AWB]] (7401)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 397641500,
+      "parentid": 397374249,
+      "timestamp": "2010-11-19T08:18:47Z",
+      "user": "Ulric1313",
+      "userid": 7801357,
+      "size": 2848,
+      "comment": "dab",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 399973494,
+      "parentid": 397641500,
+      "timestamp": "2010-12-01T19:19:56Z",
+      "user": "JMyrleFuller",
+      "userid": 2068487,
+      "size": 2918,
+      "comment": "/* 2010 Run for Congress */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 436893544,
+      "parentid": 399973494,
+      "timestamp": "2011-06-29T18:10:46Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 2922,
+      "comment": "Robot - Moving category California city councillors to [[:Category:California city council members]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2011 June 21]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 443214811,
+      "parentid": 436893544,
+      "timestamp": "2011-08-05T17:45:46Z",
+      "user": "Joe Decker",
+      "userid": 204282,
+      "size": 3158,
+      "comment": "+ref, +refl, upd maint tags",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 450749503,
+      "parentid": 443214811,
+      "timestamp": "2011-09-16T03:43:21Z",
+      "user": "Schetm",
+      "userid": 8757051,
+      "size": 3207,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 495065944,
+      "parentid": 450749503,
+      "timestamp": "2012-05-30T03:25:15Z",
+      "user": "72.211.248.50",
+      "userid": 0,
+      "size": 3281,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 495080006,
+      "parentid": 495065944,
+      "timestamp": "2012-05-30T05:48:21Z",
+      "user": "Saltine",
+      "userid": 17447,
+      "size": 3207,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/72.211.248.50|72.211.248.50]] ([[User talk:72.211.248.50|talk]]) to last version by Buffalutheran",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 504220417,
+      "parentid": 495080006,
+      "timestamp": "2012-07-26T04:43:06Z",
+      "user": "72.211.248.50",
+      "userid": 0,
+      "size": 3510,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 504220984,
+      "parentid": 504220417,
+      "timestamp": "2012-07-26T04:47:52Z",
+      "user": "SarekOfVulcan",
+      "userid": 55983,
+      "size": 3207,
+      "comment": "Reverted edits by [[Special:Contributions/72.211.248.50|72.211.248.50]] ([[User talk:72.211.248.50|talk]]) to last revision by Evil saltine ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 543764558,
+      "parentid": 504220984,
+      "timestamp": "2013-03-13T04:26:59Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3229,
+      "comment": "Robot - Moving category American women mayors to [[:Category:Women mayors of places in the United States]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2013 February 7]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 556073862,
+      "parentid": 543764558,
+      "timestamp": "2013-05-21T08:41:14Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3272,
+      "comment": "add persondata short description using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 567052767,
+      "parentid": 556073862,
+      "timestamp": "2013-08-04T00:42:46Z",
+      "user": "Ajw522",
+      "userid": 5713202,
+      "size": 4020,
+      "comment": "added infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 567084373,
+      "parentid": 567052767,
+      "timestamp": "2013-08-04T07:37:38Z",
+      "user": "Ajw522",
+      "userid": 5713202,
+      "size": 4038,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 583415670,
+      "parentid": 567084373,
+      "timestamp": "2013-11-26T18:15:34Z",
+      "user": "Davidjarka",
+      "userid": 20129318,
+      "size": 4040,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 615351308,
+      "parentid": 583415670,
+      "timestamp": "2014-07-02T21:52:48Z",
+      "user": "70.187.191.159",
+      "userid": 0,
+      "size": 4290,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 623363734,
+      "parentid": 615351308,
+      "timestamp": "2014-08-29T21:17:17Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 4333,
+      "comment": "added [[Category:People from Kenmore, New York]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 679267058,
+      "parentid": 623363734,
+      "timestamp": "2015-09-03T14:20:38Z",
+      "user": "Wbm1058",
+      "userid": 14383484,
+      "size": 4333,
+      "comment": "/* 2010 Run for Congress */disambiguate, replaced: [[democratic]] process → [[democratic process]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 692546504,
+      "parentid": 679267058,
+      "timestamp": "2015-11-26T13:41:56Z",
+      "user": "99.225.225.82",
+      "userid": 0,
+      "size": 4387,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 692546601,
+      "parentid": 692546504,
+      "timestamp": "2015-11-26T13:42:56Z",
+      "user": "99.225.225.82",
+      "userid": 0,
+      "size": 4396,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716291141,
+      "parentid": 692546601,
+      "timestamp": "2016-04-20T22:40:23Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 4147,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Beth Krom|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733681135,
+      "parentid": 716291141,
+      "timestamp": "2016-08-09T12:27:46Z",
+      "user": "Iridescent",
+      "userid": 937705,
+      "size": 4147,
+      "comment": "/* Politics */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: second place → second-place using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 737151718,
+      "parentid": 733681135,
+      "timestamp": "2016-09-01T01:51:03Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 4164,
+      "comment": "/* top */Per consensus in discussion at [[Talk:New York#Proposed action to resolve incorrect incoming links]]., replaced: Buffalo]], [[New York]] → Buffalo]], [[New York (state)|New York]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 752681496,
+      "parentid": 737151718,
+      "timestamp": "2016-12-02T17:56:00Z",
+      "user": "98.189.47.58",
+      "userid": 0,
+      "size": 4562,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 752685653,
+      "parentid": 752681496,
+      "timestamp": "2016-12-02T18:27:47Z",
+      "user": "98.189.47.58",
+      "userid": 0,
+      "size": 4597,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759959919,
+      "parentid": 752685653,
+      "timestamp": "2017-01-14T03:13:06Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 4570,
+      "comment": "Remove from parent cat. using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 792730299,
+      "parentid": 759959919,
+      "timestamp": "2017-07-28T08:40:17Z",
+      "user": "67.44.192.147",
+      "userid": 0,
+      "size": 4563,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 792730336,
+      "parentid": 792730299,
+      "timestamp": "2017-07-28T08:40:46Z",
+      "user": "67.44.192.147",
+      "userid": 0,
+      "size": 4570,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 797061505,
+      "parentid": 792730336,
+      "timestamp": "2017-08-24T18:41:14Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 4571,
+      "comment": "Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 804708028,
+      "parentid": 797061505,
+      "timestamp": "2017-10-10T17:14:26Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 4576,
+      "comment": "removed [[Category:People from Buffalo, New York]]; added [[Category:Politicians from Buffalo, New York]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818343000,
+      "parentid": 804708028,
+      "timestamp": "2018-01-03T00:36:01Z",
+      "user": "Harris-san",
+      "userid": 31245585,
+      "size": 4599,
+      "comment": "Updated it.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 819473314,
+      "parentid": 818343000,
+      "timestamp": "2018-01-09T15:40:19Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 4621,
+      "comment": "Robot - Moving category Jewish American mayors to [[:Category:Jewish mayors of places in the United States]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 November 28]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 823201284,
+      "parentid": 819473314,
+      "timestamp": "2018-01-30T21:20:51Z",
+      "user": "RayneVanDunem",
+      "userid": 12934447,
+      "size": 4614,
+      "comment": "removed [[Category:Women mayors of places in the United States]]; added [[Category:Women mayors of places in California]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846768501,
+      "parentid": 823201284,
+      "timestamp": "2018-06-20T19:37:32Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4572,
+      "comment": "Removing from [[Category:Women in California politics]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 911223367,
+      "parentid": 846768501,
+      "timestamp": "2019-08-17T11:44:04Z",
+      "user": "121.219.10.145",
+      "userid": 0,
+      "size": 4581,
+      "comment": "Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 911223695,
+      "parentid": 911223367,
+      "timestamp": "2019-08-17T11:48:43Z",
+      "user": "121.219.10.145",
+      "userid": 0,
+      "size": 4605,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 913553282,
+      "parentid": 911223695,
+      "timestamp": "2019-09-01T19:51:08Z",
+      "user": "69.75.224.107",
+      "userid": 0,
+      "size": 4607,
+      "comment": "Corrcted name, dates of election/ service in public office, birthdate, school names",
+      "minor": false,
+      "tags": [
+        "possible birth date change"
+      ]
+    },
+    {
+      "revid": 915345626,
+      "parentid": 913553282,
+      "timestamp": "2019-09-12T17:57:20Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 4628,
+      "comment": "removed [[Category:University of Texas at Austin alumni]]; added [[Category:University of Texas at Austin College of Education alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 919492246,
+      "parentid": 915345626,
+      "timestamp": "2019-10-04T01:00:40Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 4694,
+      "comment": "/* Politics */ added links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 959761034,
+      "parentid": 919492246,
+      "timestamp": "2020-05-30T13:32:59Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 4753,
+      "comment": "added [[Category:Jewish American people in California politics]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982322153,
+      "parentid": 959761034,
+      "timestamp": "2020-10-07T12:54:09Z",
+      "user": "Nashona",
+      "userid": 17965241,
+      "size": 4992,
+      "comment": "added image",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 982388713,
+      "parentid": 982322153,
+      "timestamp": "2020-10-07T20:41:45Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5049,
+      "comment": "Copying from [[Category:California city council members]] to [[Category:Women city councillors in the United States]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 984314222,
+      "parentid": 982388713,
+      "timestamp": "2020-10-19T13:07:38Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 5042,
+      "comment": "removed [[Category:Women city councillors in the United States]]; added [[Category:Women city councillors in California]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984328975,
+      "parentid": 984314222,
+      "timestamp": "2020-10-19T15:03:38Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5031,
+      "comment": "/* 2010 Run for Congress */ copyedits, tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984329017,
+      "parentid": 984328975,
+      "timestamp": "2020-10-19T15:03:58Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5026,
+      "comment": "/* 2016 Temporary Mayor of Irvine */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 984332030,
+      "parentid": 984329017,
+      "timestamp": "2020-10-19T15:24:01Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 5044,
+      "comment": "Dating maintenance tags: {{Unsourced section}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1006032849,
+      "parentid": 984332030,
+      "timestamp": "2021-02-10T17:50:31Z",
+      "user": "Indyguy",
+      "userid": 445772,
+      "size": 4927,
+      "comment": "removed [[Category:Jewish mayors of places in the United States]] using [[WP:HC|HotCat]] The article does not say she is Jewish",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1056330742,
+      "parentid": 1006032849,
+      "timestamp": "2021-11-21T04:38:02Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4979,
+      "comment": "add category [[Category:21st-century American women]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1159062329,
+      "parentid": 1056330742,
+      "timestamp": "2023-06-08T00:30:13Z",
+      "user": "47.36.43.106",
+      "userid": 0,
+      "size": 4992,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1229328988,
+      "parentid": 1159062329,
+      "timestamp": "2024-06-16T06:08:20Z",
+      "user": "Beland",
+      "userid": 57939,
+      "size": 4959,
+      "comment": "[[WP:INFONAT]] cleanup (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1258318922,
+      "parentid": 1229328988,
+      "timestamp": "2024-11-19T02:00:36Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 4970,
+      "comment": "/* Politics */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258319521,
+      "parentid": 1258318922,
+      "timestamp": "2024-11-19T02:04:28Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 4951,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260399328,
+      "parentid": 1258319521,
+      "timestamp": "2024-11-30T15:22:01Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 4988,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American mayor\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1260399393,
+      "parentid": 1260399328,
+      "timestamp": "2024-11-30T15:22:24Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 5057,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Beth_Krom"
+}

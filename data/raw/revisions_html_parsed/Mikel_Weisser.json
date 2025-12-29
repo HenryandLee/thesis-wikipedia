@@ -1,0 +1,58 @@
+{
+  "page_title": "Mikel_Weisser",
+  "candidate_name": "Mikel Weisser",
+  "collection_date": "2025-12-28T16:49:53.623428",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2016-06-28T15:00:01Z",
+      "end": "2023-03-09T12:12:49Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 727370822,
+      "parentid": 0,
+      "timestamp": "2016-06-28T15:00:01Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 68,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections, 2016]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 870602054,
+      "parentid": 727370822,
+      "timestamp": "2018-11-25T22:08:27Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 67,
+      "comment": "Bot: Fixing double redirect to [[2016 United States House of Representatives elections]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1143709743,
+      "parentid": 870602054,
+      "timestamp": "2023-03-09T12:12:49Z",
+      "user": "Sam11333",
+      "userid": 11121466,
+      "size": 89,
+      "comment": "[[WP:AES|←]]Changed redirect target from [[2016 United States House of Representatives elections]] to [[2016 United States House of Representatives elections in Arizona#District 4]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mikel_Weisser"
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Steven_Hedrick",
+  "candidate_name": "Steven Hedrick",
+  "collection_date": "2025-12-28T16:55:09.727488",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-05-25T11:16:05Z",
+      "end": "2018-12-08T21:06:56Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 610058595,
+      "parentid": 0,
+      "timestamp": "2014-05-25T11:16:05Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Missouri, 2010#District 3]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872732768,
+      "parentid": 610058595,
+      "timestamp": "2018-12-08T21:06:56Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Missouri]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Hedrick"
+}

@@ -1,0 +1,179 @@
+{
+  "page_title": "John_E._James",
+  "candidate_name": "John James",
+  "collection_date": "2025-12-28T16:43:31.474556",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 12,
+    "unique_editors": 8,
+    "date_range": {
+      "start": "2018-08-09T14:24:11Z",
+      "end": "2024-12-05T17:27:48Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 854182766,
+      "parentid": 0,
+      "timestamp": "2018-08-09T14:24:11Z",
+      "user": "Jimfbleak",
+      "userid": 7872,
+      "size": 61,
+      "comment": "#REDIRECT [[United States Senate election in Michigan, 2018]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 866269855,
+      "parentid": 854182766,
+      "timestamp": "2018-10-29T10:10:35Z",
+      "user": "PRehse",
+      "userid": 410898,
+      "size": 48,
+      "comment": "[[WP:AES|←]]Changed redirect target from [[United States Senate election in Michigan, 2018]] to [[John James (U.S. Senate candidate)]]",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 900610625,
+      "parentid": 866269855,
+      "timestamp": "2019-06-06T17:00:55Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 46,
+      "comment": "Bot: Fixing double redirect to [[John James (American politician)]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 908463308,
+      "parentid": 900610625,
+      "timestamp": "2019-07-29T21:48:35Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 27,
+      "comment": "Bot: Fixing double redirect to [[John E. James]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 996358743,
+      "parentid": 908463308,
+      "timestamp": "2020-12-26T03:24:39Z",
+      "user": "Politicsfan4",
+      "userid": 40629262,
+      "size": 0,
+      "comment": "[[WP:AES|←]]Blanked the page",
+      "minor": false,
+      "tags": [
+        "mw-blank",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 996358832,
+      "parentid": 996358743,
+      "timestamp": "2020-12-26T03:25:12Z",
+      "user": "Politicsfan4",
+      "userid": 40629262,
+      "size": 27,
+      "comment": "Undid revision 996358743 by [[Special:Contributions/Politicsfan4|Politicsfan4]] ([[User talk:Politicsfan4|talk]]) whoops",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1123303805,
+      "parentid": 996358832,
+      "timestamp": "2022-11-23T00:55:25Z",
+      "user": "TofuMuncher",
+      "userid": 40048065,
+      "size": 0,
+      "comment": "{{Db-move|page to be moved|more reliable sources refer to him as \"John James\" than \"John E. James\"}}",
+      "minor": false,
+      "tags": [
+        "mw-blank",
+        "visualeditor-switched",
+        "mw-manual-revert",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1123303985,
+      "parentid": 1123303805,
+      "timestamp": "2022-11-23T00:57:23Z",
+      "user": "TofuMuncher",
+      "userid": 40048065,
+      "size": 27,
+      "comment": "[[WP:AES|←]]Redirected page to [[John E. James]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1124891267,
+      "parentid": 1123303985,
+      "timestamp": "2022-12-01T01:57:36Z",
+      "user": "Robertsky",
+      "userid": 1990013,
+      "size": 27,
+      "comment": "Robertsky moved page [[John James (Michigan politician)]] to [[Draft:Move/John E. James]] without leaving a redirect: [[WP:PMRC#4|Round-robin history swap]] step 1 using [[:en:User:Ahecht/Scripts/pageswap|pageswap]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1124891273,
+      "parentid": 1124891267,
+      "timestamp": "2022-12-01T01:57:37Z",
+      "user": "Robertsky",
+      "userid": 1990013,
+      "size": 27,
+      "comment": "Robertsky moved page [[Draft:Move/John E. James]] to [[John E. James]] without leaving a redirect: [[WP:PMRC#4|Round-robin history swap]] step 3 using [[:en:User:Ahecht/Scripts/pageswap|pageswap]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1124891277,
+      "parentid": 1124891273,
+      "timestamp": "2022-12-01T01:57:39Z",
+      "user": "Robertsky",
+      "userid": 1990013,
+      "size": 46,
+      "comment": "Retarget redirect to [[John James (Michigan politician)]] using [[:en:User:Ahecht/Scripts/pageswap|pageswap]]",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1261355958,
+      "parentid": 1124891277,
+      "timestamp": "2024-12-05T17:27:48Z",
+      "user": "Sahaib",
+      "userid": 40192293,
+      "size": 98,
+      "comment": "Modifying [[WP:RCAT|redirect categories]] using [[User:Wugapodes/Capricorn|Capricorn ♑]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_E._James"
+}

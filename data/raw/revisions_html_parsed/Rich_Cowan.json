@@ -1,0 +1,733 @@
+{
+  "page_title": "Rich_Cowan",
+  "candidate_name": "Rich Cowan",
+  "collection_date": "2025-12-28T16:52:11.236829",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 63,
+    "unique_editors": 23,
+    "date_range": {
+      "start": "2012-06-21T19:36:49Z",
+      "end": "2024-06-08T23:00:01Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 498714276,
+      "parentid": 0,
+      "timestamp": "2012-06-21T19:36:49Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6089,
+      "comment": "[[WP:AES|←]]Created page with '{{Userspace draft|source=ArticleWizard|date={{Subst:CURRENTMONTHNAME}} {{Subst:CURRENTYEAR}}}} <!-- Please leave this line alone! --> {{Infobox person | name    ...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 498860146,
+      "parentid": 498714276,
+      "timestamp": "2012-06-22T17:26:43Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6226,
+      "comment": "Update TV career",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 498861363,
+      "parentid": 498860146,
+      "timestamp": "2012-06-22T17:35:34Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6251,
+      "comment": "Update NxNW",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 498861736,
+      "parentid": 498861363,
+      "timestamp": "2012-06-22T17:38:23Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6247,
+      "comment": "Remove typos",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 498861953,
+      "parentid": 498861736,
+      "timestamp": "2012-06-22T17:39:59Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6297,
+      "comment": "add IMDb profile link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 498862802,
+      "parentid": 498861953,
+      "timestamp": "2012-06-22T17:46:42Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6301,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 498863639,
+      "parentid": 498862802,
+      "timestamp": "2012-06-22T17:53:03Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6335,
+      "comment": "Fixed Camilla Dickinson link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 498868424,
+      "parentid": 498863639,
+      "timestamp": "2012-06-22T18:26:05Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6392,
+      "comment": "family info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 498868747,
+      "parentid": 498868424,
+      "timestamp": "2012-06-22T18:28:05Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6382,
+      "comment": "Reformatting",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 498870338,
+      "parentid": 498868747,
+      "timestamp": "2012-06-22T18:38:26Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6239,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 498872871,
+      "parentid": 498870338,
+      "timestamp": "2012-06-22T18:56:28Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6263,
+      "comment": "Fixed details",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499303255,
+      "parentid": 498872871,
+      "timestamp": "2012-06-25T16:12:51Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6263,
+      "comment": "Sfhoffmann moved page [[User:Sfhoffmann/Rich Cowan]] to [[Sfhoffmann/Rich Cowan]]: Draft for publication",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499303503,
+      "parentid": 499303255,
+      "timestamp": "2012-06-25T16:14:33Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6263,
+      "comment": "Sfhoffmann moved page [[Sfhoffmann/Rich Cowan]] to [[Rich Cowan]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499311211,
+      "parentid": 499303503,
+      "timestamp": "2012-06-25T17:12:50Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 6209,
+      "comment": "Added photograph",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499681667,
+      "parentid": 499311211,
+      "timestamp": "2012-06-28T00:25:49Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 6194,
+      "comment": "Removing links to deleted file [[:File:Rich Cowan.jpg]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499979323,
+      "parentid": 499681667,
+      "timestamp": "2012-06-29T23:30:56Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 6519,
+      "comment": "categorization/tagging using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 501611374,
+      "parentid": 499979323,
+      "timestamp": "2012-07-10T19:54:15Z",
+      "user": "Felix Folio Secundus",
+      "userid": 6547367,
+      "size": 6544,
+      "comment": "/* External links */ defsort",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 502308298,
+      "parentid": 501611374,
+      "timestamp": "2012-07-14T22:48:10Z",
+      "user": "Bgwhite",
+      "userid": 264323,
+      "size": 6369,
+      "comment": "Cannot use IMDb as a ref, but can be in external links.  Cannot use a primary, non-independent source for claims about 3rd parties. using [[Project:AWB|AWB]] (8097)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 504037455,
+      "parentid": 502308298,
+      "timestamp": "2012-07-25T00:45:59Z",
+      "user": "Dthomsen8",
+      "userid": 6277327,
+      "size": 6581,
+      "comment": "/* Political career */ Since [[United States House election, 2004|2005]], the 5th District has been represented in the [[U.S. House of Representatives]] by [[Cathy McMorris Rodgers]], a [[Republican Party (United States)|Republican]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 504161475,
+      "parentid": 504037455,
+      "timestamp": "2012-07-25T20:05:10Z",
+      "user": "Robotunicr0n",
+      "userid": 16909686,
+      "size": 6598,
+      "comment": "Added {{[[Template:cleanup|cleanup]]}} tag to article ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 504162205,
+      "parentid": 504161475,
+      "timestamp": "2012-07-25T20:10:19Z",
+      "user": "Robotunicr0n",
+      "userid": 16909686,
+      "size": 6629,
+      "comment": "Added {{[[Template:ref improve|ref improve]]}} tag to article ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 505143364,
+      "parentid": 504162205,
+      "timestamp": "2012-07-31T19:08:24Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 9776,
+      "comment": "Added filmography table, removed clean-up tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 505143465,
+      "parentid": 505143364,
+      "timestamp": "2012-07-31T19:09:14Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 9777,
+      "comment": "Fixed Falling Up link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 505144060,
+      "parentid": 505143465,
+      "timestamp": "2012-07-31T19:14:01Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 9880,
+      "comment": "Added IMDb Reference",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 505385951,
+      "parentid": 505144060,
+      "timestamp": "2012-08-02T07:02:24Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 9905,
+      "comment": "Added photograph",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 505386885,
+      "parentid": 505385951,
+      "timestamp": "2012-08-02T07:13:56Z",
+      "user": "Sfhoffmann",
+      "userid": 17030070,
+      "size": 9802,
+      "comment": "Removed IMDb reference",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 515939153,
+      "parentid": 505386885,
+      "timestamp": "2012-10-04T10:42:35Z",
+      "user": "Nicholas0",
+      "userid": 1584593,
+      "size": 9794,
+      "comment": "/* Filmography */ Joey Travolta was the director, not Rich Cowan.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 515939363,
+      "parentid": 515939153,
+      "timestamp": "2012-10-04T10:44:09Z",
+      "user": "Nicholas0",
+      "userid": 1584593,
+      "size": 9786,
+      "comment": "/* Filmography */ Rich Cowan was not the director of this film either.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523161567,
+      "parentid": 515939363,
+      "timestamp": "2012-11-15T14:59:04Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 9831,
+      "comment": "added [[Category:People from Spokane, Washington]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523161613,
+      "parentid": 523161567,
+      "timestamp": "2012-11-15T14:59:23Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 9868,
+      "comment": "added [[Category:American film directors]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523161655,
+      "parentid": 523161613,
+      "timestamp": "2012-11-15T14:59:41Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 9905,
+      "comment": "added [[Category:American film producers]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523161701,
+      "parentid": 523161655,
+      "timestamp": "2012-11-15T14:59:58Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 9941,
+      "comment": "added [[Category:American screenwriters]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523161795,
+      "parentid": 523161701,
+      "timestamp": "2012-11-15T15:00:29Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 9989,
+      "comment": "added [[Category:Washington State University alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523161892,
+      "parentid": 523161795,
+      "timestamp": "2012-11-15T15:01:02Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 10023,
+      "comment": "added [[Category:American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523162132,
+      "parentid": 523161892,
+      "timestamp": "2012-11-15T15:02:32Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 10081,
+      "comment": "added [[Category:Democratic Party (United States) politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523162180,
+      "parentid": 523162132,
+      "timestamp": "2012-11-15T15:02:45Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 10047,
+      "comment": "removed [[Category:American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523163846,
+      "parentid": 523162180,
+      "timestamp": "2012-11-15T15:14:55Z",
+      "user": "Jennes83",
+      "userid": 17186679,
+      "size": 10008,
+      "comment": "Removed 'more categories' tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 577107122,
+      "parentid": 523163846,
+      "timestamp": "2013-10-14T08:55:49Z",
+      "user": "Tony1",
+      "userid": 332841,
+      "size": 9875,
+      "comment": "[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 591379423,
+      "parentid": 577107122,
+      "timestamp": "2014-01-19T06:46:26Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 9859,
+      "comment": "removed [[Category:Democratic Party (United States) politicians]]; added [[Category:Washington (state) Democrats]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 601768208,
+      "parentid": 591379423,
+      "timestamp": "2014-03-29T06:51:51Z",
+      "user": "Bor75",
+      "userid": 11857645,
+      "size": 9863,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 601768284,
+      "parentid": 601768208,
+      "timestamp": "2014-03-29T06:53:06Z",
+      "user": "Bor75",
+      "userid": 11857645,
+      "size": 9852,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 608619802,
+      "parentid": 601768284,
+      "timestamp": "2014-05-15T00:15:42Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 9878,
+      "comment": "[[:en:WP:CLEANER|WPCleaner]] v1.32 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[The Big Empty]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 613511301,
+      "parentid": 608619802,
+      "timestamp": "2014-06-19T02:56:08Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 9853,
+      "comment": "Removing links to deleted file [[:File:Rich Cowan head shot.jpg]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632803890,
+      "parentid": 613511301,
+      "timestamp": "2014-11-07T08:23:48Z",
+      "user": "67.185.248.146",
+      "userid": 0,
+      "size": 11270,
+      "comment": "/* Political career */ Updated information.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632804241,
+      "parentid": 632803890,
+      "timestamp": "2014-11-07T08:29:17Z",
+      "user": "67.185.248.146",
+      "userid": 0,
+      "size": 11271,
+      "comment": "Past tense added.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 659072786,
+      "parentid": 632804241,
+      "timestamp": "2015-04-25T01:12:09Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 11211,
+      "comment": "recat using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721870098,
+      "parentid": 659072786,
+      "timestamp": "2016-05-24T15:08:54Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 10925,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Rich Cowan|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727968957,
+      "parentid": 721870098,
+      "timestamp": "2016-07-02T08:03:46Z",
+      "user": "Delilah Grams",
+      "userid": 22299868,
+      "size": 10929,
+      "comment": "/* Early life and education */ Italicized words per Wiki rules on Latin honors",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 734010207,
+      "parentid": 727968957,
+      "timestamp": "2016-08-11T15:07:57Z",
+      "user": "Narky Blert",
+      "userid": 22041646,
+      "size": 10947,
+      "comment": "/* Television career */ Link to DAB page repaired",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 776693227,
+      "parentid": 734010207,
+      "timestamp": "2017-04-22T17:36:44Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 10952,
+      "comment": "removed [[Category:People from Spokane, Washington]]; added [[Category:Politicians from Spokane, Washington]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 857967441,
+      "parentid": 776693227,
+      "timestamp": "2018-09-04T05:27:27Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 10975,
+      "comment": "/* External links */add authority control, test",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 863502329,
+      "parentid": 857967441,
+      "timestamp": "2018-10-11T05:26:31Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 11027,
+      "comment": "/* External links */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 863502397,
+      "parentid": 863502329,
+      "timestamp": "2018-10-11T05:27:19Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 10990,
+      "comment": "Removing from [[Category:American film directors]] (parent category) using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 866162195,
+      "parentid": 863502397,
+      "timestamp": "2018-10-28T17:52:48Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 11041,
+      "comment": "/* External links */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 866926110,
+      "parentid": 866162195,
+      "timestamp": "2018-11-02T13:31:22Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 11093,
+      "comment": "/* External links */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 866926339,
+      "parentid": 866926110,
+      "timestamp": "2018-11-02T13:33:26Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 11056,
+      "comment": "Removing from [[Category:American film producers]] (parent category) using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 878226838,
+      "parentid": 866926339,
+      "timestamp": "2019-01-13T20:19:44Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 11003,
+      "comment": "Robot - Removing category Articles created via the Article Wizard per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2019 January 6]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1045087906,
+      "parentid": 878226838,
+      "timestamp": "2021-09-18T18:39:47Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 11046,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1065304446,
+      "parentid": 1045087906,
+      "timestamp": "2022-01-12T21:32:59Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 11046,
+      "comment": "/* Political career */ [[MOS:JOBTITLES]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1075318235,
+      "parentid": 1065304446,
+      "timestamp": "2022-03-05T03:07:44Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 11092,
+      "comment": "/* top */add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1086487182,
+      "parentid": 1075318235,
+      "timestamp": "2022-05-06T12:54:26Z",
+      "user": "The Film Creator",
+      "userid": 41779355,
+      "size": 11114,
+      "comment": "/* Filmography */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1154031336,
+      "parentid": 1086487182,
+      "timestamp": "2023-05-09T20:30:33Z",
+      "user": "Rodw",
+      "userid": 125972,
+      "size": 11124,
+      "comment": "Disambiguating links to [[Norman]] (link changed to [[Norman (2010 film)]]; link changed to [[Norman (2010 film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1227998594,
+      "parentid": 1154031336,
+      "timestamp": "2024-06-08T23:00:01Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 11142,
+      "comment": "v2.05 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[The Cutter]]",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rich_Cowan"
+}

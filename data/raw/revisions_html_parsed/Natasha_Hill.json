@@ -1,0 +1,453 @@
+{
+  "page_title": "Natasha_Hill",
+  "candidate_name": "Natasha Hill",
+  "collection_date": "2025-12-28T16:50:31.227134",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 34,
+    "unique_editors": 13,
+    "date_range": {
+      "start": "2024-11-21T01:54:52Z",
+      "end": "2024-12-19T01:24:19Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1258691110,
+      "parentid": 0,
+      "timestamp": "2024-11-21T01:54:52Z",
+      "user": "GovernanceGeek",
+      "userid": 48774483,
+      "size": 6060,
+      "comment": "-- Draft creation using the [[WP:Article wizard]] --",
+      "minor": false,
+      "tags": [
+        "Possible self promotion in user or draftspace",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258691155,
+      "parentid": 1258691110,
+      "timestamp": "2024-11-21T01:55:15Z",
+      "user": "Qwerfjkl (bot)",
+      "userid": 42522270,
+      "size": 6086,
+      "comment": "[[WP:BOT|Bot]]: Adding AfC template ([[Wikipedia:Bots/Requests for approval/Qwerfjkl (bot) 15|Task 15]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1258691227,
+      "parentid": 1258691155,
+      "timestamp": "2024-11-21T01:55:48Z",
+      "user": "GovernanceGeek",
+      "userid": 48774483,
+      "size": 6232,
+      "comment": "Submitting using [[WP:AFCSW|AfC-submit-wizard]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1258697293,
+      "parentid": 1258691227,
+      "timestamp": "2024-11-21T02:49:07Z",
+      "user": "Grahaml35",
+      "userid": 24142250,
+      "size": 6230,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258697331,
+      "parentid": 1258697293,
+      "timestamp": "2024-11-21T02:49:33Z",
+      "user": "Grahaml35",
+      "userid": 24142250,
+      "size": 6230,
+      "comment": "Grahaml35 moved page [[Draft:Natasha Hill]] to [[Natasha Hill]]: Publishing accepted [[Wikipedia:Articles for creation|Articles for creation]] submission ([[WP:AFCH|AFCH]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1258697343,
+      "parentid": 1258697331,
+      "timestamp": "2024-11-21T02:49:36Z",
+      "user": "Grahaml35",
+      "userid": 24142250,
+      "size": 6168,
+      "comment": "Cleaning up accepted [[Wikipedia:Articles for creation|Articles for creation]] submission ([[WP:AFCH|AFCH]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1258698989,
+      "parentid": 1258697343,
+      "timestamp": "2024-11-21T03:01:56Z",
+      "user": "CFA",
+      "userid": 41294494,
+      "size": 6198,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (weasel)",
+      "minor": false,
+      "tags": [
+        "pagetriage"
+      ]
+    },
+    {
+      "revid": 1258774301,
+      "parentid": 1258698989,
+      "timestamp": "2024-11-21T15:29:33Z",
+      "user": "Heart of Destruction",
+      "userid": 28950091,
+      "size": 6120,
+      "comment": "The \"Living people\"-category and the \"Year of birth missing (living people)\"-category were each listed twice. I removed one of each of them as they were redundant.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1258803540,
+      "parentid": 1258774301,
+      "timestamp": "2024-11-21T18:38:26Z",
+      "user": "Vincelord",
+      "userid": 14054348,
+      "size": 6090,
+      "comment": "listed twice",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259084682,
+      "parentid": 1258803540,
+      "timestamp": "2024-11-23T07:41:03Z",
+      "user": "BunnypranavClone",
+      "userid": 48668853,
+      "size": 6059,
+      "comment": "AWB cleanup, removed orphan tag",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1259397790,
+      "parentid": 1259084682,
+      "timestamp": "2024-11-24T22:56:14Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 7069,
+      "comment": "/* Early life and education */ fixed early life and education section. added additional facts and secondary sources. removed unreliable sources.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259397881,
+      "parentid": 1259397790,
+      "timestamp": "2024-11-24T22:56:51Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 7073,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259398307,
+      "parentid": 1259397881,
+      "timestamp": "2024-11-24T22:59:59Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 7197,
+      "comment": "added education to info box",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259398563,
+      "parentid": 1259398307,
+      "timestamp": "2024-11-24T23:01:53Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 6996,
+      "comment": "removed Ballotpedia as source, not reliable.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259398997,
+      "parentid": 1259398563,
+      "timestamp": "2024-11-24T23:05:06Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 6978,
+      "comment": "/* Career */ removed undefined reference",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259399039,
+      "parentid": 1259398997,
+      "timestamp": "2024-11-24T23:05:31Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 6960,
+      "comment": "/* Healthcare and public health */ removed undefined reference",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259399137,
+      "parentid": 1259399039,
+      "timestamp": "2024-11-24T23:06:12Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 6936,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259399247,
+      "parentid": 1259399137,
+      "timestamp": "2024-11-24T23:06:55Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 6956,
+      "comment": "expanded use of reference",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259402854,
+      "parentid": 1259399247,
+      "timestamp": "2024-11-24T23:33:49Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 7879,
+      "comment": "edited career section for better flow and greater use of secondary sources.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259403321,
+      "parentid": 1259402854,
+      "timestamp": "2024-11-24T23:37:20Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 8211,
+      "comment": "/* Career */ used additional source, expanded facts on activism.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259404359,
+      "parentid": 1259403321,
+      "timestamp": "2024-11-24T23:46:02Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 8794,
+      "comment": "/* 2022 congressional campaign */ updated 2022 campaign section",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259404602,
+      "parentid": 1259404359,
+      "timestamp": "2024-11-24T23:48:18Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 8774,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259428903,
+      "parentid": 1259404602,
+      "timestamp": "2024-11-25T02:52:27Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 11529,
+      "comment": "/* Political career */ expanded 2024 election",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259428978,
+      "parentid": 1259428903,
+      "timestamp": "2024-11-25T02:53:21Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 10103,
+      "comment": "/* Political positions */ deleted political position. main point of weasel warning and addressed in previous section",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259429076,
+      "parentid": 1259428978,
+      "timestamp": "2024-11-25T02:54:18Z",
+      "user": "Bpuddin",
+      "userid": 48140018,
+      "size": 10109,
+      "comment": "removed weasel warning",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259550642,
+      "parentid": 1259429076,
+      "timestamp": "2024-11-25T19:52:00Z",
+      "user": "Peaceray",
+      "userid": 11630810,
+      "size": 10109,
+      "comment": "/* References */ Put categories in alphanumeric order",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259551211,
+      "parentid": 1259550642,
+      "timestamp": "2024-11-25T19:55:32Z",
+      "user": "Peaceray",
+      "userid": 11630810,
+      "size": 10135,
+      "comment": "/* References */ [[Category:1980s births]] as per https://www.spokesman.com/elections/2024/washington-primary-election-aug-6/candidates/natasha-hill/ 2024-42=Likely 1982 or possibly 1981",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259815726,
+      "parentid": 1259551211,
+      "timestamp": "2024-11-27T05:49:06Z",
+      "user": "GünniX",
+      "userid": 237572,
+      "size": 10135,
+      "comment": "v2.05 - Fix errors for [[WP:WCW|CW project]] (Unbalanced quotes in ref name or illegal character.)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1260260678,
+      "parentid": 1259815726,
+      "timestamp": "2024-11-29T19:55:08Z",
+      "user": "CSP3945",
+      "userid": 42096230,
+      "size": 10661,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260260858,
+      "parentid": 1260260678,
+      "timestamp": "2024-11-29T19:56:28Z",
+      "user": "CSP3945",
+      "userid": 42096230,
+      "size": 10664,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260261450,
+      "parentid": 1260260858,
+      "timestamp": "2024-11-29T20:01:08Z",
+      "user": "CSP3945",
+      "userid": 42096230,
+      "size": 10692,
+      "comment": "Added portrait",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260852013,
+      "parentid": 1260261450,
+      "timestamp": "2024-12-02T23:14:18Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 10715,
+      "comment": "removed [[Category:21st-century American politicians]]; added [[Category:21st-century members of the Washington State Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261391293,
+      "parentid": 1260852013,
+      "timestamp": "2024-12-05T21:26:20Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 10766,
+      "comment": "added [[:Category:21st-century American women politicians]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1263855876,
+      "parentid": 1261391293,
+      "timestamp": "2024-12-19T01:24:19Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 10766,
+      "comment": "/* 2024 election */  Per source.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Natasha_Hill"
+}

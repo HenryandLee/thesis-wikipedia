@@ -1,0 +1,57 @@
+{
+  "page_title": "Timothy_F._Murphy",
+  "candidate_name": "Timothy F. Murphy",
+  "collection_date": "2025-12-28T16:56:18.749191",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2017-10-13T15:23:27Z",
+      "end": "2022-09-22T17:26:06Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 805173384,
+      "parentid": 0,
+      "timestamp": "2017-10-13T15:23:27Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 63,
+      "comment": "BD2412 moved page [[Timothy F. Murphy]] to [[Tim Murphy (American politician)]]: Per consensus in [[WP:RM]] discussion.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1111644188,
+      "parentid": 805173384,
+      "timestamp": "2022-09-22T03:21:36Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 104,
+      "comment": "/* top */Redirect template.",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1111742257,
+      "parentid": 1111644188,
+      "timestamp": "2022-09-22T17:26:06Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 106,
+      "comment": "Fixing style/layout errors",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Timothy_F._Murphy"
+}

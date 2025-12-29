@@ -1,0 +1,44 @@
+{
+  "page_title": "Bill_Slantz",
+  "candidate_name": "Bill Slantz",
+  "collection_date": "2025-12-28T16:33:41.063153",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2013-05-17T23:43:58Z",
+      "end": "2018-11-29T18:41:24Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 555583903,
+      "parentid": 0,
+      "timestamp": "2013-05-17T23:43:58Z",
+      "user": "PrairieKid",
+      "userid": 17802412,
+      "size": 74,
+      "comment": "[[WP:AES|←]]Redirected page to [[Missouri's 8th congressional district special election, 2013]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 871224920,
+      "parentid": 555583903,
+      "timestamp": "2018-11-29T18:41:24Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 73,
+      "comment": "Bot: Fixing double redirect to [[2013 Missouri's 8th congressional district special election]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Slantz"
+}

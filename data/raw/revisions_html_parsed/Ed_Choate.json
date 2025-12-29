@@ -1,0 +1,55 @@
+{
+  "page_title": "Ed_Choate",
+  "candidate_name": "Ed Choate",
+  "collection_date": "2025-12-28T16:38:18.563728",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2007-07-03T01:56:22Z",
+      "end": "2018-12-06T20:09:34Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 142146936,
+      "parentid": 0,
+      "timestamp": "2007-07-03T01:56:22Z",
+      "user": "Scientizzle",
+      "userid": 774663,
+      "size": 59,
+      "comment": "Tennessee United States Senate election, 2006",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 161577809,
+      "parentid": 142146936,
+      "timestamp": "2007-10-01T15:39:31Z",
+      "user": "RussBot",
+      "userid": 279219,
+      "size": 62,
+      "comment": "Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -\"Tennessee United States Senate election, 2006\" +\"United States Senate election in Tennessee, 2006\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872352927,
+      "parentid": 161577809,
+      "timestamp": "2018-12-06T20:09:34Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 61,
+      "comment": "Bot: Fixing double redirect to [[2006 United States Senate election in Tennessee]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ed_Choate"
+}

@@ -1,0 +1,2222 @@
+{
+  "page_title": "Jay_Webber",
+  "candidate_name": "Jay Webber",
+  "collection_date": "2025-12-28T16:41:25.250870",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 185,
+    "unique_editors": 91,
+    "date_range": {
+      "start": "2008-02-14T05:48:33Z",
+      "end": "2024-12-02T03:08:37Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 191361095,
+      "parentid": 0,
+      "timestamp": "2008-02-14T05:48:33Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 1751,
+      "comment": "create article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 191590242,
+      "parentid": 191361095,
+      "timestamp": "2008-02-15T05:42:02Z",
+      "user": "Wikipetia4",
+      "userid": 1648158,
+      "size": 1746,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 215671778,
+      "parentid": 191590242,
+      "timestamp": "2008-05-29T05:20:37Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 1870,
+      "comment": "add link to 2007 financial disclosure form",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 234883441,
+      "parentid": 215671778,
+      "timestamp": "2008-08-28T23:34:33Z",
+      "user": "Accurizer",
+      "userid": 804090,
+      "size": 1906,
+      "comment": "/* External links */ +cat.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 255017395,
+      "parentid": 234883441,
+      "timestamp": "2008-11-30T17:02:33Z",
+      "user": "Shirulashem",
+      "userid": 1304569,
+      "size": 1929,
+      "comment": "stub tag",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 295729183,
+      "parentid": 255017395,
+      "timestamp": "2009-06-11T06:15:05Z",
+      "user": "Offenbach",
+      "userid": 6636512,
+      "size": 2401,
+      "comment": "add State Chair news",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 295905587,
+      "parentid": 295729183,
+      "timestamp": "2009-06-12T02:49:20Z",
+      "user": "Offenbach",
+      "userid": 6636512,
+      "size": 2454,
+      "comment": "update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 297318233,
+      "parentid": 295905587,
+      "timestamp": "2009-06-19T07:37:04Z",
+      "user": "Offenbach",
+      "userid": 6636512,
+      "size": 3188,
+      "comment": "party chair update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 319338893,
+      "parentid": 297318233,
+      "timestamp": "2009-10-12T00:58:02Z",
+      "user": "A Stop at Willoughby",
+      "userid": 7474939,
+      "size": 3218,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 327309150,
+      "parentid": 319338893,
+      "timestamp": "2009-11-22T16:50:38Z",
+      "user": "Full-date unlinking bot",
+      "userid": 10076435,
+      "size": 3202,
+      "comment": "Unlinking full-dates. [[User:Full-date unlinking bot|Details here]]. Codes: AMreg(×2)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 333404442,
+      "parentid": 327309150,
+      "timestamp": "2009-12-23T00:02:36Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 3193,
+      "comment": "Delink dates ([[WP:MOSUNLINKDATES]]) using [[Project:AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 344171662,
+      "parentid": 333404442,
+      "timestamp": "2010-02-15T08:03:20Z",
+      "user": "Ruodyssey",
+      "userid": 8497908,
+      "size": 3233,
+      "comment": "adding [[Category:People born on February 29]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 346141887,
+      "parentid": 344171662,
+      "timestamp": "2010-02-24T19:24:11Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3194,
+      "comment": "Robot - Removing category People born on February 29 per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2010 February 16]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 394438752,
+      "parentid": 346141887,
+      "timestamp": "2010-11-02T19:59:38Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 3444,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7356)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 400160318,
+      "parentid": 394438752,
+      "timestamp": "2010-12-02T17:47:58Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3436,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7442)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 412983337,
+      "parentid": 400160318,
+      "timestamp": "2011-02-09T21:32:23Z",
+      "user": "JimMillerJr",
+      "userid": 1603441,
+      "size": 3838,
+      "comment": "no longer state party chair with source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 454412420,
+      "parentid": 412983337,
+      "timestamp": "2011-10-07T16:39:48Z",
+      "user": "Richard Arthur Norton (1958- )",
+      "userid": 158051,
+      "size": 3918,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 459111649,
+      "parentid": 454412420,
+      "timestamp": "2011-11-05T09:34:58Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3938,
+      "comment": "Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 470211828,
+      "parentid": 459111649,
+      "timestamp": "2012-01-08T05:40:13Z",
+      "user": "Jun Nijo",
+      "userid": 9507415,
+      "size": 3894,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 470497475,
+      "parentid": 470211828,
+      "timestamp": "2012-01-09T20:46:57Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 4134,
+      "comment": "add links to 2008, 2009 and 2010 financial disclosure forms; article tweaks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488942454,
+      "parentid": 470497475,
+      "timestamp": "2012-04-24T05:49:28Z",
+      "user": "Trackinfo",
+      "userid": 4022432,
+      "size": 4195,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 493242434,
+      "parentid": 488942454,
+      "timestamp": "2012-05-18T19:59:39Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 4134,
+      "comment": "Robot - Removing category Member of American Legislative Exchange Council per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2012 April 24]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 493299452,
+      "parentid": 493242434,
+      "timestamp": "2012-05-19T05:28:20Z",
+      "user": "Trackinfo",
+      "userid": 4022432,
+      "size": 4368,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 530085568,
+      "parentid": 493299452,
+      "timestamp": "2012-12-28T03:51:21Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 4365,
+      "comment": "refine cats for Morris County residents; other tweaks using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 537935351,
+      "parentid": 530085568,
+      "timestamp": "2013-02-12T21:21:07Z",
+      "user": "72.88.223.23",
+      "userid": 0,
+      "size": 4369,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 539645248,
+      "parentid": 537935351,
+      "timestamp": "2013-02-22T13:04:48Z",
+      "user": "Rocketrod1960",
+      "userid": 13153115,
+      "size": 4365,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/72.88.223.23|72.88.223.23]] ([[User talk:72.88.223.23|talk]]) to last version by Alansohn",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 539708997,
+      "parentid": 539645248,
+      "timestamp": "2013-02-22T17:50:40Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 4605,
+      "comment": "add links to financial disclosure form for 2011; add / update refs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 558468331,
+      "parentid": 539708997,
+      "timestamp": "2013-06-05T16:37:30Z",
+      "user": "69.141.94.6",
+      "userid": 0,
+      "size": 4595,
+      "comment": "corrected committee assignments",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564329532,
+      "parentid": 558468331,
+      "timestamp": "2013-07-15T07:30:06Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4901,
+      "comment": "Formatting infobox/succession boxes.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564329657,
+      "parentid": 564329532,
+      "timestamp": "2013-07-15T07:31:38Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4972,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 586863128,
+      "parentid": 564329657,
+      "timestamp": "2013-12-19T23:28:09Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 5021,
+      "comment": "/* External links */Remove stub template(s). Page is start class or higher. Also check for and do General Fixes + Checkwiki fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 644938756,
+      "parentid": 586863128,
+      "timestamp": "2015-01-31T03:48:39Z",
+      "user": "Srich32977",
+      "userid": 8372814,
+      "size": 5022,
+      "comment": "Copyedit (minor)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 681251561,
+      "parentid": 644938756,
+      "timestamp": "2015-09-16T03:08:26Z",
+      "user": "Mr. Matté",
+      "userid": 4051399,
+      "size": 9547,
+      "comment": "Update infobox, succession box, add to bio",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 682874724,
+      "parentid": 681251561,
+      "timestamp": "2015-09-26T17:45:26Z",
+      "user": "141.161.133.224",
+      "userid": 0,
+      "size": 9620,
+      "comment": "/* Biography */ divided into sections",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 682943662,
+      "parentid": 682874724,
+      "timestamp": "2015-09-27T02:38:34Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 10018,
+      "comment": "add / update refs; use sentence case for section titles; add links to financial disclosure forms",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 682945909,
+      "parentid": 682943662,
+      "timestamp": "2015-09-27T02:59:32Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 10038,
+      "comment": "Dating maintenance tags: {{Dead link}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 687576484,
+      "parentid": 682945909,
+      "timestamp": "2015-10-26T12:54:13Z",
+      "user": "108.53.125.78",
+      "userid": 0,
+      "size": 10037,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 688736136,
+      "parentid": 687576484,
+      "timestamp": "2015-11-02T19:24:06Z",
+      "user": "92.151.141.170",
+      "userid": 0,
+      "size": 10039,
+      "comment": "Corrected the number of children.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 713634930,
+      "parentid": 688736136,
+      "timestamp": "2016-04-05T04:43:38Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 9676,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Jay Webber|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713957576,
+      "parentid": 713634930,
+      "timestamp": "2016-04-06T19:48:29Z",
+      "user": "2003:51:4C4B:C601:5B8:A13D:8D8B:AD97",
+      "userid": 0,
+      "size": 9837,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 713972176,
+      "parentid": 713957576,
+      "timestamp": "2016-04-06T21:29:53Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 9676,
+      "comment": "Reverted edits by [[Special:Contribs/2003:51:4C4B:C601:5B8:A13D:8D8B:AD97|2003:51:4C4B:C601:5B8:A13D:8D8B:AD97]] ([[User talk:2003:51:4C4B:C601:5B8:A13D:8D8B:AD97|talk]]) to last version by KasparBot",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 721291759,
+      "parentid": 713972176,
+      "timestamp": "2016-05-20T21:13:58Z",
+      "user": "172.78.102.107",
+      "userid": 0,
+      "size": 9678,
+      "comment": "/* Personal life */Updated information",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 721306380,
+      "parentid": 721291759,
+      "timestamp": "2016-05-20T23:27:54Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 9676,
+      "comment": "rv chg not supported by source provided",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 740885343,
+      "parentid": 721306380,
+      "timestamp": "2016-09-23T23:38:29Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 9681,
+      "comment": "removed [[Category:People from Clifton, New Jersey]]; added [[Category:Politicians from Clifton, New Jersey]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756263748,
+      "parentid": 740885343,
+      "timestamp": "2016-12-23T01:58:37Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 9729,
+      "comment": "add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 761963779,
+      "parentid": 756263748,
+      "timestamp": "2017-01-25T21:26:43Z",
+      "user": "47.17.111.180",
+      "userid": 0,
+      "size": 9731,
+      "comment": "/* Personal life */Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "canned edit summary"
+      ]
+    },
+    {
+      "revid": 793577532,
+      "parentid": 761963779,
+      "timestamp": "2017-08-02T16:50:58Z",
+      "user": "67.86.70.114",
+      "userid": 0,
+      "size": 9689,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 811672079,
+      "parentid": 793577532,
+      "timestamp": "2017-11-23T04:20:45Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 9863,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 827163290,
+      "parentid": 811672079,
+      "timestamp": "2018-02-23T03:23:08Z",
+      "user": "96.240.4.54",
+      "userid": 0,
+      "size": 10172,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 837883253,
+      "parentid": 827163290,
+      "timestamp": "2018-04-23T16:22:13Z",
+      "user": "72.76.92.69",
+      "userid": 0,
+      "size": 10147,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 837916428,
+      "parentid": 837883253,
+      "timestamp": "2018-04-23T20:13:52Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 10304,
+      "comment": "Rescuing orphaned refs (\"NJLEG\" from rev 827163290)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 840699826,
+      "parentid": 837916428,
+      "timestamp": "2018-05-11T15:43:36Z",
+      "user": "72.76.92.69",
+      "userid": 0,
+      "size": 10406,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 840755432,
+      "parentid": 840699826,
+      "timestamp": "2018-05-11T23:37:20Z",
+      "user": "72.76.92.69",
+      "userid": 0,
+      "size": 10468,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 840755698,
+      "parentid": 840755432,
+      "timestamp": "2018-05-11T23:40:10Z",
+      "user": "72.76.92.69",
+      "userid": 0,
+      "size": 10530,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 842497013,
+      "parentid": 840755698,
+      "timestamp": "2018-05-22T20:56:58Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 10526,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 844540812,
+      "parentid": 842497013,
+      "timestamp": "2018-06-05T15:58:43Z",
+      "user": "Lightman007",
+      "userid": 33929599,
+      "size": 10545,
+      "comment": "Corrected first name to legal name, not nickname.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 844540886,
+      "parentid": 844540812,
+      "timestamp": "2018-06-05T15:59:11Z",
+      "user": "Iggy the Swan",
+      "userid": 31885086,
+      "size": 10526,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Lightman007|Lightman007]] ([[User talk:Lightman007|talk]]). ([[WP:TW|Swan]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 844551996,
+      "parentid": 844540886,
+      "timestamp": "2018-06-05T17:03:29Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 10758,
+      "comment": "use full name, per source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844674461,
+      "parentid": 844551996,
+      "timestamp": "2018-06-06T11:06:36Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 10779,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844674578,
+      "parentid": 844674461,
+      "timestamp": "2018-06-06T11:08:18Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 10782,
+      "comment": "http://www.nj.com/news/index.ssf/2011/01/nj_republican_party_elects_new_1.html",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844674595,
+      "parentid": 844674578,
+      "timestamp": "2018-06-06T11:08:32Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 10783,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844903084,
+      "parentid": 844674595,
+      "timestamp": "2018-06-07T23:58:20Z",
+      "user": "Tinton5",
+      "userid": 9806113,
+      "size": 10828,
+      "comment": "added [[Category:People from Teaneck, New Jersey]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 845303364,
+      "parentid": 844903084,
+      "timestamp": "2018-06-10T21:59:10Z",
+      "user": "-A-M-B-1996-",
+      "userid": 31839633,
+      "size": 10756,
+      "comment": "/* Political career */ updated to reflect that Webber is the nominated Republican candidate",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 845628291,
+      "parentid": 845303364,
+      "timestamp": "2018-06-13T02:21:29Z",
+      "user": "Tinton5",
+      "userid": 9806113,
+      "size": 10754,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 847217834,
+      "parentid": 845628291,
+      "timestamp": "2018-06-23T18:49:50Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 11081,
+      "comment": "expand w/ source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847218176,
+      "parentid": 847217834,
+      "timestamp": "2018-06-23T18:53:09Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 11203,
+      "comment": "formatting improvements",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847218280,
+      "parentid": 847218176,
+      "timestamp": "2018-06-23T18:54:03Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 11199,
+      "comment": "/* New Jersey Assembly */ formatting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847218343,
+      "parentid": 847218280,
+      "timestamp": "2018-06-23T18:54:44Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 11200,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 847218444,
+      "parentid": 847218343,
+      "timestamp": "2018-06-23T18:55:57Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 11305,
+      "comment": "/* External links */ add links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847947326,
+      "parentid": 847218444,
+      "timestamp": "2018-06-28T21:16:47Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 11553,
+      "comment": "copyedit and wikify",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847949553,
+      "parentid": 847947326,
+      "timestamp": "2018-06-28T21:34:45Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 12053,
+      "comment": "add details re HS, with source; add cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 860437506,
+      "parentid": 847949553,
+      "timestamp": "2018-09-20T17:39:34Z",
+      "user": "95.90.196.71",
+      "userid": 0,
+      "size": 12180,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862351974,
+      "parentid": 860437506,
+      "timestamp": "2018-10-03T20:52:00Z",
+      "user": "24.46.1.159",
+      "userid": 0,
+      "size": 12465,
+      "comment": "Added quotes from Mr. Webber.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 862385659,
+      "parentid": 862351974,
+      "timestamp": "2018-10-04T01:45:30Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12180,
+      "comment": "Reverted 1 edit by [[Special:Contributions/24.46.1.159|24.46.1.159]] ([[User talk:24.46.1.159|talk]]): Unsourced. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 862399804,
+      "parentid": 862385659,
+      "timestamp": "2018-10-04T04:03:58Z",
+      "user": "24.46.1.159",
+      "userid": 0,
+      "size": 13167,
+      "comment": "References added",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862400705,
+      "parentid": 862399804,
+      "timestamp": "2018-10-04T04:12:47Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12180,
+      "comment": "Reverted 1 edit by [[Special:Contributions/24.46.1.159|24.46.1.159]] ([[User talk:24.46.1.159|talk]]): This is [[WP:OR]]. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 862403210,
+      "parentid": 862400705,
+      "timestamp": "2018-10-04T04:38:05Z",
+      "user": "24.46.1.159",
+      "userid": 0,
+      "size": 13167,
+      "comment": "Undid revision 862400705 by [[Special:Contributions/Marquardtika|Marquardtika]] ([[User talk:Marquardtika|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 862403554,
+      "parentid": 862403210,
+      "timestamp": "2018-10-04T04:41:43Z",
+      "user": "24.46.1.159",
+      "userid": 0,
+      "size": 13167,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862404248,
+      "parentid": 862403554,
+      "timestamp": "2018-10-04T04:49:42Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 13182,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862404559,
+      "parentid": 862404248,
+      "timestamp": "2018-10-04T04:53:20Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 13281,
+      "comment": "/* 2018 U.S. House campaign */ more refs",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862404727,
+      "parentid": 862404559,
+      "timestamp": "2018-10-04T04:55:31Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 13394,
+      "comment": "/* 2018 U.S. House campaign */ added ref",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862405084,
+      "parentid": 862404727,
+      "timestamp": "2018-10-04T04:59:42Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 13439,
+      "comment": "correct heading",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862406826,
+      "parentid": 862405084,
+      "timestamp": "2018-10-04T05:19:12Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 14466,
+      "comment": "/* New Jersey General Assembly */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862407330,
+      "parentid": 862406826,
+      "timestamp": "2018-10-04T05:24:53Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 14568,
+      "comment": "/* New Jersey General Assembly */ reference",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862407645,
+      "parentid": 862407330,
+      "timestamp": "2018-10-04T05:28:32Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 14593,
+      "comment": "/* New Jersey General Assembly */ grammar",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862442738,
+      "parentid": 862407645,
+      "timestamp": "2018-10-04T11:52:59Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 14529,
+      "comment": "/* Personal life */  WP:OP",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862473461,
+      "parentid": 862442738,
+      "timestamp": "2018-10-04T16:13:40Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12180,
+      "comment": "[[WP:NPOV]] and [[WP:OR]] issues abound",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862541828,
+      "parentid": 862473461,
+      "timestamp": "2018-10-05T02:09:58Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 13446,
+      "comment": "Citations to published mainstream media accounts verified",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862542131,
+      "parentid": 862541828,
+      "timestamp": "2018-10-05T02:13:09Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12180,
+      "comment": "you are accusing someone of breaking the law and using a Facebook group as a source--no. please stop re-adding this, it runs afoul of basically all of our policies here.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862544375,
+      "parentid": 862542131,
+      "timestamp": "2018-10-05T02:38:49Z",
+      "user": "Truthin2018",
+      "userid": 34810638,
+      "size": 12475,
+      "comment": "/* 2018 U.S. House campaign */  Campaign issues, published media, Webber asked to comment",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862546527,
+      "parentid": 862544375,
+      "timestamp": "2018-10-05T02:58:54Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12470,
+      "comment": "he hasn't been \"accused\"--he just has. at least this is a real source, although this all seems a bit silly.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863837196,
+      "parentid": 862546527,
+      "timestamp": "2018-10-13T11:30:51Z",
+      "user": "24.46.1.159",
+      "userid": 0,
+      "size": 12317,
+      "comment": "Unsupported comments removed. (References are from running mates and campaign literature).",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 863837568,
+      "parentid": 863837196,
+      "timestamp": "2018-10-13T11:35:23Z",
+      "user": "24.46.1.159",
+      "userid": 0,
+      "size": 12519,
+      "comment": "/* New Jersey General Assembly */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863838123,
+      "parentid": 863837568,
+      "timestamp": "2018-10-13T11:42:13Z",
+      "user": "24.46.1.159",
+      "userid": 0,
+      "size": 12520,
+      "comment": "/* New Jersey General Assembly */ added voting history",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863838625,
+      "parentid": 863838123,
+      "timestamp": "2018-10-13T11:47:41Z",
+      "user": "ReasonAndScience",
+      "userid": 34834648,
+      "size": 12520,
+      "comment": "/* New Jersey General Assembly */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863840051,
+      "parentid": 863838625,
+      "timestamp": "2018-10-13T12:03:56Z",
+      "user": "ReasonAndScience",
+      "userid": 34834648,
+      "size": 12695,
+      "comment": "updated references",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 863840173,
+      "parentid": 863840051,
+      "timestamp": "2018-10-13T12:05:21Z",
+      "user": "ReasonAndScience",
+      "userid": 34834648,
+      "size": 12695,
+      "comment": "/* New Jersey General Assembly */  correcter reference",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 864407918,
+      "parentid": 863840173,
+      "timestamp": "2018-10-17T00:55:13Z",
+      "user": "ReasonAndScience",
+      "userid": 34834648,
+      "size": 12798,
+      "comment": "/* 2018 U.S. House campaign */ reference added",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 866693004,
+      "parentid": 864407918,
+      "timestamp": "2018-10-31T22:52:21Z",
+      "user": "Vermont",
+      "userid": 28103413,
+      "size": 12792,
+      "comment": "party unnecessary",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867504331,
+      "parentid": 866693004,
+      "timestamp": "2018-11-06T04:00:34Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 12781,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867739298,
+      "parentid": 867504331,
+      "timestamp": "2018-11-07T18:12:29Z",
+      "user": "128.164.227.80",
+      "userid": 0,
+      "size": 12782,
+      "comment": "Last one was outdated",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 867813354,
+      "parentid": 867739298,
+      "timestamp": "2018-11-08T04:32:08Z",
+      "user": "24.228.228.120",
+      "userid": 0,
+      "size": 12856,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 870063147,
+      "parentid": 867813354,
+      "timestamp": "2018-11-22T03:56:42Z",
+      "user": "KConWiki",
+      "userid": 1994682,
+      "size": 12880,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 870282303,
+      "parentid": 870063147,
+      "timestamp": "2018-11-23T18:55:06Z",
+      "user": "PatbackT",
+      "userid": 29859515,
+      "size": 13140,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 870797922,
+      "parentid": 870282303,
+      "timestamp": "2018-11-27T02:02:00Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12941,
+      "comment": "/* 2018 U.S. House campaign */ results, source, removed random minutia",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 870797954,
+      "parentid": 870797922,
+      "timestamp": "2018-11-27T02:02:21Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 12942,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 875390368,
+      "parentid": 870797954,
+      "timestamp": "2018-12-26T05:47:31Z",
+      "user": "JerseyThroughandThrough",
+      "userid": 35189959,
+      "size": 12974,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 875390407,
+      "parentid": 875390368,
+      "timestamp": "2018-12-26T05:48:02Z",
+      "user": "HappenedAnd88",
+      "userid": 35408674,
+      "size": 12942,
+      "comment": "editorializing",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 875390853,
+      "parentid": 875390407,
+      "timestamp": "2018-12-26T05:53:20Z",
+      "user": "JerseyThroughandThrough",
+      "userid": 35189959,
+      "size": 13105,
+      "comment": "/* 2018 U.S. House campaign */ I elaborated on the significance of the results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 875390881,
+      "parentid": 875390853,
+      "timestamp": "2018-12-26T05:53:34Z",
+      "user": "JerseyThroughandThrough",
+      "userid": 35189959,
+      "size": 13104,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 877976139,
+      "parentid": 875390881,
+      "timestamp": "2019-01-12T03:38:38Z",
+      "user": "Ru2487",
+      "userid": 35587594,
+      "size": 13116,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 877976164,
+      "parentid": 877976139,
+      "timestamp": "2019-01-12T03:38:54Z",
+      "user": "Alpha3031",
+      "userid": 20313678,
+      "size": 13104,
+      "comment": "Reverted edits by [[Special:Contributions/Ru2487|Ru2487]] ([[User talk:Ru2487|talk]]) ([[WP:HG|HG]]) (3.4.7)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 892826407,
+      "parentid": 877976164,
+      "timestamp": "2019-04-17T03:58:37Z",
+      "user": "24.46.11.14",
+      "userid": 0,
+      "size": 13154,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 892826851,
+      "parentid": 892826407,
+      "timestamp": "2019-04-17T04:03:45Z",
+      "user": "24.46.11.14",
+      "userid": 0,
+      "size": 13161,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 892826975,
+      "parentid": 892826851,
+      "timestamp": "2019-04-17T04:05:06Z",
+      "user": "24.46.11.14",
+      "userid": 0,
+      "size": 13166,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 892827002,
+      "parentid": 892826975,
+      "timestamp": "2019-04-17T04:05:25Z",
+      "user": "TurboSonic",
+      "userid": 30283221,
+      "size": 13161,
+      "comment": "Undid revision 892826975 by [[Special:Contributions/24.46.11.14|24.46.11.14]] ([[User talk:24.46.11.14|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 892827019,
+      "parentid": 892827002,
+      "timestamp": "2019-04-17T04:05:42Z",
+      "user": "TurboSonic",
+      "userid": 30283221,
+      "size": 13154,
+      "comment": "Undid revision 892826851 by [[Special:Contributions/24.46.11.14|24.46.11.14]] ([[User talk:24.46.11.14|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 892827028,
+      "parentid": 892827019,
+      "timestamp": "2019-04-17T04:05:48Z",
+      "user": "TurboSonic",
+      "userid": 30283221,
+      "size": 13104,
+      "comment": "Undid revision 892826407 by [[Special:Contributions/24.46.11.14|24.46.11.14]] ([[User talk:24.46.11.14|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 892827102,
+      "parentid": 892827028,
+      "timestamp": "2019-04-17T04:06:32Z",
+      "user": "24.46.11.14",
+      "userid": 0,
+      "size": 13112,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 892830087,
+      "parentid": 892827102,
+      "timestamp": "2019-04-17T04:40:19Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 13104,
+      "comment": "Reverted 1 edit by [[Special:Contributions/24.46.11.14|24.46.11.14]] ([[User talk:24.46.11.14|talk]]) to last revision by TurboSonic ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 896266258,
+      "parentid": 892830087,
+      "timestamp": "2019-05-09T10:57:49Z",
+      "user": "Bnml84",
+      "userid": 34599834,
+      "size": 13264,
+      "comment": "I cleaned up the infobox",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 896266897,
+      "parentid": 896266258,
+      "timestamp": "2019-05-09T11:05:22Z",
+      "user": "Bnml84",
+      "userid": 34599834,
+      "size": 12483,
+      "comment": "/* New Jersey Senate Campaign */I cleaned up the page",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 896269860,
+      "parentid": 896266897,
+      "timestamp": "2019-05-09T11:39:28Z",
+      "user": "Bnml84",
+      "userid": 34599834,
+      "size": 20458,
+      "comment": "/* Personal Life */I cleaned up the personal life. I added the electoral history.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 896269997,
+      "parentid": 896269860,
+      "timestamp": "2019-05-09T11:40:59Z",
+      "user": "Bnml84",
+      "userid": 34599834,
+      "size": 20488,
+      "comment": "/* External links */I cleaned up the bottom infobox",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 896270097,
+      "parentid": 896269997,
+      "timestamp": "2019-05-09T11:42:01Z",
+      "user": "Bnml84",
+      "userid": 34599834,
+      "size": 20490,
+      "comment": "/* Committees */I fixed errors",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 896736596,
+      "parentid": 896270097,
+      "timestamp": "2019-05-12T15:05:28Z",
+      "user": "Bnml84",
+      "userid": 34599834,
+      "size": 20494,
+      "comment": "Fixed infobox",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 913589774,
+      "parentid": 896736596,
+      "timestamp": "2019-09-02T00:54:52Z",
+      "user": "2600:100F:B024:2E6C:DC3A:EDB5:1FFD:51DA",
+      "userid": 0,
+      "size": 20491,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 913589847,
+      "parentid": 913589774,
+      "timestamp": "2019-09-02T00:55:20Z",
+      "user": "2600:100F:B024:2E6C:DC3A:EDB5:1FFD:51DA",
+      "userid": 0,
+      "size": 20491,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 918790529,
+      "parentid": 913589847,
+      "timestamp": "2019-09-30T09:41:22Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 20490,
+      "comment": "/* New Jersey Assembly */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 924914938,
+      "parentid": 918790529,
+      "timestamp": "2019-11-06T18:26:22Z",
+      "user": "75.97.201.100",
+      "userid": 0,
+      "size": 20490,
+      "comment": "added birth of eighth child.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 924915205,
+      "parentid": 924914938,
+      "timestamp": "2019-11-06T18:28:22Z",
+      "user": "75.97.201.100",
+      "userid": 0,
+      "size": 20490,
+      "comment": "added eighth child",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 924919002,
+      "parentid": 924915205,
+      "timestamp": "2019-11-06T18:57:49Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20503,
+      "comment": "copyedits",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 924919022,
+      "parentid": 924919002,
+      "timestamp": "2019-11-06T18:58:06Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20501,
+      "comment": "/* District 26 */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 924919105,
+      "parentid": 924919022,
+      "timestamp": "2019-11-06T18:58:42Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20445,
+      "comment": "/* External links */ defunct/spam",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 924919272,
+      "parentid": 924919105,
+      "timestamp": "2019-11-06T18:59:59Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20318,
+      "comment": "/* New Jersey Republican Party chairmanship */ press release, not [[WP:RS]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 924919848,
+      "parentid": 924919272,
+      "timestamp": "2019-11-06T19:04:04Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20714,
+      "comment": "Filling in 2 references using [[WP:REFLINKS|Reflinks]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 925603506,
+      "parentid": 924919848,
+      "timestamp": "2019-11-11T04:14:40Z",
+      "user": "50.29.210.16",
+      "userid": 0,
+      "size": 20920,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 925666463,
+      "parentid": 925603506,
+      "timestamp": "2019-11-11T15:16:34Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20714,
+      "comment": "Reverted 1 edit by [[Special:Contributions/50.29.210.16|50.29.210.16]] ([[User talk:50.29.210.16|talk]]): No, he won ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 929562312,
+      "parentid": 925666463,
+      "timestamp": "2019-12-06T17:11:39Z",
+      "user": "EmDash1",
+      "userid": 38005150,
+      "size": 20191,
+      "comment": "updated bio",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 941453552,
+      "parentid": 929562312,
+      "timestamp": "2020-02-18T17:46:51Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 20251,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947652173,
+      "parentid": 941453552,
+      "timestamp": "2020-03-27T17:11:45Z",
+      "user": "Pittsburghmichaels",
+      "userid": 27800980,
+      "size": 20471,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 947720816,
+      "parentid": 947652173,
+      "timestamp": "2020-03-28T01:51:17Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 20180,
+      "comment": "Fix infobox image syntax",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 947720857,
+      "parentid": 947720816,
+      "timestamp": "2020-03-28T01:51:38Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 20249,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American Republican politician from New Jersey\", overriding Wikidata description \"American Republican Party politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947725870,
+      "parentid": 947720857,
+      "timestamp": "2020-03-28T02:32:04Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 20213,
+      "comment": "clean up",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 950757008,
+      "parentid": 947725870,
+      "timestamp": "2020-04-13T17:42:20Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 20202,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 967460485,
+      "parentid": 950757008,
+      "timestamp": "2020-07-13T11:08:43Z",
+      "user": "EditQwerty",
+      "userid": 38639689,
+      "size": 20218,
+      "comment": "Reference edited with [[Wikipedia:ProveIt|ProveIt]]",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "ProveIt edit"
+      ]
+    },
+    {
+      "revid": 981230268,
+      "parentid": 967460485,
+      "timestamp": "2020-10-01T02:15:12Z",
+      "user": "Reverend Mick man34",
+      "userid": 16847621,
+      "size": 20207,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982885515,
+      "parentid": 981230268,
+      "timestamp": "2020-10-10T23:45:46Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 20187,
+      "comment": "Removing [[:c:File:Webber_jay_2019.jpg|Webber_jay_2019.jpg]]; it has been deleted from Commons by [[:c:User:Explicit|Explicit]] because: per [[:c:Commons:Deletion requests/Files uploaded by Pittsburghmichaels|]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 992510517,
+      "parentid": 982885515,
+      "timestamp": "2020-12-05T17:22:46Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 20214,
+      "comment": "state-only disambiguators are disfavored for human names, replaced: Tom Wilson (New Jersey) → Tom Wilson (New Jersey lobbyist) (3)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 997240681,
+      "parentid": 992510517,
+      "timestamp": "2020-12-30T16:45:13Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 20223,
+      "comment": "Enum 1 author/editor WL; [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1051290506,
+      "parentid": 997240681,
+      "timestamp": "2021-10-22T16:17:35Z",
+      "user": "130.68.183.229",
+      "userid": 0,
+      "size": 20229,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1051350570,
+      "parentid": 1051290506,
+      "timestamp": "2021-10-22T23:47:42Z",
+      "user": "47.223.90.202",
+      "userid": 0,
+      "size": 20231,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1053023058,
+      "parentid": 1051350570,
+      "timestamp": "2021-11-01T13:09:59Z",
+      "user": "130.68.183.3",
+      "userid": 0,
+      "size": 20230,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1053023124,
+      "parentid": 1053023058,
+      "timestamp": "2021-11-01T13:10:38Z",
+      "user": "130.68.183.3",
+      "userid": 0,
+      "size": 20231,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 1053023196,
+      "parentid": 1053023124,
+      "timestamp": "2021-11-01T13:11:12Z",
+      "user": "130.68.183.3",
+      "userid": 0,
+      "size": 20224,
+      "comment": "/* New Jersey Senate campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1060784732,
+      "parentid": 1053023196,
+      "timestamp": "2021-12-17T17:09:19Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 20226,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1060858656,
+      "parentid": 1060784732,
+      "timestamp": "2021-12-18T02:48:08Z",
+      "user": "Reywas92",
+      "userid": 1233313,
+      "size": 19587,
+      "comment": "unnecessary, not about this biography's subject (via [[WP:JWB]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067442254,
+      "parentid": 1060858656,
+      "timestamp": "2022-01-23T13:58:15Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 20231,
+      "comment": "add details for the 2022-2023 legislative session, with sources",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1067449980,
+      "parentid": 1067442254,
+      "timestamp": "2022-01-23T14:50:47Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 20229,
+      "comment": "copyedit and/or wikify",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1067450780,
+      "parentid": 1067449980,
+      "timestamp": "2022-01-23T14:56:44Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 20229,
+      "comment": "fix typo(s)",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1074575213,
+      "parentid": 1067450780,
+      "timestamp": "2022-02-28T23:46:07Z",
+      "user": "Gilldragon",
+      "userid": 26232605,
+      "size": 20243,
+      "comment": "/* External links */ Added Wikiquote template",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1078212293,
+      "parentid": 1074575213,
+      "timestamp": "2022-03-20T12:50:06Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 20703,
+      "comment": "add details for the 2022-2023 legislative session, with sources",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1079848117,
+      "parentid": 1078212293,
+      "timestamp": "2022-03-28T23:02:27Z",
+      "user": "Roccerbot",
+      "userid": 22677397,
+      "size": 20699,
+      "comment": "Adding numerical ID to {{C-SPAN}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1081082679,
+      "parentid": 1079848117,
+      "timestamp": "2022-04-05T06:25:27Z",
+      "user": "Putitonamap98",
+      "userid": 41505608,
+      "size": 20723,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1090556931,
+      "parentid": 1081082679,
+      "timestamp": "2022-05-30T03:45:52Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 20748,
+      "comment": "Alter: title. Add: date, authors 1-1. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use American English from January 2022]] | #UCB_Category 10/1711",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1094736297,
+      "parentid": 1090556931,
+      "timestamp": "2022-06-24T07:08:44Z",
+      "user": "69.121.18.64",
+      "userid": 0,
+      "size": 20771,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "possible libel or vandalism",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1094737967,
+      "parentid": 1094736297,
+      "timestamp": "2022-06-24T07:21:59Z",
+      "user": "Nythar",
+      "userid": 43783383,
+      "size": 20748,
+      "comment": "Reverting edit(s) by [[Special:Contributions/69.121.18.64|69.121.18.64]] ([[User_talk:69.121.18.64|talk]]) to rev. 1090556931 by Citation bot: [[WP:VANDAL|Vandalism]] [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "RedWarn"
+      ]
+    },
+    {
+      "revid": 1127818600,
+      "parentid": 1094737967,
+      "timestamp": "2022-12-16T20:49:34Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 20729,
+      "comment": "combine party and NJ Assembly categories; update cat(s), other cleanup",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1140787407,
+      "parentid": 1127818600,
+      "timestamp": "2023-02-21T20:06:49Z",
+      "user": "Scu ba",
+      "userid": 32247985,
+      "size": 20704,
+      "comment": "new link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1172934959,
+      "parentid": 1140787407,
+      "timestamp": "2023-08-30T07:42:39Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 20709,
+      "comment": "Moving from [[Category:People from Teaneck, New Jersey]] to [[Category:Politicians from Teaneck, New Jersey]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1181706707,
+      "parentid": 1172934959,
+      "timestamp": "2023-10-24T18:45:13Z",
+      "user": "GigachadGigachad",
+      "userid": 43667698,
+      "size": 23478,
+      "comment": "/* New Jersey Assembly */ added recent results",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188703269,
+      "parentid": 1181706707,
+      "timestamp": "2023-12-07T03:50:59Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 23478,
+      "comment": "/* New Jersey Senate campaign */replaced: State Senator → state senator",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1198633350,
+      "parentid": 1188703269,
+      "timestamp": "2024-01-24T16:58:47Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 23726,
+      "comment": "copyedit and/or wikify; add / update ref(s) re committee assignments and district composition",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1205352279,
+      "parentid": 1198633350,
+      "timestamp": "2024-02-09T12:59:09Z",
+      "user": "Alansohn",
+      "userid": 118722,
+      "size": 23819,
+      "comment": "add / refine cat(s)",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1206043734,
+      "parentid": 1205352279,
+      "timestamp": "2024-02-11T02:25:54Z",
+      "user": "GigachadGigachad",
+      "userid": 43667698,
+      "size": 25188,
+      "comment": "/* New Jersey Assembly */ added recent results",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1206043801,
+      "parentid": 1206043734,
+      "timestamp": "2024-02-11T02:26:06Z",
+      "user": "GigachadGigachad",
+      "userid": 43667698,
+      "size": 25192,
+      "comment": "/* Electoral history */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1206043895,
+      "parentid": 1206043801,
+      "timestamp": "2024-02-11T02:26:26Z",
+      "user": "GigachadGigachad",
+      "userid": 43667698,
+      "size": 25215,
+      "comment": "/* Electoral history */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1207213988,
+      "parentid": 1206043895,
+      "timestamp": "2024-02-14T07:25:57Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 25260,
+      "comment": "add [[Category:21st-century New Jersey politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1216435284,
+      "parentid": 1207213988,
+      "timestamp": "2024-03-31T00:17:22Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 25268,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1233157410,
+      "parentid": 1216435284,
+      "timestamp": "2024-07-07T15:38:12Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 25293,
+      "comment": "removed [[Category:Candidates in the 2018 United States elections]]; added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1249187574,
+      "parentid": 1233157410,
+      "timestamp": "2024-10-03T17:36:25Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 25609,
+      "comment": "Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1251659076,
+      "parentid": 1249187574,
+      "timestamp": "2024-10-17T09:29:47Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 25609,
+      "comment": "Disambiguating links to [[Primary election]] (link changed to [[Partisan primary]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1260691180,
+      "parentid": 1251659076,
+      "timestamp": "2024-12-02T02:56:16Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 25673,
+      "comment": "added [[:Category:21st-century members of the New Jersey Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260691485,
+      "parentid": 1260691180,
+      "timestamp": "2024-12-02T02:58:25Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 25624,
+      "comment": "Removing from [[Category:21st-century New Jersey politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260693114,
+      "parentid": 1260691485,
+      "timestamp": "2024-12-02T03:08:37Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 25577,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jay_Webber"
+}

@@ -1,0 +1,71 @@
+{
+  "page_title": "Howard_McKeon",
+  "candidate_name": "Howard McKeon",
+  "collection_date": "2025-12-28T16:40:30.482510",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 4,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2013-05-10T02:29:18Z",
+      "end": "2022-04-07T23:29:26Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 554386304,
+      "parentid": 0,
+      "timestamp": "2013-05-10T02:29:18Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 25,
+      "comment": "Roman Spinner moved page [[Howard McKeon]] to [[Buck McKeon]] over redirect: subject's official House site, his official campaign site as well as other references appended to the article, all indicate his best-known appellation to be \"Buck\", not \"Howard\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 554386728,
+      "parentid": 554386304,
+      "timestamp": "2013-05-10T02:33:29Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 52,
+      "comment": "Redirecting main title header delineating the appellation of American legislator (from [[California]]), [[Howard McKeon]], to its version with the most-commonly used form of his [[nickname]], [[Buck McKeon]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1081523418,
+      "parentid": 554386728,
+      "timestamp": "2022-04-07T23:24:50Z",
+      "user": "2601:601:1300:F830:0:0:0:C31C",
+      "userid": 0,
+      "size": 42,
+      "comment": "[[WP:AES|←]]Removed redirect to [[Buck McKeon]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1081523871,
+      "parentid": 1081523418,
+      "timestamp": "2022-04-07T23:29:26Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 52,
+      "comment": "Reverted edits by [[Special:Contribs/2601:601:1300:F830:0:0:0:C31C|2601:601:1300:F830:0:0:0:C31C]] ([[User talk:2601:601:1300:F830:0:0:0:C31C|talk]]) to last version by Roman Spinner",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-new-redirect"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Howard_McKeon"
+}

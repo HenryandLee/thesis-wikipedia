@@ -1,0 +1,2527 @@
+{
+  "page_title": "Dan_Kapanke",
+  "candidate_name": "Dan Kapanke",
+  "collection_date": "2025-12-28T16:36:23.849231",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 222,
+    "unique_editors": 101,
+    "date_range": {
+      "start": "2008-02-18T02:18:40Z",
+      "end": "2024-12-02T03:41:42Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 192203104,
+      "parentid": 0,
+      "timestamp": "2008-02-18T02:18:40Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1526,
+      "comment": "NEW",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 192261833,
+      "parentid": 192203104,
+      "timestamp": "2008-02-18T08:16:46Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 1557,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201130928,
+      "parentid": 192261833,
+      "timestamp": "2008-03-26T19:51:56Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 1668,
+      "comment": "free image please -   using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 236784416,
+      "parentid": 201130928,
+      "timestamp": "2008-09-07T03:15:19Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 1663,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 267459629,
+      "parentid": 236784416,
+      "timestamp": "2009-01-30T19:36:12Z",
+      "user": "Studerby",
+      "userid": 1289865,
+      "size": 1662,
+      "comment": "defaultsort",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 267463936,
+      "parentid": 267459629,
+      "timestamp": "2009-01-30T19:59:37Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 1662,
+      "comment": "/* External links */ spelling",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 308622715,
+      "parentid": 267463936,
+      "timestamp": "2009-08-18T05:04:22Z",
+      "user": "Kobrien21",
+      "userid": 10351734,
+      "size": 2415,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 308622975,
+      "parentid": 308622715,
+      "timestamp": "2009-08-18T05:06:15Z",
+      "user": "Kobrien21",
+      "userid": 10351734,
+      "size": 2491,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 308623096,
+      "parentid": 308622975,
+      "timestamp": "2009-08-18T05:07:08Z",
+      "user": "Kobrien21",
+      "userid": 10351734,
+      "size": 2490,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 308623226,
+      "parentid": 308623096,
+      "timestamp": "2009-08-18T05:08:01Z",
+      "user": "Kobrien21",
+      "userid": 10351734,
+      "size": 2491,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 308638730,
+      "parentid": 308623226,
+      "timestamp": "2009-08-18T07:20:24Z",
+      "user": "98.125.101.223",
+      "userid": 0,
+      "size": 2518,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 308638924,
+      "parentid": 308638730,
+      "timestamp": "2009-08-18T07:22:04Z",
+      "user": "98.125.101.223",
+      "userid": 0,
+      "size": 2490,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 308656776,
+      "parentid": 308638924,
+      "timestamp": "2009-08-18T10:02:48Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 2653,
+      "comment": "citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 308656966,
+      "parentid": 308656776,
+      "timestamp": "2009-08-18T10:04:43Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 2675,
+      "comment": "change US Congress to US House-more accurate-",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 308680597,
+      "parentid": 308656966,
+      "timestamp": "2009-08-18T13:28:22Z",
+      "user": "Camipco",
+      "userid": 69688,
+      "size": 2600,
+      "comment": "made a little less written-by-campaign-staffer",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323202988,
+      "parentid": 308680597,
+      "timestamp": "2009-11-01T01:25:40Z",
+      "user": "Kobrien21",
+      "userid": 10351734,
+      "size": 2999,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 323203443,
+      "parentid": 323202988,
+      "timestamp": "2009-11-01T01:28:54Z",
+      "user": "Kobrien21",
+      "userid": 10351734,
+      "size": 3323,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 335466950,
+      "parentid": 323203443,
+      "timestamp": "2010-01-02T15:37:13Z",
+      "user": "Joetheintern",
+      "userid": 10695018,
+      "size": 3384,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 335471968,
+      "parentid": 335466950,
+      "timestamp": "2010-01-02T16:16:16Z",
+      "user": "Joetheintern",
+      "userid": 10695018,
+      "size": 3388,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 343813374,
+      "parentid": 335471968,
+      "timestamp": "2010-02-13T20:51:17Z",
+      "user": "71.90.57.60",
+      "userid": 0,
+      "size": 3423,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 351662919,
+      "parentid": 343813374,
+      "timestamp": "2010-03-23T23:27:07Z",
+      "user": "Bender235",
+      "userid": 88026,
+      "size": 3430,
+      "comment": "[[WP:AWB/T|Typo fixing]], typos fixed: a a → a using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 382878813,
+      "parentid": 351662919,
+      "timestamp": "2010-09-04T14:44:23Z",
+      "user": "215.67.132.1",
+      "userid": 0,
+      "size": 3716,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 383752154,
+      "parentid": 382878813,
+      "timestamp": "2010-09-09T01:46:26Z",
+      "user": "Sarge721",
+      "userid": 6759706,
+      "size": 3192,
+      "comment": "Removed non-sourced inflammatory information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385028943,
+      "parentid": 383752154,
+      "timestamp": "2010-09-15T19:17:15Z",
+      "user": "Mullman71",
+      "userid": 13080896,
+      "size": 3451,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385029733,
+      "parentid": 385028943,
+      "timestamp": "2010-09-15T19:21:56Z",
+      "user": "Mullman71",
+      "userid": 13080896,
+      "size": 2949,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385649801,
+      "parentid": 385029733,
+      "timestamp": "2010-09-19T02:43:22Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 3214,
+      "comment": "/* Notes */Persondata completion using [[Project:AWB|AWB]] (7147)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 388031976,
+      "parentid": 385649801,
+      "timestamp": "2010-10-01T02:43:08Z",
+      "user": "75.121.169.98",
+      "userid": 0,
+      "size": 3258,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 392874911,
+      "parentid": 388031976,
+      "timestamp": "2010-10-25T22:24:21Z",
+      "user": "173.202.135.182",
+      "userid": 0,
+      "size": 3388,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 414733259,
+      "parentid": 392874911,
+      "timestamp": "2011-02-19T04:37:53Z",
+      "user": "75.93.20.225",
+      "userid": 0,
+      "size": 3458,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 414772479,
+      "parentid": 414733259,
+      "timestamp": "2011-02-19T12:26:04Z",
+      "user": "173.202.146.60",
+      "userid": 0,
+      "size": 3458,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 415876647,
+      "parentid": 414772479,
+      "timestamp": "2011-02-25T15:28:17Z",
+      "user": "Jack Cox",
+      "userid": 194464,
+      "size": 3481,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416842506,
+      "parentid": 415876647,
+      "timestamp": "2011-03-03T02:20:50Z",
+      "user": "139.225.68.37",
+      "userid": 0,
+      "size": 3752,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416858088,
+      "parentid": 416842506,
+      "timestamp": "2011-03-03T04:41:01Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 3854,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416859276,
+      "parentid": 416858088,
+      "timestamp": "2011-03-03T04:52:29Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 3897,
+      "comment": "/* 2011 Recall */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416862281,
+      "parentid": 416859276,
+      "timestamp": "2011-03-03T05:21:08Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 3912,
+      "comment": "/* 2011 Recall */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416918012,
+      "parentid": 416862281,
+      "timestamp": "2011-03-03T15:26:36Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 3579,
+      "comment": "Unsourced segment originally added by previously warned anonymous IP linked to educational insitution",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416919114,
+      "parentid": 416918012,
+      "timestamp": "2011-03-03T15:35:38Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 4156,
+      "comment": "Entry expansion, additions",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416919256,
+      "parentid": 416919114,
+      "timestamp": "2011-03-03T15:36:39Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 4124,
+      "comment": "Start class; removal of stub designation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416924926,
+      "parentid": 416919256,
+      "timestamp": "2011-03-03T16:17:59Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 4694,
+      "comment": "expanded background Wisconsin Blue Book 2009-2010 pg. 82-no entry yet in Wisconsin Historical Society website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416924987,
+      "parentid": 416924926,
+      "timestamp": "2011-03-03T16:18:28Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 4694,
+      "comment": "/* External links */ coorection",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416925828,
+      "parentid": 416924987,
+      "timestamp": "2011-03-03T16:24:50Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 4694,
+      "comment": "/* Background */ spelling",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416933642,
+      "parentid": 416925828,
+      "timestamp": "2011-03-03T17:19:42Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 4738,
+      "comment": "Expanding expansion, clarifying",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416954620,
+      "parentid": 416933642,
+      "timestamp": "2011-03-03T19:41:59Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4649,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416959791,
+      "parentid": 416954620,
+      "timestamp": "2011-03-03T20:16:27Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 4738,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Flatterworld|Flatterworld]] ([[User talk:Flatterworld|talk]]); No basis for removal; District represented is legitimate entry link. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416960687,
+      "parentid": 416959791,
+      "timestamp": "2011-03-03T20:22:22Z",
+      "user": "205.213.240.8",
+      "userid": 0,
+      "size": 4739,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416961134,
+      "parentid": 416960687,
+      "timestamp": "2011-03-03T20:25:27Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 4779,
+      "comment": "Info box additions, formatting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416961203,
+      "parentid": 416961134,
+      "timestamp": "2011-03-03T20:25:50Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 4779,
+      "comment": "State",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416983442,
+      "parentid": 416961203,
+      "timestamp": "2011-03-03T22:47:41Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4940,
+      "comment": "/* External links */ this material is so OLD!",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416983886,
+      "parentid": 416983442,
+      "timestamp": "2011-03-03T22:50:58Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4950,
+      "comment": "/* External links */ sorry - didn't realize Wisconsinites were too bone-idle to have District articles",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 417000530,
+      "parentid": 416983886,
+      "timestamp": "2011-03-04T00:53:19Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4972,
+      "comment": "/* Background */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 417001109,
+      "parentid": 417000530,
+      "timestamp": "2011-03-04T00:57:33Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 4945,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 417002891,
+      "parentid": 417001109,
+      "timestamp": "2011-03-04T01:10:57Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5012,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 418848895,
+      "parentid": 417002891,
+      "timestamp": "2011-03-14T21:47:10Z",
+      "user": "PilotEricB",
+      "userid": 6250486,
+      "size": 5648,
+      "comment": "Added recall information, added references",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 418849124,
+      "parentid": 418848895,
+      "timestamp": "2011-03-14T21:48:34Z",
+      "user": "PilotEricB",
+      "userid": 6250486,
+      "size": 5651,
+      "comment": "Moved recall information to Senate section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 419001085,
+      "parentid": 418849124,
+      "timestamp": "2011-03-15T19:35:56Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 5652,
+      "comment": "Get his name right!",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 419001181,
+      "parentid": 419001085,
+      "timestamp": "2011-03-15T19:36:29Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 5653,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 420928642,
+      "parentid": 419001181,
+      "timestamp": "2011-03-27T04:37:08Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 5536,
+      "comment": "removed opinion",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421809520,
+      "parentid": 420928642,
+      "timestamp": "2011-04-01T12:28:53Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 5761,
+      "comment": "I assume this isn't an April Fools joke.,,",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421813550,
+      "parentid": 421809520,
+      "timestamp": "2011-04-01T13:07:28Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 6092,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421821219,
+      "parentid": 421813550,
+      "timestamp": "2011-04-01T14:08:42Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6124,
+      "comment": "/* Early life, education and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421821346,
+      "parentid": 421821219,
+      "timestamp": "2011-04-01T14:09:40Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6000,
+      "comment": "not needed.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421822215,
+      "parentid": 421821346,
+      "timestamp": "2011-04-01T14:16:16Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 6002,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 421822781,
+      "parentid": 421822215,
+      "timestamp": "2011-04-01T14:20:18Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6035,
+      "comment": "/* Early life, education and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421823500,
+      "parentid": 421822781,
+      "timestamp": "2011-04-01T14:25:17Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6093,
+      "comment": "/* Early life, education and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421823704,
+      "parentid": 421823500,
+      "timestamp": "2011-04-01T14:26:49Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6107,
+      "comment": "/* Early life, education and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421823872,
+      "parentid": 421823704,
+      "timestamp": "2011-04-01T14:28:02Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6108,
+      "comment": "/* 2011 recall attempt */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 421824135,
+      "parentid": 421823872,
+      "timestamp": "2011-04-01T14:30:03Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6233,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421824213,
+      "parentid": 421824135,
+      "timestamp": "2011-04-01T14:30:36Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6233,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421824451,
+      "parentid": 421824213,
+      "timestamp": "2011-04-01T14:32:22Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6225,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421824676,
+      "parentid": 421824451,
+      "timestamp": "2011-04-01T14:34:04Z",
+      "user": "Corbridge",
+      "userid": 13403552,
+      "size": 6238,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421827190,
+      "parentid": 421824676,
+      "timestamp": "2011-04-01T14:52:05Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 6162,
+      "comment": "Wiki formatting; degrees conferred, dates obtained in body of entry, not in info box; add references to verify where needed",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 421827283,
+      "parentid": 421827190,
+      "timestamp": "2011-04-01T14:52:45Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 6162,
+      "comment": "case",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 421857153,
+      "parentid": 421827283,
+      "timestamp": "2011-04-01T18:24:08Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 6162,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 421907236,
+      "parentid": 421857153,
+      "timestamp": "2011-04-02T00:32:18Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 6283,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 421921424,
+      "parentid": 421907236,
+      "timestamp": "2011-04-02T02:50:50Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 6289,
+      "comment": "/* 2011 recall attempt */ Formatting",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 422232011,
+      "parentid": 421921424,
+      "timestamp": "2011-04-04T00:27:17Z",
+      "user": "GraeMatterz",
+      "userid": 14319279,
+      "size": 6447,
+      "comment": "/* 2011 recall attempt */  Added the amount of verifyable signatures required by the WI GAB",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 422233086,
+      "parentid": 422232011,
+      "timestamp": "2011-04-04T00:34:13Z",
+      "user": "GraeMatterz",
+      "userid": 14319279,
+      "size": 6430,
+      "comment": "/* 2010 U.S. Congressional campaign */ Fixed \"The Hill\" link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 422386076,
+      "parentid": 422233086,
+      "timestamp": "2011-04-04T21:07:13Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 6588,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 423223962,
+      "parentid": 422386076,
+      "timestamp": "2011-04-09T20:14:07Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 6780,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 423440781,
+      "parentid": 423223962,
+      "timestamp": "2011-04-11T01:59:24Z",
+      "user": "139.225.68.37",
+      "userid": 0,
+      "size": 6853,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 423440784,
+      "parentid": 423440781,
+      "timestamp": "2011-04-11T01:59:29Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 6780,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/139.225.68.37|139.225.68.37]] to version by Seleucus. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (373970) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 423612261,
+      "parentid": 423440784,
+      "timestamp": "2011-04-12T01:26:50Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 7143,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 424406629,
+      "parentid": 423612261,
+      "timestamp": "2011-04-16T18:50:23Z",
+      "user": "Mullman71",
+      "userid": 13080896,
+      "size": 7346,
+      "comment": "/* 2011 recall attempt */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 424416978,
+      "parentid": 424406629,
+      "timestamp": "2011-04-16T20:02:55Z",
+      "user": "Davemck",
+      "userid": 326639,
+      "size": 10251,
+      "comment": "format refs; links",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 424417346,
+      "parentid": 424416978,
+      "timestamp": "2011-04-16T20:05:53Z",
+      "user": "Davemck",
+      "userid": 326639,
+      "size": 10048,
+      "comment": "/* 2011 recall attempt */ remove duplicate text",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 424425676,
+      "parentid": 424417346,
+      "timestamp": "2011-04-16T21:03:42Z",
+      "user": "Davemck",
+      "userid": 326639,
+      "size": 12041,
+      "comment": "Electoral history section",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 424611203,
+      "parentid": 424425676,
+      "timestamp": "2011-04-18T00:58:27Z",
+      "user": "68.42.243.198",
+      "userid": 0,
+      "size": 12387,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 424612526,
+      "parentid": 424611203,
+      "timestamp": "2011-04-18T01:11:23Z",
+      "user": "68.42.243.198",
+      "userid": 0,
+      "size": 12641,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 425037306,
+      "parentid": 424612526,
+      "timestamp": "2011-04-20T17:58:51Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 13208,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 425044022,
+      "parentid": 425037306,
+      "timestamp": "2011-04-20T18:46:50Z",
+      "user": "Studerby",
+      "userid": 1289865,
+      "size": 13629,
+      "comment": "improve cites, remove conclusatory adjective (OR)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 425087853,
+      "parentid": 425044022,
+      "timestamp": "2011-04-20T23:56:34Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 13628,
+      "comment": "/* Wisconsin Senate */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 425089867,
+      "parentid": 425087853,
+      "timestamp": "2011-04-21T00:13:35Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 14017,
+      "comment": "/* Wisconsin Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 425090917,
+      "parentid": 425089867,
+      "timestamp": "2011-04-21T00:22:44Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 14534,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 425364474,
+      "parentid": 425090917,
+      "timestamp": "2011-04-22T17:04:01Z",
+      "user": "Davemck",
+      "userid": 326639,
+      "size": 15354,
+      "comment": "format refs",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 425871788,
+      "parentid": 425364474,
+      "timestamp": "2011-04-25T19:08:04Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 15765,
+      "comment": "/* Wisconsin Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 426377939,
+      "parentid": 425871788,
+      "timestamp": "2011-04-28T13:11:51Z",
+      "user": "74.133.28.20",
+      "userid": 0,
+      "size": 15774,
+      "comment": "/* 2010 U.S. Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 426379978,
+      "parentid": 426377939,
+      "timestamp": "2011-04-28T13:26:27Z",
+      "user": "74.133.28.20",
+      "userid": 0,
+      "size": 16673,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 426580215,
+      "parentid": 426379978,
+      "timestamp": "2011-04-29T16:08:13Z",
+      "user": "Davemck",
+      "userid": 326639,
+      "size": 16659,
+      "comment": "/* Electoral history */ wrong ref for 2004 election",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 427673729,
+      "parentid": 426580215,
+      "timestamp": "2011-05-06T00:25:29Z",
+      "user": "LtNOWIS",
+      "userid": 120856,
+      "size": 16681,
+      "comment": "Disambiguated: [[Scott Walker]] → [[Scott Walker (politician)]] using [[tools:~dispenser/view/Dab_solver|Dab solver]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 429409405,
+      "parentid": 427673729,
+      "timestamp": "2011-05-16T15:45:41Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 16670,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7702)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 432063776,
+      "parentid": 429409405,
+      "timestamp": "2011-06-01T21:10:24Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 17021,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 432179402,
+      "parentid": 432063776,
+      "timestamp": "2011-06-02T14:11:22Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 17027,
+      "comment": "/* GAB rules against Kapanke */ Clarif",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 432545292,
+      "parentid": 432179402,
+      "timestamp": "2011-06-04T17:18:59Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 17690,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 432546659,
+      "parentid": 432545292,
+      "timestamp": "2011-06-04T17:28:14Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 17618,
+      "comment": "/* 2011 recall attempt */ Clarify info addition based on reference; ref duplicate elim",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 432546786,
+      "parentid": 432546659,
+      "timestamp": "2011-06-04T17:29:00Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 17619,
+      "comment": "/* 2011 recall attempt */ Sp",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 432893721,
+      "parentid": 432546786,
+      "timestamp": "2011-06-06T18:51:26Z",
+      "user": "Tdl1060",
+      "userid": 646386,
+      "size": 17586,
+      "comment": "/* 2011 recall attempt */ spoiler candidate is not an accurate description as such a candidate would run in the primary and would not draw votes from the nominee when facing Kapanke",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 433638212,
+      "parentid": 432893721,
+      "timestamp": "2011-06-10T23:36:29Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 17688,
+      "comment": "/* Wisconsin Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 433773705,
+      "parentid": 433638212,
+      "timestamp": "2011-06-11T20:50:59Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 17689,
+      "comment": "/* 2011 recall attempt */ Sentence flow",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 434326527,
+      "parentid": 433773705,
+      "timestamp": "2011-06-15T00:19:33Z",
+      "user": "Seleucus",
+      "userid": 2008718,
+      "size": 17822,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 434420709,
+      "parentid": 434326527,
+      "timestamp": "2011-06-15T15:03:14Z",
+      "user": "SWMNPoliSciProject",
+      "userid": 4174982,
+      "size": 17823,
+      "comment": "Matching reference wording",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 435197323,
+      "parentid": 434420709,
+      "timestamp": "2011-06-20T01:53:00Z",
+      "user": "38.109.25.246",
+      "userid": 0,
+      "size": 17834,
+      "comment": "/* GAB rules against Kapanke */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 436452517,
+      "parentid": 435197323,
+      "timestamp": "2011-06-27T05:43:32Z",
+      "user": "Gobonobo",
+      "userid": 784330,
+      "size": 18697,
+      "comment": "Filling in 5 references using [[WP:REFLINKS|Reflinks]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 437658311,
+      "parentid": 436452517,
+      "timestamp": "2011-07-04T04:55:44Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 18750,
+      "comment": "/* 2011 recall attempt */ adds link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 442692998,
+      "parentid": 437658311,
+      "timestamp": "2011-08-02T16:01:13Z",
+      "user": "207.250.198.94",
+      "userid": 0,
+      "size": 17182,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 443526360,
+      "parentid": 442692998,
+      "timestamp": "2011-08-07T16:14:57Z",
+      "user": "68.117.88.56",
+      "userid": 0,
+      "size": 14963,
+      "comment": "/* Wisconsin Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 443532506,
+      "parentid": 443526360,
+      "timestamp": "2011-08-07T17:00:28Z",
+      "user": "Gobonobo",
+      "userid": 784330,
+      "size": 18750,
+      "comment": "Reverted to revision 437658311 by Rrius: unexplained removal of sourced content. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 443987370,
+      "parentid": 443532506,
+      "timestamp": "2011-08-10T03:10:36Z",
+      "user": "Splent",
+      "userid": 341396,
+      "size": 18837,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 443987872,
+      "parentid": 443987370,
+      "timestamp": "2011-08-10T03:15:14Z",
+      "user": "71.89.18.13",
+      "userid": 0,
+      "size": 18846,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 443988198,
+      "parentid": 443987872,
+      "timestamp": "2011-08-10T03:18:05Z",
+      "user": "71.89.18.13",
+      "userid": 0,
+      "size": 18895,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 443994425,
+      "parentid": 443988198,
+      "timestamp": "2011-08-10T04:11:25Z",
+      "user": "208.127.239.5",
+      "userid": 0,
+      "size": 18911,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444001373,
+      "parentid": 443994425,
+      "timestamp": "2011-08-10T05:11:43Z",
+      "user": "68.173.145.33",
+      "userid": 0,
+      "size": 18904,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444004473,
+      "parentid": 444001373,
+      "timestamp": "2011-08-10T05:40:11Z",
+      "user": "75.19.35.37",
+      "userid": 0,
+      "size": 18913,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444005868,
+      "parentid": 444004473,
+      "timestamp": "2011-08-10T05:53:10Z",
+      "user": "Schraubd",
+      "userid": 14569704,
+      "size": 18904,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444014756,
+      "parentid": 444005868,
+      "timestamp": "2011-08-10T07:22:21Z",
+      "user": "50.50.185.179",
+      "userid": 0,
+      "size": 18909,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444053247,
+      "parentid": 444014756,
+      "timestamp": "2011-08-10T12:54:37Z",
+      "user": "184.34.2.155",
+      "userid": 0,
+      "size": 18953,
+      "comment": "added link to general recall elections page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444054558,
+      "parentid": 444053247,
+      "timestamp": "2011-08-10T13:04:11Z",
+      "user": "184.34.2.155",
+      "userid": 0,
+      "size": 19193,
+      "comment": "/* 2011 recall attempt */ Placed sentences into past tense.  Added vote totals to recall results section.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444311770,
+      "parentid": 444054558,
+      "timestamp": "2011-08-11T19:05:50Z",
+      "user": "Colslax",
+      "userid": 1292309,
+      "size": 19163,
+      "comment": "Pulling the Wisconsin State Senator Template since he was voted out.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444635803,
+      "parentid": 444311770,
+      "timestamp": "2011-08-13T14:47:02Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 19206,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 444995469,
+      "parentid": 444635803,
+      "timestamp": "2011-08-15T16:28:30Z",
+      "user": "75.44.55.138",
+      "userid": 0,
+      "size": 19204,
+      "comment": "/* Recall Results */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 445833016,
+      "parentid": 444995469,
+      "timestamp": "2011-08-20T15:19:06Z",
+      "user": "24.245.54.82",
+      "userid": 0,
+      "size": 19314,
+      "comment": "/* 2011 recall attempt */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 445835392,
+      "parentid": 445833016,
+      "timestamp": "2011-08-20T15:39:22Z",
+      "user": "Bongwarrior",
+      "userid": 1879566,
+      "size": 19204,
+      "comment": "[[Help:Reverting|Reverted]] edits by [[Special:Contributions/24.245.54.82|24.245.54.82]] ([[User talk:24.245.54.82|talk]]) to last version by 75.44.55.138",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 446883043,
+      "parentid": 445835392,
+      "timestamp": "2011-08-26T21:24:07Z",
+      "user": "65.28.41.39",
+      "userid": 0,
+      "size": 19196,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 449593977,
+      "parentid": 446883043,
+      "timestamp": "2011-09-10T20:40:02Z",
+      "user": "24.245.54.82",
+      "userid": 0,
+      "size": 19278,
+      "comment": "/* Recall Results */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 449594003,
+      "parentid": 449593977,
+      "timestamp": "2011-09-10T20:40:09Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 19196,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/24.245.54.82|24.245.54.82]] to version by 65.28.41.39. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (579367) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 453284671,
+      "parentid": 449594003,
+      "timestamp": "2011-09-30T23:00:03Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 19026,
+      "comment": "/* External links */ out of office removed weblink",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 453284758,
+      "parentid": 453284671,
+      "timestamp": "2011-09-30T23:00:40Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 19025,
+      "comment": "/* External links */ space",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 454012132,
+      "parentid": 453284758,
+      "timestamp": "2011-10-05T02:13:51Z",
+      "user": "CTF83!",
+      "userid": 1943326,
+      "size": 19031,
+      "comment": "he isn't dead",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 463708809,
+      "parentid": 454012132,
+      "timestamp": "2011-12-02T19:22:35Z",
+      "user": "Mullman71",
+      "userid": 13080896,
+      "size": 19122,
+      "comment": "/* Wisconsin Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 463709531,
+      "parentid": 463708809,
+      "timestamp": "2011-12-02T19:26:40Z",
+      "user": "Mullman71",
+      "userid": 13080896,
+      "size": 18180,
+      "comment": "/* Wisconsin Senate */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 463742869,
+      "parentid": 463709531,
+      "timestamp": "2011-12-02T23:11:27Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 19031,
+      "comment": "revert to ctjf83 citations were removed with no reasons given-blp concerns- please take this to talk page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 464153567,
+      "parentid": 463742869,
+      "timestamp": "2011-12-05T03:27:04Z",
+      "user": "139.225.68.37",
+      "userid": 0,
+      "size": 19069,
+      "comment": "/* Recall Results */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 464153587,
+      "parentid": 464153567,
+      "timestamp": "2011-12-05T03:27:17Z",
+      "user": "Gallagher783",
+      "userid": 15394322,
+      "size": 19031,
+      "comment": "Undid revision 464153567 by [[Special:Contributions/139.225.68.37|139.225.68.37]] ([[User talk:139.225.68.37|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 467278444,
+      "parentid": 464153587,
+      "timestamp": "2011-12-23T01:55:59Z",
+      "user": "139.225.169.131",
+      "userid": 0,
+      "size": 19262,
+      "comment": "/* Recall Results */",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 467278451,
+      "parentid": 467278444,
+      "timestamp": "2011-12-23T01:56:05Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 19031,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/139.225.169.131|139.225.169.131]] to version by Gallagher783. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (779015) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 475020800,
+      "parentid": 467278451,
+      "timestamp": "2012-02-04T21:15:24Z",
+      "user": "204.69.148.33",
+      "userid": 0,
+      "size": 19135,
+      "comment": "/* GAB rules against Kapanke */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 475262427,
+      "parentid": 475020800,
+      "timestamp": "2012-02-05T18:46:01Z",
+      "user": "W.D.",
+      "userid": 16202548,
+      "size": 19031,
+      "comment": "Reverted edit(s) by [[Special:Contributions/204.69.148.33|204.69.148.33]] identified as test/vandalism using [[WP:STiki|STiki]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 475532188,
+      "parentid": 475262427,
+      "timestamp": "2012-02-07T06:20:13Z",
+      "user": "138.49.239.185",
+      "userid": 0,
+      "size": 18949,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 477292061,
+      "parentid": 475532188,
+      "timestamp": "2012-02-17T01:37:23Z",
+      "user": "71.87.114.112",
+      "userid": 0,
+      "size": 18940,
+      "comment": "/* 2010 U.S. Congressional campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 482255781,
+      "parentid": 477292061,
+      "timestamp": "2012-03-16T20:47:12Z",
+      "user": "139.225.68.37",
+      "userid": 0,
+      "size": 18978,
+      "comment": "/* Recall Results */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 482255802,
+      "parentid": 482255781,
+      "timestamp": "2012-03-16T20:47:18Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 18940,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/139.225.68.37|139.225.68.37]] to version by 71.87.114.112. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (959487) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 494806048,
+      "parentid": 482255802,
+      "timestamp": "2012-05-28T17:19:56Z",
+      "user": "75.129.59.174",
+      "userid": 0,
+      "size": 19044,
+      "comment": "/* Recall Results */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 494838086,
+      "parentid": 494806048,
+      "timestamp": "2012-05-28T20:53:00Z",
+      "user": "Gareth Griffith-Jones",
+      "userid": 13358461,
+      "size": 18940,
+      "comment": "Reverted edit(s) by [[Special:Contributions/75.129.59.174|75.129.59.174]] identified as test/vandalism using [[WP:STiki|STiki]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 503306697,
+      "parentid": 494838086,
+      "timestamp": "2012-07-20T17:18:13Z",
+      "user": "24.245.54.82",
+      "userid": 0,
+      "size": 19302,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 506024510,
+      "parentid": 503306697,
+      "timestamp": "2012-08-06T05:20:28Z",
+      "user": "173.202.148.75",
+      "userid": 0,
+      "size": 19239,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 506024546,
+      "parentid": 506024510,
+      "timestamp": "2012-08-06T05:20:56Z",
+      "user": "173.202.148.75",
+      "userid": 0,
+      "size": 19237,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 506059599,
+      "parentid": 506024546,
+      "timestamp": "2012-08-06T11:10:54Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 19302,
+      "comment": "revert to july 20 edit restore wikilink wisconsin recall election-no reason given for the edit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 512519152,
+      "parentid": 506059599,
+      "timestamp": "2012-09-14T23:40:37Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 19306,
+      "comment": "wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 521959391,
+      "parentid": 512519152,
+      "timestamp": "2012-11-08T07:19:29Z",
+      "user": "24.22.129.98",
+      "userid": 0,
+      "size": 18944,
+      "comment": "/* Recall Results */ Doesn't seem to be notable/relevant, shouldn't be under the recall section either",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 550951275,
+      "parentid": 521959391,
+      "timestamp": "2013-04-18T09:47:11Z",
+      "user": "96.42.60.131",
+      "userid": 0,
+      "size": 18866,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 550951379,
+      "parentid": 550951275,
+      "timestamp": "2013-04-18T09:48:09Z",
+      "user": "96.42.60.131",
+      "userid": 0,
+      "size": 18874,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 550951446,
+      "parentid": 550951379,
+      "timestamp": "2013-04-18T09:49:03Z",
+      "user": "96.42.60.131",
+      "userid": 0,
+      "size": 18892,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 550951511,
+      "parentid": 550951446,
+      "timestamp": "2013-04-18T09:49:49Z",
+      "user": "96.42.60.131",
+      "userid": 0,
+      "size": 18893,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 550951557,
+      "parentid": 550951511,
+      "timestamp": "2013-04-18T09:50:18Z",
+      "user": "96.42.60.131",
+      "userid": 0,
+      "size": 18896,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 550951753,
+      "parentid": 550951557,
+      "timestamp": "2013-04-18T09:52:21Z",
+      "user": "96.42.60.131",
+      "userid": 0,
+      "size": 18892,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 550951866,
+      "parentid": 550951753,
+      "timestamp": "2013-04-18T09:53:42Z",
+      "user": "96.42.60.131",
+      "userid": 0,
+      "size": 18927,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 562746744,
+      "parentid": 550951866,
+      "timestamp": "2013-07-03T21:12:48Z",
+      "user": "68.117.21.120",
+      "userid": 0,
+      "size": 18950,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 590322039,
+      "parentid": 562746744,
+      "timestamp": "2014-01-12T05:24:30Z",
+      "user": "Tdl1060",
+      "userid": 646386,
+      "size": 18949,
+      "comment": "fixing link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 651946232,
+      "parentid": 590322039,
+      "timestamp": "2015-03-18T16:37:41Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 18954,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713657936,
+      "parentid": 651946232,
+      "timestamp": "2016-04-05T08:49:53Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 18666,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Dan Kapanke|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722690063,
+      "parentid": 713657936,
+      "timestamp": "2016-05-29T16:42:07Z",
+      "user": "Dcirovic",
+      "userid": 11795905,
+      "size": 18676,
+      "comment": "clean up using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 741548500,
+      "parentid": 722690063,
+      "timestamp": "2016-09-28T05:21:31Z",
+      "user": "Hko4554",
+      "userid": 29279754,
+      "size": 10051,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "blanking"
+      ]
+    },
+    {
+      "revid": 741548548,
+      "parentid": 741548500,
+      "timestamp": "2016-09-28T05:21:56Z",
+      "user": "KH-1",
+      "userid": 21857263,
+      "size": 18676,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Hko4554|Hko4554]] ([[User talk:Hko4554|talk]]). ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 741549018,
+      "parentid": 741548548,
+      "timestamp": "2016-09-28T05:27:36Z",
+      "user": "Hko4554",
+      "userid": 29279754,
+      "size": 11108,
+      "comment": "edits",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 741574627,
+      "parentid": 741549018,
+      "timestamp": "2016-09-28T10:21:36Z",
+      "user": "IdreamofJeanie",
+      "userid": 4555919,
+      "size": 18676,
+      "comment": "Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/Hko4554|Hko4554]] using [[WP:STiki|STiki]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 742852057,
+      "parentid": 741574627,
+      "timestamp": "2016-10-06T05:47:19Z",
+      "user": "Cmr08",
+      "userid": 6383155,
+      "size": 18676,
+      "comment": "/* Recall Results */ fix header per manual of style",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753185630,
+      "parentid": 742852057,
+      "timestamp": "2016-12-05T18:14:45Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 18831,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756415390,
+      "parentid": 753185630,
+      "timestamp": "2016-12-24T02:39:27Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 18878,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 764451075,
+      "parentid": 756415390,
+      "timestamp": "2017-02-09T00:19:32Z",
+      "user": "Wikimikeybalotski",
+      "userid": 30310672,
+      "size": 18884,
+      "comment": "/* Early life, education and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785964314,
+      "parentid": 764451075,
+      "timestamp": "2017-06-16T13:17:38Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 18961,
+      "comment": "update to remove article from [[:Category:Pages using Template:CongLinks with unknown parameters]] (via JWB)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 797311916,
+      "parentid": 785964314,
+      "timestamp": "2017-08-26T07:26:10Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 18962,
+      "comment": "Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 798784420,
+      "parentid": 797311916,
+      "timestamp": "2017-09-03T20:16:02Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 19361,
+      "comment": "Rescuing 2 sources and tagging 1 as dead. #IABot (v1.5)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 804083434,
+      "parentid": 798784420,
+      "timestamp": "2017-10-06T16:41:07Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 19476,
+      "comment": "Rescued 1 archive link; remove 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 861051622,
+      "parentid": 804083434,
+      "timestamp": "2018-09-24T19:59:56Z",
+      "user": "Timrollpickering",
+      "userid": 32005,
+      "size": 19476,
+      "comment": "/* External links */per [[Wikipedia:Categories for discussion/Log/2018 September 17]], replaced: Category:Wisconsin State Senators → Category:Wisconsin state senators",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 862526264,
+      "parentid": 861051622,
+      "timestamp": "2018-10-04T23:37:11Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 19469,
+      "comment": "removed [[Category:People from La Crosse County, Wisconsin]]; added [[Category:People from La Crosse, Wisconsin]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881992109,
+      "parentid": 862526264,
+      "timestamp": "2019-02-06T03:34:09Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 19480,
+      "comment": "[[WP:AWB/GF|General fixes]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 906361603,
+      "parentid": 881992109,
+      "timestamp": "2019-07-15T10:34:17Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 19633,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v2.0beta15)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 919284276,
+      "parentid": 906361603,
+      "timestamp": "2019-10-02T21:22:43Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 19629,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (5×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 927106977,
+      "parentid": 919284276,
+      "timestamp": "2019-11-20T10:53:51Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 19676,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 950845971,
+      "parentid": 927106977,
+      "timestamp": "2020-04-14T04:06:59Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 19929,
+      "comment": "/* 2010 U.S. Congressional campaign */ state senate district largely coextensive with central portion of congressional district",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 976352015,
+      "parentid": 950845971,
+      "timestamp": "2020-09-02T13:43:24Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 19907,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 985104223,
+      "parentid": 976352015,
+      "timestamp": "2020-10-24T00:05:33Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 19867,
+      "comment": "Alter: title. Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox4 | via #UCB_webform_linked 2295/7593",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994965586,
+      "parentid": 985104223,
+      "timestamp": "2020-12-18T13:47:35Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 19959,
+      "comment": "/* External links */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994965976,
+      "parentid": 994965586,
+      "timestamp": "2020-12-18T13:50:51Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 19964,
+      "comment": "/* External links */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1006476360,
+      "parentid": 994965976,
+      "timestamp": "2021-02-13T02:33:12Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 19998,
+      "comment": "Misc citation tidying. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox3 | via #UCB_webform_linked 799/6694",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1031161418,
+      "parentid": 1006476360,
+      "timestamp": "2021-06-30T03:55:26Z",
+      "user": "166.181.85.136",
+      "userid": 0,
+      "size": 20105,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1031161469,
+      "parentid": 1031161418,
+      "timestamp": "2021-06-30T03:55:46Z",
+      "user": "Philipnelson99",
+      "userid": 22045319,
+      "size": 19998,
+      "comment": "Reverted edits by [[Special:Contributions/166.181.85.136|166.181.85.136]] ([[User talk:166.181.85.136|talk]]): addition of [[WP:BLP|unsourced content]] to a biographical article ([[WP:HG|HG]]) (3.4.11)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1032191374,
+      "parentid": 1031161469,
+      "timestamp": "2021-07-06T00:52:16Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 20016,
+      "comment": "removed [[Category:Recalled American politicians]]; added [[Category:Recalled state legislators of the United States]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1058358162,
+      "parentid": 1032191374,
+      "timestamp": "2021-12-03T01:59:52Z",
+      "user": "ThadeusOfNazereth",
+      "userid": 28920063,
+      "size": 20058,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American politician\", overriding Wikidata description \"Wisconsin State Senator\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1074601013,
+      "parentid": 1058358162,
+      "timestamp": "2022-03-01T03:22:29Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 20078,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1099696370,
+      "parentid": 1074601013,
+      "timestamp": "2022-07-22T04:14:20Z",
+      "user": "Denniscabrams",
+      "userid": 24382878,
+      "size": 20078,
+      "comment": "/* Early life, education and career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104745924,
+      "parentid": 1099696370,
+      "timestamp": "2022-08-16T17:35:27Z",
+      "user": "174.29.79.246",
+      "userid": 0,
+      "size": 20401,
+      "comment": "/* 2010 U.S. Congressional campaign */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107580314,
+      "parentid": 1104745924,
+      "timestamp": "2022-08-30T19:22:37Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 20401,
+      "comment": "/* 2010 U.S. Congressional campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1114801808,
+      "parentid": 1107580314,
+      "timestamp": "2022-10-08T09:54:20Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 20545,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.2",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1125616666,
+      "parentid": 1114801808,
+      "timestamp": "2022-12-04T23:43:55Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 20527,
+      "comment": "/* External links */intersect Republican and Wisconsin representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1132441376,
+      "parentid": 1125616666,
+      "timestamp": "2023-01-08T22:24:16Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 20531,
+      "comment": "link [[Derrick Van Orden]] using [[:en:User:Edward/Find link|Find link]]",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1187271779,
+      "parentid": 1132441376,
+      "timestamp": "2023-11-28T06:22:31Z",
+      "user": "Bremps",
+      "userid": 42076370,
+      "size": 20561,
+      "comment": "specifying nationality",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1187271804,
+      "parentid": 1187271779,
+      "timestamp": "2023-11-28T06:22:44Z",
+      "user": "Bremps",
+      "userid": 42076370,
+      "size": 20555,
+      "comment": "Debold",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1187753880,
+      "parentid": 1187271804,
+      "timestamp": "2023-12-01T05:59:08Z",
+      "user": "Embyarby",
+      "userid": 42543928,
+      "size": 20556,
+      "comment": "Typo",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1193942438,
+      "parentid": 1187753880,
+      "timestamp": "2024-01-06T11:14:14Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 21493,
+      "comment": "Rescuing 5 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1198167489,
+      "parentid": 1193942438,
+      "timestamp": "2024-01-23T06:57:36Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 21635,
+      "comment": "/* 2011 recall */ adding iamge",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1198168729,
+      "parentid": 1198167489,
+      "timestamp": "2024-01-23T07:07:39Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 21746,
+      "comment": "/* 2011 recall */ adding info",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1198666320,
+      "parentid": 1198168729,
+      "timestamp": "2024-01-24T19:04:43Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 21823,
+      "comment": "/* top */ adding image",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1199070664,
+      "parentid": 1198666320,
+      "timestamp": "2024-01-25T21:35:25Z",
+      "user": "SecretName101",
+      "userid": 11570102,
+      "size": 21819,
+      "comment": "/* top */ better image",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1205184918,
+      "parentid": 1199070664,
+      "timestamp": "2024-02-09T02:24:34Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 21819,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1209085212,
+      "parentid": 1205184918,
+      "timestamp": "2024-02-20T06:40:34Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 21867,
+      "comment": "/* External links */add [[Category:21st-century Wisconsin politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1213705603,
+      "parentid": 1209085212,
+      "timestamp": "2024-03-14T17:11:35Z",
+      "user": "Talthiel",
+      "userid": 42906708,
+      "size": 21869,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1219170370,
+      "parentid": 1213705603,
+      "timestamp": "2024-04-16T04:54:57Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 21871,
+      "comment": "Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#thehill.com]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1247744754,
+      "parentid": 1219170370,
+      "timestamp": "2024-09-25T19:34:54Z",
+      "user": "Talthiel",
+      "userid": 42906708,
+      "size": 21794,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1256079719,
+      "parentid": 1247744754,
+      "timestamp": "2024-11-08T02:43:18Z",
+      "user": "Talthiel",
+      "userid": 42906708,
+      "size": 21798,
+      "comment": "/* Wisconsin Senate */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1260694788,
+      "parentid": 1256079719,
+      "timestamp": "2024-12-02T03:19:55Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 21861,
+      "comment": "added [[:Category:21st-century members of the Wisconsin Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260697101,
+      "parentid": 1260694788,
+      "timestamp": "2024-12-02T03:35:20Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 21813,
+      "comment": "Removing from [[Category:21st-century Wisconsin politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260697996,
+      "parentid": 1260697101,
+      "timestamp": "2024-12-02T03:41:42Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 21766,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Kapanke"
+}

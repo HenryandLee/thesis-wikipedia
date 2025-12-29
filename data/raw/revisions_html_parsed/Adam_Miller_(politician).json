@@ -1,0 +1,325 @@
+{
+  "page_title": "Adam_Miller_(politician)",
+  "candidate_name": "Adam Miller",
+  "collection_date": "2025-12-28T16:31:30.122475",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 25,
+    "unique_editors": 20,
+    "date_range": {
+      "start": "2017-01-14T00:11:35Z",
+      "end": "2024-12-05T02:54:05Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 759938655,
+      "parentid": 0,
+      "timestamp": "2017-01-14T00:11:35Z",
+      "user": "TenderBlur",
+      "userid": 25156445,
+      "size": 4697,
+      "comment": "created ohio representative adam miller",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 760936394,
+      "parentid": 759938655,
+      "timestamp": "2017-01-19T22:45:29Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 4737,
+      "comment": "added [[Category:People from Columbus, Ohio]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 770844222,
+      "parentid": 760936394,
+      "timestamp": "2017-03-17T22:48:34Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 4742,
+      "comment": "removed [[Category:People from Columbus, Ohio]]; added [[Category:Politicians from Columbus, Ohio]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 781329174,
+      "parentid": 770844222,
+      "timestamp": "2017-05-20T15:21:50Z",
+      "user": "Xezbeth",
+      "userid": 86247,
+      "size": 4771,
+      "comment": "defaultsort",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 824036643,
+      "parentid": 781329174,
+      "timestamp": "2018-02-04T23:11:31Z",
+      "user": "DubstepDalton",
+      "userid": 31958972,
+      "size": 4718,
+      "comment": "Adding a category",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 825514735,
+      "parentid": 824036643,
+      "timestamp": "2018-02-13T21:01:36Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 4690,
+      "comment": "Robot - Removing category Miller surname per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 February 6]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 886081851,
+      "parentid": 825514735,
+      "timestamp": "2019-03-04T04:28:22Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4741,
+      "comment": "add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 962591426,
+      "parentid": 886081851,
+      "timestamp": "2020-06-14T23:32:02Z",
+      "user": "UnitedStatesian",
+      "userid": 3461395,
+      "size": 4741,
+      "comment": "UnitedStatesian moved page [[Adam Miller (Ohio politician)]] to [[Adam Miller (politician)]]: state not needed",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 969822220,
+      "parentid": 962591426,
+      "timestamp": "2020-07-27T16:09:32Z",
+      "user": "31.11.53.92",
+      "userid": 0,
+      "size": 4750,
+      "comment": "/* Life and career */Updated rank and deployment history",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 986916583,
+      "parentid": 969822220,
+      "timestamp": "2020-11-03T19:11:59Z",
+      "user": "38.104.22.2",
+      "userid": 0,
+      "size": 4747,
+      "comment": "Changed jobs",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 992775379,
+      "parentid": 986916583,
+      "timestamp": "2020-12-07T01:05:41Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 4789,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1003100758,
+      "parentid": 992775379,
+      "timestamp": "2021-01-27T12:04:50Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 4797,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 8 templates: hyphenate params (8×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1032524154,
+      "parentid": 1003100758,
+      "timestamp": "2021-07-07T23:52:04Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 5569,
+      "comment": "copyedits and structuring",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1032643125,
+      "parentid": 1032524154,
+      "timestamp": "2021-07-08T18:41:23Z",
+      "user": "Itsfullofstars",
+      "userid": 3058538,
+      "size": 5551,
+      "comment": "removed duplicate birth_place= inside infobox",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1123828414,
+      "parentid": 1032643125,
+      "timestamp": "2022-11-25T22:31:18Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 5540,
+      "comment": "/* External links */intersect Democratic and Ohio representatives categories",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1131636220,
+      "parentid": 1123828414,
+      "timestamp": "2023-01-05T02:13:48Z",
+      "user": "Wifikitten",
+      "userid": 18997592,
+      "size": 5454,
+      "comment": "Updated district number",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1204877126,
+      "parentid": 1131636220,
+      "timestamp": "2024-02-08T07:16:35Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5454,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1205474500,
+      "parentid": 1204877126,
+      "timestamp": "2024-02-09T19:06:16Z",
+      "user": "History Wizard",
+      "userid": 4944107,
+      "size": 5886,
+      "comment": "correct house term and add birthdate",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1232081855,
+      "parentid": 1205474500,
+      "timestamp": "2024-07-01T21:12:21Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 5865,
+      "comment": "fixed [[Template:Broken ref/cite error list|7x extra whitespace in citation ( url = ), 7x extra whitespace in citation (url =), 7x extra whitespace in citation (url= )]] using [[User:TheJJJunk/ARA|ARA]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1232081874,
+      "parentid": 1232081855,
+      "timestamp": "2024-07-01T21:12:30Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 5877,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician\" to \"American politician (born 1965)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1244432653,
+      "parentid": 1232081874,
+      "timestamp": "2024-09-07T02:23:27Z",
+      "user": "Guest2625",
+      "userid": 14410800,
+      "size": 7229,
+      "comment": "/* Career */ add sourcing",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference"
+      ]
+    },
+    {
+      "revid": 1244434375,
+      "parentid": 1244432653,
+      "timestamp": "2024-09-07T02:43:28Z",
+      "user": "Guest2625",
+      "userid": 14410800,
+      "size": 7555,
+      "comment": "remove nonneutral icon decoration [[MOS:FLAGCRUFT]],[[MOS:ICONDECORATION]],",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1255772581,
+      "parentid": 1244434375,
+      "timestamp": "2024-11-06T16:13:49Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 7640,
+      "comment": "added [[Category:Candidates in the 2024 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261257127,
+      "parentid": 1255772581,
+      "timestamp": "2024-12-05T02:50:12Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 7677,
+      "comment": "/* External links */ added [[:Category:21st-century members of the Ohio General Assembly]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1261257771,
+      "parentid": 1261257127,
+      "timestamp": "2024-12-05T02:54:05Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 7630,
+      "comment": "Removing from [[Category:21st-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Miller_(politician)"
+}

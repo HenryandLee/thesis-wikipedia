@@ -1,0 +1,739 @@
+{
+  "page_title": "Brad_Staats",
+  "candidate_name": "Brad Staats",
+  "collection_date": "2025-12-28T16:34:11.815090",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 63,
+    "unique_editors": 26,
+    "date_range": {
+      "start": "2012-11-28T03:58:31Z",
+      "end": "2023-11-07T03:24:41Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 525261153,
+      "parentid": 0,
+      "timestamp": "2012-11-28T03:58:31Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 1115,
+      "comment": "initial draft,  much more to follow",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525261462,
+      "parentid": 525261153,
+      "timestamp": "2012-11-28T04:00:58Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 1228,
+      "comment": "added wl",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525262505,
+      "parentid": 525261462,
+      "timestamp": "2012-11-28T04:10:09Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 1819,
+      "comment": "added Personal Life section.  more to follow",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525262719,
+      "parentid": 525262505,
+      "timestamp": "2012-11-28T04:12:04Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 1944,
+      "comment": "/* Personal Life */ more info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525263290,
+      "parentid": 525262719,
+      "timestamp": "2012-11-28T04:17:06Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 2198,
+      "comment": "added citation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525263364,
+      "parentid": 525263290,
+      "timestamp": "2012-11-28T04:17:46Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 2198,
+      "comment": "corrected access date",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525263457,
+      "parentid": 525263364,
+      "timestamp": "2012-11-28T04:18:32Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 2198,
+      "comment": "relocated cite",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525263721,
+      "parentid": 525263457,
+      "timestamp": "2012-11-28T04:20:45Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 2290,
+      "comment": "added External Link section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525264211,
+      "parentid": 525263721,
+      "timestamp": "2012-11-28T04:24:23Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 2624,
+      "comment": "added age and cite.  haven't found birth date yet",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525264601,
+      "parentid": 525264211,
+      "timestamp": "2012-11-28T04:27:59Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 2926,
+      "comment": "/* Personal Life */ added birth location and cite",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525264995,
+      "parentid": 525264601,
+      "timestamp": "2012-11-28T04:31:07Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3046,
+      "comment": "/* Personal Life */ added more info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525266220,
+      "parentid": 525264995,
+      "timestamp": "2012-11-28T04:40:10Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3050,
+      "comment": "added wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525266407,
+      "parentid": 525266220,
+      "timestamp": "2012-11-28T04:41:35Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3074,
+      "comment": "/* Personal Life */ added wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525266522,
+      "parentid": 525266407,
+      "timestamp": "2012-11-28T04:42:35Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3078,
+      "comment": "/* Personal Life */ added wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525266697,
+      "parentid": 525266522,
+      "timestamp": "2012-11-28T04:44:00Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3086,
+      "comment": "/* Personal Life */ added wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525267435,
+      "parentid": 525266697,
+      "timestamp": "2012-11-28T04:49:54Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3122,
+      "comment": "added wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525267555,
+      "parentid": 525267435,
+      "timestamp": "2012-11-28T04:51:00Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3144,
+      "comment": "added wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525268601,
+      "parentid": 525267555,
+      "timestamp": "2012-11-28T05:00:39Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3234,
+      "comment": "added info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525268765,
+      "parentid": 525268601,
+      "timestamp": "2012-11-28T05:01:58Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3265,
+      "comment": "added wl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525268835,
+      "parentid": 525268765,
+      "timestamp": "2012-11-28T05:02:39Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3271,
+      "comment": "boldfaced the subject",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525269179,
+      "parentid": 525268835,
+      "timestamp": "2012-11-28T05:05:47Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3334,
+      "comment": "added info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525269852,
+      "parentid": 525269179,
+      "timestamp": "2012-11-28T05:12:50Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3340,
+      "comment": "/* Personal Life */ typo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525270460,
+      "parentid": 525269852,
+      "timestamp": "2012-11-28T05:17:57Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3420,
+      "comment": "/* Subsequent writing */ added external link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525270923,
+      "parentid": 525270460,
+      "timestamp": "2012-11-28T05:21:03Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3498,
+      "comment": "/* External Links */ added external link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525271136,
+      "parentid": 525270923,
+      "timestamp": "2012-11-28T05:23:01Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3576,
+      "comment": "/* External Links */ added external link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525271248,
+      "parentid": 525271136,
+      "timestamp": "2012-11-28T05:24:01Z",
+      "user": "Arthur Smart",
+      "userid": 4390761,
+      "size": 3572,
+      "comment": "/* External Links */ reformatted",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525773346,
+      "parentid": 525271248,
+      "timestamp": "2012-11-30T23:03:05Z",
+      "user": "Daranz",
+      "userid": 154630,
+      "size": 3753,
+      "comment": "+[[Category:Tennessee Republicans]]; +[[Category:Oral Roberts University alumni]]; +[[Category:Living people]]; +[[Category:People from Bay County, Florida]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 528607945,
+      "parentid": 525773346,
+      "timestamp": "2012-12-18T08:33:18Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 3936,
+      "comment": "clean up / fixed sections name casing using [[Project:AWB|AWB]] (8829)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 531679521,
+      "parentid": 528607945,
+      "timestamp": "2013-01-06T21:27:55Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3956,
+      "comment": "Persondata",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 545731529,
+      "parentid": 531679521,
+      "timestamp": "2013-03-20T17:34:39Z",
+      "user": "98.192.148.194",
+      "userid": 0,
+      "size": 4164,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 552998375,
+      "parentid": 545731529,
+      "timestamp": "2013-05-01T05:47:41Z",
+      "user": "98.192.148.194",
+      "userid": 0,
+      "size": 4308,
+      "comment": "new charges",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 552998451,
+      "parentid": 552998375,
+      "timestamp": "2013-05-01T05:48:24Z",
+      "user": "98.192.148.194",
+      "userid": 0,
+      "size": 4310,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 552998519,
+      "parentid": 552998451,
+      "timestamp": "2013-05-01T05:49:12Z",
+      "user": "98.192.148.194",
+      "userid": 0,
+      "size": 4310,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 552998587,
+      "parentid": 552998519,
+      "timestamp": "2013-05-01T05:50:10Z",
+      "user": "98.192.148.194",
+      "userid": 0,
+      "size": 4307,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 553303656,
+      "parentid": 552998587,
+      "timestamp": "2013-05-03T05:03:01Z",
+      "user": "98.192.148.194",
+      "userid": 0,
+      "size": 4336,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557103573,
+      "parentid": 553303656,
+      "timestamp": "2013-05-28T01:39:39Z",
+      "user": "Jerzeykydd",
+      "userid": 7709316,
+      "size": 92,
+      "comment": "He's not notable",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 557149735,
+      "parentid": 557103573,
+      "timestamp": "2013-05-28T10:22:55Z",
+      "user": "Guy Macon",
+      "userid": 1590599,
+      "size": 4336,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Jerzeykydd|Jerzeykydd]] ([[User talk:Jerzeykydd|talk]]) to last revision by 98.192.148.194. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 559533571,
+      "parentid": 557149735,
+      "timestamp": "2013-06-12T08:46:40Z",
+      "user": "98.192.148.194",
+      "userid": 0,
+      "size": 4390,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 593659907,
+      "parentid": 559533571,
+      "timestamp": "2014-02-03T00:26:41Z",
+      "user": "Rockstone35",
+      "userid": 4119380,
+      "size": 4391,
+      "comment": "Corrected misspelling",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 605976987,
+      "parentid": 593659907,
+      "timestamp": "2014-04-27T02:30:33Z",
+      "user": "Jonesey95",
+      "userid": 9755426,
+      "size": 4347,
+      "comment": "Fixing citation [[Category:CS1 errors: authorlink|authorlink]] parameter error using [[WP:AutoEd|AutoEd]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 632575389,
+      "parentid": 605976987,
+      "timestamp": "2014-11-05T16:50:00Z",
+      "user": "208.76.164.193",
+      "userid": 0,
+      "size": 4246,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632575466,
+      "parentid": 632575389,
+      "timestamp": "2014-11-05T16:50:39Z",
+      "user": "208.76.164.193",
+      "userid": 0,
+      "size": 4118,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 653562165,
+      "parentid": 632575466,
+      "timestamp": "2015-03-26T04:36:12Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 4172,
+      "comment": "copyedit, already indirectly in category,  refine cat, and AWB general fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 665581322,
+      "parentid": 653562165,
+      "timestamp": "2015-06-05T06:15:41Z",
+      "user": "Johnsagent",
+      "userid": 20111057,
+      "size": 4187,
+      "comment": "copyedits",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 690430470,
+      "parentid": 665581322,
+      "timestamp": "2015-11-13T09:00:58Z",
+      "user": "John of Reading",
+      "userid": 11308236,
+      "size": 4188,
+      "comment": "Typo/[[WP:AWB/GF|general]] fixes, replaced: According the → According to the using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 722536905,
+      "parentid": 690430470,
+      "timestamp": "2016-05-28T20:04:03Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3985,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Brad Staats|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 751346935,
+      "parentid": 722536905,
+      "timestamp": "2016-11-25T02:10:24Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 3986,
+      "comment": "/* External links */clean up; http&rarr;https for [[YouTube]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 794982061,
+      "parentid": 751346935,
+      "timestamp": "2017-08-11T07:18:52Z",
+      "user": "Johnsagent",
+      "userid": 20111057,
+      "size": 3988,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 808211413,
+      "parentid": 794982061,
+      "timestamp": "2017-11-01T15:15:41Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 3989,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v475)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 886429291,
+      "parentid": 808211413,
+      "timestamp": "2019-03-06T06:21:38Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4039,
+      "comment": "add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 922365173,
+      "parentid": 886429291,
+      "timestamp": "2019-10-21T17:51:59Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 4082,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982359354,
+      "parentid": 922365173,
+      "timestamp": "2020-10-07T17:19:39Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 4082,
+      "comment": "cap",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 993877743,
+      "parentid": 982359354,
+      "timestamp": "2020-12-12T23:48:56Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 4074,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 4 templates: del empty params (1×); hyphenate params (4×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1019818691,
+      "parentid": 993877743,
+      "timestamp": "2021-04-25T16:09:34Z",
+      "user": "GA-RT-22",
+      "userid": 39769597,
+      "size": 4076,
+      "comment": "past tense",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024407954,
+      "parentid": 1019818691,
+      "timestamp": "2021-05-21T22:57:42Z",
+      "user": "67.239.243.100",
+      "userid": 0,
+      "size": 4069,
+      "comment": "Making this more objective",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1063579272,
+      "parentid": 1024407954,
+      "timestamp": "2022-01-03T20:17:40Z",
+      "user": "Johnsagent",
+      "userid": 20111057,
+      "size": 4014,
+      "comment": "/* External links */ not convicted",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1146302480,
+      "parentid": 1063579272,
+      "timestamp": "2023-03-24T01:29:24Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 3975,
+      "comment": "Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:Tennessee Republicans]] | #UCB_Category 60/133",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1147346857,
+      "parentid": 1146302480,
+      "timestamp": "2023-03-30T10:31:08Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 4015,
+      "comment": "Disambiguating links to [[The Phantom of the Opera]] (link changed to [[The Phantom of the Opera (1986 musical)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1183875486,
+      "parentid": 1147346857,
+      "timestamp": "2023-11-07T01:15:23Z",
+      "user": "2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029",
+      "userid": 0,
+      "size": 4037,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1183875790,
+      "parentid": 1183875486,
+      "timestamp": "2023-11-07T01:18:11Z",
+      "user": "2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029",
+      "userid": 0,
+      "size": 4042,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1183876166,
+      "parentid": 1183875790,
+      "timestamp": "2023-11-07T01:20:49Z",
+      "user": "Moons of Io",
+      "userid": 44151335,
+      "size": 4015,
+      "comment": "Reverted 2 edits by [[Special:Contributions/2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029|2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029]] ([[User talk:2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1183876303,
+      "parentid": 1183876166,
+      "timestamp": "2023-11-07T01:21:56Z",
+      "user": "2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029",
+      "userid": 0,
+      "size": 4049,
+      "comment": "/* Arrest */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1183890441,
+      "parentid": 1183876303,
+      "timestamp": "2023-11-07T03:24:41Z",
+      "user": "Moons of Io",
+      "userid": 44151335,
+      "size": 4015,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029|2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029]] ([[User talk:2600:1004:B171:A2F:C8D3:E7E4:8A5E:3029|talk]]) to last revision by Moons of Io",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brad_Staats"
+}

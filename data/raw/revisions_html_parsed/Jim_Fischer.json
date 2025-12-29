@@ -1,0 +1,44 @@
+{
+  "page_title": "Jim_Fischer",
+  "candidate_name": "Jim Fischer",
+  "collection_date": "2025-12-28T16:42:05.020433",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2014-11-07T03:29:58Z",
+      "end": "2018-12-04T19:41:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 632784199,
+      "parentid": 0,
+      "timestamp": "2014-11-07T03:29:58Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 104,
+      "comment": "Redirecting main header delineating American political figure from [[New York]], [[Jim Fischer]], to the entry, [[United States House of Representatives elections in New York, 2014]], which mentions his run for [[New York's 20th congressional district]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872025856,
+      "parentid": 632784199,
+      "timestamp": "2018-12-04T19:41:15Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 103,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in New York]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Fischer"
+}

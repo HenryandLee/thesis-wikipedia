@@ -1,0 +1,77 @@
+{
+  "page_title": "John_Tavaglione",
+  "candidate_name": "John Tavaglione",
+  "collection_date": "2025-12-28T16:44:19.712412",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 5,
+    "unique_editors": 4,
+    "date_range": {
+      "start": "2012-09-14T19:02:25Z",
+      "end": "2018-12-08T18:10:26Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 512462432,
+      "parentid": 0,
+      "timestamp": "2012-09-14T19:02:25Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 81,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in California, 2012]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 522772376,
+      "parentid": 512462432,
+      "timestamp": "2012-11-13T05:34:14Z",
+      "user": "Anomalocaris",
+      "userid": 299039,
+      "size": 340,
+      "comment": "Nominated for RFD: see [[Wikipedia:Redirects for discussion]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 523087238,
+      "parentid": 522772376,
+      "timestamp": "2012-11-15T01:59:19Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 352,
+      "comment": "add district to redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 524071413,
+      "parentid": 523087238,
+      "timestamp": "2012-11-20T19:45:44Z",
+      "user": "Emmette Hernandez Coleman",
+      "userid": 6196082,
+      "size": 93,
+      "comment": "[[Wikipedia:Redirects for discussion/Log/2012 November 13#John Tavaglione]] closed as keep",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872708733,
+      "parentid": 524071413,
+      "timestamp": "2018-12-08T18:10:26Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 93,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in California]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Tavaglione"
+}

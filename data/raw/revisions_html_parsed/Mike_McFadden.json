@@ -1,0 +1,1333 @@
+{
+  "page_title": "Mike_McFadden",
+  "candidate_name": "Mike McFadden",
+  "collection_date": "2025-12-28T16:49:35.649405",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 117,
+    "unique_editors": 60,
+    "date_range": {
+      "start": "2013-06-20T23:07:21Z",
+      "end": "2024-04-03T19:01:29Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 560817815,
+      "parentid": 0,
+      "timestamp": "2013-06-20T23:07:21Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 52,
+      "comment": "[[WP:AES|←]]Redirected page to [[U.S. Senate election in Minnesota, 2014]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 560817890,
+      "parentid": 560817815,
+      "timestamp": "2013-06-20T23:08:12Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 61,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States Senate election in Minnesota, 2014]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 568311597,
+      "parentid": 560817890,
+      "timestamp": "2013-08-13T04:52:40Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 0,
+      "comment": "[[WP:AES|←]]Blanked the page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 568311645,
+      "parentid": 568311597,
+      "timestamp": "2013-08-13T04:53:25Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 61,
+      "comment": "Undid revision 568311597 by [[Special:Contributions/Billybob2002|Billybob2002]] ([[User talk:Billybob2002|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 569019660,
+      "parentid": 568311645,
+      "timestamp": "2013-08-18T02:24:53Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 1078,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 569719576,
+      "parentid": 569019660,
+      "timestamp": "2013-08-22T12:59:04Z",
+      "user": "Tiller54",
+      "userid": 8368770,
+      "size": 61,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States Senate election in Minnesota, 2014]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 589486083,
+      "parentid": 569719576,
+      "timestamp": "2014-01-06T19:59:16Z",
+      "user": "PeterVer01",
+      "userid": 20505726,
+      "size": 10048,
+      "comment": "Ended redirect of \"Mike_McFadden\" from \"United States Senate election in Minnesota, 2014\" & added biographical background about Mr. McFadden.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 589715221,
+      "parentid": 589486083,
+      "timestamp": "2014-01-08T04:52:52Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 10075,
+      "comment": "categorization/tagging using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 589793286,
+      "parentid": 589715221,
+      "timestamp": "2014-01-08T17:13:21Z",
+      "user": "MarcGarver",
+      "userid": 1603072,
+      "size": 10068,
+      "comment": "added [[Category:Living people]]; removed {{uncategorized}} using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 592506105,
+      "parentid": 589793286,
+      "timestamp": "2014-01-26T17:56:36Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10072,
+      "comment": "convert Al Franken to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592506197,
+      "parentid": 592506105,
+      "timestamp": "2014-01-26T17:57:17Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10076,
+      "comment": "/* Early life */ convert Omaha, Nebraska to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592506500,
+      "parentid": 592506197,
+      "timestamp": "2014-01-26T17:59:41Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10081,
+      "comment": "/* Education */ added Minnesota in parenthesis to prevent disambiguation and converted school to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592506696,
+      "parentid": 592506500,
+      "timestamp": "2014-01-26T18:00:53Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10085,
+      "comment": "/* Education */ covert Vince Flynn to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592506825,
+      "parentid": 592506696,
+      "timestamp": "2014-01-26T18:01:55Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10089,
+      "comment": "/* Education */ convert Mitch Rapp to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592506921,
+      "parentid": 592506825,
+      "timestamp": "2014-01-26T18:02:47Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10093,
+      "comment": "/* Education */ convert Georgetown University to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592507038,
+      "parentid": 592506921,
+      "timestamp": "2014-01-26T18:03:42Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10097,
+      "comment": "/* Career */ convert IBM to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592507457,
+      "parentid": 592507038,
+      "timestamp": "2014-01-26T18:07:09Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10100,
+      "comment": "/* Cristo Rey Jesuit High School */ convert Cristo Rey Jesuit High School (Minneapolis) to wiki link and added Minneapolis in parenthesis to remove disambiguation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592507605,
+      "parentid": 592507457,
+      "timestamp": "2014-01-26T18:08:27Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10104,
+      "comment": "/* Politics */ convert Rudy Boschwitz to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592507749,
+      "parentid": 592507605,
+      "timestamp": "2014-01-26T18:09:34Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10108,
+      "comment": "/* Politics */ convert Norm Coleman to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592507864,
+      "parentid": 592507749,
+      "timestamp": "2014-01-26T18:10:22Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10112,
+      "comment": "/* Politics */ convert Rod Grams to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592508001,
+      "parentid": 592507864,
+      "timestamp": "2014-01-26T18:11:25Z",
+      "user": "127845gqou",
+      "userid": 20363006,
+      "size": 10116,
+      "comment": "/* Politics */ convert Affordable Care Act to wiki link",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 596994602,
+      "parentid": 592508001,
+      "timestamp": "2014-02-25T00:06:39Z",
+      "user": "50.152.43.149",
+      "userid": 0,
+      "size": 10135,
+      "comment": "{{Notability|bio}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 597008953,
+      "parentid": 596994602,
+      "timestamp": "2014-02-25T02:06:46Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 10154,
+      "comment": "Dating maintenance tags: {{Notability}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 598469752,
+      "parentid": 597008953,
+      "timestamp": "2014-03-06T22:55:51Z",
+      "user": "24.118.93.2",
+      "userid": 0,
+      "size": 10154,
+      "comment": "/* Allen Edmonds Show Corporation */ typo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599870446,
+      "parentid": 598469752,
+      "timestamp": "2014-03-16T15:24:01Z",
+      "user": "50.152.43.149",
+      "userid": 0,
+      "size": 10353,
+      "comment": "format citations using {{cite web}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599870560,
+      "parentid": 599870446,
+      "timestamp": "2014-03-16T15:25:15Z",
+      "user": "50.152.43.149",
+      "userid": 0,
+      "size": 10353,
+      "comment": "/* Education */ pipe",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599870637,
+      "parentid": 599870560,
+      "timestamp": "2014-03-16T15:25:57Z",
+      "user": "50.152.43.149",
+      "userid": 0,
+      "size": 10378,
+      "comment": "/* Education */ Put pipe in right place. I'd be a bad plumber.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599870777,
+      "parentid": 599870637,
+      "timestamp": "2014-03-16T15:27:11Z",
+      "user": "50.152.43.149",
+      "userid": 0,
+      "size": 10408,
+      "comment": "/* Cristo Rey Jesuit High School */ pipe",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 599870966,
+      "parentid": 599870777,
+      "timestamp": "2014-03-16T15:28:41Z",
+      "user": "50.152.43.149",
+      "userid": 0,
+      "size": 10412,
+      "comment": "/* Personal */ [[Sunfish Lake, Minnesota]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 601617404,
+      "parentid": 599870966,
+      "timestamp": "2014-03-28T06:51:46Z",
+      "user": "24.19.210.69",
+      "userid": 0,
+      "size": 10388,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 607107749,
+      "parentid": 601617404,
+      "timestamp": "2014-05-05T02:20:28Z",
+      "user": "75.161.186.7",
+      "userid": 0,
+      "size": 10388,
+      "comment": "/* Cristo Rey Jesuit High School */ Change to underprivileged to bring into line with current social work lexicon. Original word-choice from non-POV McFadden promotional materials",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 608576722,
+      "parentid": 607107749,
+      "timestamp": "2014-05-14T18:06:25Z",
+      "user": "69.178.223.12",
+      "userid": 0,
+      "size": 10393,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 608577947,
+      "parentid": 608576722,
+      "timestamp": "2014-05-14T18:15:28Z",
+      "user": "69.178.223.12",
+      "userid": 0,
+      "size": 10349,
+      "comment": "The 'fact' that countries like China \"prize the 'Made in USA' label\" in the cited article is merely the opinion of the President of Allen Edmonds.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 610149439,
+      "parentid": 608577947,
+      "timestamp": "2014-05-26T02:15:26Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 10150,
+      "comment": "copyedit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 610149520,
+      "parentid": 610149439,
+      "timestamp": "2014-05-26T02:16:00Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 10145,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 611177008,
+      "parentid": 610149520,
+      "timestamp": "2014-06-02T03:17:37Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 10233,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 611181470,
+      "parentid": 611177008,
+      "timestamp": "2014-06-02T04:15:02Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 10227,
+      "comment": "/* Lazard Middle Market */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 611181529,
+      "parentid": 611181470,
+      "timestamp": "2014-06-02T04:15:49Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 10228,
+      "comment": "/* Allen Edmonds Shoe Corporation */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 611330923,
+      "parentid": 611181529,
+      "timestamp": "2014-06-03T04:26:54Z",
+      "user": "JamesMLane",
+      "userid": 38027,
+      "size": 10823,
+      "comment": "/* U.S. Senate election in Minnesota, 2014 */ add Obamacare statement",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 611342424,
+      "parentid": 611330923,
+      "timestamp": "2014-06-03T06:27:33Z",
+      "user": "Carriearchdale",
+      "userid": 5860794,
+      "size": 10990,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: 1990’s → 1990s using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 617149076,
+      "parentid": 611342424,
+      "timestamp": "2014-07-16T07:04:01Z",
+      "user": "Prisencolin",
+      "userid": 20834545,
+      "size": 11016,
+      "comment": "/* Cristo Rey Jesuit High School */ on the edge about allowing information solely about CRJHS on this page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 617227135,
+      "parentid": 617149076,
+      "timestamp": "2014-07-16T20:41:31Z",
+      "user": "Jonathunder",
+      "userid": 112889,
+      "size": 11089,
+      "comment": "prod",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 617322169,
+      "parentid": 617227135,
+      "timestamp": "2014-07-17T14:51:54Z",
+      "user": "Fryedk",
+      "userid": 10160353,
+      "size": 11017,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621035589,
+      "parentid": 617322169,
+      "timestamp": "2014-08-13T09:37:18Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11783,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621035652,
+      "parentid": 621035589,
+      "timestamp": "2014-08-13T09:37:53Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11786,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621057623,
+      "parentid": 621035652,
+      "timestamp": "2014-08-13T13:13:29Z",
+      "user": "Gobonobo",
+      "userid": 784330,
+      "size": 11919,
+      "comment": "birth year as of",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621057709,
+      "parentid": 621057623,
+      "timestamp": "2014-08-13T13:14:26Z",
+      "user": "Gobonobo",
+      "userid": 784330,
+      "size": 11662,
+      "comment": "rm detail about Conor",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621058400,
+      "parentid": 621057709,
+      "timestamp": "2014-08-13T13:20:46Z",
+      "user": "Gobonobo",
+      "userid": 784330,
+      "size": 11833,
+      "comment": "cats, c/e",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621135899,
+      "parentid": 621058400,
+      "timestamp": "2014-08-14T00:04:00Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 11835,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621135993,
+      "parentid": 621135899,
+      "timestamp": "2014-08-14T00:04:49Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 11848,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621280227,
+      "parentid": 621135993,
+      "timestamp": "2014-08-14T23:52:44Z",
+      "user": "Prisencolin",
+      "userid": 20834545,
+      "size": 11990,
+      "comment": "/* U.S. Senate election in Minnesota, 2014 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 621280267,
+      "parentid": 621280227,
+      "timestamp": "2014-08-14T23:53:13Z",
+      "user": "Prisencolin",
+      "userid": 20834545,
+      "size": 11952,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 623755005,
+      "parentid": 621280267,
+      "timestamp": "2014-09-01T20:08:10Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11950,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 623755327,
+      "parentid": 623755005,
+      "timestamp": "2014-09-01T20:10:27Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11936,
+      "comment": "http://hslda.capwiz.com/election/candidate/id/226445",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 624822890,
+      "parentid": 623755327,
+      "timestamp": "2014-09-09T16:10:21Z",
+      "user": "207.225.8.1",
+      "userid": 0,
+      "size": 11928,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625676723,
+      "parentid": 624822890,
+      "timestamp": "2014-09-15T15:43:51Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 11945,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 625677060,
+      "parentid": 625676723,
+      "timestamp": "2014-09-15T15:46:40Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 12033,
+      "comment": "/* U.S. Senate election in Minnesota, 2014 */ Add opponent",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625858119,
+      "parentid": 625677060,
+      "timestamp": "2014-09-16T20:15:18Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 12029,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 626497281,
+      "parentid": 625858119,
+      "timestamp": "2014-09-21T16:51:39Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 12050,
+      "comment": "Persondata",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 630605494,
+      "parentid": 626497281,
+      "timestamp": "2014-10-22T03:19:57Z",
+      "user": "Bobamnertiopsis",
+      "userid": 991839,
+      "size": 12158,
+      "comment": "/* top */ image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632230782,
+      "parentid": 630605494,
+      "timestamp": "2014-11-03T02:57:39Z",
+      "user": "2605:E000:AC42:3100:585:2C04:265A:D75E",
+      "userid": 0,
+      "size": 12147,
+      "comment": "/* Cristo Rey Jesuit High School */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632520169,
+      "parentid": 632230782,
+      "timestamp": "2014-11-05T05:49:23Z",
+      "user": "67.6.75.238",
+      "userid": 0,
+      "size": 12148,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632522779,
+      "parentid": 632520169,
+      "timestamp": "2014-11-05T06:25:32Z",
+      "user": "Prisencolin",
+      "userid": 20834545,
+      "size": 12202,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632846960,
+      "parentid": 632522779,
+      "timestamp": "2014-11-07T17:06:55Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 12211,
+      "comment": "updated text, metadata, infobox, formatting; reflink consolidation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632847038,
+      "parentid": 632846960,
+      "timestamp": "2014-11-07T17:07:45Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 12212,
+      "comment": "/* Lazard Middle Market */ typo fixed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632847222,
+      "parentid": 632847038,
+      "timestamp": "2014-11-07T17:09:17Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 12248,
+      "comment": "/* Allen Edmonds Shoe Corporation */ broken link fixed (my bad)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632847680,
+      "parentid": 632847222,
+      "timestamp": "2014-11-07T17:13:38Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 12335,
+      "comment": "broken reflinks fixed (my bad)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632849866,
+      "parentid": 632847680,
+      "timestamp": "2014-11-07T17:34:18Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 12354,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 632887133,
+      "parentid": 632849866,
+      "timestamp": "2014-11-07T23:05:29Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 12208,
+      "comment": "copyedit, update, neutrality",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 632928609,
+      "parentid": 632887133,
+      "timestamp": "2014-11-08T07:33:17Z",
+      "user": "Wukai",
+      "userid": 13311235,
+      "size": 12208,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 633675681,
+      "parentid": 632928609,
+      "timestamp": "2014-11-13T15:23:46Z",
+      "user": "209.81.120.130",
+      "userid": 0,
+      "size": 12215,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 633678567,
+      "parentid": 633675681,
+      "timestamp": "2014-11-13T15:46:57Z",
+      "user": "Flyer22 Frozen",
+      "userid": 4293477,
+      "size": 12208,
+      "comment": "Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/209.81.120.130|209.81.120.130]] using [[WP:STiki|STiki]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 638136267,
+      "parentid": 633678567,
+      "timestamp": "2014-12-15T02:48:38Z",
+      "user": "130.126.210.247",
+      "userid": 0,
+      "size": 12201,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 638437183,
+      "parentid": 638136267,
+      "timestamp": "2014-12-17T01:52:45Z",
+      "user": "Prisencolin",
+      "userid": 20834545,
+      "size": 12199,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 638437293,
+      "parentid": 638437183,
+      "timestamp": "2014-12-17T01:53:59Z",
+      "user": "Prisencolin",
+      "userid": 20834545,
+      "size": 12199,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 638437374,
+      "parentid": 638437293,
+      "timestamp": "2014-12-17T01:54:55Z",
+      "user": "Prisencolin",
+      "userid": 20834545,
+      "size": 12230,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 638737005,
+      "parentid": 638437374,
+      "timestamp": "2014-12-19T04:50:01Z",
+      "user": "Tia0214",
+      "userid": 23531449,
+      "size": 12230,
+      "comment": "/* U.S. Senate election in Minnesota, 2014 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 671934173,
+      "parentid": 638737005,
+      "timestamp": "2015-07-18T01:35:57Z",
+      "user": "24.186.96.236",
+      "userid": 0,
+      "size": 12244,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 672019192,
+      "parentid": 671934173,
+      "timestamp": "2015-07-18T17:34:55Z",
+      "user": "Binksternet",
+      "userid": 4967956,
+      "size": 12230,
+      "comment": "Reverted 1 edit by [[Special:Contributions/24.186.96.236|24.186.96.236]] ([[User talk:24.186.96.236|talk]]) to last revision by Tia0214. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 676193003,
+      "parentid": 672019192,
+      "timestamp": "2015-08-15T09:33:50Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 12242,
+      "comment": "clean up / duplicate parameters etc. using [[Project:AWB|AWB]] (11374)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 676368842,
+      "parentid": 676193003,
+      "timestamp": "2015-08-16T14:58:20Z",
+      "user": "Frietjes",
+      "userid": 13791031,
+      "size": 12250,
+      "comment": "cleanup (wikitables, html markup, layout, etc.)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723264760,
+      "parentid": 676368842,
+      "timestamp": "2016-06-02T01:06:16Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 11945,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Mike McFadden|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723388696,
+      "parentid": 723264760,
+      "timestamp": "2016-06-02T19:24:40Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 12507,
+      "comment": "/* U.S. Senate election in Minnesota, 2014 */ Update - refs from [[United States Senate election in Minnesota, 2014]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723388730,
+      "parentid": 723388696,
+      "timestamp": "2016-06-02T19:24:58Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 12512,
+      "comment": "/* References */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 727421263,
+      "parentid": 723388730,
+      "timestamp": "2016-06-28T21:47:15Z",
+      "user": "Heather-2004",
+      "userid": 26008996,
+      "size": 12516,
+      "comment": "/* Early life and education */ Italicized words per Wiki rules on Latin honors",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 767698443,
+      "parentid": 727421263,
+      "timestamp": "2017-02-27T12:37:24Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 12517,
+      "comment": "/* Allen Edmonds Shoe Corporation */HTTP&rarr;HTTPS for [[The New York Times]]. using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 783339246,
+      "parentid": 767698443,
+      "timestamp": "2017-06-01T16:55:13Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 12567,
+      "comment": "added [[Category:People from Dakota County, Minnesota]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783346361,
+      "parentid": 783339246,
+      "timestamp": "2017-06-01T17:46:16Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 12566,
+      "comment": "removed [[Category:People from Dakota County, Minnesota]]; added [[Category:People from Sunfish Lake, Minnesota]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 797793871,
+      "parentid": 783346361,
+      "timestamp": "2017-08-29T06:31:46Z",
+      "user": "2602:306:BC52:CAB0:6DDC:713D:6243:562C",
+      "userid": 0,
+      "size": 12560,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 798997668,
+      "parentid": 797793871,
+      "timestamp": "2017-09-05T01:38:48Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 12562,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 810560849,
+      "parentid": 798997668,
+      "timestamp": "2017-11-16T00:58:20Z",
+      "user": "2600:1700:2CC0:DAC0:4C3:1E03:4817:CBDF",
+      "userid": 0,
+      "size": 12608,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 812256960,
+      "parentid": 810560849,
+      "timestamp": "2017-11-26T22:53:56Z",
+      "user": "Hameltion",
+      "userid": 31137136,
+      "size": 12601,
+      "comment": "[[MOS:NICKNAME]] - hypocorism",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817267111,
+      "parentid": 812256960,
+      "timestamp": "2017-12-27T07:48:32Z",
+      "user": "2600:100C:B20D:493F:4E80:BA8B:C3:280F",
+      "userid": 0,
+      "size": 12603,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 817267271,
+      "parentid": 817267111,
+      "timestamp": "2017-12-27T07:50:22Z",
+      "user": "2600:100C:B20D:493F:4E80:BA8B:C3:280F",
+      "userid": 0,
+      "size": 12600,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 817267351,
+      "parentid": 817267271,
+      "timestamp": "2017-12-27T07:51:11Z",
+      "user": "2600:100C:B20D:493F:4E80:BA8B:C3:280F",
+      "userid": 0,
+      "size": 12613,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 817267442,
+      "parentid": 817267351,
+      "timestamp": "2017-12-27T07:52:08Z",
+      "user": "2600:100C:B20D:493F:4E80:BA8B:C3:280F",
+      "userid": 0,
+      "size": 12594,
+      "comment": "/* 2014 U.S. Senate run */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 818366052,
+      "parentid": 817267442,
+      "timestamp": "2018-01-03T03:42:13Z",
+      "user": "72.184.148.87",
+      "userid": 0,
+      "size": 12596,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 822740682,
+      "parentid": 818366052,
+      "timestamp": "2018-01-28T06:18:27Z",
+      "user": "Arbor to SJ",
+      "userid": 4322169,
+      "size": 12598,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 822740772,
+      "parentid": 822740682,
+      "timestamp": "2018-01-28T06:19:25Z",
+      "user": "Arbor to SJ",
+      "userid": 4322169,
+      "size": 12618,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846033816,
+      "parentid": 822740772,
+      "timestamp": "2018-06-15T20:59:15Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 12604,
+      "comment": "standard quote handling in WP;standard Apostrophe/quotation marks in WP;add/change/refine category; MOS fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 854973344,
+      "parentid": 846033816,
+      "timestamp": "2018-08-15T01:48:37Z",
+      "user": "24.136.10.112",
+      "userid": 0,
+      "size": 12621,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 865474169,
+      "parentid": 854973344,
+      "timestamp": "2018-10-24T05:24:09Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 12659,
+      "comment": "/* References */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 937907368,
+      "parentid": 865474169,
+      "timestamp": "2020-01-27T23:23:43Z",
+      "user": "74.192.86.109",
+      "userid": 0,
+      "size": 12658,
+      "comment": "/* 2014 U.S. Senate run */ removed redirect",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 937907583,
+      "parentid": 937907368,
+      "timestamp": "2020-01-27T23:25:39Z",
+      "user": "74.192.86.109",
+      "userid": 0,
+      "size": 12709,
+      "comment": "/* 2014 U.S. Senate run */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 945249054,
+      "parentid": 937907583,
+      "timestamp": "2020-03-12T19:12:16Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 12703,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 948935712,
+      "parentid": 945249054,
+      "timestamp": "2020-04-03T20:32:12Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 13193,
+      "comment": "Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 962202360,
+      "parentid": 948935712,
+      "timestamp": "2020-06-12T17:46:20Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 13228,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984466052,
+      "parentid": 962202360,
+      "timestamp": "2020-10-20T06:59:03Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 13223,
+      "comment": "Add: work. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox4 | via #UCB_webform_linked 3728/4000",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 986873071,
+      "parentid": 984466052,
+      "timestamp": "2020-11-03T14:16:31Z",
+      "user": "67.86.58.61",
+      "userid": 0,
+      "size": 13261,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 989908798,
+      "parentid": 986873071,
+      "timestamp": "2020-11-21T18:44:01Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13223,
+      "comment": "Removing from [[Category:American Roman Catholics]] in subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1068366150,
+      "parentid": 989908798,
+      "timestamp": "2022-01-28T01:54:40Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 13229,
+      "comment": "Alter: template type. Add: newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 1819/2166",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1069182355,
+      "parentid": 1068366150,
+      "timestamp": "2022-02-01T01:08:47Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 13228,
+      "comment": "Update Wiki link to reflect page move",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1069219385,
+      "parentid": 1069182355,
+      "timestamp": "2022-02-01T05:52:23Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 13227,
+      "comment": "Update Wiki link to reflect page move",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1147949615,
+      "parentid": 1069219385,
+      "timestamp": "2023-04-03T05:51:17Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 13270,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1215874631,
+      "parentid": 1147949615,
+      "timestamp": "2024-03-27T17:19:21Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 13692,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Mike McFadden]].",
+      "minor": false,
+      "tags": [
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1215917213,
+      "parentid": 1215874631,
+      "timestamp": "2024-03-27T22:39:54Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 14085,
+      "comment": "Rescuing 2 sources and tagging 1 as dead.) #IABot (v2.0.9.5) ([[User:Eastmain|Eastmain]] - 18395",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1217083659,
+      "parentid": 1215917213,
+      "timestamp": "2024-04-03T19:01:29Z",
+      "user": "Hey man im josh",
+      "userid": 40123752,
+      "size": 102,
+      "comment": "[[Wikipedia:Articles for deletion/Mike McFadden]] closed as redirect ([[WP:XFDC#4.0.13|XFDcloser]])",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_McFadden"
+}

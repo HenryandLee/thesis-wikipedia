@@ -1,0 +1,132 @@
+{
+  "page_title": "Phil_Avillo",
+  "candidate_name": "Phil Avillo",
+  "collection_date": "2025-12-28T16:51:37.072663",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 10,
+    "unique_editors": 7,
+    "date_range": {
+      "start": "2006-12-06T00:29:40Z",
+      "end": "2018-12-08T20:08:41Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 92346980,
+      "parentid": 0,
+      "timestamp": "2006-12-06T00:29:40Z",
+      "user": "Retired username",
+      "userid": 319357,
+      "size": 63,
+      "comment": "still some inbound links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 95949356,
+      "parentid": 92346980,
+      "timestamp": "2006-12-22T17:26:08Z",
+      "user": "VitaleBaby",
+      "userid": 2442803,
+      "size": 56,
+      "comment": "[[WP:AES|←]]Redirected page to [[Pennsylvania's 19th congressional district]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 217576067,
+      "parentid": 95949356,
+      "timestamp": "2008-06-06T17:28:33Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 88,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 217576703,
+      "parentid": 217576067,
+      "timestamp": "2008-06-06T17:31:30Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 56,
+      "comment": "[[WP:UNDO|Undid]] revision 217576067 by [[Special:Contributions/Flatterworld|Flatterworld]] ([[User talk:Flatterworld|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 222023034,
+      "parentid": 217576703,
+      "timestamp": "2008-06-27T05:16:17Z",
+      "user": "Stormie",
+      "userid": 20772,
+      "size": 87,
+      "comment": "redirect [[United States House of Representatives elections in Pennsylvania, 2008‎]] as other candidates",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 222024097,
+      "parentid": 222023034,
+      "timestamp": "2008-06-27T05:24:57Z",
+      "user": "Stormie",
+      "userid": 20772,
+      "size": 99,
+      "comment": "subsection",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 228078074,
+      "parentid": 222024097,
+      "timestamp": "2008-07-26T21:57:02Z",
+      "user": "Counterstatement",
+      "userid": 7494688,
+      "size": 38,
+      "comment": "Changed redirect to 2008 PA elections to newly created article on Avillo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 228151852,
+      "parentid": 228078074,
+      "timestamp": "2008-07-27T07:43:26Z",
+      "user": "Stormie",
+      "userid": 20772,
+      "size": 99,
+      "comment": "Reverted edits by [[Special:Contributions/Counterstatement|Counterstatement]] ([[User talk:Counterstatement|talk]]) to last version by Stormie",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 339253546,
+      "parentid": 228151852,
+      "timestamp": "2010-01-22T00:19:04Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 96,
+      "comment": "removing [[left-to-right mark]] (U+200E) causing AWB problems., removed: ‎ using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872724448,
+      "parentid": 339253546,
+      "timestamp": "2018-12-08T20:08:41Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 95,
+      "comment": "Bot: Fixing double redirect to [[2008 United States House of Representatives elections in Pennsylvania]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Phil_Avillo"
+}

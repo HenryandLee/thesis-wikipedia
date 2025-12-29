@@ -1,0 +1,3404 @@
+{
+  "page_title": "Marty_Nothstein",
+  "candidate_name": "Marty Nothstein",
+  "collection_date": "2025-12-28T16:48:20.466338",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 287,
+    "unique_editors": 125,
+    "date_range": {
+      "start": "2006-11-19T14:48:46Z",
+      "end": "2024-11-23T18:30:33Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 88811453,
+      "parentid": 80195166,
+      "timestamp": "2006-11-19T14:48:46Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 3935,
+      "comment": "minor clean up",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 88811501,
+      "parentid": 88811453,
+      "timestamp": "2006-11-19T14:49:12Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 3937,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 88812303,
+      "parentid": 88811501,
+      "timestamp": "2006-11-19T14:56:12Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 3951,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 88813319,
+      "parentid": 88812303,
+      "timestamp": "2006-11-19T15:03:43Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 3962,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 88813733,
+      "parentid": 88813319,
+      "timestamp": "2006-11-19T15:07:08Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4086,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 127081862,
+      "parentid": 88813733,
+      "timestamp": "2007-04-30T07:45:19Z",
+      "user": "Darius Dhlomo",
+      "userid": 564742,
+      "size": 4094,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 131370441,
+      "parentid": 127081862,
+      "timestamp": "2007-05-16T19:59:57Z",
+      "user": "Darius Dhlomo",
+      "userid": 564742,
+      "size": 4147,
+      "comment": "/* Major achievements */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 131370673,
+      "parentid": 131370441,
+      "timestamp": "2007-05-16T20:00:59Z",
+      "user": "Darius Dhlomo",
+      "userid": 564742,
+      "size": 4231,
+      "comment": "/* Major achievements */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 160590888,
+      "parentid": 131370673,
+      "timestamp": "2007-09-27T00:26:21Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4264,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 161488889,
+      "parentid": 160590888,
+      "timestamp": "2007-10-01T06:28:20Z",
+      "user": "Neier",
+      "userid": 430157,
+      "size": 4195,
+      "comment": "recat Olympic cyclists",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 162026863,
+      "parentid": 161488889,
+      "timestamp": "2007-10-03T15:13:17Z",
+      "user": "122.249.32.2",
+      "userid": 0,
+      "size": 4236,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 164925055,
+      "parentid": 162026863,
+      "timestamp": "2007-10-16T10:31:04Z",
+      "user": "Severo",
+      "userid": 1832829,
+      "size": 4287,
+      "comment": "[[Template:MedalRelatedTemplates|Medal table]] cleanup",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 171445310,
+      "parentid": 164925055,
+      "timestamp": "2007-11-14T15:29:04Z",
+      "user": "62.1.145.202",
+      "userid": 0,
+      "size": 4285,
+      "comment": "/* Major achievements */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 171445920,
+      "parentid": 171445310,
+      "timestamp": "2007-11-14T15:32:35Z",
+      "user": "62.1.145.202",
+      "userid": 0,
+      "size": 4324,
+      "comment": "/* Major achievements */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 171446276,
+      "parentid": 171445920,
+      "timestamp": "2007-11-14T15:34:52Z",
+      "user": "62.1.145.202",
+      "userid": 0,
+      "size": 4448,
+      "comment": "/* Major achievements */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 177504768,
+      "parentid": 171446276,
+      "timestamp": "2007-12-12T20:40:06Z",
+      "user": "Tstrobaugh",
+      "userid": 1810742,
+      "size": 4700,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 177504888,
+      "parentid": 177504768,
+      "timestamp": "2007-12-12T20:40:40Z",
+      "user": "Tstrobaugh",
+      "userid": 1810742,
+      "size": 4719,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 177505016,
+      "parentid": 177504888,
+      "timestamp": "2007-12-12T20:41:13Z",
+      "user": "Tstrobaugh",
+      "userid": 1810742,
+      "size": 4730,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 177505200,
+      "parentid": 177505016,
+      "timestamp": "2007-12-12T20:41:59Z",
+      "user": "Tstrobaugh",
+      "userid": 1810742,
+      "size": 4760,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 183428452,
+      "parentid": 177505200,
+      "timestamp": "2008-01-10T17:08:44Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4761,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 183428589,
+      "parentid": 183428452,
+      "timestamp": "2008-01-10T17:09:22Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4768,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 183428752,
+      "parentid": 183428589,
+      "timestamp": "2008-01-10T17:10:07Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4760,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 183428869,
+      "parentid": 183428752,
+      "timestamp": "2008-01-10T17:10:44Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4711,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 183428989,
+      "parentid": 183428869,
+      "timestamp": "2008-01-10T17:11:16Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4760,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 183429220,
+      "parentid": 183428989,
+      "timestamp": "2008-01-10T17:12:25Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4748,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 183429362,
+      "parentid": 183429220,
+      "timestamp": "2008-01-10T17:13:01Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 4752,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 222165522,
+      "parentid": 183429362,
+      "timestamp": "2008-06-27T21:43:57Z",
+      "user": "Fishersports",
+      "userid": 1902819,
+      "size": 5355,
+      "comment": "Nothstein is currently driving a NHRA Funny Car so the edit reflects this",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225152668,
+      "parentid": 222165522,
+      "timestamp": "2008-07-12T04:21:31Z",
+      "user": "141.152.242.148",
+      "userid": 0,
+      "size": 5386,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 227893985,
+      "parentid": 225152668,
+      "timestamp": "2008-07-25T20:42:09Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 5425,
+      "comment": "+ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 228077426,
+      "parentid": 227893985,
+      "timestamp": "2008-07-26T21:53:16Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 5435,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 228100925,
+      "parentid": 228077426,
+      "timestamp": "2008-07-27T00:50:11Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 5407,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 276526610,
+      "parentid": 228100925,
+      "timestamp": "2009-03-11T15:31:42Z",
+      "user": "Kbdankbot",
+      "userid": 6505923,
+      "size": 5360,
+      "comment": "Remove category per per [[WP:CFD|CFD]] [[Wikipedia:Categories for discussion/Log/2009 March 5|2009 March 5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 290603179,
+      "parentid": 276526610,
+      "timestamp": "2009-05-17T22:50:00Z",
+      "user": "Runningonbrains",
+      "userid": 1127502,
+      "size": 5510,
+      "comment": "rewording copyrighted text from www.bicyclingprnews.com/bicycling_articles/2008/03/olympic-gold-medalist-marty-nothstein-to-drive-follow-a-dreampermatexwynns-nhra-top-alcohol-funny-car-45230.htm",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 294431334,
+      "parentid": 290603179,
+      "timestamp": "2009-06-04T19:19:08Z",
+      "user": "Tstrobaugh",
+      "userid": 1810742,
+      "size": 5525,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 294928465,
+      "parentid": 294431334,
+      "timestamp": "2009-06-07T06:40:13Z",
+      "user": "Kwiki",
+      "userid": 9459680,
+      "size": 5522,
+      "comment": "clean up, typos fixed: at at → at using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 295099868,
+      "parentid": 294928465,
+      "timestamp": "2009-06-08T03:02:59Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 5522,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 314932059,
+      "parentid": 295099868,
+      "timestamp": "2009-09-19T16:31:13Z",
+      "user": "Darius Dhlomo",
+      "userid": 564742,
+      "size": 5581,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 317686989,
+      "parentid": 314932059,
+      "timestamp": "2009-10-03T18:26:40Z",
+      "user": "Darius Dhlomo",
+      "userid": 564742,
+      "size": 5637,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 317687033,
+      "parentid": 317686989,
+      "timestamp": "2009-10-03T18:26:57Z",
+      "user": "Darius Dhlomo",
+      "userid": 564742,
+      "size": 5634,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 321010430,
+      "parentid": 317687033,
+      "timestamp": "2009-10-20T14:56:09Z",
+      "user": "Thaf",
+      "userid": 4029501,
+      "size": 7987,
+      "comment": "expand article, add infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 321015079,
+      "parentid": 321010430,
+      "timestamp": "2009-10-20T15:25:54Z",
+      "user": "Thaf",
+      "userid": 4029501,
+      "size": 9892,
+      "comment": "expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 321210102,
+      "parentid": 321015079,
+      "timestamp": "2009-10-21T15:48:12Z",
+      "user": "Thaf",
+      "userid": 4029501,
+      "size": 10380,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 321377662,
+      "parentid": 321210102,
+      "timestamp": "2009-10-22T13:33:39Z",
+      "user": "Thaf",
+      "userid": 4029501,
+      "size": 10662,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 321377810,
+      "parentid": 321377662,
+      "timestamp": "2009-10-22T13:34:44Z",
+      "user": "Thaf",
+      "userid": 4029501,
+      "size": 10752,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 321378223,
+      "parentid": 321377810,
+      "timestamp": "2009-10-22T13:37:35Z",
+      "user": "Thaf",
+      "userid": 4029501,
+      "size": 10754,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 321379784,
+      "parentid": 321378223,
+      "timestamp": "2009-10-22T13:49:06Z",
+      "user": "Thaf",
+      "userid": 4029501,
+      "size": 10825,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 329671367,
+      "parentid": 321379784,
+      "timestamp": "2009-12-04T14:57:10Z",
+      "user": "209.18.52.200",
+      "userid": 0,
+      "size": 10932,
+      "comment": "/* Cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 329671948,
+      "parentid": 329671367,
+      "timestamp": "2009-12-04T15:01:25Z",
+      "user": "209.18.52.200",
+      "userid": 0,
+      "size": 10934,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 330653544,
+      "parentid": 329671948,
+      "timestamp": "2009-12-09T12:21:01Z",
+      "user": "Woohookitty",
+      "userid": 159678,
+      "size": 10955,
+      "comment": "[[:en:User:NicoV/Wikipedia Cleaner/Documentation|WikiCleaner]] 0.98 - Repairing link to disambiguation page - [[Wikipedia:Disambiguation pages with links|You can help!]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 342020913,
+      "parentid": 330653544,
+      "timestamp": "2010-02-05T02:33:13Z",
+      "user": "173.171.3.140",
+      "userid": 0,
+      "size": 10955,
+      "comment": "/* Cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359192928,
+      "parentid": 342020913,
+      "timestamp": "2010-04-30T03:40:10Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 10964,
+      "comment": "recat using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 359592891,
+      "parentid": 359192928,
+      "timestamp": "2010-05-02T07:09:04Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 10961,
+      "comment": "clean up, replaced: date of birth and age → Birth date and age using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 367977385,
+      "parentid": 359592891,
+      "timestamp": "2010-06-14T14:45:57Z",
+      "user": "Allreet",
+      "userid": 2690473,
+      "size": 10967,
+      "comment": "moved high school sentence to Early Life...added possessive to his name...added local to father's busienss",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 394138249,
+      "parentid": 367977385,
+      "timestamp": "2010-11-01T09:05:03Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 11214,
+      "comment": "/* References */Adding Persondata using [[Project:AWB|AWB]] (7356)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 404226354,
+      "parentid": 394138249,
+      "timestamp": "2010-12-26T00:11:54Z",
+      "user": "24.229.102.54",
+      "userid": 0,
+      "size": 11212,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 430521847,
+      "parentid": 404226354,
+      "timestamp": "2011-05-23T15:06:28Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 11177,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7719)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 430846899,
+      "parentid": 430521847,
+      "timestamp": "2011-05-25T14:06:03Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 11181,
+      "comment": "Updated deprecated parameter in Infobox per [[Category:Cyclist infoboxes with country]] using [[Project:AWB|AWB]] (7719)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 436312912,
+      "parentid": 430846899,
+      "timestamp": "2011-06-26T10:32:26Z",
+      "user": "Courcelles",
+      "userid": 1004750,
+      "size": 11223,
+      "comment": "/* References */Add [[Category:Olympic medalists in cycling]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 439957032,
+      "parentid": 436312912,
+      "timestamp": "2011-07-17T15:07:50Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 11235,
+      "comment": "Mostly units",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 466222834,
+      "parentid": 439957032,
+      "timestamp": "2011-12-16T21:54:41Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 11240,
+      "comment": "/* Early life */copyedit, MOS implementation, and/or AWB general fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 497915646,
+      "parentid": 466222834,
+      "timestamp": "2012-06-16T20:07:34Z",
+      "user": "2.248.139.57",
+      "userid": 0,
+      "size": 11263,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 502122360,
+      "parentid": 497915646,
+      "timestamp": "2012-07-13T19:54:13Z",
+      "user": "YFdyh-bot",
+      "userid": 16428237,
+      "size": 11286,
+      "comment": "r2.7.3) (Robot: Adding [[pl:Marty Nothstein]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 504207159,
+      "parentid": 502122360,
+      "timestamp": "2012-07-26T02:37:27Z",
+      "user": "Courcelles",
+      "userid": 1004750,
+      "size": 11313,
+      "comment": "/* References */Add [[Category:Male cyclists]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 508819190,
+      "parentid": 504207159,
+      "timestamp": "2012-08-23T18:52:19Z",
+      "user": "WildCherry06",
+      "userid": 5268219,
+      "size": 11369,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 511189979,
+      "parentid": 508819190,
+      "timestamp": "2012-09-07T07:56:55Z",
+      "user": "Severo",
+      "userid": 1832829,
+      "size": 11479,
+      "comment": "Updating [[Wikipedia:Persondata|Persondata]] - you can help!!",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 515522890,
+      "parentid": 511189979,
+      "timestamp": "2012-10-01T20:52:42Z",
+      "user": "199.102.168.8",
+      "userid": 0,
+      "size": 11480,
+      "comment": "/* Cycling career */  changed \"team who won\" to \"team that won\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 515522955,
+      "parentid": 515522890,
+      "timestamp": "2012-10-01T20:53:02Z",
+      "user": "199.102.168.8",
+      "userid": 0,
+      "size": 11480,
+      "comment": "/* Cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 540875822,
+      "parentid": 515522955,
+      "timestamp": "2013-02-27T07:49:37Z",
+      "user": "Addbot",
+      "userid": 6569922,
+      "size": 11323,
+      "comment": "[[User:Addbot|Bot:]] Migrating 6 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1905847]] ([[User talk:Addbot|Report Errors]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 565896530,
+      "parentid": 540875822,
+      "timestamp": "2013-07-26T14:57:50Z",
+      "user": "Qwe144",
+      "userid": 16748047,
+      "size": 11504,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 565898210,
+      "parentid": 565896530,
+      "timestamp": "2013-07-26T15:12:25Z",
+      "user": "Qwe144",
+      "userid": 16748047,
+      "size": 11676,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 588357811,
+      "parentid": 565898210,
+      "timestamp": "2013-12-30T11:57:17Z",
+      "user": "Severo",
+      "userid": 1832829,
+      "size": 11685,
+      "comment": "removed [[Category:Male cyclists]]; added [[Category:American male cyclists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 637449999,
+      "parentid": 588357811,
+      "timestamp": "2014-12-10T08:58:21Z",
+      "user": "Sander.v.Ginkel",
+      "userid": 16019814,
+      "size": 11738,
+      "comment": "added [[Category:UCI Track Cycling World Champions (men)]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 644432069,
+      "parentid": 637449999,
+      "timestamp": "2015-01-27T17:48:43Z",
+      "user": "Philipmj24",
+      "userid": 8929902,
+      "size": 11718,
+      "comment": "Edits to medal table.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 653382585,
+      "parentid": 644432069,
+      "timestamp": "2015-03-24T23:33:45Z",
+      "user": "Frietjes",
+      "userid": 13791031,
+      "size": 11712,
+      "comment": "cleanup (wikitables, html markup, layout, etc.)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 669961076,
+      "parentid": 653382585,
+      "timestamp": "2015-07-04T20:30:59Z",
+      "user": "Lockley",
+      "userid": 207616,
+      "size": 11403,
+      "comment": "remove deprecated persondata template per [[Wikipedia:Village_pump_(proposals)/Archive_122#RfC:_Should_Persondata_template_be_deprecated_and_methodically_removed_from_articles.3F|RfC]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 686586204,
+      "parentid": 669961076,
+      "timestamp": "2015-10-20T01:14:37Z",
+      "user": "BaldBoris",
+      "userid": 10322045,
+      "size": 11458,
+      "comment": "/* External links */ {{[[Template:UCI Track Cycling World Champions – Men's sprint|UCI Track Cycling World Champions – Men's sprint]]}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 686890185,
+      "parentid": 686586204,
+      "timestamp": "2015-10-22T00:11:20Z",
+      "user": "BaldBoris",
+      "userid": 10322045,
+      "size": 11513,
+      "comment": "/* External links */ {{[[Template:UCI Track Cycling World Champions – Men's keirin|UCI Track Cycling World Champions – Men's keirin]]}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 687745085,
+      "parentid": 686890185,
+      "timestamp": "2015-10-27T13:49:05Z",
+      "user": "Hunter Kahn",
+      "userid": 6494148,
+      "size": 13737,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 690657684,
+      "parentid": 687745085,
+      "timestamp": "2015-11-14T20:11:46Z",
+      "user": "PAWiki",
+      "userid": 1301032,
+      "size": 13733,
+      "comment": "/* Biography */ delink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 692361298,
+      "parentid": 690657684,
+      "timestamp": "2015-11-25T04:06:33Z",
+      "user": "199.102.168.8",
+      "userid": 0,
+      "size": 13740,
+      "comment": "/* Biography */ fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 697191307,
+      "parentid": 692361298,
+      "timestamp": "2015-12-28T22:00:20Z",
+      "user": "Cnwilliams",
+      "userid": 10190671,
+      "size": 13760,
+      "comment": "Disambiguated: [[bare-knuckle]] → [[bare-knuckle boxing]]",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 99"
+      ]
+    },
+    {
+      "revid": 720668073,
+      "parentid": 697191307,
+      "timestamp": "2016-05-17T07:09:40Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 13811,
+      "comment": "[[Help:Cat-a-lot|Cat-a-lot]]: Adding [[Category:Medalists at the 2000 Summer Olympics]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 720672025,
+      "parentid": 720668073,
+      "timestamp": "2016-05-17T07:38:50Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 13862,
+      "comment": "[[Help:Cat-a-lot|Cat-a-lot]]: Adding [[Category:Medalists at the 1996 Summer Olympics]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723573803,
+      "parentid": 720672025,
+      "timestamp": "2016-06-03T20:56:17Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13873,
+      "comment": "recat using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733932110,
+      "parentid": 723573803,
+      "timestamp": "2016-08-11T01:23:53Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13884,
+      "comment": "/* External links */recat using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 734126227,
+      "parentid": 733932110,
+      "timestamp": "2016-08-12T09:20:49Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13842,
+      "comment": "/* External links */remove category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759799246,
+      "parentid": 734126227,
+      "timestamp": "2017-01-13T06:12:28Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 13895,
+      "comment": "added [[Category:Pan American Games medalists in cycling]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 771748403,
+      "parentid": 759799246,
+      "timestamp": "2017-03-23T08:36:06Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 13964,
+      "comment": "added [[Category:Pan American Games gold medalists for the United States]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 783757052,
+      "parentid": 771748403,
+      "timestamp": "2017-06-04T13:22:55Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 14007,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4beta)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 788540676,
+      "parentid": 783757052,
+      "timestamp": "2017-07-02T00:43:33Z",
+      "user": "12.216.184.2",
+      "userid": 0,
+      "size": 14022,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 788540997,
+      "parentid": 788540676,
+      "timestamp": "2017-07-02T00:46:08Z",
+      "user": "Jinerea",
+      "userid": 26675139,
+      "size": 14007,
+      "comment": "Reverted edits by [[Special:Contribs/12.216.184.2|12.216.184.2]] ([[User talk:12.216.184.2|talk]]) to last version by InternetArchiveBot",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 799920323,
+      "parentid": 788540997,
+      "timestamp": "2017-09-10T16:29:38Z",
+      "user": "JimmyJoe87",
+      "userid": 31730949,
+      "size": 14049,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 804406405,
+      "parentid": 799920323,
+      "timestamp": "2017-10-08T20:21:01Z",
+      "user": "24.229.233.217",
+      "userid": 0,
+      "size": 14215,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 806100452,
+      "parentid": 804406405,
+      "timestamp": "2017-10-19T18:08:52Z",
+      "user": "97.65.21.2",
+      "userid": 0,
+      "size": 14215,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 806224375,
+      "parentid": 806100452,
+      "timestamp": "2017-10-20T15:30:35Z",
+      "user": "80.3.27.123",
+      "userid": 0,
+      "size": 14938,
+      "comment": "/* Retirement */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 806224462,
+      "parentid": 806224375,
+      "timestamp": "2017-10-20T15:31:15Z",
+      "user": "80.3.27.123",
+      "userid": 0,
+      "size": 14945,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 806224618,
+      "parentid": 806224462,
+      "timestamp": "2017-10-20T15:32:20Z",
+      "user": "80.3.27.123",
+      "userid": 0,
+      "size": 14983,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 821369571,
+      "parentid": 806224618,
+      "timestamp": "2018-01-20T01:44:30Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 15534,
+      "comment": "Rescuing 2 sources and tagging 2 as dead. #IABot (v1.6.2)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 824083348,
+      "parentid": 821369571,
+      "timestamp": "2018-02-05T05:44:22Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 15662,
+      "comment": "Rescued 1 archive link; remove 1 link. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 825041654,
+      "parentid": 824083348,
+      "timestamp": "2018-02-11T03:52:24Z",
+      "user": "120.154.168.74",
+      "userid": 0,
+      "size": 15705,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 832855017,
+      "parentid": 825041654,
+      "timestamp": "2018-03-28T10:42:25Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 15706,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 833201736,
+      "parentid": 832855017,
+      "timestamp": "2018-03-30T06:24:32Z",
+      "user": "Mitch Ames",
+      "userid": 6326132,
+      "size": 15678,
+      "comment": "Remove supercategory of existing category per [[WP:SUBCAT]] using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 833915153,
+      "parentid": 833201736,
+      "timestamp": "2018-04-03T00:47:50Z",
+      "user": "76.10.180.45",
+      "userid": 0,
+      "size": 15640,
+      "comment": "tidy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 835447749,
+      "parentid": 833915153,
+      "timestamp": "2018-04-08T19:34:19Z",
+      "user": "86.17.116.223",
+      "userid": 0,
+      "size": 15717,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836507934,
+      "parentid": 835447749,
+      "timestamp": "2018-04-15T06:02:58Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 15754,
+      "comment": "added [[Category:American track cyclists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 840030078,
+      "parentid": 836507934,
+      "timestamp": "2018-05-07T08:12:08Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 15804,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841292122,
+      "parentid": 840030078,
+      "timestamp": "2018-05-14T23:55:58Z",
+      "user": "DeprecatedFixerBot",
+      "userid": 33330201,
+      "size": 15820,
+      "comment": "Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of \"cols\" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 841397771,
+      "parentid": 841292122,
+      "timestamp": "2018-05-15T16:10:21Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 15812,
+      "comment": "Delete [[hypocorism]] per [[Wikipedia:Manual_of_Style/Lead_section#Usage_in_first_sentence]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841397814,
+      "parentid": 841397771,
+      "timestamp": "2018-05-15T16:10:38Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 15821,
+      "comment": "/* Retirement */ je",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841492506,
+      "parentid": 841397814,
+      "timestamp": "2018-05-16T05:35:15Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 15848,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841492526,
+      "parentid": 841492506,
+      "timestamp": "2018-05-16T05:35:32Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 15849,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841492545,
+      "parentid": 841492526,
+      "timestamp": "2018-05-16T05:35:42Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 15850,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841492599,
+      "parentid": 841492545,
+      "timestamp": "2018-05-16T05:36:14Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 15811,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841505891,
+      "parentid": 841492599,
+      "timestamp": "2018-05-16T08:01:55Z",
+      "user": "Tvlover19",
+      "userid": 29929722,
+      "size": 15826,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841519586,
+      "parentid": 841505891,
+      "timestamp": "2018-05-16T10:14:30Z",
+      "user": "JocularJellyfish",
+      "userid": 30938693,
+      "size": 15866,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 841519603,
+      "parentid": 841519586,
+      "timestamp": "2018-05-16T10:14:40Z",
+      "user": "JocularJellyfish",
+      "userid": 30938693,
+      "size": 15826,
+      "comment": "Undid revision 841519586 by [[Special:Contributions/JocularJellyfish|JocularJellyfish]] ([[User talk:JocularJellyfish|talk]]) error",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 841547189,
+      "parentid": 841519603,
+      "timestamp": "2018-05-16T14:13:21Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 15830,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 843055955,
+      "parentid": 841547189,
+      "timestamp": "2018-05-26T15:21:02Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 15851,
+      "comment": "+{{[[Template:Authority control|Authority control]]}} (1 source from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 845625139,
+      "parentid": 843055955,
+      "timestamp": "2018-06-13T01:48:26Z",
+      "user": "Nonk51",
+      "userid": 33982718,
+      "size": 15850,
+      "comment": "Marty is running for the 7th district, not the 15th.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 847488108,
+      "parentid": 845625139,
+      "timestamp": "2018-06-25T18:22:38Z",
+      "user": "207.172.253.66",
+      "userid": 0,
+      "size": 15895,
+      "comment": "added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 853004604,
+      "parentid": 847488108,
+      "timestamp": "2018-08-01T19:51:44Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16030,
+      "comment": "links to lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853004653,
+      "parentid": 853004604,
+      "timestamp": "2018-08-01T19:52:03Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16031,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 853004695,
+      "parentid": 853004653,
+      "timestamp": "2018-08-01T19:52:22Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16045,
+      "comment": "wahhh",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338343,
+      "parentid": 853004695,
+      "timestamp": "2018-08-17T15:38:30Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16231,
+      "comment": "/* Post-cycling career */  http://www.mcall.com/news/breaking/mc-nws-pa-congress-marty-nothstein-misconduct-charge-20180816-story.html",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 855338542,
+      "parentid": 855338343,
+      "timestamp": "2018-08-17T15:40:14Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16354,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338576,
+      "parentid": 855338542,
+      "timestamp": "2018-08-17T15:40:30Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16247,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338687,
+      "parentid": 855338576,
+      "timestamp": "2018-08-17T15:41:20Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16365,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338714,
+      "parentid": 855338687,
+      "timestamp": "2018-08-17T15:41:32Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16360,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338752,
+      "parentid": 855338714,
+      "timestamp": "2018-08-17T15:41:51Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16358,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338816,
+      "parentid": 855338752,
+      "timestamp": "2018-08-17T15:42:21Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16358,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338915,
+      "parentid": 855338816,
+      "timestamp": "2018-08-17T15:43:03Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16358,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338950,
+      "parentid": 855338915,
+      "timestamp": "2018-08-17T15:43:17Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16351,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855338984,
+      "parentid": 855338950,
+      "timestamp": "2018-08-17T15:43:34Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16346,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 855339007,
+      "parentid": 855338984,
+      "timestamp": "2018-08-17T15:43:46Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16346,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855339079,
+      "parentid": 855339007,
+      "timestamp": "2018-08-17T15:44:29Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16364,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855339140,
+      "parentid": 855339079,
+      "timestamp": "2018-08-17T15:44:59Z",
+      "user": "24.229.142.30",
+      "userid": 0,
+      "size": 16390,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855403727,
+      "parentid": 855339140,
+      "timestamp": "2018-08-18T01:39:54Z",
+      "user": "2601:80:4002:A690:80C5:749:9B0E:17B2",
+      "userid": 0,
+      "size": 16377,
+      "comment": "/* Cycling career */Pound is not a unit of mass",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 855747083,
+      "parentid": 855403727,
+      "timestamp": "2018-08-20T15:13:34Z",
+      "user": "Scanlan",
+      "userid": 1892257,
+      "size": 16400,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 857651286,
+      "parentid": 855747083,
+      "timestamp": "2018-09-02T03:49:25Z",
+      "user": "108.17.112.177",
+      "userid": 0,
+      "size": 16823,
+      "comment": "/* Political career */Added details about Nothstein being cleared.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 857651359,
+      "parentid": 857651286,
+      "timestamp": "2018-09-02T03:50:27Z",
+      "user": "108.17.112.177",
+      "userid": 0,
+      "size": 16919,
+      "comment": "/* References */Added citation.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 857651435,
+      "parentid": 857651359,
+      "timestamp": "2018-09-02T03:51:33Z",
+      "user": "108.17.112.177",
+      "userid": 0,
+      "size": 16919,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 858001821,
+      "parentid": 857651435,
+      "timestamp": "2018-09-04T12:33:23Z",
+      "user": "72.78.207.120",
+      "userid": 0,
+      "size": 17087,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 858001957,
+      "parentid": 858001821,
+      "timestamp": "2018-09-04T12:34:48Z",
+      "user": "72.78.207.120",
+      "userid": 0,
+      "size": 17198,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 858060256,
+      "parentid": 858001957,
+      "timestamp": "2018-09-04T19:55:56Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16045,
+      "comment": "yikes, unsourced [[WP:BLP]] violations galore",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 858060613,
+      "parentid": 858060256,
+      "timestamp": "2018-09-04T19:58:54Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16031,
+      "comment": "restored this",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 858202338,
+      "parentid": 858060613,
+      "timestamp": "2018-09-05T18:42:10Z",
+      "user": "209.129.89.50",
+      "userid": 0,
+      "size": 16505,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 858211582,
+      "parentid": 858202338,
+      "timestamp": "2018-09-05T19:25:28Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16031,
+      "comment": "Reverted 1 edit by [[Special:Contributions/209.129.89.50|209.129.89.50]] ([[User talk:209.129.89.50|talk]]). ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 860022517,
+      "parentid": 858211582,
+      "timestamp": "2018-09-17T20:29:26Z",
+      "user": "Sherwoodspeaks",
+      "userid": 31809902,
+      "size": 16485,
+      "comment": "/* Post-cycling career */ +newest poll in congressional race",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 860278613,
+      "parentid": 860022517,
+      "timestamp": "2018-09-19T15:33:47Z",
+      "user": "70.44.136.89",
+      "userid": 0,
+      "size": 16486,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 860286967,
+      "parentid": 860278613,
+      "timestamp": "2018-09-19T16:43:39Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16485,
+      "comment": "Undid revision 860278613 by [[Special:Contributions/70.44.136.89|70.44.136.89]] ([[User talk:70.44.136.89|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 860287072,
+      "parentid": 860286967,
+      "timestamp": "2018-09-19T16:44:19Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16485,
+      "comment": "spelling",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864069519,
+      "parentid": 860287072,
+      "timestamp": "2018-10-14T22:18:10Z",
+      "user": "100.34.16.113",
+      "userid": 0,
+      "size": 16511,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 867503106,
+      "parentid": 864069519,
+      "timestamp": "2018-11-06T03:47:50Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 16511,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867522660,
+      "parentid": 867503106,
+      "timestamp": "2018-11-06T07:35:46Z",
+      "user": "2600:1700:9DA0:CA70:146D:CCCD:A149:2DC4",
+      "userid": 0,
+      "size": 16485,
+      "comment": "No reference for nickname",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 867522721,
+      "parentid": 867522660,
+      "timestamp": "2018-11-06T07:36:33Z",
+      "user": "2600:1700:9DA0:CA70:146D:CCCD:A149:2DC4",
+      "userid": 0,
+      "size": 16318,
+      "comment": "/* Cycling career */Nickname claims need citation",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 867774426,
+      "parentid": 867522721,
+      "timestamp": "2018-11-07T22:41:47Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 16010,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868197840,
+      "parentid": 867774426,
+      "timestamp": "2018-11-10T17:15:05Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 16214,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868497071,
+      "parentid": 868197840,
+      "timestamp": "2018-11-12T15:49:07Z",
+      "user": "2601:447:4101:41F9:F117:6189:8E59:78F",
+      "userid": 0,
+      "size": 16404,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868497249,
+      "parentid": 868497071,
+      "timestamp": "2018-11-12T15:50:44Z",
+      "user": "68.47.65.239",
+      "userid": 0,
+      "size": 16403,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868501853,
+      "parentid": 868497249,
+      "timestamp": "2018-11-12T16:27:28Z",
+      "user": "2601:447:4101:41F9:F117:6189:8E59:78F",
+      "userid": 0,
+      "size": 16572,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868503785,
+      "parentid": 868501853,
+      "timestamp": "2018-11-12T16:44:07Z",
+      "user": "2601:447:4101:41F9:F117:6189:8E59:78F",
+      "userid": 0,
+      "size": 16588,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868504023,
+      "parentid": 868503785,
+      "timestamp": "2018-11-12T16:45:57Z",
+      "user": "2601:447:4101:41F9:F117:6189:8E59:78F",
+      "userid": 0,
+      "size": 16719,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868505004,
+      "parentid": 868504023,
+      "timestamp": "2018-11-12T16:54:41Z",
+      "user": "2601:447:4101:41F9:F117:6189:8E59:78F",
+      "userid": 0,
+      "size": 16840,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868514793,
+      "parentid": 868505004,
+      "timestamp": "2018-11-12T18:12:30Z",
+      "user": "2601:447:4101:41F9:F117:6189:8E59:78F",
+      "userid": 0,
+      "size": 16867,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868514890,
+      "parentid": 868514793,
+      "timestamp": "2018-11-12T18:13:20Z",
+      "user": "2601:447:4101:41F9:F117:6189:8E59:78F",
+      "userid": 0,
+      "size": 16867,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868925526,
+      "parentid": 868514890,
+      "timestamp": "2018-11-15T08:03:58Z",
+      "user": "108.56.73.144",
+      "userid": 0,
+      "size": 16913,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 869019484,
+      "parentid": 868925526,
+      "timestamp": "2018-11-15T22:12:57Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 16689,
+      "comment": "https://www.mcall.com/news/nationworld/pennsylvania/mc-nws-pa-15-congress-special-election-winner-20181115-story.html",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869052550,
+      "parentid": 869019484,
+      "timestamp": "2018-11-16T02:54:49Z",
+      "user": "68.47.64.121",
+      "userid": 0,
+      "size": 16820,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869056070,
+      "parentid": 869052550,
+      "timestamp": "2018-11-16T03:27:28Z",
+      "user": "68.47.64.121",
+      "userid": 0,
+      "size": 16948,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869056205,
+      "parentid": 869056070,
+      "timestamp": "2018-11-16T03:29:03Z",
+      "user": "68.47.64.121",
+      "userid": 0,
+      "size": 16997,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869056348,
+      "parentid": 869056205,
+      "timestamp": "2018-11-16T03:30:29Z",
+      "user": "68.47.64.121",
+      "userid": 0,
+      "size": 17010,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869518177,
+      "parentid": 869056348,
+      "timestamp": "2018-11-19T03:23:27Z",
+      "user": "Neils51",
+      "userid": 16416757,
+      "size": 17010,
+      "comment": "/* Post-cycling career */  grammar/usage - 'votes' is a countable noun",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 871085035,
+      "parentid": 869518177,
+      "timestamp": "2018-11-28T20:51:58Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 17004,
+      "comment": "corrected",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 871085244,
+      "parentid": 871085035,
+      "timestamp": "2018-11-28T20:53:37Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16874,
+      "comment": "confusing--he only ran in the 7th district",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 871085682,
+      "parentid": 871085244,
+      "timestamp": "2018-11-28T20:57:09Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 17004,
+      "comment": "ok, I get it, the special & the regular...still kinda confusing",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 871085743,
+      "parentid": 871085682,
+      "timestamp": "2018-11-28T20:57:32Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16999,
+      "comment": "copyedits",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 871224357,
+      "parentid": 871085743,
+      "timestamp": "2018-11-29T18:37:56Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 16945,
+      "comment": "dead link, title not supported on official website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 876166966,
+      "parentid": 871224357,
+      "timestamp": "2018-12-31T15:59:43Z",
+      "user": "207.172.188.53",
+      "userid": 0,
+      "size": 16865,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 876168484,
+      "parentid": 876166966,
+      "timestamp": "2018-12-31T16:12:37Z",
+      "user": "70.44.185.117",
+      "userid": 0,
+      "size": 16730,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 876169034,
+      "parentid": 876168484,
+      "timestamp": "2018-12-31T16:17:08Z",
+      "user": "70.44.185.117",
+      "userid": 0,
+      "size": 16996,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 876169200,
+      "parentid": 876169034,
+      "timestamp": "2018-12-31T16:18:32Z",
+      "user": "70.44.185.117",
+      "userid": 0,
+      "size": 17031,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 876169375,
+      "parentid": 876169200,
+      "timestamp": "2018-12-31T16:20:01Z",
+      "user": "70.44.185.117",
+      "userid": 0,
+      "size": 17101,
+      "comment": "/* Early life and education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 876169531,
+      "parentid": 876169375,
+      "timestamp": "2018-12-31T16:21:11Z",
+      "user": "70.44.185.117",
+      "userid": 0,
+      "size": 17093,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 876170271,
+      "parentid": 876169531,
+      "timestamp": "2018-12-31T16:26:41Z",
+      "user": "70.44.185.117",
+      "userid": 0,
+      "size": 16953,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 876170410,
+      "parentid": 876170271,
+      "timestamp": "2018-12-31T16:27:50Z",
+      "user": "70.44.185.117",
+      "userid": 0,
+      "size": 16873,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 876174900,
+      "parentid": 876170410,
+      "timestamp": "2018-12-31T17:07:05Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16945,
+      "comment": "promotional sounding and unsourced",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 880626581,
+      "parentid": 876174900,
+      "timestamp": "2019-01-28T13:38:44Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 16911,
+      "comment": "/* top */[[User:PrimeBOT/Task 30|Task 30]] - rmv deprecated params in [[Template:Infobox cyclist]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 883129299,
+      "parentid": 880626581,
+      "timestamp": "2019-02-13T13:21:38Z",
+      "user": "Possums",
+      "userid": 17177522,
+      "size": 16796,
+      "comment": "/* Personal life */ unsourced opinion",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 886135312,
+      "parentid": 883129299,
+      "timestamp": "2019-03-04T13:37:25Z",
+      "user": "Zyxw",
+      "userid": 473593,
+      "size": 16829,
+      "comment": "merge infoboxes, misc formatting",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 888419213,
+      "parentid": 886135312,
+      "timestamp": "2019-03-19T00:56:38Z",
+      "user": "108.16.95.125",
+      "userid": 0,
+      "size": 17147,
+      "comment": "/* 2018 U.S. House campaign */Added missing information about legal accusations and suits being pursued in the public domain.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 888435553,
+      "parentid": 888419213,
+      "timestamp": "2019-03-19T03:46:09Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16829,
+      "comment": "Reverted 1 edit by [[Special:Contributions/108.16.95.125|108.16.95.125]] ([[User talk:108.16.95.125|talk]]): Yikes, [[WP:BLP]] ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 891981138,
+      "parentid": 888435553,
+      "timestamp": "2019-04-11T12:02:51Z",
+      "user": "108.16.95.125",
+      "userid": 0,
+      "size": 16828,
+      "comment": "/* 2018 U.S. House campaign */ Incorrect information about time of announcement. Edited wording to reflect reality.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 916289858,
+      "parentid": 891981138,
+      "timestamp": "2019-09-18T03:55:39Z",
+      "user": "174.206.9.109",
+      "userid": 0,
+      "size": 16874,
+      "comment": "/* 2018 U.S. House campaign */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 917888837,
+      "parentid": 916289858,
+      "timestamp": "2019-09-25T23:52:59Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 16877,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (2×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 918100485,
+      "parentid": 917888837,
+      "timestamp": "2019-09-27T01:21:04Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 16872,
+      "comment": "fractions not allowed in height",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 918248083,
+      "parentid": 918100485,
+      "timestamp": "2019-09-27T18:47:07Z",
+      "user": "MB",
+      "userid": 26021349,
+      "size": 16877,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/MB|MB]] ([[User talk:MB|talk]]): Template bug fixed ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 920962473,
+      "parentid": 918248083,
+      "timestamp": "2019-10-13T00:48:23Z",
+      "user": "50.234.75.29",
+      "userid": 0,
+      "size": 17207,
+      "comment": "Nothstein faces new allegations of past conduct",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 924087829,
+      "parentid": 920962473,
+      "timestamp": "2019-11-01T18:43:11Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 17201,
+      "comment": "Cite cleanup",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 924655454,
+      "parentid": 924087829,
+      "timestamp": "2019-11-05T03:48:07Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 17197,
+      "comment": "/* Cycling career */[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (0×/1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 928597882,
+      "parentid": 924655454,
+      "timestamp": "2019-11-30T10:53:02Z",
+      "user": "2601:603:1C7F:6F40:E0C8:AFC5:30D3:9388",
+      "userid": 0,
+      "size": 17066,
+      "comment": "/* 2018 U.S. House campaign */ dead link or link requires login or cookies to read.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 928607929,
+      "parentid": 928597882,
+      "timestamp": "2019-11-30T12:54:12Z",
+      "user": "Hunter Kahn",
+      "userid": 6494148,
+      "size": 17449,
+      "comment": "Updated",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 928607993,
+      "parentid": 928607929,
+      "timestamp": "2019-11-30T12:54:50Z",
+      "user": "Hunter Kahn",
+      "userid": 6494148,
+      "size": 17448,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 941455643,
+      "parentid": 928607993,
+      "timestamp": "2020-02-18T18:02:46Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 17508,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 944070892,
+      "parentid": 941455643,
+      "timestamp": "2020-03-05T15:01:56Z",
+      "user": "Lugnuts",
+      "userid": 1276024,
+      "size": 17562,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American cyclist and politician\", overriding Wikidata description \"American racing cyclist and politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 944099575,
+      "parentid": 944070892,
+      "timestamp": "2020-03-05T18:37:14Z",
+      "user": "Lugnuts",
+      "userid": 1276024,
+      "size": 17610,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 944913491,
+      "parentid": 944099575,
+      "timestamp": "2020-03-10T17:53:06Z",
+      "user": "Lugnuts",
+      "userid": 1276024,
+      "size": 17660,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 947615755,
+      "parentid": 944913491,
+      "timestamp": "2020-03-27T12:18:26Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 17942,
+      "comment": "Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 950347561,
+      "parentid": 947615755,
+      "timestamp": "2020-04-11T16:24:01Z",
+      "user": "Cyclingboss",
+      "userid": 38986120,
+      "size": 17789,
+      "comment": "added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 950348030,
+      "parentid": 950347561,
+      "timestamp": "2020-04-11T16:27:09Z",
+      "user": "Cyclingboss",
+      "userid": 38986120,
+      "size": 15441,
+      "comment": "/* Post-cycling career */Fixed information",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 950348272,
+      "parentid": 950348030,
+      "timestamp": "2020-04-11T16:28:31Z",
+      "user": "Cyclingboss",
+      "userid": 38986120,
+      "size": 15489,
+      "comment": "/* Early life and education */Fixed content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 950348707,
+      "parentid": 950348272,
+      "timestamp": "2020-04-11T16:31:01Z",
+      "user": "Cyclingboss",
+      "userid": 38986120,
+      "size": 15442,
+      "comment": "Updated content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 957822663,
+      "parentid": 950348707,
+      "timestamp": "2020-05-20T18:35:50Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 15617,
+      "comment": "Rescued 1 archive link; reformat 2 links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974904058,
+      "parentid": 957822663,
+      "timestamp": "2020-08-25T18:23:37Z",
+      "user": "2603:300B:533:A000:E454:FD00:A911:B118",
+      "userid": 0,
+      "size": 15916,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 975102804,
+      "parentid": 974904058,
+      "timestamp": "2020-08-26T19:12:43Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 15912,
+      "comment": "Duplicate word removed",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 976514414,
+      "parentid": 975102804,
+      "timestamp": "2020-09-03T10:57:33Z",
+      "user": "2500W",
+      "userid": 38572803,
+      "size": 16155,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981340469,
+      "parentid": 976514414,
+      "timestamp": "2020-10-01T18:43:51Z",
+      "user": "82.50.44.156",
+      "userid": 0,
+      "size": 16156,
+      "comment": "/* Cycling career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 988751726,
+      "parentid": 981340469,
+      "timestamp": "2020-11-15T01:24:58Z",
+      "user": "207.172.182.15",
+      "userid": 0,
+      "size": 16741,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 988751911,
+      "parentid": 988751726,
+      "timestamp": "2020-11-15T01:26:23Z",
+      "user": "207.172.182.15",
+      "userid": 0,
+      "size": 16754,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 988856426,
+      "parentid": 988751911,
+      "timestamp": "2020-11-15T17:43:38Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 16156,
+      "comment": "unsourced",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert"
+      ]
+    },
+    {
+      "revid": 991081007,
+      "parentid": 988856426,
+      "timestamp": "2020-11-28T04:21:11Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 16208,
+      "comment": "added [[Category:Competitors at the 2001 Goodwill Games]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 996728472,
+      "parentid": 991081007,
+      "timestamp": "2020-12-28T08:39:33Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 16262,
+      "comment": "added [[:Category:Medalists at the 1995 Pan American Games]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1003284190,
+      "parentid": 996728472,
+      "timestamp": "2021-01-28T07:30:32Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 16265,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 7 templates: hyphenate params (3×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1028639841,
+      "parentid": 1003284190,
+      "timestamp": "2021-06-15T05:00:28Z",
+      "user": "2603:7000:2143:8500:2023:8A36:7523:6635",
+      "userid": 0,
+      "size": 16290,
+      "comment": "ce tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028639924,
+      "parentid": 1028639841,
+      "timestamp": "2021-06-15T05:01:20Z",
+      "user": "2603:7000:2143:8500:2023:8A36:7523:6635",
+      "userid": 0,
+      "size": 17159,
+      "comment": "Filled in 6 bare reference(s) with reFill 2",
+      "minor": false,
+      "tags": [
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1028640080,
+      "parentid": 1028639924,
+      "timestamp": "2021-06-15T05:03:12Z",
+      "user": "2603:7000:2143:8500:2023:8A36:7523:6635",
+      "userid": 0,
+      "size": 17019,
+      "comment": "/* Cycling career */ ce",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028640601,
+      "parentid": 1028640080,
+      "timestamp": "2021-06-15T05:09:21Z",
+      "user": "2603:7000:2143:8500:2023:8A36:7523:6635",
+      "userid": 0,
+      "size": 16124,
+      "comment": "/* Major achievements */ overlink; should be truncated",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028651772,
+      "parentid": 1028640601,
+      "timestamp": "2021-06-15T07:09:22Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 16199,
+      "comment": "Dating maintenance tags: {{Fact}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1028727588,
+      "parentid": 1028651772,
+      "timestamp": "2021-06-15T17:15:01Z",
+      "user": "2603:7000:2143:8500:65D5:821A:6338:E96F",
+      "userid": 0,
+      "size": 17415,
+      "comment": "/* Post-cycling career */ add",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1028727647,
+      "parentid": 1028727588,
+      "timestamp": "2021-06-15T17:15:30Z",
+      "user": "2603:7000:2143:8500:65D5:821A:6338:E96F",
+      "userid": 0,
+      "size": 17746,
+      "comment": "Filled in 4 bare reference(s) with reFill 2",
+      "minor": false,
+      "tags": [
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1029406664,
+      "parentid": 1028727647,
+      "timestamp": "2021-06-19T19:48:35Z",
+      "user": "UW Dawgs",
+      "userid": 17912182,
+      "size": 17745,
+      "comment": "/* Post-cycling career */ bypass redir",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1031709943,
+      "parentid": 1029406664,
+      "timestamp": "2021-07-03T05:45:32Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 17743,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Pages which use embedded infobox templates with the title parameter]] | #UCB_Category 280/2715",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1032176245,
+      "parentid": 1031709943,
+      "timestamp": "2021-07-05T22:33:36Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 17692,
+      "comment": "Removing from [[Category:Olympic cyclists of the United States]] in subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1034741846,
+      "parentid": 1032176245,
+      "timestamp": "2021-07-21T15:07:16Z",
+      "user": "LVnewsman",
+      "userid": 42208537,
+      "size": 14074,
+      "comment": "cleaned up post cycling",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1034753293,
+      "parentid": 1034741846,
+      "timestamp": "2021-07-21T16:18:59Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 17692,
+      "comment": "you didn't \"clean up\", you deleted the section in its entirety",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1037279103,
+      "parentid": 1034753293,
+      "timestamp": "2021-08-05T15:34:40Z",
+      "user": "24.115.238.152",
+      "userid": 0,
+      "size": 14074,
+      "comment": "post cycling content is unverified, outdated and irrelevant",
+      "minor": false,
+      "tags": [
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1037279199,
+      "parentid": 1037279103,
+      "timestamp": "2021-08-05T15:35:24Z",
+      "user": "Avitus27",
+      "userid": 12305141,
+      "size": 17692,
+      "comment": "Reverted 1 edit by [[Special:Contributions/24.115.238.152|24.115.238.152]] ([[User talk:24.115.238.152|talk]]) to last revision by Marquardtika",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1037280201,
+      "parentid": 1037279199,
+      "timestamp": "2021-08-05T15:42:53Z",
+      "user": "Suonii180",
+      "userid": 27089876,
+      "size": 17674,
+      "comment": "/* Post-cycling career */ ce",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1049996054,
+      "parentid": 1037280201,
+      "timestamp": "2021-10-15T04:29:34Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 17757,
+      "comment": "add [[:Category:21st-century American Jews]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1059300035,
+      "parentid": 1049996054,
+      "timestamp": "2021-12-08T17:26:09Z",
+      "user": "75.97.175.72",
+      "userid": 0,
+      "size": 18026,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1059709002,
+      "parentid": 1059300035,
+      "timestamp": "2021-12-11T02:51:39Z",
+      "user": "Hdevine825",
+      "userid": 16212565,
+      "size": 18066,
+      "comment": "added [[Category:Cyclists from Pennsylvania]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1086120885,
+      "parentid": 1059709002,
+      "timestamp": "2022-05-04T08:31:51Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18088,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086121060,
+      "parentid": 1086120885,
+      "timestamp": "2022-05-04T08:33:31Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18136,
+      "comment": "/* Post-cycling career */ +",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086121150,
+      "parentid": 1086121060,
+      "timestamp": "2022-05-04T08:34:19Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18135,
+      "comment": "/* Post-cycling career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086121391,
+      "parentid": 1086121150,
+      "timestamp": "2022-05-04T08:36:37Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18102,
+      "comment": "/* Early life and education */ tighten sentence",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086121428,
+      "parentid": 1086121391,
+      "timestamp": "2022-05-04T08:36:59Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18102,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086121786,
+      "parentid": 1086121428,
+      "timestamp": "2022-05-04T08:40:09Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18116,
+      "comment": "/* Post-cycling career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086121846,
+      "parentid": 1086121786,
+      "timestamp": "2022-05-04T08:40:37Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18117,
+      "comment": "/* Post-cycling career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086122009,
+      "parentid": 1086121846,
+      "timestamp": "2022-05-04T08:42:05Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18117,
+      "comment": "/* Post-cycling career */ reference at end of sentence",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086122450,
+      "parentid": 1086122009,
+      "timestamp": "2022-05-04T08:46:12Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18057,
+      "comment": "/* Cycling career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086122504,
+      "parentid": 1086122450,
+      "timestamp": "2022-05-04T08:46:38Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18065,
+      "comment": "/* Cycling career */ year from section below",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086122577,
+      "parentid": 1086122504,
+      "timestamp": "2022-05-04T08:47:17Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18057,
+      "comment": "/* Post-cycling career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1086862944,
+      "parentid": 1086122577,
+      "timestamp": "2022-05-08T20:40:05Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 18185,
+      "comment": "Alter: template type. Add: newspaper, date, title. Changed bare reference to CS1/2. Removed parameters. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 2562/2845",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1101021692,
+      "parentid": 1086862944,
+      "timestamp": "2022-07-28T22:22:34Z",
+      "user": "Seacactus 13",
+      "userid": 17079922,
+      "size": 18194,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105847015,
+      "parentid": 1101021692,
+      "timestamp": "2022-08-22T02:40:19Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 18250,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 256/3838",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1109144815,
+      "parentid": 1105847015,
+      "timestamp": "2022-09-08T06:46:32Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18246,
+      "comment": "/* Early life and education */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1109144918,
+      "parentid": 1109144815,
+      "timestamp": "2022-09-08T06:47:44Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18237,
+      "comment": "/* Cycling career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1115595247,
+      "parentid": 1109144918,
+      "timestamp": "2022-10-12T06:58:13Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18243,
+      "comment": "/* External links */ more refined category",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1120216216,
+      "parentid": 1115595247,
+      "timestamp": "2022-11-05T20:11:15Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18257,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140789314,
+      "parentid": 1120216216,
+      "timestamp": "2023-02-21T20:19:44Z",
+      "user": "Chsdrummajor07",
+      "userid": 5623853,
+      "size": 18806,
+      "comment": "/* Post-cycling career */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "disambiguator-link-added"
+      ]
+    },
+    {
+      "revid": 1140789467,
+      "parentid": 1140789314,
+      "timestamp": "2023-02-21T20:20:39Z",
+      "user": "Chsdrummajor07",
+      "userid": 5623853,
+      "size": 18812,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1140916619,
+      "parentid": 1140789467,
+      "timestamp": "2023-02-22T12:04:40Z",
+      "user": "Rodw",
+      "userid": 125972,
+      "size": 18820,
+      "comment": "Disambiguating links to [[WFMZ]] (link changed to [[WFMZ-TV]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1175061280,
+      "parentid": 1140916619,
+      "timestamp": "2023-09-12T15:06:34Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 18819,
+      "comment": "Sp",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184243341,
+      "parentid": 1175061280,
+      "timestamp": "2023-11-09T05:51:55Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18847,
+      "comment": "link fixed",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184244168,
+      "parentid": 1184243341,
+      "timestamp": "2023-11-09T06:00:43Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18937,
+      "comment": "ce",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184244240,
+      "parentid": 1184244168,
+      "timestamp": "2023-11-09T06:01:15Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18937,
+      "comment": "link fixed",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184244357,
+      "parentid": 1184244240,
+      "timestamp": "2023-11-09T06:02:16Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18889,
+      "comment": "link fixed",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184244431,
+      "parentid": 1184244357,
+      "timestamp": "2023-11-09T06:02:52Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18890,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184244482,
+      "parentid": 1184244431,
+      "timestamp": "2023-11-09T06:03:15Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18876,
+      "comment": "/* External links */ dead link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1184244729,
+      "parentid": 1184244482,
+      "timestamp": "2023-11-09T06:05:07Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 18902,
+      "comment": "/* Cycling career */ link fixed",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1185897782,
+      "parentid": 1184244729,
+      "timestamp": "2023-11-19T17:38:05Z",
+      "user": "Orenburg1",
+      "userid": 10248457,
+      "size": 18902,
+      "comment": "sp",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1187312215,
+      "parentid": 1185897782,
+      "timestamp": "2023-11-28T13:19:39Z",
+      "user": "Epluribusunumyall",
+      "userid": 35922296,
+      "size": 18947,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1187393863,
+      "parentid": 1187312215,
+      "timestamp": "2023-11-29T00:00:26Z",
+      "user": "Epluribusunumyall",
+      "userid": 35922296,
+      "size": 18905,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1199260881,
+      "parentid": 1187393863,
+      "timestamp": "2024-01-26T16:26:09Z",
+      "user": "The Sky Bot",
+      "userid": 45461814,
+      "size": 18916,
+      "comment": "/* top */[[User:The Sky Bot/1|Task 1:]] {{[[Template:Ct|ct]]}} → {{[[Template:UCI team code|UCI team code]]}} Operator: [[:User:Robertsky|User:Robertsky]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1219665223,
+      "parentid": 1199260881,
+      "timestamp": "2024-04-19T03:25:41Z",
+      "user": "2603:7000:2101:AA00:B980:7348:CF80:8715",
+      "userid": 0,
+      "size": 19043,
+      "comment": "/* References */ add",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1225260676,
+      "parentid": 1219665223,
+      "timestamp": "2024-05-23T10:23:26Z",
+      "user": "FrescoBot",
+      "userid": 9021902,
+      "size": 19010,
+      "comment": "Bot: [[User:FrescoBot/Links|link syntax]] and minor changes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1225622610,
+      "parentid": 1225260676,
+      "timestamp": "2024-05-25T17:24:31Z",
+      "user": "216.164.253.83",
+      "userid": 0,
+      "size": 19795,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "possible libel or vandalism",
+        "possible unreferenced addition to BLP",
+        "mw-reverted",
+        "editcheck-references",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1225813178,
+      "parentid": 1225622610,
+      "timestamp": "2024-05-26T21:30:42Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 19010,
+      "comment": "Reverted 1 edit by [[Special:Contributions/216.164.253.83|216.164.253.83]] ([[User talk:216.164.253.83|talk]]): Unsourced [[WP:BLP]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1226139122,
+      "parentid": 1225813178,
+      "timestamp": "2024-05-28T19:48:44Z",
+      "user": "70.44.8.118",
+      "userid": 0,
+      "size": 19163,
+      "comment": "Legal",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted",
+        "editcheck-references",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1226139429,
+      "parentid": 1226139122,
+      "timestamp": "2024-05-28T19:51:05Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 19010,
+      "comment": "Reverted 1 edit by [[Special:Contributions/70.44.8.118|70.44.8.118]] ([[User talk:70.44.8.118|talk]]): Unsourced [[WP:BLP]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1226140947,
+      "parentid": 1226139429,
+      "timestamp": "2024-05-28T20:01:08Z",
+      "user": "6xxdan",
+      "userid": 47921564,
+      "size": 19159,
+      "comment": "Legal",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-reverted",
+        "editcheck-references",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1226141094,
+      "parentid": 1226140947,
+      "timestamp": "2024-05-28T20:02:13Z",
+      "user": "Wiiformii",
+      "userid": 43252809,
+      "size": 19010,
+      "comment": "Reverted edits by [[Special:Contributions/6xxdan|6xxdan]] ([[User talk:6xxdan|talk]]) ([[WP:AntiVandal|AV]])",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "AntiVandal script"
+      ]
+    },
+    {
+      "revid": 1226142571,
+      "parentid": 1226141094,
+      "timestamp": "2024-05-28T20:12:42Z",
+      "user": "6xxdan",
+      "userid": 47921564,
+      "size": 19540,
+      "comment": "Legal",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "editcheck-newreference",
+        "editcheck-newcontent"
+      ]
+    },
+    {
+      "revid": 1233159793,
+      "parentid": 1226142571,
+      "timestamp": "2024-07-07T15:55:49Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 19565,
+      "comment": "removed [[Category:Candidates in the 2018 United States elections]]; added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1238956604,
+      "parentid": 1233159793,
+      "timestamp": "2024-08-06T15:40:09Z",
+      "user": "50.174.92.2",
+      "userid": 0,
+      "size": 19567,
+      "comment": "spelling corrections/missing letters",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1239502353,
+      "parentid": 1238956604,
+      "timestamp": "2024-08-09T17:34:41Z",
+      "user": "GünniX",
+      "userid": 237572,
+      "size": 19563,
+      "comment": "unbalanced brackets",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1241613295,
+      "parentid": 1239502353,
+      "timestamp": "2024-08-22T06:02:24Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19608,
+      "comment": "/* External links */ add [[Category:21st-century American sportsmen]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1259161033,
+      "parentid": 1241613295,
+      "timestamp": "2024-11-23T18:30:33Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19653,
+      "comment": "/* External links */ add [[Category:20th-century American sportsmen]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marty_Nothstein"
+}

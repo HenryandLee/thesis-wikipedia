@@ -1,0 +1,978 @@
+{
+  "page_title": "Pam_Byrnes",
+  "candidate_name": "Pam Byrnes",
+  "collection_date": "2025-12-28T16:50:51.562829",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 85,
+    "unique_editors": 47,
+    "date_range": {
+      "start": "2008-03-03T14:12:04Z",
+      "end": "2024-12-05T00:30:47Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 195551068,
+      "parentid": 0,
+      "timestamp": "2008-03-03T14:12:04Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 1400,
+      "comment": "Initial entry.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195551497,
+      "parentid": 195551068,
+      "timestamp": "2008-03-03T14:15:25Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 1342,
+      "comment": "Correcting birthday",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195556441,
+      "parentid": 195551497,
+      "timestamp": "2008-03-03T14:47:51Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 1357,
+      "comment": "needs work",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195779944,
+      "parentid": 195556441,
+      "timestamp": "2008-03-04T11:39:11Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 1373,
+      "comment": "Date the maintenance tags or general  fixes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 200944519,
+      "parentid": 195779944,
+      "timestamp": "2008-03-26T00:34:42Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 1421,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 212902432,
+      "parentid": 200944519,
+      "timestamp": "2008-05-16T20:06:28Z",
+      "user": "198.109.173.40",
+      "userid": 0,
+      "size": 1407,
+      "comment": "/* 2008 election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225105336,
+      "parentid": 212902432,
+      "timestamp": "2008-07-11T22:15:34Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 1485,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225244201,
+      "parentid": 225105336,
+      "timestamp": "2008-07-12T17:39:07Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 1508,
+      "comment": "/* 2008 election */ cite?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 225524892,
+      "parentid": 225244201,
+      "timestamp": "2008-07-14T03:47:53Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 1524,
+      "comment": "Date the maintenance tags or general  fixes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 250036590,
+      "parentid": 225524892,
+      "timestamp": "2008-11-06T14:51:22Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 1703,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251234971,
+      "parentid": 250036590,
+      "timestamp": "2008-11-12T01:38:43Z",
+      "user": "74.61.226.143",
+      "userid": 0,
+      "size": 1538,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 251347484,
+      "parentid": 251234971,
+      "timestamp": "2008-11-12T14:58:39Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 1703,
+      "comment": "[[WP:UNDO|Undid]] revision 251234971 by [[Special:Contributions/74.61.226.143|74.61.226.143]] ([[User talk:74.61.226.143|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 261877823,
+      "parentid": 251347484,
+      "timestamp": "2009-01-04T12:01:42Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 1706,
+      "comment": "Removed category \"American women state legislators\"; Quick-adding category \"Women state legislators in Michigan\" (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 262204372,
+      "parentid": 261877823,
+      "timestamp": "2009-01-06T00:35:31Z",
+      "user": "Welsh",
+      "userid": 310131,
+      "size": 1703,
+      "comment": "clean up, Replaced: 52th → 52nd, typos fixed: the the → the  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 279429399,
+      "parentid": 262204372,
+      "timestamp": "2009-03-24T19:59:12Z",
+      "user": "RogDel",
+      "userid": 6192846,
+      "size": 1701,
+      "comment": "Cleanup at the vital dates",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 282308789,
+      "parentid": 279429399,
+      "timestamp": "2009-04-07T10:00:14Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 1702,
+      "comment": "Date maintenance tags and general  fixes",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 332928267,
+      "parentid": 282308789,
+      "timestamp": "2009-12-20T22:30:35Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 1836,
+      "comment": "Adding links to official election results from Washtenaw County government website.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 332929039,
+      "parentid": 332928267,
+      "timestamp": "2009-12-20T22:34:46Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 2149,
+      "comment": "Adding information about candidacy for State Senate.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 332929940,
+      "parentid": 332929039,
+      "timestamp": "2009-12-20T22:39:39Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 2555,
+      "comment": "Adding info box.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 332931374,
+      "parentid": 332929940,
+      "timestamp": "2009-12-20T22:48:19Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 2610,
+      "comment": "Editing infobox content",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 332931990,
+      "parentid": 332931374,
+      "timestamp": "2009-12-20T22:51:26Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 2641,
+      "comment": "Adding website to info box.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 333068953,
+      "parentid": 332931990,
+      "timestamp": "2009-12-21T15:13:25Z",
+      "user": "Knoxilla",
+      "userid": 1421282,
+      "size": 2786,
+      "comment": "Updating external links",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 376160336,
+      "parentid": 333068953,
+      "timestamp": "2010-07-29T21:48:14Z",
+      "user": "Buzzaa",
+      "userid": 9407407,
+      "size": 3318,
+      "comment": "Added information from a recent news item on this campaign.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376308223,
+      "parentid": 376160336,
+      "timestamp": "2010-07-30T19:21:05Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 3327,
+      "comment": "/* Seeking election to State Senate in 2010 */ format footnote properly",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376308486,
+      "parentid": 376308223,
+      "timestamp": "2010-07-30T19:22:47Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 3501,
+      "comment": "/* Seeking election to State Senate in 2010 */ refs",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376308680,
+      "parentid": 376308486,
+      "timestamp": "2010-07-30T19:24:09Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 3499,
+      "comment": "could somebody create some actual footnotes here?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 376310142,
+      "parentid": 376308680,
+      "timestamp": "2010-07-30T19:33:54Z",
+      "user": "Akerans",
+      "userid": 12106088,
+      "size": 3523,
+      "comment": "Converted inline el to refs.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 376311145,
+      "parentid": 376310142,
+      "timestamp": "2010-07-30T19:40:20Z",
+      "user": "Akerans",
+      "userid": 12106088,
+      "size": 4170,
+      "comment": "Filling in 6 references using [[WP:REFLINKS|Reflinks]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 376311472,
+      "parentid": 376311145,
+      "timestamp": "2010-07-30T19:42:46Z",
+      "user": "Akerans",
+      "userid": 12106088,
+      "size": 4141,
+      "comment": "Removed tags. Links are wikified and everything appears to be cited.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 387028941,
+      "parentid": 376311472,
+      "timestamp": "2010-09-25T23:49:12Z",
+      "user": "RMc",
+      "userid": 238248,
+      "size": 4204,
+      "comment": "/* Seeking election to State Senate in 2010 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 387408775,
+      "parentid": 387028941,
+      "timestamp": "2010-09-27T22:07:53Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 4444,
+      "comment": "/* External links */Persondata completion using [[Project:AWB|AWB]] (7192)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 394298819,
+      "parentid": 387408775,
+      "timestamp": "2010-11-02T01:58:22Z",
+      "user": "99.21.38.195",
+      "userid": 0,
+      "size": 4451,
+      "comment": "/* Seeking election to State Senate in 2010 */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 394306004,
+      "parentid": 394298819,
+      "timestamp": "2010-11-02T02:44:06Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 4455,
+      "comment": "/* Seeking election to State Senate in 2010 */ wikilink",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 394306131,
+      "parentid": 394306004,
+      "timestamp": "2010-11-02T02:45:03Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 4483,
+      "comment": "/* Seeking election to State Senate in 2010 */ wikilinks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416274475,
+      "parentid": 394306131,
+      "timestamp": "2011-02-27T22:16:04Z",
+      "user": "72.192.215.207",
+      "userid": 0,
+      "size": 4490,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416274792,
+      "parentid": 416274475,
+      "timestamp": "2011-02-27T22:18:09Z",
+      "user": "72.192.215.207",
+      "userid": 0,
+      "size": 4505,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416274954,
+      "parentid": 416274792,
+      "timestamp": "2011-02-27T22:19:11Z",
+      "user": "72.192.215.207",
+      "userid": 0,
+      "size": 4514,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 429875726,
+      "parentid": 416274954,
+      "timestamp": "2011-05-19T12:53:50Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 4500,
+      "comment": "[[WP:CHECKWIKI]] error fixes + [[WP:GENFIXES|general fixes]] using [[Project:AWB|AWB]] (7708)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459535566,
+      "parentid": 429875726,
+      "timestamp": "2011-11-07T23:07:49Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 4520,
+      "comment": "/* External links */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 474119546,
+      "parentid": 459535566,
+      "timestamp": "2012-01-30T23:22:27Z",
+      "user": "Dayshade",
+      "userid": 15561275,
+      "size": 4518,
+      "comment": "american page = ran instead of stood",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500877018,
+      "parentid": 474119546,
+      "timestamp": "2012-07-06T00:23:38Z",
+      "user": "Mshulman",
+      "userid": 5832366,
+      "size": 4531,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 553082850,
+      "parentid": 500877018,
+      "timestamp": "2013-05-01T18:59:49Z",
+      "user": "Pmrk12",
+      "userid": 18939067,
+      "size": 4453,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564730421,
+      "parentid": 553082850,
+      "timestamp": "2013-07-18T01:58:12Z",
+      "user": "Wikipaesano",
+      "userid": 19359329,
+      "size": 4738,
+      "comment": "Updated bio.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "removal of Category:Living People"
+      ]
+    },
+    {
+      "revid": 564730839,
+      "parentid": 564730421,
+      "timestamp": "2013-07-18T02:02:40Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 4453,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Wikipaesano|Wikipaesano]] ([[User talk:Wikipaesano|talk]]) to last revision by Pmrk12. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 564733614,
+      "parentid": 564730839,
+      "timestamp": "2013-07-18T02:34:09Z",
+      "user": "Wikipaesano",
+      "userid": 19359329,
+      "size": 3971,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 564733767,
+      "parentid": 564733614,
+      "timestamp": "2013-07-18T02:36:02Z",
+      "user": "Orangemike",
+      "userid": 42464,
+      "size": 4453,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Wikipaesano|Wikipaesano]] ([[User talk:Wikipaesano|talk]]) to last revision by Orangemike. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 564737348,
+      "parentid": 564733767,
+      "timestamp": "2013-07-18T03:16:53Z",
+      "user": "Wikipaesano",
+      "userid": 19359329,
+      "size": 7488,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 564738046,
+      "parentid": 564737348,
+      "timestamp": "2013-07-18T03:25:11Z",
+      "user": "Wikipaesano",
+      "userid": 19359329,
+      "size": 9593,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 564738151,
+      "parentid": 564738046,
+      "timestamp": "2013-07-18T03:26:29Z",
+      "user": "Wikipaesano",
+      "userid": 19359329,
+      "size": 9600,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 564739954,
+      "parentid": 564738151,
+      "timestamp": "2013-07-18T03:47:16Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 4453,
+      "comment": "Reverted edits by [[Special:Contributions/Wikipaesano|Wikipaesano]] ([[User talk:Wikipaesano|talk]]): addition of [[WP:CITE|unsourced content]] ([[WP:HG|HG]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 564770601,
+      "parentid": 564739954,
+      "timestamp": "2013-07-18T10:25:30Z",
+      "user": "Lp734",
+      "userid": 7678316,
+      "size": 4349,
+      "comment": "Cleaned up a couple broken links, set end date on term",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564792023,
+      "parentid": 564770601,
+      "timestamp": "2013-07-18T14:06:06Z",
+      "user": "Lp734",
+      "userid": 7678316,
+      "size": 5246,
+      "comment": "Added in announcement for congress and links.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564793652,
+      "parentid": 564792023,
+      "timestamp": "2013-07-18T14:18:54Z",
+      "user": "Lp734",
+      "userid": 7678316,
+      "size": 6291,
+      "comment": "Added in more bio info from current sources",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 567580682,
+      "parentid": 564793652,
+      "timestamp": "2013-08-07T19:26:18Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 6924,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 567663786,
+      "parentid": 567580682,
+      "timestamp": "2013-08-08T11:19:01Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 6951,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 586865727,
+      "parentid": 567663786,
+      "timestamp": "2013-12-19T23:48:28Z",
+      "user": "ChrisGualtieri",
+      "userid": 16333418,
+      "size": 6918,
+      "comment": "Remove stub template(s). Page is start class or higher. Also check for and do General Fixes + Checkwiki fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 627952526,
+      "parentid": 586865727,
+      "timestamp": "2014-10-02T13:43:00Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 6962,
+      "comment": "date formats per [[WP:MOSNUM]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 627952552,
+      "parentid": 627952526,
+      "timestamp": "2014-10-02T13:43:20Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 6974,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 633475181,
+      "parentid": 627952552,
+      "timestamp": "2014-11-12T03:16:47Z",
+      "user": "JoeM3120",
+      "userid": 6689928,
+      "size": 6998,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 649313511,
+      "parentid": 633475181,
+      "timestamp": "2015-03-01T01:54:50Z",
+      "user": "Bluedudemi",
+      "userid": 19332438,
+      "size": 7040,
+      "comment": "added staff cat.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 666491508,
+      "parentid": 649313511,
+      "timestamp": "2015-06-11T14:44:15Z",
+      "user": "2602:306:BDB3:3B30:156C:CA9B:649E:5C2F",
+      "userid": 0,
+      "size": 7018,
+      "comment": "/* State legislative career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 666491684,
+      "parentid": 666491508,
+      "timestamp": "2015-06-11T14:45:49Z",
+      "user": "2602:306:BDB3:3B30:156C:CA9B:649E:5C2F",
+      "userid": 0,
+      "size": 7032,
+      "comment": "/* State legislative career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 700611594,
+      "parentid": 666491684,
+      "timestamp": "2016-01-19T15:45:50Z",
+      "user": "Nationbuilder1527",
+      "userid": 25977509,
+      "size": 7027,
+      "comment": "/* 2014 Congressional election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713793212,
+      "parentid": 700611594,
+      "timestamp": "2016-04-05T22:52:13Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 6767,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Pam Byrnes|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 725840213,
+      "parentid": 713793212,
+      "timestamp": "2016-06-18T06:06:48Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 6770,
+      "comment": "/* References */ reflist format",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 770639874,
+      "parentid": 725840213,
+      "timestamp": "2017-03-16T17:45:44Z",
+      "user": "Grey ghost",
+      "userid": 8042699,
+      "size": 6912,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 774362921,
+      "parentid": 770639874,
+      "timestamp": "2017-04-07T22:36:35Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 7437,
+      "comment": "Rescued 5 archive links; remove 4 links; reformat 1 link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 779723773,
+      "parentid": 774362921,
+      "timestamp": "2017-05-10T16:26:20Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7484,
+      "comment": "added [[Category:21st-century American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 779723784,
+      "parentid": 779723773,
+      "timestamp": "2017-05-10T16:26:25Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 7528,
+      "comment": "added [[Category:21st-century women politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 781902306,
+      "parentid": 779723784,
+      "timestamp": "2017-05-23T21:47:01Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 7580,
+      "comment": "added [[Category:People from Washtenaw County, Michigan]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 825596534,
+      "parentid": 781902306,
+      "timestamp": "2018-02-14T08:37:06Z",
+      "user": "Lazarus laz",
+      "userid": 33023199,
+      "size": 7611,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 826222344,
+      "parentid": 825596534,
+      "timestamp": "2018-02-17T22:43:15Z",
+      "user": "Sam11333",
+      "userid": 11121466,
+      "size": 12716,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 829252722,
+      "parentid": 826222344,
+      "timestamp": "2018-03-07T14:41:19Z",
+      "user": "Kku",
+      "userid": 5846,
+      "size": 12720,
+      "comment": "link [[Betsy DeVos]] using [[:en:User:Edward/Find link|Find link]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 829832074,
+      "parentid": 829252722,
+      "timestamp": "2018-03-11T02:02:16Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 12728,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.4)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 848766606,
+      "parentid": 829832074,
+      "timestamp": "2018-07-04T04:53:11Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 12722,
+      "comment": "standard quote handling in WP;standard Apostrophe/quotation marks in WP;add/change/refine category; MOS fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 864318278,
+      "parentid": 848766606,
+      "timestamp": "2018-10-16T13:25:54Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 12731,
+      "comment": "/* External links */recategorize",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 876539508,
+      "parentid": 864318278,
+      "timestamp": "2019-01-02T23:14:09Z",
+      "user": "Madison Grace7150",
+      "userid": 35256847,
+      "size": 12732,
+      "comment": "A non-essential clause in the first paragraph was not set off by a comma, and has therefore been correctly",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 918736155,
+      "parentid": 876539508,
+      "timestamp": "2019-09-30T02:48:57Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 12744,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (4×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 961932925,
+      "parentid": 918736155,
+      "timestamp": "2020-06-11T05:27:02Z",
+      "user": "RoundSquare",
+      "userid": 31226026,
+      "size": 12852,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1009986623,
+      "parentid": 961932925,
+      "timestamp": "2021-03-03T07:39:32Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 12852,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use mdy dates from October 2014]] | via #UCB_Category 884/1230",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1015331547,
+      "parentid": 1009986623,
+      "timestamp": "2021-03-31T21:26:15Z",
+      "user": "RoanokeVirginia",
+      "userid": 41246726,
+      "size": 12894,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1128945841,
+      "parentid": 1015331547,
+      "timestamp": "2022-12-22T20:45:13Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 12871,
+      "comment": "intersect Democratic and Michigan representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1205969507,
+      "parentid": 1128945841,
+      "timestamp": "2024-02-10T22:11:03Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 12871,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1219178421,
+      "parentid": 1205969507,
+      "timestamp": "2024-04-16T05:58:15Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 12872,
+      "comment": "Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#thehill.com]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261236682,
+      "parentid": 1219178421,
+      "timestamp": "2024-12-05T00:30:47Z",
+      "user": "RoundSquare",
+      "userid": 31226026,
+      "size": 12887,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pam_Byrnes"
+}

@@ -1,0 +1,3438 @@
+{
+  "page_title": "Bob_Hugin",
+  "candidate_name": "Bob Hugin",
+  "collection_date": "2025-12-28T16:33:56.463808",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 283,
+    "unique_editors": 138,
+    "date_range": {
+      "start": "2014-10-29T07:59:28Z",
+      "end": "2024-12-02T12:37:45Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 631583606,
+      "parentid": 0,
+      "timestamp": "2014-10-29T07:59:28Z",
+      "user": "Brightideas191",
+      "userid": 21099396,
+      "size": 2434,
+      "comment": "created new page with references",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 631583721,
+      "parentid": 631583606,
+      "timestamp": "2014-10-29T08:01:01Z",
+      "user": "Brightideas191",
+      "userid": 21099396,
+      "size": 2430,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 631583905,
+      "parentid": 631583721,
+      "timestamp": "2014-10-29T08:03:30Z",
+      "user": "Brightideas191",
+      "userid": 21099396,
+      "size": 2482,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 631584851,
+      "parentid": 631583905,
+      "timestamp": "2014-10-29T08:18:23Z",
+      "user": "RussBot",
+      "userid": 279219,
+      "size": 2484,
+      "comment": "Bot: Change redirected category [[:Category:American businessmen|American businessmen]] to [[:Category:American businesspeople|American businesspeople]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 631732078,
+      "parentid": 631584851,
+      "timestamp": "2014-10-30T10:00:00Z",
+      "user": "Sfan00 IMG",
+      "userid": 4906524,
+      "size": 2480,
+      "comment": "[[:en:WP:CLEANER|WPCleaner]] v1.34b - Fixed using [[WP:WCW]] (Category with space)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 632629069,
+      "parentid": 631732078,
+      "timestamp": "2014-11-06T00:35:39Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 2509,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 632629118,
+      "parentid": 632629069,
+      "timestamp": "2014-11-06T00:36:04Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 2521,
+      "comment": "removed [[Category:American chief executives]]; added [[Category:American health care chief executives]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 635417153,
+      "parentid": 632629118,
+      "timestamp": "2014-11-25T19:41:42Z",
+      "user": "103.27.171.56",
+      "userid": 0,
+      "size": 2520,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 670453456,
+      "parentid": 635417153,
+      "timestamp": "2015-07-08T01:53:29Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 2505,
+      "comment": "[[WP:AWB/GF|General fixes]] using [[Project:AWB|AWB]] (11289)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 682927471,
+      "parentid": 670453456,
+      "timestamp": "2015-09-27T00:21:21Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 2532,
+      "comment": "added [[Category:Living people]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 697382548,
+      "parentid": 682927471,
+      "timestamp": "2015-12-30T04:36:22Z",
+      "user": "Zigzig20s",
+      "userid": 1673502,
+      "size": 2505,
+      "comment": "chronological order",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 716314454,
+      "parentid": 697382548,
+      "timestamp": "2016-04-21T02:22:01Z",
+      "user": "Joebaskingridge",
+      "userid": 28140764,
+      "size": 2458,
+      "comment": "Changed Bob Hugin's title from CEO to Executive Chairman",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 717526615,
+      "parentid": 716314454,
+      "timestamp": "2016-04-28T07:01:38Z",
+      "user": "Larry Hockett",
+      "userid": 15977090,
+      "size": 2471,
+      "comment": "removed [[Category:Princeton University alumni]]; added [[Category:Princeton University alumni, 1970–1979]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 718330690,
+      "parentid": 717526615,
+      "timestamp": "2016-05-02T21:56:32Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2469,
+      "comment": "[[Help:Cat-a-lot|Cat-a-lot]]: Moving from [[Category:Princeton University alumni, 1970–1979]] to [[Category:Princeton University alumni, 1970–79]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 741101335,
+      "parentid": 718330690,
+      "timestamp": "2016-09-25T11:42:10Z",
+      "user": "GuyBFriday",
+      "userid": 28826639,
+      "size": 2453,
+      "comment": "Removed \"Mr.\" per policy on honorifics",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 741334992,
+      "parentid": 741101335,
+      "timestamp": "2016-09-26T21:05:16Z",
+      "user": "Handjo77",
+      "userid": 29268767,
+      "size": 3277,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 741502255,
+      "parentid": 741334992,
+      "timestamp": "2016-09-27T22:20:25Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 3225,
+      "comment": "[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. -",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 741572294,
+      "parentid": 741502255,
+      "timestamp": "2016-09-28T09:52:26Z",
+      "user": "GuyBFriday",
+      "userid": 28826639,
+      "size": 3225,
+      "comment": "/* Military Service */ Demoted word per rules on titles",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 741921205,
+      "parentid": 741572294,
+      "timestamp": "2016-09-30T14:25:05Z",
+      "user": "GuyBFriday",
+      "userid": 28826639,
+      "size": 3229,
+      "comment": "/* Education */ Inserted Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 754943986,
+      "parentid": 741921205,
+      "timestamp": "2016-12-15T10:22:43Z",
+      "user": "Watchsmart",
+      "userid": 883191,
+      "size": 3228,
+      "comment": "/* Career */  punctuation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 770413489,
+      "parentid": 754943986,
+      "timestamp": "2017-03-15T07:49:13Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 3230,
+      "comment": "removed [[Category:American businesspeople]]; added [[Category:American chief executives]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 770413524,
+      "parentid": 770413489,
+      "timestamp": "2017-03-15T07:49:42Z",
+      "user": "Postcard Cathy",
+      "userid": 1744116,
+      "size": 3256,
+      "comment": "removed [[Category:University of Virginia alumni]]; added [[Category:University of Virginia Darden School of Business alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 770929990,
+      "parentid": 770413524,
+      "timestamp": "2017-03-18T13:53:01Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3245,
+      "comment": "Robot - Moving category Princeton University alumni, 1970–79 to [[:Category:Princeton University alumni]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 February 24]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 799970046,
+      "parentid": 770929990,
+      "timestamp": "2017-09-10T22:16:37Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 3246,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 801150475,
+      "parentid": 799970046,
+      "timestamp": "2017-09-17T23:47:39Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 3207,
+      "comment": "/* References */redundant cat using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818843556,
+      "parentid": 801150475,
+      "timestamp": "2018-01-05T22:39:56Z",
+      "user": "75.149.221.242",
+      "userid": 0,
+      "size": 3576,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818843596,
+      "parentid": 818843556,
+      "timestamp": "2018-01-05T22:40:13Z",
+      "user": "75.149.221.242",
+      "userid": 0,
+      "size": 3566,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818843623,
+      "parentid": 818843596,
+      "timestamp": "2018-01-05T22:40:21Z",
+      "user": "75.149.221.242",
+      "userid": 0,
+      "size": 3529,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818926000,
+      "parentid": 818843623,
+      "timestamp": "2018-01-06T12:05:19Z",
+      "user": "2600:100F:B023:C247:AC91:E1B0:3EE:901B",
+      "userid": 0,
+      "size": 3526,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 820850150,
+      "parentid": 818926000,
+      "timestamp": "2018-01-16T23:52:19Z",
+      "user": "Elakhna",
+      "userid": 4327287,
+      "size": 3530,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 823072488,
+      "parentid": 820850150,
+      "timestamp": "2018-01-30T02:29:52Z",
+      "user": "Joebaskingridge",
+      "userid": 28140764,
+      "size": 3904,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 823784274,
+      "parentid": 823072488,
+      "timestamp": "2018-02-03T11:16:24Z",
+      "user": "Delilah Grams",
+      "userid": 22299868,
+      "size": 3907,
+      "comment": "/* Career */ Inserted Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 825365343,
+      "parentid": 823784274,
+      "timestamp": "2018-02-13T00:05:56Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 3907,
+      "comment": "Muboshgu moved page [[Robert J. Hugin]] to [[Bob Hugin]]: [[WP:COMMONNAME]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 825365392,
+      "parentid": 825365343,
+      "timestamp": "2018-02-13T00:06:19Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 3930,
+      "comment": "Delete [[hypocorism]] per [[Wikipedia:Manual_of_Style/Lead_section#Usage_in_first_sentence]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 825507320,
+      "parentid": 825365392,
+      "timestamp": "2018-02-13T20:06:16Z",
+      "user": "209.6.67.54",
+      "userid": 0,
+      "size": 4311,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 825627890,
+      "parentid": 825507320,
+      "timestamp": "2018-02-14T13:28:06Z",
+      "user": "Nobaddude",
+      "userid": 5340055,
+      "size": 4302,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 826166926,
+      "parentid": 825627890,
+      "timestamp": "2018-02-17T16:29:28Z",
+      "user": "Bhdshoes2",
+      "userid": 33107761,
+      "size": 4368,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 826291086,
+      "parentid": 826166926,
+      "timestamp": "2018-02-18T08:53:48Z",
+      "user": "GuyBFriday",
+      "userid": 28826639,
+      "size": 4372,
+      "comment": "/* Career */ Inserted Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 826707936,
+      "parentid": 826291086,
+      "timestamp": "2018-02-20T16:18:03Z",
+      "user": "Quark1005",
+      "userid": 8274418,
+      "size": 4372,
+      "comment": "/* Politics */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 827357351,
+      "parentid": 826707936,
+      "timestamp": "2018-02-24T06:52:57Z",
+      "user": "Delilah Grams",
+      "userid": 22299868,
+      "size": 4376,
+      "comment": "/* Military service */ Inserted Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 828275309,
+      "parentid": 827357351,
+      "timestamp": "2018-03-01T16:23:02Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 4365,
+      "comment": "Moving from [[Category:Politics and Politicians of Union County, New Jersey]] to [[Category:Politicians from Union County, New Jersey]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 829519207,
+      "parentid": 828275309,
+      "timestamp": "2018-03-09T03:26:53Z",
+      "user": "100.35.144.187",
+      "userid": 0,
+      "size": 4419,
+      "comment": "/* Politics */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 838909997,
+      "parentid": 829519207,
+      "timestamp": "2018-04-30T01:57:06Z",
+      "user": "GuyBFriday",
+      "userid": 28826639,
+      "size": 4423,
+      "comment": "/* Career */ Inserted Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 839609242,
+      "parentid": 838909997,
+      "timestamp": "2018-05-04T14:48:54Z",
+      "user": "Patapsco913",
+      "userid": 13892963,
+      "size": 4473,
+      "comment": "added [[Category:United States Marine Corps personnel]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 842910339,
+      "parentid": 839609242,
+      "timestamp": "2018-05-25T14:23:40Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4504,
+      "comment": "https://www.nytimes.com/2018/02/13/nyregion/bob-hugin-robert-menendez-senate-new-jerey.html",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 842910356,
+      "parentid": 842910339,
+      "timestamp": "2018-05-25T14:23:45Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4505,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844617936,
+      "parentid": 842910356,
+      "timestamp": "2018-06-06T01:06:03Z",
+      "user": "JocularJellyfish",
+      "userid": 30938693,
+      "size": 4876,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844617980,
+      "parentid": 844617936,
+      "timestamp": "2018-06-06T01:06:42Z",
+      "user": "JocularJellyfish",
+      "userid": 30938693,
+      "size": 4892,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844619154,
+      "parentid": 844617980,
+      "timestamp": "2018-06-06T01:19:40Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 4928,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844632451,
+      "parentid": 844619154,
+      "timestamp": "2018-06-06T03:32:56Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4932,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 844712044,
+      "parentid": 844632451,
+      "timestamp": "2018-06-06T16:49:51Z",
+      "user": "Samtondiaz",
+      "userid": 30698621,
+      "size": 6088,
+      "comment": "added info on primary election result",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 845317029,
+      "parentid": 844712044,
+      "timestamp": "2018-06-11T00:20:08Z",
+      "user": "Guy1890",
+      "userid": 7418362,
+      "size": 6542,
+      "comment": "Filled in 3 bare reference(s) with [[:en:WP:REFILL|reFill]] & made some minor edits.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 845317079,
+      "parentid": 845317029,
+      "timestamp": "2018-06-11T00:20:37Z",
+      "user": "Guy1890",
+      "userid": 7418362,
+      "size": 6573,
+      "comment": "Filling in 1 references using [[WP:REFLINKS|Reflinks]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 845624295,
+      "parentid": 845317079,
+      "timestamp": "2018-06-13T01:39:48Z",
+      "user": "-A-M-B-1996-",
+      "userid": 31839633,
+      "size": 6594,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 847341477,
+      "parentid": 845624295,
+      "timestamp": "2018-06-24T16:57:11Z",
+      "user": "JamesMLane",
+      "userid": 38027,
+      "size": 7038,
+      "comment": "/* 2018 U.S. Senate election */fundraising",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847550980,
+      "parentid": 847341477,
+      "timestamp": "2018-06-26T04:37:34Z",
+      "user": "SeminarianJohn",
+      "userid": 27658600,
+      "size": 8974,
+      "comment": "/* 2018 U.S. Senate election */ added political positions",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 847551261,
+      "parentid": 847550980,
+      "timestamp": "2018-06-26T04:41:01Z",
+      "user": "SeminarianJohn",
+      "userid": 27658600,
+      "size": 9287,
+      "comment": "/* 2018 U.S. Senate election */ Bog Hugin wants to make individual tax cuts permanent in New Jersey",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 847552280,
+      "parentid": 847551261,
+      "timestamp": "2018-06-26T04:54:35Z",
+      "user": "SeminarianJohn",
+      "userid": 27658600,
+      "size": 10141,
+      "comment": "/* Social Policy */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 848998675,
+      "parentid": 847552280,
+      "timestamp": "2018-07-05T19:54:51Z",
+      "user": "50.75.217.186",
+      "userid": 0,
+      "size": 10962,
+      "comment": "added quote from bobhugin.com/issues/",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 848999728,
+      "parentid": 848998675,
+      "timestamp": "2018-07-05T20:03:42Z",
+      "user": "50.75.217.186",
+      "userid": 0,
+      "size": 11079,
+      "comment": "Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 849000007,
+      "parentid": 848999728,
+      "timestamp": "2018-07-05T20:05:58Z",
+      "user": "50.75.217.186",
+      "userid": 0,
+      "size": 11770,
+      "comment": "added info on stance of energy i dependence.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 849000658,
+      "parentid": 849000007,
+      "timestamp": "2018-07-05T20:11:36Z",
+      "user": "50.75.217.186",
+      "userid": 0,
+      "size": 15138,
+      "comment": "added additionally quotes from website.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "possible libel or vandalism",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 849001657,
+      "parentid": 849000658,
+      "timestamp": "2018-07-05T20:20:21Z",
+      "user": "50.75.217.186",
+      "userid": 0,
+      "size": 21697,
+      "comment": "added more quotes from bob hugins issues pages.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 849318377,
+      "parentid": 849001657,
+      "timestamp": "2018-07-08T04:55:31Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 21963,
+      "comment": "/* Political Positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 849326343,
+      "parentid": 849318377,
+      "timestamp": "2018-07-08T06:45:23Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 13304,
+      "comment": "/* 2018 U.S. Senate election */ Revamped section.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 850779465,
+      "parentid": 849326343,
+      "timestamp": "2018-07-17T22:24:07Z",
+      "user": "165.230.225.64",
+      "userid": 0,
+      "size": 13304,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 850937769,
+      "parentid": 850779465,
+      "timestamp": "2018-07-18T23:52:33Z",
+      "user": "2600:1001:B118:19E:6159:B485:E57C:4BD4",
+      "userid": 0,
+      "size": 13304,
+      "comment": "Corrected Bob Hugin birth place",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 850937872,
+      "parentid": 850937769,
+      "timestamp": "2018-07-18T23:53:29Z",
+      "user": "2600:1001:B118:19E:6159:B485:E57C:4BD4",
+      "userid": 0,
+      "size": 13303,
+      "comment": "Typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 851009300,
+      "parentid": 850937872,
+      "timestamp": "2018-07-19T13:09:37Z",
+      "user": "Politicalfactjunkie2018",
+      "userid": 32952305,
+      "size": 13305,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851212080,
+      "parentid": 851009300,
+      "timestamp": "2018-07-20T20:25:16Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 14098,
+      "comment": "/* Education */ link Politico article about eating club leadership",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851212611,
+      "parentid": 851212080,
+      "timestamp": "2018-07-20T20:29:24Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 11087,
+      "comment": "/* Political Positions */ remove content sourced only to candidate's website and copied or paraphrased from there as copyright violation",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851213185,
+      "parentid": 851212611,
+      "timestamp": "2018-07-20T20:34:37Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10270,
+      "comment": "/* Career */ remove promotional-sounding content sourced to a press release, clearly not a reliable source. Chronological order",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851213396,
+      "parentid": 851213185,
+      "timestamp": "2018-07-20T20:36:16Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10216,
+      "comment": "remove promotional-sounding detail from elad",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851213444,
+      "parentid": 851213396,
+      "timestamp": "2018-07-20T20:36:44Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10231,
+      "comment": "/* top */ ... and politician, as Senate candidate",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851231864,
+      "parentid": 851213444,
+      "timestamp": "2018-07-20T23:19:09Z",
+      "user": "12.221.226.130",
+      "userid": 0,
+      "size": 10167,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 851272234,
+      "parentid": 851231864,
+      "timestamp": "2018-07-21T05:40:31Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10231,
+      "comment": "Unexplained removal of sourced information",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 851293122,
+      "parentid": 851272234,
+      "timestamp": "2018-07-21T09:21:51Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10255,
+      "comment": "Disambiguated: [[COO]] → [[Chief operating officer]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 851813863,
+      "parentid": 851293122,
+      "timestamp": "2018-07-24T19:38:44Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 10265,
+      "comment": "/* Education */ Added that the Tiger Inn was male-only.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851814022,
+      "parentid": 851813863,
+      "timestamp": "2018-07-24T19:39:55Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 10236,
+      "comment": "/* Education */ Removed some excess markup and decreased verbosity.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851815162,
+      "parentid": 851814022,
+      "timestamp": "2018-07-24T19:48:16Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 10612,
+      "comment": "/* Political positions */ Reduced verbosity and added a part about the SALT deduction.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851825773,
+      "parentid": 851815162,
+      "timestamp": "2018-07-24T21:12:47Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10632,
+      "comment": "Undid revision 851814022 by [[Special:Contributions/NuclearWizard|NuclearWizard]] ([[User talk:NuclearWizard|talk]]), the POLITICO source considers it particularly significant that he led the effort. Avoid duplication",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 851834582,
+      "parentid": 851825773,
+      "timestamp": "2018-07-24T22:24:14Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 10602,
+      "comment": "Undid revision 851825773 by [[Special:Contributions/Sandstein|Sandstein]] ([[User talk:Sandstein|talk]]) His \"leadership role\" on the board of the club does not mean he personally was the leader. Stating that board membership is a \"leadership role\" is redundant.",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 851834934,
+      "parentid": 851834582,
+      "timestamp": "2018-07-24T22:27:42Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 10487,
+      "comment": "/* Political positions */ Removed uncited content and reworded illegal immigration sentence.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 851835126,
+      "parentid": 851834934,
+      "timestamp": "2018-07-24T22:29:48Z",
+      "user": "NuclearWizard",
+      "userid": 9453893,
+      "size": 10316,
+      "comment": "/* Career */ Removed uncited content per BLP.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 852715221,
+      "parentid": 851835126,
+      "timestamp": "2018-07-30T21:53:45Z",
+      "user": "Garrettc300",
+      "userid": 34314500,
+      "size": 10349,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 852762281,
+      "parentid": 852715221,
+      "timestamp": "2018-07-31T05:27:09Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10316,
+      "comment": "Undid revision 852715221 by [[Special:Contributions/Garrettc300|Garrettc300]] ([[User talk:Garrettc300|talk]]), that‘s not what the source said, please explain your changes at the talk page",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 853326541,
+      "parentid": 852762281,
+      "timestamp": "2018-08-03T23:35:36Z",
+      "user": "173.70.136.205",
+      "userid": 0,
+      "size": 11453,
+      "comment": "Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 853326899,
+      "parentid": 853326541,
+      "timestamp": "2018-08-03T23:39:37Z",
+      "user": "173.70.136.205",
+      "userid": 0,
+      "size": 11575,
+      "comment": "Added links; Included specific military detail regarding entry and exit ranks.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 853327199,
+      "parentid": 853326899,
+      "timestamp": "2018-08-03T23:42:48Z",
+      "user": "173.70.136.205",
+      "userid": 0,
+      "size": 11555,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 853327307,
+      "parentid": 853327199,
+      "timestamp": "2018-08-03T23:44:03Z",
+      "user": "Garrettc300",
+      "userid": 34314500,
+      "size": 11782,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853365357,
+      "parentid": 853327307,
+      "timestamp": "2018-08-04T07:29:28Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10316,
+      "comment": "Reverted to revision 852762281 by [[Special:Contributions/Sandstein|Sandstein]] ([[User talk:Sandstein|talk]]): Not an improvement. Omits the gay issue and gives [[W:UNDUE]] attantion to his changed views, which are already mentioned. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 853585435,
+      "parentid": 853365357,
+      "timestamp": "2018-08-05T20:12:31Z",
+      "user": "80.3.148.246",
+      "userid": 0,
+      "size": 10354,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853633312,
+      "parentid": 853585435,
+      "timestamp": "2018-08-06T02:04:05Z",
+      "user": "Callanecc",
+      "userid": 10440891,
+      "size": 10354,
+      "comment": "Configured pending changes settings for [[Bob Hugin]]: Violations of the [[WP:BLP|biographies of living persons policy]] [Auto-accept: require &quot;autoconfirmed&quot; permission] (expires 02:04, 6 November 2018 (UTC))",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 853633319,
+      "parentid": 853633312,
+      "timestamp": "2018-08-06T02:04:08Z",
+      "user": "Callanecc",
+      "userid": 10440891,
+      "size": 10405,
+      "comment": "Adding {{pp-pc1}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853821729,
+      "parentid": 853633319,
+      "timestamp": "2018-08-07T04:43:47Z",
+      "user": "Daffy123",
+      "userid": 11806964,
+      "size": 10460,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 853821768,
+      "parentid": 853821729,
+      "timestamp": "2018-08-07T04:44:10Z",
+      "user": "Daffy123",
+      "userid": 11806964,
+      "size": 10493,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 854132663,
+      "parentid": 853821768,
+      "timestamp": "2018-08-09T05:20:15Z",
+      "user": "108.53.194.5",
+      "userid": 0,
+      "size": 10139,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 854134662,
+      "parentid": 854132663,
+      "timestamp": "2018-08-09T05:42:14Z",
+      "user": "Ammarpad",
+      "userid": 24463550,
+      "size": 10493,
+      "comment": "Reverted 1 pending edit by [[Special:Contributions/108.53.194.5|108.53.194.5]] to revision 853821768 by Daffy123",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855050647,
+      "parentid": 854134662,
+      "timestamp": "2018-08-15T15:53:47Z",
+      "user": "Garrettc300",
+      "userid": 34314500,
+      "size": 10525,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855063775,
+      "parentid": 855050647,
+      "timestamp": "2018-08-15T17:47:44Z",
+      "user": "CLCStudent",
+      "userid": 26398660,
+      "size": 10493,
+      "comment": "Reverted 1 pending edit by [[Special:Contributions/Garrettc300|Garrettc300]] to revision 854134662 by Ammarpad: Contradicts the sources",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855651709,
+      "parentid": 855063775,
+      "timestamp": "2018-08-19T21:51:00Z",
+      "user": "2601:81:4001:AC90:E9C1:8D03:56E1:83BA",
+      "userid": 0,
+      "size": 10430,
+      "comment": "/* Education */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855656636,
+      "parentid": 855651709,
+      "timestamp": "2018-08-19T22:38:13Z",
+      "user": "Felida97",
+      "userid": 25112844,
+      "size": 10493,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2601:81:4001:AC90:E9C1:8D03:56E1:83BA|2601:81:4001:AC90:E9C1:8D03:56E1:83BA]]: Removal of sourced content; the claim is in the cited source. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 855791285,
+      "parentid": 855656636,
+      "timestamp": "2018-08-20T21:19:35Z",
+      "user": "SunCrow",
+      "userid": 31939393,
+      "size": 10549,
+      "comment": "/* Education */ rephrase",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855791514,
+      "parentid": 855791285,
+      "timestamp": "2018-08-20T21:21:13Z",
+      "user": "SunCrow",
+      "userid": 31939393,
+      "size": 10580,
+      "comment": "reorganize sections; rephrase",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855791607,
+      "parentid": 855791514,
+      "timestamp": "2018-08-20T21:21:59Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 10601,
+      "comment": "/* Education and military service */ this is emphasized in the source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855791632,
+      "parentid": 855791607,
+      "timestamp": "2018-08-20T21:22:08Z",
+      "user": "SunCrow",
+      "userid": 31939393,
+      "size": 10627,
+      "comment": "/* Business career */ rename section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855791796,
+      "parentid": 855791632,
+      "timestamp": "2018-08-20T21:23:32Z",
+      "user": "SunCrow",
+      "userid": 31939393,
+      "size": 10314,
+      "comment": "/* Political positions */ remove repetitive sentence",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 856142538,
+      "parentid": 855791796,
+      "timestamp": "2018-08-23T05:05:46Z",
+      "user": "66.44.37.184",
+      "userid": 0,
+      "size": 10298,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 857652362,
+      "parentid": 856142538,
+      "timestamp": "2018-09-02T04:04:33Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10675,
+      "comment": "Birth year citation with source, MDY",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 857652460,
+      "parentid": 857652362,
+      "timestamp": "2018-09-02T04:05:56Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 10653,
+      "comment": "IB",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 858434969,
+      "parentid": 857652460,
+      "timestamp": "2018-09-07T04:47:35Z",
+      "user": "104.246.90.35",
+      "userid": 0,
+      "size": 10069,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "possible vandalism"
+      ]
+    },
+    {
+      "revid": 858435029,
+      "parentid": 858434969,
+      "timestamp": "2018-09-07T04:48:39Z",
+      "user": "104.246.90.35",
+      "userid": 0,
+      "size": 10054,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 858435768,
+      "parentid": 858435029,
+      "timestamp": "2018-09-07T04:58:53Z",
+      "user": "104.246.90.35",
+      "userid": 0,
+      "size": 8151,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 858435917,
+      "parentid": 858435768,
+      "timestamp": "2018-09-07T05:00:35Z",
+      "user": "SeoMac",
+      "userid": 10543986,
+      "size": 10653,
+      "comment": "Reverted edits by [[Special:Contribs/104.246.90.35|104.246.90.35]] ([[User talk:104.246.90.35|talk]]) to last version by Sunshineisles2",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 858436156,
+      "parentid": 858435917,
+      "timestamp": "2018-09-07T05:03:50Z",
+      "user": "Thetrentonian",
+      "userid": 25573424,
+      "size": 8151,
+      "comment": "Undid revision 858435917 by [[Special:Contributions/SeoMac|SeoMac]] ([[User talk:SeoMac|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 858436175,
+      "parentid": 858436156,
+      "timestamp": "2018-09-07T05:04:13Z",
+      "user": "HickoryOughtShirt?4",
+      "userid": 32314202,
+      "size": 10653,
+      "comment": "Reverted edits by [[Special:Contribs/Thetrentonian|Thetrentonian]] ([[User talk:Thetrentonian|talk]]) to last version by SeoMac",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 858436248,
+      "parentid": 858436175,
+      "timestamp": "2018-09-07T05:05:41Z",
+      "user": "Thetrentonian",
+      "userid": 25573424,
+      "size": 8151,
+      "comment": "Undid revision 858436175 by [[Special:Contributions/HickoryOughtShirt?4|HickoryOughtShirt?4]] ([[User talk:HickoryOughtShirt?4|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 858436254,
+      "parentid": 858436248,
+      "timestamp": "2018-09-07T05:05:48Z",
+      "user": "HickoryOughtShirt?4",
+      "userid": 32314202,
+      "size": 10653,
+      "comment": "Reverted edits by [[Special:Contribs/Thetrentonian|Thetrentonian]] ([[User talk:Thetrentonian|talk]]) to last version by HickoryOughtShirt?4",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 858436611,
+      "parentid": 858436254,
+      "timestamp": "2018-09-07T05:11:14Z",
+      "user": "Thetrentonian",
+      "userid": 25573424,
+      "size": 8151,
+      "comment": "Undid revision 858436254 by [[Special:Contributions/HickoryOughtShirt?4|HickoryOughtShirt?4]] ([[User talk:HickoryOughtShirt?4|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 858436631,
+      "parentid": 858436611,
+      "timestamp": "2018-09-07T05:11:28Z",
+      "user": "HickoryOughtShirt?4",
+      "userid": 32314202,
+      "size": 10653,
+      "comment": "Reverted edits by [[Special:Contribs/Thetrentonian|Thetrentonian]] ([[User talk:Thetrentonian|talk]]) to last version by HickoryOughtShirt?4",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 859440299,
+      "parentid": 858436631,
+      "timestamp": "2018-09-14T02:12:33Z",
+      "user": "Nightscream",
+      "userid": 204692,
+      "size": 10611,
+      "comment": "[[WP:REPCITE]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 859572496,
+      "parentid": 859440299,
+      "timestamp": "2018-09-14T22:01:14Z",
+      "user": "2600:1001:B105:5CE0:7150:41AB:E023:10F5",
+      "userid": 0,
+      "size": 9864,
+      "comment": "/* Education and military service */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 859572586,
+      "parentid": 859572496,
+      "timestamp": "2018-09-14T22:01:48Z",
+      "user": "HickoryOughtShirt?4",
+      "userid": 32314202,
+      "size": 10611,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2600:1001:B105:5CE0:7150:41AB:E023:10F5|2600:1001:B105:5CE0:7150:41AB:E023:10F5]] ([[User talk:2600:1001:B105:5CE0:7150:41AB:E023:10F5|talk]]): Unexplained removal of conten. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 859573588,
+      "parentid": 859572586,
+      "timestamp": "2018-09-14T22:09:03Z",
+      "user": "2600:1001:B105:5CE0:7150:41AB:E023:10F5",
+      "userid": 0,
+      "size": 10545,
+      "comment": "/* Education and military service */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 859573679,
+      "parentid": 859573588,
+      "timestamp": "2018-09-14T22:09:50Z",
+      "user": "HickoryOughtShirt?4",
+      "userid": 32314202,
+      "size": 10611,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2600:1001:B105:5CE0:7150:41AB:E023:10F5|2600:1001:B105:5CE0:7150:41AB:E023:10F5]] ([[User talk:2600:1001:B105:5CE0:7150:41AB:E023:10F5|talk]]): Stop trying to censor . ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 860701259,
+      "parentid": 859573679,
+      "timestamp": "2018-09-22T13:32:48Z",
+      "user": "Sagarsetru",
+      "userid": 12640432,
+      "size": 11468,
+      "comment": "/* Education and military service */ added a quote from Hugin about his stance on gay and women members of his eating club from a news source, Northjersey.com",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 861250051,
+      "parentid": 860701259,
+      "timestamp": "2018-09-26T04:05:15Z",
+      "user": "Sagarsetru",
+      "userid": 12640432,
+      "size": 11464,
+      "comment": "/* Education and military service */  language clean up",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862060378,
+      "parentid": 861250051,
+      "timestamp": "2018-10-01T22:11:38Z",
+      "user": "129.49.100.146",
+      "userid": 0,
+      "size": 11485,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862379636,
+      "parentid": 862060378,
+      "timestamp": "2018-10-04T00:44:22Z",
+      "user": "Lonehexagon",
+      "userid": 26296133,
+      "size": 15177,
+      "comment": "more about his political positions",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 862415555,
+      "parentid": 862379636,
+      "timestamp": "2018-10-04T07:00:02Z",
+      "user": "Lonehexagon",
+      "userid": 26296133,
+      "size": 18213,
+      "comment": "added more info, his position on healthcare, and additional citations.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 862416282,
+      "parentid": 862415555,
+      "timestamp": "2018-10-04T07:08:28Z",
+      "user": "Lonehexagon",
+      "userid": 26296133,
+      "size": 18265,
+      "comment": "/* 2018 U.S. Senate election */ small changes to be more precise",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 862416916,
+      "parentid": 862416282,
+      "timestamp": "2018-10-04T07:15:40Z",
+      "user": "Lonehexagon",
+      "userid": 26296133,
+      "size": 18332,
+      "comment": "added a few links to other Wikipedia articles",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 862417031,
+      "parentid": 862416916,
+      "timestamp": "2018-10-04T07:17:10Z",
+      "user": "Lonehexagon",
+      "userid": 26296133,
+      "size": 18342,
+      "comment": "grammar",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 863098906,
+      "parentid": 862417031,
+      "timestamp": "2018-10-08T18:16:29Z",
+      "user": "SeminarianJohn",
+      "userid": 27658600,
+      "size": 18740,
+      "comment": "/* Political positions */ Bob Hugin presented himself in the 2018 election as a 'moderate' Republican alternative in the state",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 863475539,
+      "parentid": 863098906,
+      "timestamp": "2018-10-11T00:53:18Z",
+      "user": "130.68.183.14",
+      "userid": 0,
+      "size": 17073,
+      "comment": "/* Education and military service */ biased/partisan information withdrawn",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863490598,
+      "parentid": 863475539,
+      "timestamp": "2018-10-11T03:30:31Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 17437,
+      "comment": "Rescuing orphaned refs (\":4\" from rev 863098906)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863494773,
+      "parentid": 863490598,
+      "timestamp": "2018-10-11T04:24:02Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 18740,
+      "comment": "Reverted 2 pending edits by [[Special:Contributions/130.68.183.14|130.68.183.14]] and [[Special:Contributions/AnomieBOT|AnomieBOT]] to revision 863098906 by SeminarianJohn",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863505168,
+      "parentid": 863494773,
+      "timestamp": "2018-10-11T05:57:29Z",
+      "user": "71.187.248.147",
+      "userid": 0,
+      "size": 18739,
+      "comment": "/* Career */ Fixed a typo.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863505203,
+      "parentid": 863505168,
+      "timestamp": "2018-10-11T05:57:56Z",
+      "user": "71.187.248.147",
+      "userid": 0,
+      "size": 18739,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863505253,
+      "parentid": 863505203,
+      "timestamp": "2018-10-11T05:58:27Z",
+      "user": "71.187.248.147",
+      "userid": 0,
+      "size": 18740,
+      "comment": "/* Career */ Fixed a typo.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863505361,
+      "parentid": 863505253,
+      "timestamp": "2018-10-11T06:00:10Z",
+      "user": "Strawberry",
+      "userid": 11337960,
+      "size": 18740,
+      "comment": "Reverted 3 edits by [[Special:Contributions/71.187.248.147|71.187.248.147]] ([[User talk:71.187.248.147|talk]]) to last revision by Sandstein. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 863505535,
+      "parentid": 863505361,
+      "timestamp": "2018-10-11T06:02:37Z",
+      "user": "Strawberry",
+      "userid": 11337960,
+      "size": 18740,
+      "comment": "Undid revision 863505361 by [[Special:Contributions/Strawberry|Strawberry]] ([[User talk:Strawberry|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 864513965,
+      "parentid": 863505535,
+      "timestamp": "2018-10-17T18:33:51Z",
+      "user": "SeminarianJohn",
+      "userid": 27658600,
+      "size": 19542,
+      "comment": "added personal life. Marriage. church. income",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 864531073,
+      "parentid": 864513965,
+      "timestamp": "2018-10-17T20:32:33Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19534,
+      "comment": "/* Personal Life */ As opposed to married to a woman who is not his wife?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864684370,
+      "parentid": 864531073,
+      "timestamp": "2018-10-18T19:55:25Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 18133,
+      "comment": "Gave more detail on his early life, education, and military service.",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 864684867,
+      "parentid": 864684370,
+      "timestamp": "2018-10-18T19:58:53Z",
+      "user": "Yue",
+      "userid": 23551833,
+      "size": 19534,
+      "comment": "Reverted 1 pending edit by [[Special:Contributions/EurekaMid|EurekaMid]] to revision 864531073 by Sandstein: Unexplained removal of content.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864706109,
+      "parentid": 864684867,
+      "timestamp": "2018-10-18T22:37:34Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 18376,
+      "comment": "Gave more detailed info on Hugin's early life, education and military service. Also took out paragraph that was not appropriate for the sub-topic. Changed views are better addressed in Position section.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 864709861,
+      "parentid": 864706109,
+      "timestamp": "2018-10-18T23:13:48Z",
+      "user": "Wugapodes",
+      "userid": 24484530,
+      "size": 19534,
+      "comment": "Reverted 1 pending edit by [[Special:Contributions/EurekaMid|EurekaMid]] to revision 864684867 by CentreLeftRight: paragraph is well sourced and relates to his time at an educational institution",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864717809,
+      "parentid": 864709861,
+      "timestamp": "2018-10-19T00:30:59Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 19415,
+      "comment": "Added more detail to Hugin's early life, education, and military service.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 864720378,
+      "parentid": 864717809,
+      "timestamp": "2018-10-19T00:56:37Z",
+      "user": "HickoryOughtShirt?4",
+      "userid": 32314202,
+      "size": 19534,
+      "comment": "Reverted 1 edit by [[Special:Contributions/EurekaMid|EurekaMid]] ([[User talk:EurekaMid|talk]]): You removed a sourced paragraph and replaced it w unsourced content. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 864720436,
+      "parentid": 864720378,
+      "timestamp": "2018-10-19T00:57:13Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 19721,
+      "comment": "Added some detail to his time at Celgene",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 864726749,
+      "parentid": 864720436,
+      "timestamp": "2018-10-19T02:02:35Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 21352,
+      "comment": "Added some details to education background, support from LGBTQ leaders, and some detail to his work at Celgene. All are sourced.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 864761546,
+      "parentid": 864726749,
+      "timestamp": "2018-10-19T08:45:52Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 21251,
+      "comment": "/* Career */ [[WP:SPS]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864761676,
+      "parentid": 864761546,
+      "timestamp": "2018-10-19T08:47:38Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 20302,
+      "comment": "/* Education and military service */ [[WP:SPS]], the candidate's campaign website is not an appropriate source for a self-serving statement praising the candidate; such news would need to be reported by a reliable third-party source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864761778,
+      "parentid": 864761676,
+      "timestamp": "2018-10-19T08:48:58Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19837,
+      "comment": "/* Attack ads */ conciseness, avoiding redundancies with the same material covered above",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864762009,
+      "parentid": 864761778,
+      "timestamp": "2018-10-19T08:51:44Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19731,
+      "comment": "/* Education and military service */ the scholarship is not in the source and the \"first in the family\" is reported as a statement by Hugin, not as a fact",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864762075,
+      "parentid": 864762009,
+      "timestamp": "2018-10-19T08:52:35Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19731,
+      "comment": "/* Education and military service */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 864762106,
+      "parentid": 864762075,
+      "timestamp": "2018-10-19T08:52:54Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19729,
+      "comment": "/* Education and military service */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 864796371,
+      "parentid": 864762106,
+      "timestamp": "2018-10-19T14:32:37Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 20627,
+      "comment": "Added info to education background, as well as to performance of Celgene during his tenure and Forbes rankings during his tenure. All sourced.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 864839827,
+      "parentid": 864796371,
+      "timestamp": "2018-10-19T20:31:00Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 22713,
+      "comment": "Under the 'attack ads' sub-heading, writing about attack ads from hugin campaign on Sen. Menendez - all sourced.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 864841789,
+      "parentid": 864839827,
+      "timestamp": "2018-10-19T20:48:07Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19177,
+      "comment": "/* Attack ads */ This both belongs in the campaign article, not here",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864841830,
+      "parentid": 864841789,
+      "timestamp": "2018-10-19T20:48:37Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19182,
+      "comment": "/* 2018 U.S. Senate election */ main link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864841897,
+      "parentid": 864841830,
+      "timestamp": "2018-10-19T20:49:13Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 18818,
+      "comment": "/* Career */ this is about Celgene, not Hugin",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864841938,
+      "parentid": 864841897,
+      "timestamp": "2018-10-19T20:49:42Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 18811,
+      "comment": "/* Political positions */ as opposed to covertly advertising?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864846575,
+      "parentid": 864841938,
+      "timestamp": "2018-10-19T21:33:43Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 19097,
+      "comment": "Rescuing orphaned refs (\":3\" from rev 864839827)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864847587,
+      "parentid": 864846575,
+      "timestamp": "2018-10-19T21:43:21Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 19839,
+      "comment": "Highlighted fact that in Hugin's last year of stewardship as Executive Chairman at Celgene it was honored as a top employer by Forbes both among US midsize companies as well as internationally.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 864849504,
+      "parentid": 864847587,
+      "timestamp": "2018-10-19T21:59:39Z",
+      "user": "EurekaMid",
+      "userid": 34926322,
+      "size": 20442,
+      "comment": "Added detail on Hugin's position on LGBT rights",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 864870428,
+      "parentid": 864849504,
+      "timestamp": "2018-10-20T01:52:15Z",
+      "user": "Tornado chaser",
+      "userid": 31083626,
+      "size": 19097,
+      "comment": "Reverted 2 edits by [[Special:Contributions/EurekaMid|EurekaMid]] ([[User talk:EurekaMid|talk]]): Rm promotional self sourced content. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 865117406,
+      "parentid": 864870428,
+      "timestamp": "2018-10-21T21:08:36Z",
+      "user": "2600:1001:B027:F459:8841:264:55C3:506",
+      "userid": 0,
+      "size": 19124,
+      "comment": "/* Personal life */Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "canned edit summary"
+      ]
+    },
+    {
+      "revid": 865117455,
+      "parentid": 865117406,
+      "timestamp": "2018-10-21T21:09:06Z",
+      "user": "Drmies",
+      "userid": 5183450,
+      "size": 19097,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2600:1001:B027:F459:8841:264:55C3:506|2600:1001:B027:F459:8841:264:55C3:506]] ([[User talk:2600:1001:B027:F459:8841:264:55C3:506|talk]]): Rv: excessive detail. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 865434635,
+      "parentid": 865117455,
+      "timestamp": "2018-10-23T22:53:34Z",
+      "user": "Karladimatulac",
+      "userid": 34965858,
+      "size": 19074,
+      "comment": "Removed bias wording",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 865536463,
+      "parentid": 865434635,
+      "timestamp": "2018-10-24T14:44:22Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19097,
+      "comment": "Undid revision 865434635 - unclear what is being objected to, the article says \"is one of the \"Big Four\" eating clubs at Princeton ..., the four oldest and most prestigious on campus\"",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 866554631,
+      "parentid": 865536463,
+      "timestamp": "2018-10-31T01:50:10Z",
+      "user": "74.102.2.57",
+      "userid": 0,
+      "size": 19092,
+      "comment": "Typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 866555001,
+      "parentid": 866554631,
+      "timestamp": "2018-10-31T01:53:14Z",
+      "user": "74.102.2.57",
+      "userid": 0,
+      "size": 19290,
+      "comment": "/* Healthcare */Fixed facts",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 866556650,
+      "parentid": 866555001,
+      "timestamp": "2018-10-31T02:06:01Z",
+      "user": "Dmoore5556",
+      "userid": 29278485,
+      "size": 19097,
+      "comment": "Reverted 2 pending edits by [[Special:Contributions/74.102.2.57|74.102.2.57]] to revision 865536463 by Sandstein: rv/v",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 866805360,
+      "parentid": 866556650,
+      "timestamp": "2018-11-01T17:34:09Z",
+      "user": "50.206.77.181",
+      "userid": 0,
+      "size": 19107,
+      "comment": "/* Healthcare */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 866813830,
+      "parentid": 866805360,
+      "timestamp": "2018-11-01T18:39:52Z",
+      "user": "Tornado chaser",
+      "userid": 31083626,
+      "size": 19097,
+      "comment": "Reverted edits by [[Special:Contribs/50.206.77.181|50.206.77.181]] ([[User talk:50.206.77.181|talk]]) to last version by Dmoore5556",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 866911632,
+      "parentid": 866813830,
+      "timestamp": "2018-11-02T11:06:46Z",
+      "user": "172.254.140.34",
+      "userid": 0,
+      "size": 19063,
+      "comment": "Birth date",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 866911720,
+      "parentid": 866911632,
+      "timestamp": "2018-11-02T11:07:51Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 19097,
+      "comment": "Undid revision 866911632 by [[Special:Contributions/172.254.140.34|172.254.140.34]] ([[User talk:172.254.140.34|talk]]) Unsourced",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 867023799,
+      "parentid": 866911720,
+      "timestamp": "2018-11-03T03:13:47Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 19098,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867099694,
+      "parentid": 867023799,
+      "timestamp": "2018-11-03T17:17:45Z",
+      "user": "FelpixTheMaker",
+      "userid": 35050038,
+      "size": 19105,
+      "comment": "Adjusted the start text to add \"former\" to the statement refereing to Celgene.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 867101483,
+      "parentid": 867099694,
+      "timestamp": "2018-11-03T17:31:15Z",
+      "user": "JC7V7DC5768",
+      "userid": 34198373,
+      "size": 19385,
+      "comment": "fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867296598,
+      "parentid": 867101483,
+      "timestamp": "2018-11-04T21:51:29Z",
+      "user": "2601:80:8400:9D27:8087:9B3C:1DA3:A2F5",
+      "userid": 0,
+      "size": 15914,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867296772,
+      "parentid": 867296598,
+      "timestamp": "2018-11-04T21:52:49Z",
+      "user": "Editor897",
+      "userid": 34915565,
+      "size": 19385,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2601:80:8400:9D27:8087:9B3C:1DA3:A2F5|2601:80:8400:9D27:8087:9B3C:1DA3:A2F5]] ([[User talk:2601:80:8400:9D27:8087:9B3C:1DA3:A2F5|talk]]) to last revision by JC7V7DC5768. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 867364919,
+      "parentid": 867296772,
+      "timestamp": "2018-11-05T06:48:00Z",
+      "user": "JamesMLane",
+      "userid": 38027,
+      "size": 19396,
+      "comment": "/* Trump */ wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 867493396,
+      "parentid": 867364919,
+      "timestamp": "2018-11-06T02:19:16Z",
+      "user": "HypeOnLife",
+      "userid": 35027510,
+      "size": 19399,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 867493509,
+      "parentid": 867493396,
+      "timestamp": "2018-11-06T02:20:22Z",
+      "user": "HypeOnLife",
+      "userid": 35027510,
+      "size": 19412,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 867493552,
+      "parentid": 867493509,
+      "timestamp": "2018-11-06T02:20:42Z",
+      "user": "MusikBot",
+      "userid": 24684472,
+      "size": 19360,
+      "comment": "removing {{pp-pc1}} as page is not pending changes-protected",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 867493562,
+      "parentid": 867493552,
+      "timestamp": "2018-11-06T02:20:48Z",
+      "user": "HypeOnLife",
+      "userid": 35027510,
+      "size": 19351,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 867493749,
+      "parentid": 867493562,
+      "timestamp": "2018-11-06T02:22:19Z",
+      "user": "HypeOnLife",
+      "userid": 35027510,
+      "size": 19298,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 867493825,
+      "parentid": 867493749,
+      "timestamp": "2018-11-06T02:22:55Z",
+      "user": "HypeOnLife",
+      "userid": 35027510,
+      "size": 19293,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 867493866,
+      "parentid": 867493825,
+      "timestamp": "2018-11-06T02:23:20Z",
+      "user": "HypeOnLife",
+      "userid": 35027510,
+      "size": 19302,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 867512951,
+      "parentid": 867493866,
+      "timestamp": "2018-11-06T05:41:55Z",
+      "user": "96.250.4.12",
+      "userid": 0,
+      "size": 19367,
+      "comment": "/* Healthcare */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867512955,
+      "parentid": 867512951,
+      "timestamp": "2018-11-06T05:41:58Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 19302,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/96.250.4.12|96.250.4.12]] to version by HypeOnLife. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3533848) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 867607083,
+      "parentid": 867512955,
+      "timestamp": "2018-11-06T20:34:08Z",
+      "user": "107.211.8.216",
+      "userid": 0,
+      "size": 19655,
+      "comment": "/* 2018 U.S. Senate election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867643358,
+      "parentid": 867607083,
+      "timestamp": "2018-11-07T02:06:37Z",
+      "user": "2601:81:4300:AADB:3598:26F1:4573:3A2A",
+      "userid": 0,
+      "size": 19717,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 867643870,
+      "parentid": 867643358,
+      "timestamp": "2018-11-07T02:12:11Z",
+      "user": "74.66.1.185",
+      "userid": 0,
+      "size": 19655,
+      "comment": "Undid revision 867643358 by [[Special:Contributions/2601:81:4300:AADB:3598:26F1:4573:3A2A|2601:81:4300:AADB:3598:26F1:4573:3A2A]] ([[User talk:2601:81:4300:AADB:3598:26F1:4573:3A2A|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 867685409,
+      "parentid": 867643870,
+      "timestamp": "2018-11-07T09:58:27Z",
+      "user": "Sandstein",
+      "userid": 359256,
+      "size": 19638,
+      "comment": "update election result",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867763308,
+      "parentid": 867685409,
+      "timestamp": "2018-11-07T21:14:55Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 19972,
+      "comment": "Rescuing orphaned refs (\"Politico618\" from rev 867643870)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 868028459,
+      "parentid": 867763308,
+      "timestamp": "2018-11-09T14:58:26Z",
+      "user": "98.110.119.80",
+      "userid": 0,
+      "size": 20042,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869429918,
+      "parentid": 868028459,
+      "timestamp": "2018-11-18T15:40:08Z",
+      "user": "Hayholt",
+      "userid": 34182455,
+      "size": 20042,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869510821,
+      "parentid": 869429918,
+      "timestamp": "2018-11-19T02:20:11Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 19584,
+      "comment": "copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; url trimming of identifying info per[[WP:LINKSTOAVOID]] and [[Template:Citation_Style_documentation#url|Citation Style]], replaced: p’s → p's",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 869979787,
+      "parentid": 869510821,
+      "timestamp": "2018-11-21T16:44:41Z",
+      "user": "24.183.5.7",
+      "userid": 0,
+      "size": 19588,
+      "comment": "/* Education and military service */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869980278,
+      "parentid": 869979787,
+      "timestamp": "2018-11-21T16:48:41Z",
+      "user": "24.183.5.7",
+      "userid": 0,
+      "size": 19705,
+      "comment": "/* LGBT rights */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 869981469,
+      "parentid": 869980278,
+      "timestamp": "2018-11-21T16:58:52Z",
+      "user": "24.183.5.7",
+      "userid": 0,
+      "size": 19902,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869981583,
+      "parentid": 869981469,
+      "timestamp": "2018-11-21T16:59:47Z",
+      "user": "24.183.5.7",
+      "userid": 0,
+      "size": 19991,
+      "comment": "/* LGBT rights */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869985795,
+      "parentid": 869981583,
+      "timestamp": "2018-11-21T17:32:12Z",
+      "user": "HickoryOughtShirt?4",
+      "userid": 32314202,
+      "size": 19584,
+      "comment": "Reverted 4 edits by [[Special:Contributions/24.183.5.7|24.183.5.7]] ([[User talk:24.183.5.7|talk]]): PR fluff. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 870797165,
+      "parentid": 869985795,
+      "timestamp": "2018-11-27T01:55:26Z",
+      "user": "Quark1005",
+      "userid": 8274418,
+      "size": 19590,
+      "comment": "/* Education and military service */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 870799221,
+      "parentid": 870797165,
+      "timestamp": "2018-11-27T02:15:36Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 19609,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 870883898,
+      "parentid": 870799221,
+      "timestamp": "2018-11-27T16:11:05Z",
+      "user": "Hayholt",
+      "userid": 34182455,
+      "size": 19770,
+      "comment": "Birthday is July 23",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 870884480,
+      "parentid": 870883898,
+      "timestamp": "2018-11-27T16:15:30Z",
+      "user": "Hayholt",
+      "userid": 34182455,
+      "size": 25980,
+      "comment": "Rescuing 30 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1)",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 678"
+      ]
+    },
+    {
+      "revid": 870887391,
+      "parentid": 870884480,
+      "timestamp": "2018-11-27T16:35:57Z",
+      "user": "Hayholt",
+      "userid": 34182455,
+      "size": 26227,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1)",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 678"
+      ]
+    },
+    {
+      "revid": 871372270,
+      "parentid": 870887391,
+      "timestamp": "2018-11-30T16:34:32Z",
+      "user": "2600:1001:B10F:1F00:F1E6:ADFC:D3E1:7E80",
+      "userid": 0,
+      "size": 26261,
+      "comment": "Typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 871372354,
+      "parentid": 871372270,
+      "timestamp": "2018-11-30T16:35:09Z",
+      "user": "Drmies",
+      "userid": 5183450,
+      "size": 26227,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2600:1001:B10F:1F00:F1E6:ADFC:D3E1:7E80|2600:1001:B10F:1F00:F1E6:ADFC:D3E1:7E80]] ([[User talk:2600:1001:B10F:1F00:F1E6:ADFC:D3E1:7E80|talk]]) to last revision by Hayholt. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 872357433,
+      "parentid": 871372354,
+      "timestamp": "2018-12-06T20:41:46Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 26172,
+      "comment": "copyedits to lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872357583,
+      "parentid": 872357433,
+      "timestamp": "2018-12-06T20:42:50Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 26157,
+      "comment": "more",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872359878,
+      "parentid": 872357583,
+      "timestamp": "2018-12-06T21:01:31Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 26107,
+      "comment": "/* Immigration */ copyedits",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872359946,
+      "parentid": 872359878,
+      "timestamp": "2018-12-06T21:02:14Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 26108,
+      "comment": "/* Taxes */ missing quote",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872360169,
+      "parentid": 872359946,
+      "timestamp": "2018-12-06T21:03:54Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 26191,
+      "comment": "/* References */ added EL--campaign website URL is expired, I'll look for an archive",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872360400,
+      "parentid": 872360169,
+      "timestamp": "2018-12-06T21:05:45Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 26303,
+      "comment": "/* External links */ archived campaign URL",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 873954626,
+      "parentid": 872360400,
+      "timestamp": "2018-12-16T04:44:19Z",
+      "user": "Melvingatez34",
+      "userid": 34854504,
+      "size": 26302,
+      "comment": "/* 2018 U.S. Senate election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874979195,
+      "parentid": 873954626,
+      "timestamp": "2018-12-22T22:37:31Z",
+      "user": "FieldMarine",
+      "userid": 5113002,
+      "size": 26301,
+      "comment": "removed [[Category:United States Marine Corps personnel]]; added [[Category:United States Marine Corps officers]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874979259,
+      "parentid": 874979195,
+      "timestamp": "2018-12-22T22:38:10Z",
+      "user": "FieldMarine",
+      "userid": 5113002,
+      "size": 26352,
+      "comment": "added [[Category:United States Marine Corps reservists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 876076503,
+      "parentid": 874979259,
+      "timestamp": "2018-12-31T00:59:27Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 26343,
+      "comment": "Birth date based on synthesis of two sources",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 882952263,
+      "parentid": 876076503,
+      "timestamp": "2019-02-12T10:37:44Z",
+      "user": "FeralOink",
+      "userid": 15685779,
+      "size": 25762,
+      "comment": "/* Education and military service */ removed dup refs; corrected content to agree with source; removed cite tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 892069580,
+      "parentid": 882952263,
+      "timestamp": "2019-04-12T00:14:26Z",
+      "user": "2600:100C:B226:8E34:3091:BEE4:CA9C:B3B4",
+      "userid": 0,
+      "size": 25762,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 892069671,
+      "parentid": 892069580,
+      "timestamp": "2019-04-12T00:15:10Z",
+      "user": "2600:100C:B226:8E34:3091:BEE4:CA9C:B3B4",
+      "userid": 0,
+      "size": 25790,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 897177328,
+      "parentid": 892069671,
+      "timestamp": "2019-05-15T08:19:57Z",
+      "user": "174.206.28.221",
+      "userid": 0,
+      "size": 25780,
+      "comment": "/* 2018 U.S. Senate election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 903900448,
+      "parentid": 897177328,
+      "timestamp": "2019-06-28T17:04:20Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 25784,
+      "comment": "[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (1×/2×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 904297021,
+      "parentid": 903900448,
+      "timestamp": "2019-07-01T07:06:48Z",
+      "user": "SunCrow",
+      "userid": 31939393,
+      "size": 25736,
+      "comment": "/* 2018 U.S. Senate election */ reword",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 904297075,
+      "parentid": 904297021,
+      "timestamp": "2019-07-01T07:07:30Z",
+      "user": "SunCrow",
+      "userid": 31939393,
+      "size": 25737,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 906729661,
+      "parentid": 904297075,
+      "timestamp": "2019-07-17T20:45:27Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 25928,
+      "comment": "/* External links */ Categories",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 918446069,
+      "parentid": 906729661,
+      "timestamp": "2019-09-28T18:13:29Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 25998,
+      "comment": "[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (30×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 919357069,
+      "parentid": 918446069,
+      "timestamp": "2019-10-03T08:18:24Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 26058,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920242784,
+      "parentid": 919357069,
+      "timestamp": "2019-10-08T14:11:01Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 26058,
+      "comment": "/* top */replaced: Senator → senator",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 921391323,
+      "parentid": 920242784,
+      "timestamp": "2019-10-15T13:51:36Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 26066,
+      "comment": "replaced: -  →  –  (4)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 922011912,
+      "parentid": 921391323,
+      "timestamp": "2019-10-19T09:58:06Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 26066,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 975434310,
+      "parentid": 922011912,
+      "timestamp": "2020-08-28T13:53:36Z",
+      "user": "LearnMore",
+      "userid": 134016,
+      "size": 26065,
+      "comment": "General proofreading.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 980995413,
+      "parentid": 975434310,
+      "timestamp": "2020-09-29T17:44:36Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 26045,
+      "comment": "Removing [[:c:File:Robert_J._Hugin.gif|Robert_J._Hugin.gif]]; it has been deleted from Commons by [[:c:User:Sealle|Sealle]] because: per [[:c:Commons:Deletion requests/File:Robert J. Hugin.gif|]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 995189015,
+      "parentid": 980995413,
+      "timestamp": "2020-12-19T18:39:35Z",
+      "user": "PatbackT",
+      "userid": 29859515,
+      "size": 26709,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 995189293,
+      "parentid": 995189015,
+      "timestamp": "2020-12-19T18:41:20Z",
+      "user": "PatbackT",
+      "userid": 29859515,
+      "size": 26763,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 996700057,
+      "parentid": 995189293,
+      "timestamp": "2020-12-28T04:20:45Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 26768,
+      "comment": "/* 2018 U.S. Senate election */ +",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 997936810,
+      "parentid": 996700057,
+      "timestamp": "2021-01-02T23:47:21Z",
+      "user": "68.196.88.9",
+      "userid": 0,
+      "size": 27767,
+      "comment": "/* Healthcare */The topic wasn’t relevant",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "references removed",
+        "possible unreferenced addition to BLP",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 997936818,
+      "parentid": 997936810,
+      "timestamp": "2021-01-02T23:47:25Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 26768,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/68.196.88.9|68.196.88.9]] to version by Love of Corey. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3857797) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1009752926,
+      "parentid": 997936818,
+      "timestamp": "2021-03-02T03:38:50Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 26776,
+      "comment": "Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use mdy dates from September 2018]] | via #UCB_Category 512/1280",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1009768631,
+      "parentid": 1009752926,
+      "timestamp": "2021-03-02T05:58:50Z",
+      "user": "72.66.10.169",
+      "userid": 0,
+      "size": 26783,
+      "comment": "/* Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020878526,
+      "parentid": 1009768631,
+      "timestamp": "2021-05-01T15:41:45Z",
+      "user": "Alan Svirnovskiy",
+      "userid": 41739725,
+      "size": 26789,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1021225120,
+      "parentid": 1020878526,
+      "timestamp": "2021-05-03T15:42:51Z",
+      "user": "Praxidicae",
+      "userid": 28040267,
+      "size": 26783,
+      "comment": "Reverted edits by [[Special:Contribs/Alan Svirnovskiy|Alan Svirnovskiy]] ([[User talk:Alan Svirnovskiy|talk]]) to last version by 72.66.10.169",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1025098342,
+      "parentid": 1021225120,
+      "timestamp": "2021-05-25T18:21:22Z",
+      "user": "67.80.249.131",
+      "userid": 0,
+      "size": 26790,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1029422645,
+      "parentid": 1025098342,
+      "timestamp": "2021-06-19T21:56:43Z",
+      "user": "GuyBFriday",
+      "userid": 28826639,
+      "size": 26794,
+      "comment": "Inserted Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1030113791,
+      "parentid": 1029422645,
+      "timestamp": "2021-06-23T23:54:41Z",
+      "user": "2600:1002:B119:5AD5:CD4D:367F:AA27:ACCE",
+      "userid": 0,
+      "size": 26992,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1030114046,
+      "parentid": 1030113791,
+      "timestamp": "2021-06-23T23:57:03Z",
+      "user": "2600:1002:B119:5AD5:CD4D:367F:AA27:ACCE",
+      "userid": 0,
+      "size": 27171,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1030116781,
+      "parentid": 1030114046,
+      "timestamp": "2021-06-24T00:20:19Z",
+      "user": "69.124.93.156",
+      "userid": 0,
+      "size": 27171,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1035595294,
+      "parentid": 1030116781,
+      "timestamp": "2021-07-26T15:47:58Z",
+      "user": "24.102.144.48",
+      "userid": 0,
+      "size": 27810,
+      "comment": "/* 2018 U.S. Senate election */Added content",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1035595438,
+      "parentid": 1035595294,
+      "timestamp": "2021-07-26T15:49:01Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 27171,
+      "comment": "Reverted 1 edit by [[Special:Contributions/24.102.144.48|24.102.144.48]] ([[User talk:24.102.144.48|talk]]) to last revision by 69.124.93.156",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1043727302,
+      "parentid": 1035595438,
+      "timestamp": "2021-09-11T17:02:00Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 27131,
+      "comment": "/* Education and military service */replaced: a [[Master's degree|Master's Degree]] → a [[master's degree]], in [[Business administration|Business Administration]] → in [[business administration]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1050479405,
+      "parentid": 1043727302,
+      "timestamp": "2021-10-18T02:46:30Z",
+      "user": "149.43.222.235",
+      "userid": 0,
+      "size": 27751,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1055502887,
+      "parentid": 1050479405,
+      "timestamp": "2021-11-16T07:01:03Z",
+      "user": "DukeOfDelTaco",
+      "userid": 36908829,
+      "size": 27758,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1060413116,
+      "parentid": 1055502887,
+      "timestamp": "2021-12-15T09:52:17Z",
+      "user": "GuyBFriday",
+      "userid": 28826639,
+      "size": 27762,
+      "comment": "/* Personal life */ Inserted Wikilink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1062415446,
+      "parentid": 1060413116,
+      "timestamp": "2021-12-28T09:14:43Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 27810,
+      "comment": "add category [[Category:Military personnel from New Jersey]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1066641130,
+      "parentid": 1062415446,
+      "timestamp": "2022-01-19T10:37:17Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 27868,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American businessman and politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1080107808,
+      "parentid": 1066641130,
+      "timestamp": "2022-03-30T09:56:56Z",
+      "user": "Kku",
+      "userid": 5846,
+      "size": 27872,
+      "comment": "link [pP]ro-life",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1082846106,
+      "parentid": 1080107808,
+      "timestamp": "2022-04-15T12:49:24Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 28076,
+      "comment": "pic",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1091908507,
+      "parentid": 1082846106,
+      "timestamp": "2022-06-07T02:58:08Z",
+      "user": "2601:241:300:B610:EC7D:B577:B3CA:F6F9",
+      "userid": 0,
+      "size": 28075,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1097729684,
+      "parentid": 1091908507,
+      "timestamp": "2022-07-12T10:54:51Z",
+      "user": "Filedelinkerbot",
+      "userid": 20611691,
+      "size": 28057,
+      "comment": "Bot: Removing [[c:File:Bob-Hugin.jpg]] , deleted by [[:C:User:Storkk|Storkk]] (Likely copyright violation; see [[Commons:COM:Licensing]]. If you are the copyright holder, please follow the instructions on [[Commons:COM:VRT]].).",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1102368250,
+      "parentid": 1097729684,
+      "timestamp": "2022-08-04T18:25:05Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 28190,
+      "comment": "https://www.insidernj.com/bob-hugin-named-next-chair-njgop/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122029025,
+      "parentid": 1102368250,
+      "timestamp": "2022-11-15T13:16:57Z",
+      "user": "Scu ba",
+      "userid": 32247985,
+      "size": 28226,
+      "comment": "image",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122130820,
+      "parentid": 1122029025,
+      "timestamp": "2022-11-16T00:45:09Z",
+      "user": "Filedelinkerbot",
+      "userid": 20611691,
+      "size": 28214,
+      "comment": "Bot: Removing [[c:File:BobHugin.jpg]] ([[:File:BobHugin.jpg|en]]). Deleted by [[:C:User:Mdaniels5757|Mdaniels5757]] ([[Commons:COM:L|Copyright violation]]: no free license: ballotpedia.org/Ballotpedia:General_disclaimer).",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1122449685,
+      "parentid": 1122130820,
+      "timestamp": "2022-11-17T16:59:36Z",
+      "user": "Scu ba",
+      "userid": 32247985,
+      "size": 28173,
+      "comment": "clarity",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122449819,
+      "parentid": 1122449685,
+      "timestamp": "2022-11-17T17:00:27Z",
+      "user": "Scu ba",
+      "userid": 32247985,
+      "size": 28176,
+      "comment": "Lavery link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1147935454,
+      "parentid": 1122449819,
+      "timestamp": "2023-04-03T03:55:08Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 28365,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1150519916,
+      "parentid": 1147935454,
+      "timestamp": "2023-04-18T17:02:45Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 28375,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1155995936,
+      "parentid": 1150519916,
+      "timestamp": "2023-05-20T18:39:55Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 28586,
+      "comment": "Added picture.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1156890851,
+      "parentid": 1155995936,
+      "timestamp": "2023-05-25T03:53:07Z",
+      "user": "Dwarfroe",
+      "userid": 41941497,
+      "size": 28589,
+      "comment": "fix link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1163543437,
+      "parentid": 1156890851,
+      "timestamp": "2023-07-05T13:37:08Z",
+      "user": "Clugg02",
+      "userid": 46061093,
+      "size": 28975,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1163553675,
+      "parentid": 1163543437,
+      "timestamp": "2023-07-05T14:33:24Z",
+      "user": "Melcous",
+      "userid": 20472590,
+      "size": 28589,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Clugg02|Clugg02]] ([[User talk:Clugg02|talk]]): [[WP:SPA]]/spam editing",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1166494091,
+      "parentid": 1163553675,
+      "timestamp": "2023-07-21T23:05:42Z",
+      "user": "HeyElliott",
+      "userid": 44120587,
+      "size": 28587,
+      "comment": "/* Political positions */ [[MOS:CQ]]",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1193341392,
+      "parentid": 1166494091,
+      "timestamp": "2024-01-03T09:07:55Z",
+      "user": "TDKR Chicago 101",
+      "userid": 17209722,
+      "size": 28624,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1223132786,
+      "parentid": 1193341392,
+      "timestamp": "2024-05-10T03:06:37Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 28664,
+      "comment": "added [[Category:Methodists from New Jersey]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1223132815,
+      "parentid": 1223132786,
+      "timestamp": "2024-05-10T03:06:54Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 28704,
+      "comment": "added [[Category:American United Methodists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1227501165,
+      "parentid": 1223132815,
+      "timestamp": "2024-06-06T03:14:06Z",
+      "user": "104.160.97.110",
+      "userid": 0,
+      "size": 28717,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1259567321,
+      "parentid": 1227501165,
+      "timestamp": "2024-11-25T21:29:58Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 28670,
+      "comment": "Removing from [[Category:21st-century American politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260750882,
+      "parentid": 1259567321,
+      "timestamp": "2024-12-02T12:37:45Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 28649,
+      "comment": "Removed parameters. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Spinixster | [[Category:New Jersey Republicans]] | #UCB_Category 79/271",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Hugin"
+}

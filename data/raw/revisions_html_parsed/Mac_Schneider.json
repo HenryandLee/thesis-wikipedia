@@ -1,0 +1,1182 @@
+{
+  "page_title": "Mac_Schneider",
+  "candidate_name": "Mac Schneider",
+  "collection_date": "2025-12-28T16:47:22.599009",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 98,
+    "unique_editors": 46,
+    "date_range": {
+      "start": "2013-02-15T23:15:20Z",
+      "end": "2024-12-05T03:05:07Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 538481205,
+      "parentid": 0,
+      "timestamp": "2013-02-15T23:15:20Z",
+      "user": "LtNOWIS",
+      "userid": 120856,
+      "size": 2280,
+      "comment": "page created",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 549353599,
+      "parentid": 538481205,
+      "timestamp": "2013-04-08T16:53:40Z",
+      "user": "SchreiberBike",
+      "userid": 5839411,
+      "size": 2287,
+      "comment": "[[WP:DPL|You can help.]] Repaired link to the disambiguation page, [[Attorney]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 551422583,
+      "parentid": 549353599,
+      "timestamp": "2013-04-21T07:25:53Z",
+      "user": "Bazonka",
+      "userid": 561069,
+      "size": 2319,
+      "comment": "Disambiguated: [[Prairie Public Broadcasting]] → [[Prairie Public (disambiguation)]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 553810227,
+      "parentid": 551422583,
+      "timestamp": "2013-05-06T17:35:42Z",
+      "user": "Jcc",
+      "userid": 9961776,
+      "size": 2329,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (stub)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 553884417,
+      "parentid": 553810227,
+      "timestamp": "2013-05-07T02:26:25Z",
+      "user": "LtNOWIS",
+      "userid": 120856,
+      "size": 2352,
+      "comment": "stub sorting",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 554610131,
+      "parentid": 553884417,
+      "timestamp": "2013-05-11T16:38:24Z",
+      "user": "Delaywaves",
+      "userid": 13989377,
+      "size": 2356,
+      "comment": "Fix infobox to show incumbency.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 554610180,
+      "parentid": 554610131,
+      "timestamp": "2013-05-11T16:38:45Z",
+      "user": "Delaywaves",
+      "userid": 13989377,
+      "size": 2360,
+      "comment": "Same fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 555513996,
+      "parentid": 554610180,
+      "timestamp": "2013-05-17T13:56:50Z",
+      "user": "LinkTiger",
+      "userid": 186125,
+      "size": 2392,
+      "comment": "Add ND state senate nav box.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 592898155,
+      "parentid": 555513996,
+      "timestamp": "2014-01-29T02:45:02Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 2497,
+      "comment": "Switched order of offices Senator and Minority Leader to Minority Leader and Senator",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 653054052,
+      "parentid": 592898155,
+      "timestamp": "2015-03-22T19:47:05Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 2393,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722847208,
+      "parentid": 653054052,
+      "timestamp": "2016-05-30T13:42:49Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 2140,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Mac Schneider|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 725131184,
+      "parentid": 722847208,
+      "timestamp": "2016-06-13T19:30:51Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 2110,
+      "comment": "Fix [[:Category:Pages using citations with accessdate and no URL]] when perm identifier present (doi|bibcode|arxiv|pmid|jstor|isbn|issn|lccn|oclc|ismn|hdl): [[User talk:Tom.Reding#Access-date/no url maint|rem access-date]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 751780610,
+      "parentid": 725131184,
+      "timestamp": "2016-11-27T20:27:47Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 2111,
+      "comment": "/* top */clean up; http&rarr;https for [[YouTube]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 756109386,
+      "parentid": 751780610,
+      "timestamp": "2016-12-22T01:51:52Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2160,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 780869269,
+      "parentid": 756109386,
+      "timestamp": "2017-05-17T17:41:03Z",
+      "user": "129.176.197.23",
+      "userid": 0,
+      "size": 2242,
+      "comment": "Schneider is no longer a ND state senator.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 796104584,
+      "parentid": 780869269,
+      "timestamp": "2017-08-18T14:27:00Z",
+      "user": "LinkTiger",
+      "userid": 186125,
+      "size": 2305,
+      "comment": "Use consistent tense in lede and add info to infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 831655727,
+      "parentid": 796104584,
+      "timestamp": "2018-03-21T16:43:28Z",
+      "user": "LinkTiger",
+      "userid": 186125,
+      "size": 2756,
+      "comment": "Add Dem-NPL endorsement; remove navbox that no longer includes this article.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 843890304,
+      "parentid": 831655727,
+      "timestamp": "2018-06-01T05:01:47Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 2802,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 845300820,
+      "parentid": 843890304,
+      "timestamp": "2018-06-10T21:34:41Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 3499,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 845602882,
+      "parentid": 845300820,
+      "timestamp": "2018-06-12T21:55:45Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 3509,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 845717416,
+      "parentid": 845602882,
+      "timestamp": "2018-06-13T17:14:57Z",
+      "user": "174.198.14.117",
+      "userid": 0,
+      "size": 3695,
+      "comment": "/* External links */ Fixed links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846011440,
+      "parentid": 845717416,
+      "timestamp": "2018-06-15T17:38:32Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 3726,
+      "comment": "Reworded to sound better",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 846020107,
+      "parentid": 846011440,
+      "timestamp": "2018-06-15T19:03:57Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 3735,
+      "comment": "Added “American” description",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 846182282,
+      "parentid": 846020107,
+      "timestamp": "2018-06-16T22:56:21Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 3820,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846182457,
+      "parentid": 846182282,
+      "timestamp": "2018-06-16T22:58:42Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 3832,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846188824,
+      "parentid": 846182457,
+      "timestamp": "2018-06-17T00:12:37Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7068,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846188955,
+      "parentid": 846188824,
+      "timestamp": "2018-06-17T00:14:11Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7085,
+      "comment": "/* Early life, education, and career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846189140,
+      "parentid": 846188955,
+      "timestamp": "2018-06-17T00:16:21Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7107,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846189434,
+      "parentid": 846189140,
+      "timestamp": "2018-06-17T00:19:14Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7105,
+      "comment": "/* North Dakota Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846189491,
+      "parentid": 846189434,
+      "timestamp": "2018-06-17T00:19:49Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7092,
+      "comment": "/* North Dakota Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846189575,
+      "parentid": 846189491,
+      "timestamp": "2018-06-17T00:20:45Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7097,
+      "comment": "/* 2018 United States House of Representatives Election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846190278,
+      "parentid": 846189575,
+      "timestamp": "2018-06-17T00:28:26Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7083,
+      "comment": "/* 2018 United States House of Representatives Election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846213458,
+      "parentid": 846190278,
+      "timestamp": "2018-06-17T05:10:16Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7198,
+      "comment": "/* North Dakota Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846213740,
+      "parentid": 846213458,
+      "timestamp": "2018-06-17T05:13:51Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7183,
+      "comment": "/* North Dakota Senate */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846307766,
+      "parentid": 846213740,
+      "timestamp": "2018-06-17T21:38:20Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 7197,
+      "comment": "/* 2018 United States House of Representatives Election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 849545481,
+      "parentid": 846307766,
+      "timestamp": "2018-07-09T18:50:16Z",
+      "user": "Hgaba",
+      "userid": 30020443,
+      "size": 8038,
+      "comment": "Added information regarding his college football career",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 850270114,
+      "parentid": 849545481,
+      "timestamp": "2018-07-14T20:32:47Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 10418,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 850270270,
+      "parentid": 850270114,
+      "timestamp": "2018-07-14T20:34:29Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 10460,
+      "comment": "/* Electoral History */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 850285457,
+      "parentid": 850270270,
+      "timestamp": "2018-07-14T23:13:02Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 10461,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 861056157,
+      "parentid": 850285457,
+      "timestamp": "2018-09-24T20:23:45Z",
+      "user": "Timrollpickering",
+      "userid": 32005,
+      "size": 10461,
+      "comment": "Moving from [[Category:North Dakota State Senators]] to [[Category:North Dakota state senators]] per [[Wikipedia:Categories for discussion/Log/2018 September 17]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 867503659,
+      "parentid": 861056157,
+      "timestamp": "2018-11-06T03:53:51Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 10683,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867818064,
+      "parentid": 867503659,
+      "timestamp": "2018-11-08T05:19:00Z",
+      "user": "DavidUndertow",
+      "userid": 31915633,
+      "size": 10674,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 877946621,
+      "parentid": 867818064,
+      "timestamp": "2019-01-11T22:46:48Z",
+      "user": "I dream of horses",
+      "userid": 9676078,
+      "size": 10666,
+      "comment": "/* External links */Added/removed/changed tags, possibly other edits, removed stub tag",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 879208654,
+      "parentid": 877946621,
+      "timestamp": "2019-01-19T19:17:00Z",
+      "user": "LinkTiger",
+      "userid": 186125,
+      "size": 11702,
+      "comment": "Dem -> Dem-NPL; add 2018 electoral results",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 884913417,
+      "parentid": 879208654,
+      "timestamp": "2019-02-24T20:41:36Z",
+      "user": "174.206.8.242",
+      "userid": 0,
+      "size": 11708,
+      "comment": "/* 2018 United States House of Representatives Election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 885009815,
+      "parentid": 884913417,
+      "timestamp": "2019-02-25T11:15:09Z",
+      "user": "Arjayay",
+      "userid": 5718152,
+      "size": 11705,
+      "comment": "Duplicate word removed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 903517971,
+      "parentid": 885009815,
+      "timestamp": "2019-06-26T03:56:15Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 11700,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 903581272,
+      "parentid": 903517971,
+      "timestamp": "2019-06-26T14:53:44Z",
+      "user": "LinkTiger",
+      "userid": 186125,
+      "size": 11705,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Therequiembellishere|Therequiembellishere]] ([[User talk:Therequiembellishere|talk]]): The Democratic-NPL is not just a state Democratic party ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 910145568,
+      "parentid": 903581272,
+      "timestamp": "2019-08-09T23:55:34Z",
+      "user": "LD1998",
+      "userid": 35371542,
+      "size": 11743,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 910145595,
+      "parentid": 910145568,
+      "timestamp": "2019-08-09T23:55:51Z",
+      "user": "LD1998",
+      "userid": 35371542,
+      "size": 11741,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 910148303,
+      "parentid": 910145595,
+      "timestamp": "2019-08-10T00:19:16Z",
+      "user": "LD1998",
+      "userid": 35371542,
+      "size": 11736,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 910503673,
+      "parentid": 910148303,
+      "timestamp": "2019-08-12T14:51:56Z",
+      "user": "LinkTiger",
+      "userid": 186125,
+      "size": 11741,
+      "comment": "Undid revision 910148303 by [[Special:Contributions/LD1998|LD1998]] ([[User talk:LD1998|talk]]). Dem-NPL is distinct from national Dems",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 941454927,
+      "parentid": 910503673,
+      "timestamp": "2020-02-18T17:56:57Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 11801,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 965205502,
+      "parentid": 941454927,
+      "timestamp": "2020-06-30T00:39:42Z",
+      "user": "47.223.78.205",
+      "userid": 0,
+      "size": 11800,
+      "comment": "Removed redirect",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 965409495,
+      "parentid": 965205502,
+      "timestamp": "2020-07-01T04:49:10Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 11810,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 966257094,
+      "parentid": 965409495,
+      "timestamp": "2020-07-06T01:36:41Z",
+      "user": "Jweiss11",
+      "userid": 206485,
+      "size": 11808,
+      "comment": "add DOB to lead, cleanup",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 966257525,
+      "parentid": 966257094,
+      "timestamp": "2020-07-06T01:41:13Z",
+      "user": "Jweiss11",
+      "userid": 206485,
+      "size": 12048,
+      "comment": "/* External links */ rem dead link, add cats",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 988795612,
+      "parentid": 966257525,
+      "timestamp": "2020-11-15T08:26:25Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 11993,
+      "comment": "Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Georgetown University Law Center alumni]] | via #UCB_Category 326/776",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 993401234,
+      "parentid": 988795612,
+      "timestamp": "2020-12-10T12:28:53Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 11961,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 14 templates: del empty params (4×); hyphenate params (10×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1024548930,
+      "parentid": 993401234,
+      "timestamp": "2021-05-22T20:14:04Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 11711,
+      "comment": "copyedits; link to [[Curt Kreun]]",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 1024548957,
+      "parentid": 1024548930,
+      "timestamp": "2021-05-22T20:14:23Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 11702,
+      "comment": "/* Early life, education, and career */ heading tweak",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1072863803,
+      "parentid": 1024548957,
+      "timestamp": "2022-02-19T21:20:39Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 11746,
+      "comment": "add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1082785935,
+      "parentid": 1072863803,
+      "timestamp": "2022-04-15T03:21:26Z",
+      "user": "Arbor to SJ",
+      "userid": 4322169,
+      "size": 12209,
+      "comment": "more info about early life",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1110507833,
+      "parentid": 1082785935,
+      "timestamp": "2022-09-15T21:59:24Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 14076,
+      "comment": "Nominated as U.S. Attorney",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1113364420,
+      "parentid": 1110507833,
+      "timestamp": "2022-10-01T03:14:27Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 14089,
+      "comment": "/* Tenure */ dead link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1113364502,
+      "parentid": 1113364420,
+      "timestamp": "2022-10-01T03:15:04Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 14102,
+      "comment": "/* Early life and education */ {{dead link}}",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1113364576,
+      "parentid": 1113364502,
+      "timestamp": "2022-10-01T03:15:40Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 14115,
+      "comment": "/* 2018 congressional election */ {{dead link}}",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1113364592,
+      "parentid": 1113364576,
+      "timestamp": "2022-10-01T03:15:48Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 14114,
+      "comment": "/* Nomination as U.S. attorney */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1113367691,
+      "parentid": 1113364592,
+      "timestamp": "2022-10-01T03:35:51Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 14168,
+      "comment": "Dating maintenance tags: {{Dead link}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1114097401,
+      "parentid": 1113367691,
+      "timestamp": "2022-10-04T20:05:15Z",
+      "user": "Shhhnotsoloud",
+      "userid": 11521989,
+      "size": 14136,
+      "comment": "Fix ambiguous wikilink",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1122464848,
+      "parentid": 1114097401,
+      "timestamp": "2022-11-17T18:38:46Z",
+      "user": "2603:8000:CF00:5F:CCE9:F199:2EAA:336B",
+      "userid": 0,
+      "size": 14531,
+      "comment": "/* Nomination as U.S. attorney */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1122466608,
+      "parentid": 1122464848,
+      "timestamp": "2022-11-17T18:51:41Z",
+      "user": "2603:8000:CF00:5F:CCE9:F199:2EAA:336B",
+      "userid": 0,
+      "size": 14532,
+      "comment": "/* Nomination as U.S. attorney */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1122488723,
+      "parentid": 1122466608,
+      "timestamp": "2022-11-17T21:20:41Z",
+      "user": "Age20035",
+      "userid": 34478927,
+      "size": 14526,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1126046954,
+      "parentid": 1122488723,
+      "timestamp": "2022-12-07T06:50:49Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 14796,
+      "comment": "Nomination confirmed",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126049088,
+      "parentid": 1126046954,
+      "timestamp": "2022-12-07T07:08:01Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 14866,
+      "comment": "added [[Category:United States Attorneys for the District of North Dakota]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128073718,
+      "parentid": 1126049088,
+      "timestamp": "2022-12-18T06:45:05Z",
+      "user": "Clay",
+      "userid": 1020950,
+      "size": 15065,
+      "comment": "updating",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128073851,
+      "parentid": 1128073718,
+      "timestamp": "2022-12-18T06:46:10Z",
+      "user": "Clay",
+      "userid": 1020950,
+      "size": 15017,
+      "comment": "updating",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128074117,
+      "parentid": 1128073851,
+      "timestamp": "2022-12-18T06:48:54Z",
+      "user": "Clay",
+      "userid": 1020950,
+      "size": 14993,
+      "comment": "updating",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128444611,
+      "parentid": 1128074117,
+      "timestamp": "2022-12-20T04:45:50Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 14255,
+      "comment": "copyedits, remove unsourced",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128444691,
+      "parentid": 1128444611,
+      "timestamp": "2022-12-20T04:46:43Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 14258,
+      "comment": "/* 2018 congressional election */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128445092,
+      "parentid": 1128444691,
+      "timestamp": "2022-12-20T04:50:22Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 14351,
+      "comment": "/* External links */ [[WP:ELOFFICIAL]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128447390,
+      "parentid": 1128445092,
+      "timestamp": "2022-12-20T05:10:35Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 14370,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1128992965,
+      "parentid": 1128447390,
+      "timestamp": "2022-12-23T02:06:54Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 14364,
+      "comment": "intersect Democratic and North Dakota representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1142496361,
+      "parentid": 1128992965,
+      "timestamp": "2023-03-02T18:45:22Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 14350,
+      "comment": "/* U.S. Attorney */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1154291254,
+      "parentid": 1142496361,
+      "timestamp": "2023-05-11T14:01:33Z",
+      "user": "Clay",
+      "userid": 1020950,
+      "size": 14365,
+      "comment": "replacing image",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1160687561,
+      "parentid": 1154291254,
+      "timestamp": "2023-06-18T04:49:23Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 14386,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician\" to \"American politician & lawyer (born 1979)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1175671775,
+      "parentid": 1160687561,
+      "timestamp": "2023-09-16T16:15:44Z",
+      "user": "RevelationDirect",
+      "userid": 7949351,
+      "size": 14430,
+      "comment": "added [[Category:Fargo South High School alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1187488203,
+      "parentid": 1175671775,
+      "timestamp": "2023-11-29T15:28:43Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 14430,
+      "comment": "/* 2018 congressional election */replaced: State Representative → state representative",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1197999410,
+      "parentid": 1187488203,
+      "timestamp": "2024-01-22T18:28:11Z",
+      "user": "Ser!",
+      "userid": 31259259,
+      "size": 14436,
+      "comment": "[[MOS:HYPOCORISM]] as first name is not common, see [[Mac Warner]] for example",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1205916197,
+      "parentid": 1197999410,
+      "timestamp": "2024-02-10T19:18:06Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 14436,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1233158617,
+      "parentid": 1205916197,
+      "timestamp": "2024-07-07T15:47:00Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 14461,
+      "comment": "removed [[Category:Candidates in the 2018 United States elections]]; added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1236390440,
+      "parentid": 1233158617,
+      "timestamp": "2024-07-24T12:38:03Z",
+      "user": "Lepricavark",
+      "userid": 28779459,
+      "size": 14494,
+      "comment": "/* top */prepended 'Use mdy dates' tag",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1244946667,
+      "parentid": 1236390440,
+      "timestamp": "2024-09-10T03:17:17Z",
+      "user": "JTtheOG",
+      "userid": 17944471,
+      "size": 14545,
+      "comment": "added [[Category:21st-century North Dakota politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1248907130,
+      "parentid": 1244946667,
+      "timestamp": "2024-10-02T03:17:37Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 14587,
+      "comment": "added [[Category:American athlete-politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1252002482,
+      "parentid": 1248907130,
+      "timestamp": "2024-10-19T07:27:51Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 14447,
+      "comment": "/* External links */ [[User:PrimeBOT/24|Task 24]]: elink template removal following [[Wikipedia:Templates_for_discussion/Log/2024_September_20|a TFD]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1261258342,
+      "parentid": 1252002482,
+      "timestamp": "2024-12-05T02:57:54Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 14522,
+      "comment": "added [[Category:21st-century members of the North Dakota Legislative Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261259243,
+      "parentid": 1261258342,
+      "timestamp": "2024-12-05T03:04:31Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 14471,
+      "comment": "Removing from [[Category:21st-century North Dakota politicians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261259343,
+      "parentid": 1261259243,
+      "timestamp": "2024-12-05T03:05:07Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 14424,
+      "comment": "Removing from [[Category:21st-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mac_Schneider"
+}

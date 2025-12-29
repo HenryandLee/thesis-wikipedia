@@ -1,0 +1,44 @@
+{
+  "page_title": "Jim_Piccillo",
+  "candidate_name": "Jim Piccillo",
+  "collection_date": "2025-12-28T16:42:23.086469",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2010-08-22T15:10:47Z",
+      "end": "2018-12-08T17:58:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 380330562,
+      "parentid": 0,
+      "timestamp": "2010-08-22T15:10:47Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 90,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Florida, 2010#District 5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872706964,
+      "parentid": 380330562,
+      "timestamp": "2018-12-08T17:58:15Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 89,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Florida]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Piccillo"
+}

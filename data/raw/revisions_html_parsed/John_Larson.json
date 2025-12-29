@@ -1,0 +1,143 @@
+{
+  "page_title": "John_Larson",
+  "candidate_name": "John Larson",
+  "collection_date": "2025-12-28T16:43:55.298480",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 9,
+    "unique_editors": 8,
+    "date_range": {
+      "start": "2008-04-11T16:33:26Z",
+      "end": "2021-11-17T01:38:20Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 204947579,
+      "parentid": 0,
+      "timestamp": "2008-04-11T16:33:26Z",
+      "user": "Lighted Match",
+      "userid": 2826417,
+      "size": 28,
+      "comment": "moved [[John Larson]] to [[John B. Larson]] over redirect: Full name rather than Partial Name.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 284001381,
+      "parentid": 204947579,
+      "timestamp": "2009-04-15T14:35:54Z",
+      "user": "Vchimpanzee",
+      "userid": 3723122,
+      "size": 224,
+      "comment": "Changed to disambiguation page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 284002130,
+      "parentid": 284001381,
+      "timestamp": "2009-04-15T14:39:57Z",
+      "user": "Vchimpanzee",
+      "userid": 3723122,
+      "size": 28,
+      "comment": "[[WP:UNDO|Undid]] revision 284001381 by [[Special:Contributions/Vchimpanzee|Vchimpanzee]] ([[User talk:Vchimpanzee|talk]])Hatnote sends to disamiguation, will create that",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1027462319,
+      "parentid": 284002130,
+      "timestamp": "2021-06-08T02:17:03Z",
+      "user": "2601:601:1300:B130:D118:85B2:6169:11FD",
+      "userid": 0,
+      "size": 18,
+      "comment": "[[WP:AES|←]]Removed redirect to [[John B. Larson]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1027462368,
+      "parentid": 1027462319,
+      "timestamp": "2021-06-08T02:17:27Z",
+      "user": "WhoAteMyButter",
+      "userid": 37918255,
+      "size": 28,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2601:601:1300:B130:D118:85B2:6169:11FD|2601:601:1300:B130:D118:85B2:6169:11FD]] ([[User talk:2601:601:1300:B130:D118:85B2:6169:11FD|talk]]) to last revision by Vchimpanzee",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect",
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1036862096,
+      "parentid": 1027462368,
+      "timestamp": "2021-08-03T04:20:09Z",
+      "user": "2601:601:1300:43:1038:4244:35DA:5060",
+      "userid": 0,
+      "size": 18,
+      "comment": "[[WP:AES|←]]Removed redirect to [[John B. Larson]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1036862108,
+      "parentid": 1036862096,
+      "timestamp": "2021-08-03T04:20:18Z",
+      "user": "Rdp060707",
+      "userid": 39526041,
+      "size": 28,
+      "comment": "[[WP:ROLLBACK|Reverted]] edits by [[Special:Contributions/2601:601:1300:43:1038:4244:35DA:5060|2601:601:1300:43:1038:4244:35DA:5060]] ([[User talk:2601:601:1300:43:1038:4244:35DA:5060|talk]]) to last revision by WhoAteMyButter: unexplained content removal",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-new-redirect",
+        "OAuth CID: 1805",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1055647365,
+      "parentid": 1036862108,
+      "timestamp": "2021-11-17T01:38:10Z",
+      "user": "2601:601:1300:17B0:0:0:0:CD2A",
+      "userid": 0,
+      "size": 18,
+      "comment": "[[WP:AES|←]]Removed redirect to [[John B. Larson]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-manual-revert",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1055647392,
+      "parentid": 1055647365,
+      "timestamp": "2021-11-17T01:38:20Z",
+      "user": "JalenBarks",
+      "userid": 4052843,
+      "size": 28,
+      "comment": "Reverted edits by [[Special:Contribs/2601:601:1300:17B0:0:0:0:CD2A|2601:601:1300:17B0:0:0:0:CD2A]] ([[User talk:2601:601:1300:17B0:0:0:0:CD2A|talk]]) to last version by Rdp060707",
+      "minor": true,
+      "tags": [
+        "mw-rollback",
+        "mw-new-redirect"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Larson"
+}

@@ -1,0 +1,66 @@
+{
+  "page_title": "Ray_Lutz",
+  "candidate_name": "Ray Lutz",
+  "collection_date": "2025-12-28T16:52:02.737916",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 4,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2010-08-04T06:43:10Z",
+      "end": "2018-12-08T20:17:22Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 377073810,
+      "parentid": 0,
+      "timestamp": "2010-08-04T06:43:10Z",
+      "user": "CC5191",
+      "userid": 12800732,
+      "size": 26,
+      "comment": "[[WP:AES|←]]Redirected page to [[Raymond Lutz]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 377073853,
+      "parentid": 377073810,
+      "timestamp": "2010-08-04T06:43:36Z",
+      "user": "CC5191",
+      "userid": 12800732,
+      "size": 26,
+      "comment": "moved [[Ray lutz]] to [[Ray Lutz]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 625859498,
+      "parentid": 377073853,
+      "timestamp": "2014-09-16T20:27:09Z",
+      "user": "タチコマ robot",
+      "userid": 421426,
+      "size": 94,
+      "comment": "Robot: Fixing double redirect to [[United States House of Representatives elections in California, 2010#District 52]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872725452,
+      "parentid": 625859498,
+      "timestamp": "2018-12-08T20:17:22Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 93,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in California]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ray_Lutz"
+}

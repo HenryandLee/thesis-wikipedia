@@ -1,0 +1,529 @@
+{
+  "page_title": "Edward_Daniels",
+  "candidate_name": "Edward Daniels",
+  "collection_date": "2025-12-28T16:38:25.410395",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 45,
+    "unique_editors": 31,
+    "date_range": {
+      "start": "2007-09-07T23:42:42Z",
+      "end": "2024-12-01T13:50:01Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 156379529,
+      "parentid": 0,
+      "timestamp": "2007-09-07T23:42:42Z",
+      "user": "Graeme Bartlett",
+      "userid": 38427,
+      "size": 2343,
+      "comment": "provided by [[User:70.21.43.247|70.21.43.247]] 14:38, 7 September 2007 in [[WP:AFC]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 156380035,
+      "parentid": 156379529,
+      "timestamp": "2007-09-07T23:45:53Z",
+      "user": "Graeme Bartlett",
+      "userid": 38427,
+      "size": 2351,
+      "comment": "sinaloa redlink",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 156543442,
+      "parentid": 156380035,
+      "timestamp": "2007-09-08T19:51:35Z",
+      "user": "Royalbroil",
+      "userid": 299408,
+      "size": 2455,
+      "comment": "wikilinks, wikify",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201542958,
+      "parentid": 156543442,
+      "timestamp": "2008-03-28T10:18:26Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2457,
+      "comment": "/* Sources */layout",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201544167,
+      "parentid": 201542958,
+      "timestamp": "2008-03-28T10:28:47Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 2449,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 210277862,
+      "parentid": 201544167,
+      "timestamp": "2008-05-05T08:13:58Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 2473,
+      "comment": "Disambiguate [[Jim Lane]] to [[James H. Lane (Senator)]] using [[:en:Wikipedia:Tools/Navigation_popups|popups]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 239344028,
+      "parentid": 210277862,
+      "timestamp": "2008-09-18T18:08:50Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 2465,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 260010879,
+      "parentid": 239344028,
+      "timestamp": "2008-12-25T05:11:02Z",
+      "user": "Akradecki",
+      "userid": 1590331,
+      "size": 2482,
+      "comment": "wikilink, since there's an article about him",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 260012159,
+      "parentid": 260010879,
+      "timestamp": "2008-12-25T05:25:13Z",
+      "user": "Akradecki",
+      "userid": 1590331,
+      "size": 2522,
+      "comment": "wikilink",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 260018665,
+      "parentid": 260012159,
+      "timestamp": "2008-12-25T06:42:41Z",
+      "user": "Akradecki",
+      "userid": 1590331,
+      "size": 2551,
+      "comment": "cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 260019354,
+      "parentid": 260018665,
+      "timestamp": "2008-12-25T06:52:43Z",
+      "user": "Akradecki",
+      "userid": 1590331,
+      "size": 2555,
+      "comment": "wikilink",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 340322532,
+      "parentid": 260019354,
+      "timestamp": "2010-01-27T12:39:11Z",
+      "user": "BaronLarf",
+      "userid": 137600,
+      "size": 2595,
+      "comment": "+cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 345853753,
+      "parentid": 340322532,
+      "timestamp": "2010-02-23T10:56:01Z",
+      "user": "BaronLarf",
+      "userid": 137600,
+      "size": 2630,
+      "comment": "Quick-adding category [[:Category:Ripon College faculty|Ripon College faculty]] (using [[WP:HOTCAT|HotCat]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 346087748,
+      "parentid": 345853753,
+      "timestamp": "2010-02-24T13:56:37Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 2715,
+      "comment": "wikified",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 396654305,
+      "parentid": 346087748,
+      "timestamp": "2010-11-14T06:02:24Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 2960,
+      "comment": "/* Sources */Adding Persondata using [[Project:AWB|AWB]] (7391)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 424283424,
+      "parentid": 396654305,
+      "timestamp": "2011-04-15T23:26:53Z",
+      "user": "Bearcat",
+      "userid": 24902,
+      "size": 2969,
+      "comment": "removed [[Category:Geologists]]; added [[Category:American geologists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 439927099,
+      "parentid": 424283424,
+      "timestamp": "2011-07-17T10:31:28Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 2981,
+      "comment": "Robot - Speedily moving category Ripon College faculty to [[:Category:Ripon College (Wisconsin) faculty]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 445488421,
+      "parentid": 439927099,
+      "timestamp": "2011-08-18T11:31:15Z",
+      "user": "Hugo999",
+      "userid": 3006008,
+      "size": 2990,
+      "comment": "/* Sources */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 510740257,
+      "parentid": 445488421,
+      "timestamp": "2012-09-04T11:07:06Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 2989,
+      "comment": "[[WP:AWB/T|typos fixed]]: the 1880's → the 1880s using [[Project:AWB|AWB]] (8349)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 528273456,
+      "parentid": 510740257,
+      "timestamp": "2012-12-16T07:11:01Z",
+      "user": "Boleyn",
+      "userid": 6127189,
+      "size": 3005,
+      "comment": "dab",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 587331667,
+      "parentid": 528273456,
+      "timestamp": "2013-12-23T05:33:41Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 3038,
+      "comment": "copyedit, refine cat, and AWB general fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 588413688,
+      "parentid": 587331667,
+      "timestamp": "2013-12-30T19:53:49Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3057,
+      "comment": "/* Sources */Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 593202148,
+      "parentid": 588413688,
+      "timestamp": "2014-01-31T00:22:54Z",
+      "user": "68.102.109.113",
+      "userid": 0,
+      "size": 3091,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 667054608,
+      "parentid": 593202148,
+      "timestamp": "2015-06-15T14:48:34Z",
+      "user": "Tokyogirl79LVA",
+      "userid": 23962163,
+      "size": 4013,
+      "comment": "adding infobox, specific death/birth dates",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 667054652,
+      "parentid": 667054608,
+      "timestamp": "2015-06-15T14:48:53Z",
+      "user": "Tokyogirl79LVA",
+      "userid": 23962163,
+      "size": 4013,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 667054937,
+      "parentid": 667054652,
+      "timestamp": "2015-06-15T14:51:16Z",
+      "user": "Tokyogirl79LVA",
+      "userid": 23962163,
+      "size": 4170,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 667055114,
+      "parentid": 667054937,
+      "timestamp": "2015-06-15T14:52:46Z",
+      "user": "Tokyogirl79LVA",
+      "userid": 23962163,
+      "size": 4321,
+      "comment": "making notation that his run was unsuccessful, need to add quite a bit to this, adding EV to EL section for now as bookmark",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 667056315,
+      "parentid": 667055114,
+      "timestamp": "2015-06-15T15:01:33Z",
+      "user": "32.218.45.126",
+      "userid": 0,
+      "size": 4257,
+      "comment": "wording, punctuation, [[WP:MOS]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 667056564,
+      "parentid": 667056315,
+      "timestamp": "2015-06-15T15:03:35Z",
+      "user": "32.218.45.126",
+      "userid": 0,
+      "size": 4121,
+      "comment": "/* External links */ [[WP:EL]] - rm link that duplicates References list",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 667057068,
+      "parentid": 667056564,
+      "timestamp": "2015-06-15T15:06:38Z",
+      "user": "32.218.45.126",
+      "userid": 0,
+      "size": 4216,
+      "comment": "expanded",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 674076699,
+      "parentid": 667057068,
+      "timestamp": "2015-08-01T13:35:29Z",
+      "user": "Doncram",
+      "userid": 342538,
+      "size": 4235,
+      "comment": "Disambiguated: [[Reconstruction]] → [[Reconstruction Era]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712496858,
+      "parentid": 674076699,
+      "timestamp": "2016-03-29T12:47:00Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3971,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Edward Daniels|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 801137486,
+      "parentid": 712496858,
+      "timestamp": "2017-09-17T21:59:42Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 4014,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5.2)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994203120,
+      "parentid": 801137486,
+      "timestamp": "2020-12-14T16:06:46Z",
+      "user": "Tom.Bot",
+      "userid": 28901961,
+      "size": 4037,
+      "comment": "[[Wikipedia:Bots/Requests for approval/Tom.Bot 6|Task 6]]: +{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1040792355,
+      "parentid": 994203120,
+      "timestamp": "2021-08-26T18:01:23Z",
+      "user": "Jekahben",
+      "userid": 27070440,
+      "size": 4363,
+      "comment": "added citations and name of newspaper",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1045538414,
+      "parentid": 1040792355,
+      "timestamp": "2021-09-21T02:42:25Z",
+      "user": "69.120.198.52",
+      "userid": 0,
+      "size": 4367,
+      "comment": "added link to utopian socialism",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1073482851,
+      "parentid": 1045538414,
+      "timestamp": "2022-02-22T23:22:00Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 4522,
+      "comment": "/* top */Adding web.archive.org links for citations with url-status=live [[Category:CS1_maint:_url-status]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1125585665,
+      "parentid": 1073482851,
+      "timestamp": "2022-12-04T20:18:01Z",
+      "user": "Vycl1994",
+      "userid": 19014806,
+      "size": 4549,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1163995801,
+      "parentid": 1125585665,
+      "timestamp": "2023-07-07T13:44:14Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4562,
+      "comment": "removed [[Category:American geologists]]; added [[Category:19th-century American geologists]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1163996247,
+      "parentid": 1163995801,
+      "timestamp": "2023-07-07T13:47:32Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4605,
+      "comment": "added [[Category:Scientists from Massachusetts]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1163996254,
+      "parentid": 1163996247,
+      "timestamp": "2023-07-07T13:47:39Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4644,
+      "comment": "added [[Category:Scientists from Wisconsin]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1163996473,
+      "parentid": 1163996254,
+      "timestamp": "2023-07-07T13:49:37Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4601,
+      "comment": "add image from Commons",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1189983582,
+      "parentid": 1163996473,
+      "timestamp": "2023-12-15T06:13:06Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 4607,
+      "comment": "Moving from [[Category:American abolitionists]] to [[Category:Abolitionists from Wisconsin]] Diffusing per [[WP:DIFFUSE]] and/or [[WP:ALLINCLUDED]]  using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1227789799,
+      "parentid": 1189983582,
+      "timestamp": "2024-06-07T20:15:04Z",
+      "user": "Keystone18",
+      "userid": 33501121,
+      "size": 4619,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260567474,
+      "parentid": 1227789799,
+      "timestamp": "2024-12-01T13:50:01Z",
+      "user": "Dewritech",
+      "userid": 11498870,
+      "size": 4620,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: 1834-1900 → 1834–1900",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Daniels"
+}

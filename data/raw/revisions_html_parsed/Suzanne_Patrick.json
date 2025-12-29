@@ -1,0 +1,466 @@
+{
+  "page_title": "Suzanne_Patrick",
+  "candidate_name": "Suzanne Patrick",
+  "collection_date": "2025-12-28T16:55:20.361867",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 40,
+    "unique_editors": 24,
+    "date_range": {
+      "start": "2013-09-05T22:30:06Z",
+      "end": "2024-04-16T06:21:30Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 571706489,
+      "parentid": 0,
+      "timestamp": "2013-09-05T22:30:06Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 3665,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox Person |name        = Suzanne Patrick |image       =  |birthname   =  |birth_date  =  |birth_place =  |death_date  =  |death_place =  |party       = ...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 571706548,
+      "parentid": 571706489,
+      "timestamp": "2013-09-05T22:30:43Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 3662,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 571707347,
+      "parentid": 571706548,
+      "timestamp": "2013-09-05T22:39:15Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 3663,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 571707514,
+      "parentid": 571707347,
+      "timestamp": "2013-09-05T22:40:43Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 3695,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 571710957,
+      "parentid": 571707514,
+      "timestamp": "2013-09-05T23:18:35Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 3820,
+      "comment": "category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 571711050,
+      "parentid": 571710957,
+      "timestamp": "2013-09-05T23:19:33Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 3806,
+      "comment": "/* External links */sp",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 572170378,
+      "parentid": 571711050,
+      "timestamp": "2013-09-09T10:14:57Z",
+      "user": "MrNiceGuy1113",
+      "userid": 16682238,
+      "size": 3816,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (stub)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 572189923,
+      "parentid": 572170378,
+      "timestamp": "2013-09-09T13:37:48Z",
+      "user": "CSJJ104",
+      "userid": 15676207,
+      "size": 3830,
+      "comment": "Stub sorting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 578828908,
+      "parentid": 572189923,
+      "timestamp": "2013-10-26T14:52:00Z",
+      "user": "Candleabracadabra",
+      "userid": 14378896,
+      "size": 3903,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 582447876,
+      "parentid": 578828908,
+      "timestamp": "2013-11-19T23:34:26Z",
+      "user": "Bamyers99",
+      "userid": 12311825,
+      "size": 3902,
+      "comment": "Spacing",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 584242215,
+      "parentid": 582447876,
+      "timestamp": "2013-12-02T18:44:20Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 3950,
+      "comment": "date formats per [[WP:MOSNUM]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 599988283,
+      "parentid": 584242215,
+      "timestamp": "2014-03-17T10:15:53Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 4018,
+      "comment": "Added photo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 608022534,
+      "parentid": 599988283,
+      "timestamp": "2014-05-11T08:18:24Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 4207,
+      "comment": "/* External links */Adding/updating Persondata using [[Project:AWB|AWB]] (10159)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 613847796,
+      "parentid": 608022534,
+      "timestamp": "2014-06-21T20:07:41Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 4227,
+      "comment": "/* External links */add persondata short description using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 615092816,
+      "parentid": 613847796,
+      "timestamp": "2014-07-01T01:10:18Z",
+      "user": "John Broughton",
+      "userid": 410440,
+      "size": 4260,
+      "comment": "/* External links */ Not a stub; adding a link to the campaign website.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 620138102,
+      "parentid": 615092816,
+      "timestamp": "2014-08-06T20:14:55Z",
+      "user": "Shatterpoint05",
+      "userid": 21508896,
+      "size": 4535,
+      "comment": "Included Career Info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 620139507,
+      "parentid": 620138102,
+      "timestamp": "2014-08-06T20:26:27Z",
+      "user": "Shatterpoint05",
+      "userid": 21508896,
+      "size": 4993,
+      "comment": "Created 2014 Election Section and Added Endorsements",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 620140008,
+      "parentid": 620139507,
+      "timestamp": "2014-08-06T20:30:50Z",
+      "user": "Shatterpoint05",
+      "userid": 21508896,
+      "size": 5089,
+      "comment": "Added Personal Life Section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 620142494,
+      "parentid": 620140008,
+      "timestamp": "2014-08-06T20:51:00Z",
+      "user": "Shatterpoint05",
+      "userid": 21508896,
+      "size": 5180,
+      "comment": "Added WikiLink",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 622771740,
+      "parentid": 620142494,
+      "timestamp": "2014-08-25T17:58:36Z",
+      "user": "Falls",
+      "userid": 444128,
+      "size": 5183,
+      "comment": "Occupation was listed as \"Soldier.' While she was in the Naval Reserves (not the Army) in the past, Her occupation as the head of her consulting firm, Suzanne D. Patrick & Company, has been more correctly a consultant.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 625393017,
+      "parentid": 622771740,
+      "timestamp": "2014-09-13T16:32:43Z",
+      "user": "Shatterpoint05",
+      "userid": 21508896,
+      "size": 6603,
+      "comment": "Added References, Removed External Twitter Link",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 699876065,
+      "parentid": 625393017,
+      "timestamp": "2016-01-14T23:52:22Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 6024,
+      "comment": "clean up using [[Project:AWB|AWB]] (11798)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 701832833,
+      "parentid": 699876065,
+      "timestamp": "2016-01-26T21:14:15Z",
+      "user": "Sianyu",
+      "userid": 27420946,
+      "size": 6134,
+      "comment": "changed to past tense since election is over",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 701832956,
+      "parentid": 701832833,
+      "timestamp": "2016-01-26T21:15:05Z",
+      "user": "Sianyu",
+      "userid": 27420946,
+      "size": 6146,
+      "comment": "updated link",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 701882337,
+      "parentid": 701832956,
+      "timestamp": "2016-01-27T03:48:36Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 6146,
+      "comment": "/* 2014 Congressional Election */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 701882456,
+      "parentid": 701882337,
+      "timestamp": "2016-01-27T03:49:48Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 6144,
+      "comment": "/* 2014 congressional election */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 701882507,
+      "parentid": 701882456,
+      "timestamp": "2016-01-27T03:50:18Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 6153,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 703891713,
+      "parentid": 701882507,
+      "timestamp": "2016-02-08T07:44:03Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 6133,
+      "comment": "Replacing Defense.gov_News_Photo_010725-A-3569D-002.jpg with [[File:Suzanne_Patrick,_2001.jpg]] (by [[commons:User:CommonsDelinker|CommonsDelinker]] because: [[:commons:COM:FR|File renamed]]: [[:commons:COM:FR#reasons|File renaming criterion #2]]: Änderu",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712441971,
+      "parentid": 703891713,
+      "timestamp": "2016-03-29T03:16:20Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 6581,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723526243,
+      "parentid": 712441971,
+      "timestamp": "2016-06-03T15:21:22Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 6374,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Suzanne Patrick|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 762813641,
+      "parentid": 723526243,
+      "timestamp": "2017-01-30T21:55:24Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 6348,
+      "comment": "updated",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 762813905,
+      "parentid": 762813641,
+      "timestamp": "2017-01-30T21:57:03Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 6319,
+      "comment": "date of birth added",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 800731437,
+      "parentid": 762813905,
+      "timestamp": "2017-09-15T09:46:12Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 6320,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 832845237,
+      "parentid": 800731437,
+      "timestamp": "2018-03-28T09:14:01Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 6477,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.5) ([[User:Artix Kreiger|Artix Kreiger]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 919455786,
+      "parentid": 832845237,
+      "timestamp": "2019-10-03T20:35:04Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 6481,
+      "comment": "/* 2014 congressional election */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 983593540,
+      "parentid": 919455786,
+      "timestamp": "2020-10-15T03:38:02Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6470,
+      "comment": "Alter: title. Add: work. Removed parameters. Some additions/deletions were actually parameter name changes. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by AManWithNoPlan | All pages linked from cached copy of User:AManWithNoPlan/sandbox4 | via #UCB_webform_linked 505/6999",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1011830592,
+      "parentid": 983593540,
+      "timestamp": "2021-03-13T02:14:37Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6477,
+      "comment": "Add: work. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use mdy dates from December 2013]] | via #UCB_Category 1006/1815",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1142341466,
+      "parentid": 1011830592,
+      "timestamp": "2023-03-01T21:46:14Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6482,
+      "comment": "Add: newspaper. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Whoop whoop pull up | #UCB_webform 24/42",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1147956578,
+      "parentid": 1142341466,
+      "timestamp": "2023-04-03T06:57:02Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 6942,
+      "comment": "Rescued 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1219181210,
+      "parentid": 1147956578,
+      "timestamp": "2024-04-16T06:21:30Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 6946,
+      "comment": "Move 2 urls. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#thehill.com]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Suzanne_Patrick"
+}

@@ -1,0 +1,406 @@
+{
+  "page_title": "Monte_Hodges",
+  "candidate_name": "Monte Hodges",
+  "collection_date": "2025-12-28T16:50:15.678284",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 32,
+    "unique_editors": 21,
+    "date_range": {
+      "start": "2014-04-11T17:20:16Z",
+      "end": "2024-12-19T00:29:59Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 603769634,
+      "parentid": 0,
+      "timestamp": "2014-04-11T17:20:16Z",
+      "user": "Dru of Id",
+      "userid": 13848992,
+      "size": 3798,
+      "comment": "Monte Hodges.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 603769723,
+      "parentid": 603769634,
+      "timestamp": "2014-04-11T17:21:03Z",
+      "user": "Dru of Id",
+      "userid": 13848992,
+      "size": 3794,
+      "comment": "Remove own duplicate link.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 621975451,
+      "parentid": 603769723,
+      "timestamp": "2014-08-19T22:01:27Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 3787,
+      "comment": "removed [[Category:People from Mississippi County, Arkansas]]; added [[Category:People from Blytheville, Arkansas]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 723546501,
+      "parentid": 621975451,
+      "timestamp": "2016-06-03T17:49:50Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 3805,
+      "comment": "removed [[Category:African-American politicians]]; added [[Category:African-American state legislators in Arkansas]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724292407,
+      "parentid": 723546501,
+      "timestamp": "2016-06-08T09:21:38Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3598,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Monte Hodges|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756274570,
+      "parentid": 724292407,
+      "timestamp": "2016-12-23T03:35:05Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3646,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 761028856,
+      "parentid": 756274570,
+      "timestamp": "2017-01-20T13:00:30Z",
+      "user": "Finlay McWalter",
+      "userid": 22619,
+      "size": 3645,
+      "comment": "fix misplaced newlines which broke templates",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 828206275,
+      "parentid": 761028856,
+      "timestamp": "2018-03-01T04:38:36Z",
+      "user": "Star Garnet",
+      "userid": 5150026,
+      "size": 3648,
+      "comment": "birthdate",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 949651962,
+      "parentid": 828206275,
+      "timestamp": "2020-04-07T18:43:02Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3853,
+      "comment": "Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1026286204,
+      "parentid": 949651962,
+      "timestamp": "2021-06-01T11:47:07Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 3895,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1045364103,
+      "parentid": 1026286204,
+      "timestamp": "2021-09-20T05:59:34Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3937,
+      "comment": "add category",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1051164161,
+      "parentid": 1045364103,
+      "timestamp": "2021-10-21T22:32:42Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3987,
+      "comment": "/* External links */add [[Category:20th-century African-American people]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1062754977,
+      "parentid": 1051164161,
+      "timestamp": "2021-12-30T09:28:59Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 3992,
+      "comment": "/* External links */[[Category:21st-century African-American people]] to [[Category:21st-century African-American politicians]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1064815873,
+      "parentid": 1062754977,
+      "timestamp": "2022-01-10T09:49:07Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 3974,
+      "comment": "/* top */Removed [[MOS:OVERLINK|overlinked]] country wikilink and [[WP:GENFIX|general fixes]] ([[Wikipedia:Bots/Requests_for_approval/SdkbBot_2|task 2]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1065947541,
+      "parentid": 1064815873,
+      "timestamp": "2022-01-16T03:14:45Z",
+      "user": "69.123.10.232",
+      "userid": 0,
+      "size": 3943,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1066805066,
+      "parentid": 1065947541,
+      "timestamp": "2022-01-20T06:12:17Z",
+      "user": "C. W. Edward",
+      "userid": 33946982,
+      "size": 4297,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1080841286,
+      "parentid": 1066805066,
+      "timestamp": "2022-04-03T19:43:24Z",
+      "user": "Ward330",
+      "userid": 42226940,
+      "size": 4263,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1089785331,
+      "parentid": 1080841286,
+      "timestamp": "2022-05-25T16:35:25Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 4063,
+      "comment": "/* External links */ updating links",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1089785670,
+      "parentid": 1089785331,
+      "timestamp": "2022-05-25T16:37:10Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 4143,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1125053815,
+      "parentid": 1089785670,
+      "timestamp": "2022-12-01T23:46:12Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 4228,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1126773291,
+      "parentid": 1125053815,
+      "timestamp": "2022-12-11T04:36:03Z",
+      "user": "IntoThinAir",
+      "userid": 18336458,
+      "size": 4393,
+      "comment": "update election result",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127806620,
+      "parentid": 1126773291,
+      "timestamp": "2022-12-16T19:25:56Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 4378,
+      "comment": "/* External links */intersect Democratic and Arkansas representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1180665464,
+      "parentid": 1127806620,
+      "timestamp": "2023-10-18T01:35:41Z",
+      "user": "Masohpotato",
+      "userid": 43467791,
+      "size": 4322,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1180665800,
+      "parentid": 1180665464,
+      "timestamp": "2023-10-18T01:38:58Z",
+      "user": "Masohpotato",
+      "userid": 43467791,
+      "size": 4662,
+      "comment": "/* Elections */",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1180666162,
+      "parentid": 1180665800,
+      "timestamp": "2023-10-18T01:42:18Z",
+      "user": "Masohpotato",
+      "userid": 43467791,
+      "size": 4770,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 1205966826,
+      "parentid": 1180666162,
+      "timestamp": "2024-02-10T22:02:32Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4770,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1237316605,
+      "parentid": 1205966826,
+      "timestamp": "2024-07-29T05:03:37Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4775,
+      "comment": "Moving from [[Category:20th-century African-American people]] to [[Category:20th-century African-American politicians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1240201997,
+      "parentid": 1237316605,
+      "timestamp": "2024-08-14T02:50:36Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 4822,
+      "comment": "Add category relevant to career",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1260904565,
+      "parentid": 1240201997,
+      "timestamp": "2024-12-03T05:53:19Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4889,
+      "comment": "Copying from [[Category:Democratic Party members of the Arkansas House of Representatives]] to [[Category:21st-century members of the Arkansas General Assembly]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260905520,
+      "parentid": 1260904565,
+      "timestamp": "2024-12-03T06:00:09Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4842,
+      "comment": "Removing from [[Category:21st-century Arkansas politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1260905914,
+      "parentid": 1260905520,
+      "timestamp": "2024-12-03T06:02:57Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 4795,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1263848969,
+      "parentid": 1260905914,
+      "timestamp": "2024-12-19T00:29:59Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 4825,
+      "comment": "Copying from [[Category:African-American bankers]] to [[Category:American bankers]] Diffusing per [[WP:DIFFUSE]] and/or [[WP:ALLINCLUDED]]  using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Monte_Hodges"
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Patrick_Wiesner",
+  "candidate_name": "Patrick Wiesner",
+  "collection_date": "2025-12-28T16:51:06.438246",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2016-08-14T18:36:59Z",
+      "end": "2018-12-06T19:12:19Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 734491635,
+      "parentid": 0,
+      "timestamp": "2016-08-14T18:36:59Z",
+      "user": "Pha telegrapher",
+      "userid": 1435246,
+      "size": 59,
+      "comment": "creates redirect page for person only notable for participation in the election linked to",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872343226,
+      "parentid": 734491635,
+      "timestamp": "2018-12-06T19:12:19Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 58,
+      "comment": "Bot: Fixing double redirect to [[2016 United States Senate election in Kansas]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Patrick_Wiesner"
+}

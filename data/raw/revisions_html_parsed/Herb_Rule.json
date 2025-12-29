@@ -1,0 +1,1078 @@
+{
+  "page_title": "Herb_Rule",
+  "candidate_name": "Herb Rule",
+  "collection_date": "2025-12-28T16:40:23.676471",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 94,
+    "unique_editors": 31,
+    "date_range": {
+      "start": "2012-06-29T03:40:05Z",
+      "end": "2023-04-06T11:25:27Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 499853932,
+      "parentid": 0,
+      "timestamp": "2012-06-29T03:40:05Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3532,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox person | name                      = Herb Rule | image                     = Herb C. Rule III.jpg | alt                       = Candidate US House of R...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499857180,
+      "parentid": 499853932,
+      "timestamp": "2012-06-29T04:17:19Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3544,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499871847,
+      "parentid": 499857180,
+      "timestamp": "2012-06-29T07:15:07Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3544,
+      "comment": "Qwyrxian moved page [[Talk:Herb C. Rule III]] to [[Herb C. Rule III]] without leaving a redirect: Should be in article, not talk space",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499871913,
+      "parentid": 499871847,
+      "timestamp": "2012-06-29T07:16:02Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3573,
+      "comment": "add peacock",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499872042,
+      "parentid": 499871913,
+      "timestamp": "2012-06-29T07:17:41Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3600,
+      "comment": "add noref; I won't BLPprod because technically his own website meets that criteria",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499872328,
+      "parentid": 499872042,
+      "timestamp": "2012-06-29T07:21:41Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 2961,
+      "comment": "rephrase a lot of this to make it NPOV, add some tags, remove information that is strictly promotional",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499872373,
+      "parentid": 499872328,
+      "timestamp": "2012-06-29T07:22:19Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 2892,
+      "comment": "notable works is for publications",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499872618,
+      "parentid": 499872373,
+      "timestamp": "2012-06-29T07:25:11Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3012,
+      "comment": "/* References */ add stub tag and cats",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499894079,
+      "parentid": 499872618,
+      "timestamp": "2012-06-29T11:31:56Z",
+      "user": "C.Fred",
+      "userid": 461300,
+      "size": 3309,
+      "comment": "prod blp",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499894170,
+      "parentid": 499894079,
+      "timestamp": "2012-06-29T11:32:54Z",
+      "user": "C.Fred",
+      "userid": 461300,
+      "size": 3021,
+      "comment": "If his own website clears prod blp, then it also means this needs a primarysources tag, not a noref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499916739,
+      "parentid": 499894170,
+      "timestamp": "2012-06-29T14:51:03Z",
+      "user": "99.56.89.126",
+      "userid": 0,
+      "size": 3381,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499917224,
+      "parentid": 499916739,
+      "timestamp": "2012-06-29T14:54:01Z",
+      "user": "99.56.89.126",
+      "userid": 0,
+      "size": 3401,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499918541,
+      "parentid": 499917224,
+      "timestamp": "2012-06-29T15:02:39Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3374,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499918826,
+      "parentid": 499918541,
+      "timestamp": "2012-06-29T15:04:28Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3336,
+      "comment": "/* Career */ clarified election to AR HR",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499929745,
+      "parentid": 499918826,
+      "timestamp": "2012-06-29T16:25:06Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3337,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499935404,
+      "parentid": 499929745,
+      "timestamp": "2012-06-29T17:05:33Z",
+      "user": "C.Fred",
+      "userid": 461300,
+      "size": 3274,
+      "comment": "/* Career */ the footnote will explain where the source came from",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499937091,
+      "parentid": 499935404,
+      "timestamp": "2012-06-29T17:18:03Z",
+      "user": "99.56.89.126",
+      "userid": 0,
+      "size": 3834,
+      "comment": "Added advocacies",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499937237,
+      "parentid": 499937091,
+      "timestamp": "2012-06-29T17:19:13Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3834,
+      "comment": "/* Advocacies */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499937346,
+      "parentid": 499937237,
+      "timestamp": "2012-06-29T17:20:09Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3832,
+      "comment": "/* Advocacies */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499937447,
+      "parentid": 499937346,
+      "timestamp": "2012-06-29T17:20:59Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3822,
+      "comment": "/* Advocacies */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499937529,
+      "parentid": 499937447,
+      "timestamp": "2012-06-29T17:21:37Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3828,
+      "comment": "/* Advocacies */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499937919,
+      "parentid": 499937529,
+      "timestamp": "2012-06-29T17:24:27Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3841,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499938851,
+      "parentid": 499937919,
+      "timestamp": "2012-06-29T17:31:23Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3775,
+      "comment": "/* Career */ changed format",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499939269,
+      "parentid": 499938851,
+      "timestamp": "2012-06-29T17:34:35Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3811,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499939465,
+      "parentid": 499939269,
+      "timestamp": "2012-06-29T17:36:04Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3818,
+      "comment": "/* Career */ format",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499939534,
+      "parentid": 499939465,
+      "timestamp": "2012-06-29T17:36:36Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3819,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499939638,
+      "parentid": 499939534,
+      "timestamp": "2012-06-29T17:37:28Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3782,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499939953,
+      "parentid": 499939638,
+      "timestamp": "2012-06-29T17:40:01Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3763,
+      "comment": "/* Career */ Format Change",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499940458,
+      "parentid": 499939953,
+      "timestamp": "2012-06-29T17:43:42Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3679,
+      "comment": "Added Public Service section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499940583,
+      "parentid": 499940458,
+      "timestamp": "2012-06-29T17:44:45Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3674,
+      "comment": "/* Advocacies */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499942099,
+      "parentid": 499940583,
+      "timestamp": "2012-06-29T17:56:32Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3821,
+      "comment": "Formatting and creating Military section",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499942248,
+      "parentid": 499942099,
+      "timestamp": "2012-06-29T17:57:33Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3831,
+      "comment": "/* Education */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499942546,
+      "parentid": 499942248,
+      "timestamp": "2012-06-29T17:59:34Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3831,
+      "comment": "Rearranged sections",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499948725,
+      "parentid": 499942546,
+      "timestamp": "2012-06-29T18:48:42Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4272,
+      "comment": "/* Advocacies */ Changed section name added information",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499948871,
+      "parentid": 499948725,
+      "timestamp": "2012-06-29T18:49:53Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4301,
+      "comment": "/* Opinions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499948919,
+      "parentid": 499948871,
+      "timestamp": "2012-06-29T18:50:15Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4305,
+      "comment": "/* Opinions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499949800,
+      "parentid": 499948919,
+      "timestamp": "2012-06-29T18:57:27Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4726,
+      "comment": "/* Opinions */ Formatting change and epand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499949897,
+      "parentid": 499949800,
+      "timestamp": "2012-06-29T18:58:17Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4732,
+      "comment": "/* Opinions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499949962,
+      "parentid": 499949897,
+      "timestamp": "2012-06-29T18:58:47Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4732,
+      "comment": "/* Opinions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499950070,
+      "parentid": 499949962,
+      "timestamp": "2012-06-29T18:59:36Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4731,
+      "comment": "/* Opinions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499950780,
+      "parentid": 499950070,
+      "timestamp": "2012-06-29T19:04:54Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4826,
+      "comment": "Edited alma-mater",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499950836,
+      "parentid": 499950780,
+      "timestamp": "2012-06-29T19:05:19Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4825,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499950946,
+      "parentid": 499950836,
+      "timestamp": "2012-06-29T19:06:11Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4827,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 499951186,
+      "parentid": 499950946,
+      "timestamp": "2012-06-29T19:08:21Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4841,
+      "comment": "/* Education */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499951305,
+      "parentid": 499951186,
+      "timestamp": "2012-06-29T19:09:13Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4835,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 499951426,
+      "parentid": 499951305,
+      "timestamp": "2012-06-29T19:10:09Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4834,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 500106985,
+      "parentid": 499951426,
+      "timestamp": "2012-06-30T22:45:41Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4834,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 500107043,
+      "parentid": 500106985,
+      "timestamp": "2012-06-30T22:46:19Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4834,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 500107284,
+      "parentid": 500107043,
+      "timestamp": "2012-06-30T22:48:43Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 4835,
+      "comment": "/* Opinions */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 500568170,
+      "parentid": 500107284,
+      "timestamp": "2012-07-03T23:19:00Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3385,
+      "comment": "/* Opinions */ This is not Rule's campaign site",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500568255,
+      "parentid": 500568170,
+      "timestamp": "2012-07-03T23:19:41Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3834,
+      "comment": "Reverted to revision 499937091 by 99.56.89.126: This version is much better--we don't do bullet points when prose will do. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500586898,
+      "parentid": 500568255,
+      "timestamp": "2012-07-04T02:29:53Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3834,
+      "comment": "/* Education and military service */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 500588835,
+      "parentid": 500586898,
+      "timestamp": "2012-07-04T02:49:08Z",
+      "user": "99.56.89.126",
+      "userid": 0,
+      "size": 5351,
+      "comment": "/* Advocacies */ Changed section to Opinions and reinserted citations and list",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500589661,
+      "parentid": 500588835,
+      "timestamp": "2012-07-04T02:57:30Z",
+      "user": "99.56.89.126",
+      "userid": 0,
+      "size": 5550,
+      "comment": "/* Career */ re-establish formatting and data",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500589799,
+      "parentid": 500589661,
+      "timestamp": "2012-07-04T02:59:02Z",
+      "user": "99.56.89.126",
+      "userid": 0,
+      "size": 5558,
+      "comment": "/* Career */ Minor change to formatting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500589855,
+      "parentid": 500589799,
+      "timestamp": "2012-07-04T02:59:34Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3834,
+      "comment": "Reverted 3 edits by [[Special:Contributions/99.56.89.126|99.56.89.126]] ([[User talk:99.56.89.126|talk]]): Do not insert \"Opinions\" this is not a campaign site. See talk'. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500590326,
+      "parentid": 500589855,
+      "timestamp": "2012-07-04T03:04:27Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3832,
+      "comment": "Change of section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500591299,
+      "parentid": 500590326,
+      "timestamp": "2012-07-04T03:15:18Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 6042,
+      "comment": "/* Opinions */ Reestablish again.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500591919,
+      "parentid": 500591299,
+      "timestamp": "2012-07-04T03:22:11Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 5989,
+      "comment": "/* Career */ Reestablish format again.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500592306,
+      "parentid": 500591919,
+      "timestamp": "2012-07-04T03:26:55Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 6108,
+      "comment": "/* Career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500592825,
+      "parentid": 500592306,
+      "timestamp": "2012-07-04T03:32:35Z",
+      "user": "Qwyrxian",
+      "userid": 1414995,
+      "size": 3834,
+      "comment": "Reverted 4 edits by [[Special:Contributions/BJ Powers|BJ Powers]] ([[User talk:BJ Powers|talk]]): I don't think you understadn, this isn't an option. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 500638223,
+      "parentid": 500592825,
+      "timestamp": "2012-07-04T11:55:42Z",
+      "user": "BJ Powers",
+      "userid": 17063615,
+      "size": 3831,
+      "comment": "/* Education and Military Service */ Changed doctorate to doctor - correction",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 501362547,
+      "parentid": 500638223,
+      "timestamp": "2012-07-09T07:52:12Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 3810,
+      "comment": "Removing \"Herb_C._Rule_III.jpg\", it has been deleted from Commons by [[commons:User:Lymantria|Lymantria]] because: In category [[commons::category:Media without a license as of 27 June 2012|Media without a license as of 27 June 2012]]; no license.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 508046839,
+      "parentid": 501362547,
+      "timestamp": "2012-08-18T22:47:59Z",
+      "user": "Kumioko",
+      "userid": 16675924,
+      "size": 4155,
+      "comment": "fix portals, brackets, typos, dates, links, references, categories, formatting and persondata, added [[CAT:O|orphan]], [[WP:WFY|wikify]] tags using [[Project:AWB|AWB]] (8267)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 513516912,
+      "parentid": 508046839,
+      "timestamp": "2012-09-19T11:34:00Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 4155,
+      "comment": "Roman Spinner moved page [[Herb C. Rule III]] to [[Herb Rule]]: all sources, including numerous newspaper articles, as well as subject's own campaign website, reference him as, simply, [[Herb Rule]], no middle initial or suffix",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 525644201,
+      "parentid": 513516912,
+      "timestamp": "2012-11-30T03:16:37Z",
+      "user": "Meatsgains",
+      "userid": 15420856,
+      "size": 4236,
+      "comment": "edit bare url",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 531868936,
+      "parentid": 525644201,
+      "timestamp": "2013-01-08T00:18:52Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 4200,
+      "comment": "it;s in the bio on his official site",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 531897126,
+      "parentid": 531868936,
+      "timestamp": "2013-01-08T04:19:41Z",
+      "user": "Wbm1058",
+      "userid": 14383484,
+      "size": 4219,
+      "comment": "remove [[template:Wikify|Wikify]] – {{Wikify}} is deprecated. link [[Arkansas House of Representatives]],[[Yale University]],[[NROTC]],[[Little Rock Central High School|Central High School]],[[Rose Law Firm]],[[University of Arkansas]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 531898165,
+      "parentid": 531897126,
+      "timestamp": "2013-01-08T04:28:06Z",
+      "user": "Wbm1058",
+      "userid": 14383484,
+      "size": 4231,
+      "comment": "link [[Keo, Arkansas]], [[Arkansas General Assembly]], [[Arkansas Supreme Court]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 591854349,
+      "parentid": 531898165,
+      "timestamp": "2014-01-22T11:09:23Z",
+      "user": "Exzackley",
+      "userid": 7797078,
+      "size": 4241,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 597851936,
+      "parentid": 591854349,
+      "timestamp": "2014-03-02T19:49:45Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 4182,
+      "comment": "[[WP:AWB/GF|General fixes]], removed orphan tag using [[Project:AWB|AWB]] (9959)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625745671,
+      "parentid": 597851936,
+      "timestamp": "2014-09-16T00:52:45Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 4228,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 662777184,
+      "parentid": 625745671,
+      "timestamp": "2015-05-17T15:19:58Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4233,
+      "comment": "genfixes using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721907256,
+      "parentid": 662777184,
+      "timestamp": "2016-05-24T19:48:54Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 4018,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Herb Rule|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 726237927,
+      "parentid": 721907256,
+      "timestamp": "2016-06-20T22:46:07Z",
+      "user": "Plandu",
+      "userid": 34084,
+      "size": 4058,
+      "comment": "added link to political party. Democrat --> Democratic for adjectival forms",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 726929816,
+      "parentid": 726237927,
+      "timestamp": "2016-06-25T10:57:10Z",
+      "user": "I dream of horses",
+      "userid": 9676078,
+      "size": 4058,
+      "comment": "/* Career */clean up, [[WP:AWB/T|typo(s) fixed]]: 48 year → 48-year using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 744913345,
+      "parentid": 726929816,
+      "timestamp": "2016-10-18T06:16:31Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 4059,
+      "comment": "/* Career */http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 773253838,
+      "parentid": 744913345,
+      "timestamp": "2017-04-01T08:36:29Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 4136,
+      "comment": "Rescuing 0 sources and tagging 1 as dead. #IABot (v1.3beta4)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869299390,
+      "parentid": 773253838,
+      "timestamp": "2018-11-17T18:44:15Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 4179,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta10)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 914760640,
+      "parentid": 869299390,
+      "timestamp": "2019-09-09T07:00:56Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4158,
+      "comment": "Alter: url, template type. Add: year, isbn, title, author pars. 1-1. Converted bare reference to cite template. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Quuux]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 962249384,
+      "parentid": 914760640,
+      "timestamp": "2020-06-12T23:29:53Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 4189,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 968542064,
+      "parentid": 962249384,
+      "timestamp": "2020-07-20T01:00:23Z",
+      "user": "MarnetteD",
+      "userid": 220924,
+      "size": 4067,
+      "comment": "rmv deprecated field",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994211173,
+      "parentid": 968542064,
+      "timestamp": "2020-12-14T16:51:12Z",
+      "user": "Tom.Bot",
+      "userid": 28901961,
+      "size": 4089,
+      "comment": "[[Wikipedia:Bots/Requests for approval/Tom.Bot 6|Task 6]]: +{{[[Template:Authority control|Authority control]]}}, [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1058001585,
+      "parentid": 994211173,
+      "timestamp": "2021-11-30T22:04:11Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 4040,
+      "comment": "Alter: url. URLs might have been anonymized. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by AManWithNoPlan | #UCB_webform 1773/2197",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1067182760,
+      "parentid": 1058001585,
+      "timestamp": "2022-01-22T05:18:30Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 4040,
+      "comment": "/* Education and military service */replaced: Military Service → military service",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1072729624,
+      "parentid": 1067182760,
+      "timestamp": "2022-02-19T05:51:54Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 4083,
+      "comment": "/* top */add short description",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1127805971,
+      "parentid": 1072729624,
+      "timestamp": "2022-12-16T19:21:50Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 4068,
+      "comment": "/* References */intersect Democratic and Arkansas representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1148384195,
+      "parentid": 1127805971,
+      "timestamp": "2023-04-05T21:18:10Z",
+      "user": "Death editor",
+      "userid": 45203200,
+      "size": 4066,
+      "comment": "https://apnews.com/article/herb-rule-death-state-representative-congressional-candidate-6a701a667700f128a87c4bc339e58727",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148388418,
+      "parentid": 1148384195,
+      "timestamp": "2023-04-05T21:39:01Z",
+      "user": "Jkaharper",
+      "userid": 913893,
+      "size": 4546,
+      "comment": "death + source",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148398513,
+      "parentid": 1148388418,
+      "timestamp": "2023-04-05T22:47:48Z",
+      "user": "Marbe166",
+      "userid": 3427741,
+      "size": 4561,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148402255,
+      "parentid": 1148398513,
+      "timestamp": "2023-04-05T23:15:20Z",
+      "user": "Nohomersryan",
+      "userid": 21840498,
+      "size": 4557,
+      "comment": "couldn't have been 1937 if he was 87",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148459774,
+      "parentid": 1148402255,
+      "timestamp": "2023-04-06T08:36:30Z",
+      "user": "Editrite!",
+      "userid": 27507837,
+      "size": 4552,
+      "comment": "/* Advocacies */ Tidy up",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148464105,
+      "parentid": 1148459774,
+      "timestamp": "2023-04-06T09:25:16Z",
+      "user": "Dominus Moravian",
+      "userid": 19267325,
+      "size": 4599,
+      "comment": "+ cat.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148475193,
+      "parentid": 1148464105,
+      "timestamp": "2023-04-06T11:25:27Z",
+      "user": "Normantas Bataitis",
+      "userid": 39695919,
+      "size": 4590,
+      "comment": "made correction at infobox",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Herb_Rule"
+}

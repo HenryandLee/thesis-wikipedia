@@ -1,0 +1,44 @@
+{
+  "page_title": "Jon_Golnik",
+  "candidate_name": "Jon Golnik",
+  "collection_date": "2025-12-28T16:44:26.365121",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2011-06-14T05:14:59Z",
+      "end": "2018-12-08T18:13:55Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 434182891,
+      "parentid": 0,
+      "timestamp": "2011-06-14T05:14:59Z",
+      "user": "Designate",
+      "userid": 10226061,
+      "size": 96,
+      "comment": "Redirect to [[United States House of Representatives elections in Massachusetts, 2010]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872709171,
+      "parentid": 434182891,
+      "timestamp": "2018-12-08T18:13:55Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 95,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Massachusetts]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jon_Golnik"
+}

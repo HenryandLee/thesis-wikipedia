@@ -1,0 +1,47 @@
+{
+  "page_title": "Morgan_Osborne",
+  "candidate_name": "Morgan Osborne",
+  "collection_date": "2025-12-28T16:50:17.922475",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2023-04-09T18:52:08Z",
+      "end": "2024-08-23T01:35:09Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1149024869,
+      "parentid": 0,
+      "timestamp": "2023-04-09T18:52:08Z",
+      "user": "Meena",
+      "userid": 34532625,
+      "size": 139,
+      "comment": "created redirect.",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241770416,
+      "parentid": 1149024869,
+      "timestamp": "2024-08-23T01:35:09Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 151,
+      "comment": "Bot: Fixing double redirect from [[List of Hollyoaks characters (2022)#Morgan Osborne]] to [[List of Hollyoaks characters introduced in 2022]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_Osborne"
+}

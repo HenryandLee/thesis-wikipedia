@@ -1,0 +1,1376 @@
+{
+  "page_title": "Joe_Profit",
+  "candidate_name": "Joe Profit",
+  "collection_date": "2025-12-28T16:43:00.726589",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 118,
+    "unique_editors": 81,
+    "date_range": {
+      "start": "2007-12-23T18:29:58Z",
+      "end": "2024-07-07T14:58:02Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 179815597,
+      "parentid": 0,
+      "timestamp": "2007-12-23T18:29:58Z",
+      "user": "Bombig",
+      "userid": 813721,
+      "size": 1045,
+      "comment": "Started page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 195356057,
+      "parentid": 179815597,
+      "timestamp": "2008-03-02T17:35:54Z",
+      "user": "Yankees10",
+      "userid": 4268551,
+      "size": 1187,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201854120,
+      "parentid": 195356057,
+      "timestamp": "2008-03-29T18:01:39Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 1334,
+      "comment": "free image please -   using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 222179012,
+      "parentid": 201854120,
+      "timestamp": "2008-06-27T23:10:02Z",
+      "user": "Lightbot",
+      "userid": 7178666,
+      "size": 1319,
+      "comment": "Units/dates/other",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 239397075,
+      "parentid": 222179012,
+      "timestamp": "2008-09-18T22:55:13Z",
+      "user": "201.134.255.253",
+      "userid": 0,
+      "size": 1307,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 339967924,
+      "parentid": 239397075,
+      "timestamp": "2010-01-25T18:26:08Z",
+      "user": "74.218.161.17",
+      "userid": 0,
+      "size": 1465,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 341735901,
+      "parentid": 339967924,
+      "timestamp": "2010-02-03T19:33:32Z",
+      "user": "Hacknsackman",
+      "userid": 7012167,
+      "size": 5691,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 360674971,
+      "parentid": 341735901,
+      "timestamp": "2010-05-07T07:16:01Z",
+      "user": "Dravecky",
+      "userid": 4588674,
+      "size": 5887,
+      "comment": "unref tag added, tone tag added",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 360675310,
+      "parentid": 360674971,
+      "timestamp": "2010-05-07T07:19:46Z",
+      "user": "Dravecky",
+      "userid": 4588674,
+      "size": 5974,
+      "comment": "description updated, category added",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 360675510,
+      "parentid": 360675310,
+      "timestamp": "2010-05-07T07:22:17Z",
+      "user": "Dravecky",
+      "userid": 4588674,
+      "size": 5624,
+      "comment": "rm peacock language",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 360985105,
+      "parentid": 360675510,
+      "timestamp": "2010-05-08T22:42:18Z",
+      "user": "Kidkidpie1",
+      "userid": 8494936,
+      "size": 5540,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 361014567,
+      "parentid": 360985105,
+      "timestamp": "2010-05-09T02:14:53Z",
+      "user": "Mr.Z-bot",
+      "userid": 4260898,
+      "size": 5562,
+      "comment": "updating tags: unreferenced [[WP:BLP|BLP]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 363203416,
+      "parentid": 361014567,
+      "timestamp": "2010-05-20T14:31:13Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 5559,
+      "comment": "Date maintenance tags and general fixes: build 414:, removed stub tag",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 384579874,
+      "parentid": 363203416,
+      "timestamp": "2010-09-13T13:30:29Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 5804,
+      "comment": "Persondata completion using [[Project:AWB|AWB]] (7118)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 390199403,
+      "parentid": 384579874,
+      "timestamp": "2010-10-12T03:22:56Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5800,
+      "comment": "[[WP:CHECKWIKI]] error 59 fix + [[WP:GENFIXES|genfixes]] using [[Project:AWB|AWB]] (7245)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 393837347,
+      "parentid": 390199403,
+      "timestamp": "2010-10-30T19:06:55Z",
+      "user": "Chowbok",
+      "userid": 54304,
+      "size": 5849,
+      "comment": "clean up, replaced: 1971-1973 → 1971–1973, removed: ™ (2) using [[Project:AWB|AWB]] (7351)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 404771439,
+      "parentid": 393837347,
+      "timestamp": "2010-12-29T05:45:04Z",
+      "user": "Jenks24",
+      "userid": 12109580,
+      "size": 5856,
+      "comment": "tidy + change to more appropriate tags",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 404888412,
+      "parentid": 404771439,
+      "timestamp": "2010-12-29T22:29:14Z",
+      "user": "Mean as custard",
+      "userid": 10962546,
+      "size": 5558,
+      "comment": "Remove advert",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 404888584,
+      "parentid": 404888412,
+      "timestamp": "2010-12-29T22:30:21Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 5591,
+      "comment": "Dated {{Citation needed}}. (Build 601)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 409096148,
+      "parentid": 404888584,
+      "timestamp": "2011-01-21T02:55:17Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 5623,
+      "comment": "Removing deleted [[:File:Joe profit -5.jpg|image]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 428868936,
+      "parentid": 409096148,
+      "timestamp": "2011-05-13T03:56:34Z",
+      "user": "216.237.223.170",
+      "userid": 0,
+      "size": 5628,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 428868939,
+      "parentid": 428868936,
+      "timestamp": "2011-05-13T03:56:38Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 5623,
+      "comment": "Reverting possible vandalism by [[Special:Contributions/216.237.223.170|216.237.223.170]] to version by ImageRemovalBot. False positive? [[User:ClueBot NG/FalsePositives|Report it]]. Thanks, [[User:ClueBot NG|ClueBot NG]]. (409673) (Bot)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 435357893,
+      "parentid": 428868939,
+      "timestamp": "2011-06-20T22:35:48Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5623,
+      "comment": "Updated infobox using [[Project:AWB|AWB]] (7758)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 442851533,
+      "parentid": 435357893,
+      "timestamp": "2011-08-03T14:41:32Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 5625,
+      "comment": "Robot - Speedily moving category Louisiana-Monroe Warhawks football players to [[:Category:Louisiana–Monroe Warhawks football players]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 478803807,
+      "parentid": 442851533,
+      "timestamp": "2012-02-25T17:57:32Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 5625,
+      "comment": "merged templates into [[Template:Multiple issues]] & [[WP:AWB/GF|general fixes]] using [[Project:AWB|AWB]] (7961)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488283164,
+      "parentid": 478803807,
+      "timestamp": "2012-04-20T04:28:28Z",
+      "user": "Hushpuckena",
+      "userid": 8965090,
+      "size": 5617,
+      "comment": "copy edit to football career",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 488298919,
+      "parentid": 488283164,
+      "timestamp": "2012-04-20T07:25:27Z",
+      "user": "Hushpuckena",
+      "userid": 8965090,
+      "size": 5535,
+      "comment": "more cleanup",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 492417257,
+      "parentid": 488298919,
+      "timestamp": "2012-05-13T20:49:50Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 5563,
+      "comment": "Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 503197854,
+      "parentid": 492417257,
+      "timestamp": "2012-07-19T23:37:59Z",
+      "user": "Armchair QB",
+      "userid": 9792538,
+      "size": 5603,
+      "comment": "add navbox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518831112,
+      "parentid": 503197854,
+      "timestamp": "2012-10-20T05:41:54Z",
+      "user": "71.89.89.170",
+      "userid": 0,
+      "size": 5657,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518831244,
+      "parentid": 518831112,
+      "timestamp": "2012-10-20T05:43:13Z",
+      "user": "71.89.89.170",
+      "userid": 0,
+      "size": 5673,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 518832669,
+      "parentid": 518831244,
+      "timestamp": "2012-10-20T05:58:47Z",
+      "user": "Czar",
+      "userid": 244263,
+      "size": 5603,
+      "comment": "Reverted edit(s) by [[Special:Contributions/71.89.89.170|71.89.89.170]] identified as test/vandalism using [[WP:STiki|STiki]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 533622142,
+      "parentid": 518832669,
+      "timestamp": "2013-01-18T01:42:48Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 5553,
+      "comment": "manual clean up, replaced: Ernest & Young → Ernst & Young using [[Project:AWB|AWB]] (8853)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 560931349,
+      "parentid": 533622142,
+      "timestamp": "2013-06-21T16:32:17Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 5551,
+      "comment": "[[WP:CHECKWIKI]] error #2 fix + general fixes using [[Project:AWB|AWB]] (9276)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 584130106,
+      "parentid": 560931349,
+      "timestamp": "2013-12-01T23:20:03Z",
+      "user": "Wizardman",
+      "userid": 713860,
+      "size": 1922,
+      "comment": "this article is horrible; trim blatant advertising",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 628032915,
+      "parentid": 584130106,
+      "timestamp": "2014-10-03T02:48:57Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 4118,
+      "comment": "added additional facts",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 628280891,
+      "parentid": 628032915,
+      "timestamp": "2014-10-05T01:41:13Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 1922,
+      "comment": "Reverted 1 [[WP:AGF|good faith]] edit by [[Special:Contributions/JoeProfit|JoeProfit]] using [[WP:STiki|STiki]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 641409404,
+      "parentid": 628280891,
+      "timestamp": "2015-01-07T13:02:49Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 1939,
+      "comment": "Tagging using [[Project:AWB|AWB]] (10703)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 680445204,
+      "parentid": 641409404,
+      "timestamp": "2015-09-10T22:35:57Z",
+      "user": "BU RoBOT",
+      "userid": 25993922,
+      "size": 2304,
+      "comment": "Split teams/years using [[Module:Infobox gridiron football person/convert]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 680449038,
+      "parentid": 680445204,
+      "timestamp": "2015-09-10T22:56:56Z",
+      "user": "Renamed user mou89p43twvqcvm8ut9w3",
+      "userid": 25420061,
+      "size": 2241,
+      "comment": "Split teams/years with module; misc",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 713278743,
+      "parentid": 680449038,
+      "timestamp": "2016-04-03T02:04:45Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 1984,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Joe Profit|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 714927945,
+      "parentid": 713278743,
+      "timestamp": "2016-04-12T17:38:16Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 12938,
+      "comment": "adding history and infoperson",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 714930063,
+      "parentid": 714927945,
+      "timestamp": "2016-04-12T17:53:29Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 12336,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 714968761,
+      "parentid": 714930063,
+      "timestamp": "2016-04-12T22:19:10Z",
+      "user": "Materialscientist",
+      "userid": 7852030,
+      "size": 1984,
+      "comment": "Reverted edits by [[Special:Contribs/JoeProfit|JoeProfit]] ([[User talk:JoeProfit|talk]]) to last version by KasparBot",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 717153918,
+      "parentid": 714968761,
+      "timestamp": "2016-04-26T01:41:03Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 2046,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 717306158,
+      "parentid": 717153918,
+      "timestamp": "2016-04-26T22:40:10Z",
+      "user": "KylieTastic",
+      "userid": 2790592,
+      "size": 1984,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/JoeProfit|JoeProfit]] ([[User talk:JoeProfit|talk]]): Revert - not a recognised image file - Note images must be uploaded [[WP:UPIMAGE]] (copyright allowing). ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721090510,
+      "parentid": 717306158,
+      "timestamp": "2016-05-19T18:37:34Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 12353,
+      "comment": "added information about Joe Profit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721090645,
+      "parentid": 721090510,
+      "timestamp": "2016-05-19T18:38:37Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 12441,
+      "comment": "added approved photo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721091239,
+      "parentid": 721090645,
+      "timestamp": "2016-05-19T18:42:36Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 16185,
+      "comment": "added infobox person",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 721091415,
+      "parentid": 721091239,
+      "timestamp": "2016-05-19T18:43:50Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 16182,
+      "comment": "tried to remove excess space",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 721091641,
+      "parentid": 721091415,
+      "timestamp": "2016-05-19T18:45:16Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 16183,
+      "comment": "re arranged wording",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 721091758,
+      "parentid": 721091641,
+      "timestamp": "2016-05-19T18:46:08Z",
+      "user": "JoeProfit",
+      "userid": 22729659,
+      "size": 16185,
+      "comment": "rearranged wording",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 722654143,
+      "parentid": 721091758,
+      "timestamp": "2016-05-29T11:51:12Z",
+      "user": "BattyBot",
+      "userid": 15996738,
+      "size": 16175,
+      "comment": "fixed [[Help:CS1_errors#bad_date|CS1 errors: dates]] to meet [[MOS:DATEFORMAT]] (also [[WP:AWB/GF|General fixes]]) using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 725464454,
+      "parentid": 722654143,
+      "timestamp": "2016-06-15T20:35:27Z",
+      "user": "Filedelinkerbot",
+      "userid": 20611691,
+      "size": 16087,
+      "comment": "Bot: Removing [[Commons:File:Picture Headshot Dr Profit Standing Suite (2).jpg]] ([[:File:Picture Headshot Dr Profit Standing Suite (2).jpg|en]]). It was deleted on Commons by [[:Commons:User:Jcb|Jcb]] (No OTRS permission for 30 days).",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 733344896,
+      "parentid": 725464454,
+      "timestamp": "2016-08-07T04:53:40Z",
+      "user": "Majora",
+      "userid": 25977978,
+      "size": 12391,
+      "comment": "Fix infobox and readd image.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 764831358,
+      "parentid": 733344896,
+      "timestamp": "2017-02-11T05:09:12Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 12390,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: Atlanta Journal Constitution → Atlanta Journal-Constitution (4), louisiana → Louisiana, multi-million dollar → multimillion-dollar using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 772154963,
+      "parentid": 764831358,
+      "timestamp": "2017-03-25T17:00:01Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 12442,
+      "comment": "added [[Category:People from Lake Providence, Louisiana]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 775297566,
+      "parentid": 772154963,
+      "timestamp": "2017-04-13T23:30:30Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 12443,
+      "comment": "v1.41 - minor cleanup",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 784227664,
+      "parentid": 775297566,
+      "timestamp": "2017-06-07T04:20:06Z",
+      "user": "Dmoore5556",
+      "userid": 29278485,
+      "size": 12453,
+      "comment": "/* Collegiate Honors */ add page links to North–South Shrine Game and Senior Bowl",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 830207914,
+      "parentid": 784227664,
+      "timestamp": "2018-03-13T12:32:25Z",
+      "user": "134.224.220.1",
+      "userid": 0,
+      "size": 12463,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836136635,
+      "parentid": 830207914,
+      "timestamp": "2018-04-12T21:43:33Z",
+      "user": "TheSubmarine",
+      "userid": 30339781,
+      "size": 12675,
+      "comment": "update on congressional run",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 842540548,
+      "parentid": 836136635,
+      "timestamp": "2018-05-23T03:17:02Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 12846,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846828682,
+      "parentid": 842540548,
+      "timestamp": "2018-06-21T04:05:39Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 12956,
+      "comment": "Rearranged the article a bit.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 846830785,
+      "parentid": 846828682,
+      "timestamp": "2018-06-21T04:26:21Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 12922,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 846831368,
+      "parentid": 846830785,
+      "timestamp": "2018-06-21T04:31:50Z",
+      "user": "Billybob2002",
+      "userid": 18756523,
+      "size": 12396,
+      "comment": "Removed excess.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 859581642,
+      "parentid": 846831368,
+      "timestamp": "2018-09-14T23:27:42Z",
+      "user": "Lord Bromblemore",
+      "userid": 15904334,
+      "size": 12387,
+      "comment": "/* High School and College */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 866197679,
+      "parentid": 859581642,
+      "timestamp": "2018-10-28T22:19:01Z",
+      "user": "2600:1700:FA91:4F0:9943:528D:B095:4BEC",
+      "userid": 0,
+      "size": 12388,
+      "comment": "/* Early life */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 867506531,
+      "parentid": 866197679,
+      "timestamp": "2018-11-06T04:26:48Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 12388,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872238097,
+      "parentid": 867506531,
+      "timestamp": "2018-12-06T02:27:33Z",
+      "user": "IntoThinAir",
+      "userid": 18336458,
+      "size": 12653,
+      "comment": "update election outcome Reference edited with [[Wikipedia:ProveIt|ProveIt]]",
+      "minor": false,
+      "tags": [
+        "ProveIt edit"
+      ]
+    },
+    {
+      "revid": 879058365,
+      "parentid": 872238097,
+      "timestamp": "2019-01-18T18:45:44Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 12695,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 890774525,
+      "parentid": 879058365,
+      "timestamp": "2019-04-03T13:23:14Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 12681,
+      "comment": "[[WP:AWB/T|typo(s) fixed]]: Conference’s → Conference's (7)",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 893822965,
+      "parentid": 890774525,
+      "timestamp": "2019-04-23T20:01:45Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 12671,
+      "comment": "[[MOS:ACCESS#Text]] / [[MOS:FONTSIZE]]: \"Avoid using smaller font sizes in elements that already use a smaller font size, such as infoboxes, navboxes and reference sections.\"",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 893822998,
+      "parentid": 893822965,
+      "timestamp": "2019-04-23T20:02:00Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 12646,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 895262026,
+      "parentid": 893822998,
+      "timestamp": "2019-05-03T01:38:35Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 12692,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 907722560,
+      "parentid": 895262026,
+      "timestamp": "2019-07-24T20:48:24Z",
+      "user": "174.206.3.35",
+      "userid": 0,
+      "size": 12699,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 907969587,
+      "parentid": 907722560,
+      "timestamp": "2019-07-26T14:18:57Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 12670,
+      "comment": "Removed accessdate with no specified URL. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].| Activated by [[User:Chris Capoccia]] | [[Category:Pages using citations with accessdate and no URL]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 921062823,
+      "parentid": 907969587,
+      "timestamp": "2019-10-13T16:32:11Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 12690,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 927334526,
+      "parentid": 921062823,
+      "timestamp": "2019-11-21T20:49:07Z",
+      "user": "24.46.196.55",
+      "userid": 0,
+      "size": 12709,
+      "comment": "Citation needed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 927353861,
+      "parentid": 927334526,
+      "timestamp": "2019-11-21T23:43:08Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 12728,
+      "comment": "Dating maintenance tags: {{Citation needed}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 932872618,
+      "parentid": 927353861,
+      "timestamp": "2019-12-28T18:15:47Z",
+      "user": "BacktoSchoolForever0700",
+      "userid": 37107832,
+      "size": 12731,
+      "comment": "/* Honors */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 941450547,
+      "parentid": 932872618,
+      "timestamp": "2020-02-18T17:22:14Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 12791,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 943389420,
+      "parentid": 941450547,
+      "timestamp": "2020-03-01T16:54:25Z",
+      "user": "Tcrepublican",
+      "userid": 38671531,
+      "size": 13819,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 943389554,
+      "parentid": 943389420,
+      "timestamp": "2020-03-01T16:55:25Z",
+      "user": "Tcrepublican",
+      "userid": 38671531,
+      "size": 13315,
+      "comment": "/* Honors */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 943389594,
+      "parentid": 943389554,
+      "timestamp": "2020-03-01T16:55:45Z",
+      "user": "Tcrepublican",
+      "userid": 38671531,
+      "size": 13668,
+      "comment": "/* Political Career */",
+      "minor": false,
+      "tags": [
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 953329698,
+      "parentid": 943389594,
+      "timestamp": "2020-04-26T21:14:15Z",
+      "user": "2600:8801:3604:B100:71C6:22E5:8E9:14F0",
+      "userid": 0,
+      "size": 13669,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 960654323,
+      "parentid": 953329698,
+      "timestamp": "2020-06-04T04:46:59Z",
+      "user": "74.76.64.234",
+      "userid": 0,
+      "size": 13482,
+      "comment": "/* Business career */ Sentence removed reads is written like an advertisement and adds no value to the article.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 961705895,
+      "parentid": 960654323,
+      "timestamp": "2020-06-09T23:47:23Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 9449,
+      "comment": "copyedits and cleanup",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 961706014,
+      "parentid": 961705895,
+      "timestamp": "2020-06-09T23:48:21Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 9335,
+      "comment": "further fix",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 961817978,
+      "parentid": 961706014,
+      "timestamp": "2020-06-10T15:34:45Z",
+      "user": "Bernspeed",
+      "userid": 38878966,
+      "size": 9386,
+      "comment": "/* Personal life */Addition of congress",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 962282196,
+      "parentid": 961817978,
+      "timestamp": "2020-06-13T04:12:04Z",
+      "user": "PatbackT",
+      "userid": 29859515,
+      "size": 9401,
+      "comment": "/* 2020 Congressional Campaign */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 967192420,
+      "parentid": 962282196,
+      "timestamp": "2020-07-11T18:31:09Z",
+      "user": "EditQwerty",
+      "userid": 38639689,
+      "size": 9411,
+      "comment": "Reference edited with [[Wikipedia:ProveIt|ProveIt]]",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext",
+        "ProveIt edit"
+      ]
+    },
+    {
+      "revid": 968241218,
+      "parentid": 967192420,
+      "timestamp": "2020-07-18T03:53:12Z",
+      "user": "Adostaler",
+      "userid": 21461458,
+      "size": 9410,
+      "comment": "/* NFL */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 969114259,
+      "parentid": 968241218,
+      "timestamp": "2020-07-23T13:43:19Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 9410,
+      "comment": "/* Political career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 972202013,
+      "parentid": 969114259,
+      "timestamp": "2020-08-10T19:28:25Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 9432,
+      "comment": "/* Personal life */ {{unsourced section}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 972202044,
+      "parentid": 972202013,
+      "timestamp": "2020-08-10T19:28:40Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 8893,
+      "comment": "/* Honors */ unsourced promo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 972204901,
+      "parentid": 972202044,
+      "timestamp": "2020-08-10T19:49:23Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 8910,
+      "comment": "Dating maintenance tags: {{Unsourced section}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 973522951,
+      "parentid": 972204901,
+      "timestamp": "2020-08-17T17:53:11Z",
+      "user": "Coby Oklahoma",
+      "userid": 37911378,
+      "size": 8970,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974506099,
+      "parentid": 973522951,
+      "timestamp": "2020-08-23T12:48:58Z",
+      "user": "Qqqqqq",
+      "userid": 227301,
+      "size": 8939,
+      "comment": "/* Personal life */ Georgia doesn't have party registration.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 986657138,
+      "parentid": 974506099,
+      "timestamp": "2020-11-02T06:00:28Z",
+      "user": "I dream of horses",
+      "userid": 9676078,
+      "size": 8924,
+      "comment": "clean up, [[WP:AWB/T|typo(s) fixed]]: President → president",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1030403264,
+      "parentid": 986657138,
+      "timestamp": "2021-06-25T18:10:37Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 8989,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1031921318,
+      "parentid": 1030403264,
+      "timestamp": "2021-07-04T13:41:41Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 9136,
+      "comment": "Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Pages which use embedded infobox templates with the title parameter]] | #UCB_Category 803/2716",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1038261004,
+      "parentid": 1031921318,
+      "timestamp": "2021-08-11T13:37:59Z",
+      "user": "75.11.233.254",
+      "userid": 0,
+      "size": 9231,
+      "comment": "/* Business career */",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1038261097,
+      "parentid": 1038261004,
+      "timestamp": "2021-08-11T13:38:41Z",
+      "user": "Larry Hockett",
+      "userid": 15977090,
+      "size": 9136,
+      "comment": "Undid revision 1038261004 by [[Special:Contributions/75.11.233.254|75.11.233.254]] ([[User talk:75.11.233.254|talk]]) unsourced",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 1055943319,
+      "parentid": 1038261097,
+      "timestamp": "2021-11-18T19:27:20Z",
+      "user": "Cbl62",
+      "userid": 4447115,
+      "size": 9385,
+      "comment": "/* Early life and college career */ Little All-America",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1055943810,
+      "parentid": 1055943319,
+      "timestamp": "2021-11-18T19:30:36Z",
+      "user": "Cbl62",
+      "userid": 4447115,
+      "size": 9386,
+      "comment": "/* Early life and college career */ fix my typo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1079476767,
+      "parentid": 1055943810,
+      "timestamp": "2022-03-27T00:29:23Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 9445,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American football player (born 1949)\", overriding Wikidata description \"player of American football\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1080420195,
+      "parentid": 1079476767,
+      "timestamp": "2022-04-01T04:59:00Z",
+      "user": "Megacheez",
+      "userid": 25353172,
+      "size": 9447,
+      "comment": "Updated the infobox on this page",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1099315427,
+      "parentid": 1080420195,
+      "timestamp": "2022-07-20T03:45:06Z",
+      "user": "Megacheez",
+      "userid": 25353172,
+      "size": 9471,
+      "comment": "Updated the infobox on this page",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1103492518,
+      "parentid": 1099315427,
+      "timestamp": "2022-08-09T21:53:13Z",
+      "user": "Chris the speller",
+      "userid": 525927,
+      "size": 9475,
+      "comment": "/* NFL */replaced: agency=Atlanta Journal Constitution → agency=The Atlanta Journal-Constitution",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1105823644,
+      "parentid": 1103492518,
+      "timestamp": "2022-08-22T00:12:57Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 9483,
+      "comment": "House style for spacing of initials., replaced: [[George H.W. Bush]] → [[George H. W. Bush]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1114254840,
+      "parentid": 1105823644,
+      "timestamp": "2022-10-05T15:38:12Z",
+      "user": "143.231.249.138",
+      "userid": 0,
+      "size": 9491,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "congressedits"
+      ]
+    },
+    {
+      "revid": 1123092969,
+      "parentid": 1114254840,
+      "timestamp": "2022-11-21T20:01:28Z",
+      "user": "Sergio Skol",
+      "userid": 36517939,
+      "size": 9825,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1124980707,
+      "parentid": 1123092969,
+      "timestamp": "2022-12-01T15:34:13Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 9821,
+      "comment": "/* 2018 congressional campaign */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1192628163,
+      "parentid": 1124980707,
+      "timestamp": "2023-12-30T12:37:02Z",
+      "user": "Spatms",
+      "userid": 16697844,
+      "size": 9902,
+      "comment": "Infobox",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215417008,
+      "parentid": 1192628163,
+      "timestamp": "2024-03-25T00:37:51Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 9927,
+      "comment": "removed [[Category:Candidates in the 2020 United States elections]]; added [[Category:Candidates in the 2020 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1216856836,
+      "parentid": 1215417008,
+      "timestamp": "2024-04-02T11:27:00Z",
+      "user": "Bagumba",
+      "userid": 8005368,
+      "size": 9977,
+      "comment": "per [[Special:Permalink/1214304042#Former American football players|lead discussion]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1225303032,
+      "parentid": 1216856836,
+      "timestamp": "2024-05-23T16:04:23Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 9903,
+      "comment": "[[User:PrimeBOT/30|Task 30]]: infobox updates following [[Special:PermaLink/1224968164#NFL.com_links_in_infoboxes|a discussion]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1233151346,
+      "parentid": 1225303032,
+      "timestamp": "2024-07-07T14:58:02Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 9928,
+      "comment": "removed [[Category:Candidates in the 2018 United States elections]]; added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Profit"
+}

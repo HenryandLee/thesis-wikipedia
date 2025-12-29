@@ -1,0 +1,323 @@
+{
+  "page_title": "Marty_Gearheart",
+  "candidate_name": "Marty Gearheart",
+  "collection_date": "2025-12-28T16:48:19.838363",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 26,
+    "unique_editors": 18,
+    "date_range": {
+      "start": "2014-03-25T21:30:14Z",
+      "end": "2024-12-05T02:31:12Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 601254622,
+      "parentid": 0,
+      "timestamp": "2014-03-25T21:30:14Z",
+      "user": "Dru of Id",
+      "userid": 13848992,
+      "size": 5480,
+      "comment": "Marty Gearheart.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 601362280,
+      "parentid": 601254622,
+      "timestamp": "2014-03-26T15:15:51Z",
+      "user": "Dru of Id",
+      "userid": 13848992,
+      "size": 5464,
+      "comment": "Remove own mistaken districting.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 603476280,
+      "parentid": 601362280,
+      "timestamp": "2014-04-09T17:23:29Z",
+      "user": "Dru of Id",
+      "userid": 13848992,
+      "size": 5472,
+      "comment": "Replaced appointed Delegate Cole once elected.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 688220670,
+      "parentid": 603476280,
+      "timestamp": "2015-10-30T13:00:24Z",
+      "user": "Zppix",
+      "userid": 22665218,
+      "size": 5487,
+      "comment": "fixed a few general issues",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 688221316,
+      "parentid": 688220670,
+      "timestamp": "2015-10-30T13:07:27Z",
+      "user": "Zppix",
+      "userid": 22665218,
+      "size": 5491,
+      "comment": "/* Elections */  added wiki article to John Shott",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 688342198,
+      "parentid": 688221316,
+      "timestamp": "2015-10-31T07:49:01Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 5479,
+      "comment": "[[WP:CHECKWIKI]] error fix for #64.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11700)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724247838,
+      "parentid": 688342198,
+      "timestamp": "2016-06-08T01:38:49Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 5205,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Marty Gearheart|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 756270456,
+      "parentid": 724247838,
+      "timestamp": "2016-12-23T03:00:55Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5252,
+      "comment": "/* External links */add category using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 762477562,
+      "parentid": 756270456,
+      "timestamp": "2017-01-29T02:00:16Z",
+      "user": "Herblouise945",
+      "userid": 30208946,
+      "size": 5258,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 852693968,
+      "parentid": 762477562,
+      "timestamp": "2018-07-30T18:55:24Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 5254,
+      "comment": "removed [[Category:People from Wake County, North Carolina]]; added [[Category:People from Zebulon, North Carolina]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 878234337,
+      "parentid": 852693968,
+      "timestamp": "2019-01-13T20:56:59Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 5291,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 882762697,
+      "parentid": 878234337,
+      "timestamp": "2019-02-11T04:38:56Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 5318,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 954522368,
+      "parentid": 882762697,
+      "timestamp": "2020-05-02T21:32:03Z",
+      "user": "Rathfelder",
+      "userid": 398607,
+      "size": 5281,
+      "comment": "removed [[Category:American schoolteachers]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1048769214,
+      "parentid": 954522368,
+      "timestamp": "2021-10-07T21:15:56Z",
+      "user": "RoundSquare",
+      "userid": 31226026,
+      "size": 5323,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1049622154,
+      "parentid": 1048769214,
+      "timestamp": "2021-10-12T21:49:25Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 5427,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1050814163,
+      "parentid": 1049622154,
+      "timestamp": "2021-10-20T01:52:43Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 5433,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1052318345,
+      "parentid": 1050814163,
+      "timestamp": "2021-10-28T14:33:20Z",
+      "user": "Wolfgang8741",
+      "userid": 8999502,
+      "size": 5417,
+      "comment": "fix current term and linking for [[Eric Porterfield]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1063290073,
+      "parentid": 1052318345,
+      "timestamp": "2022-01-02T05:39:38Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 5391,
+      "comment": "/* top */Removed [[MOS:OVERLINK|overlinked]] country wikilink and [[WP:GENFIX|general fixes]] ([[Wikipedia:Bots/Requests_for_approval/SdkbBot_2|task 2]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1080840821,
+      "parentid": 1063290073,
+      "timestamp": "2022-04-03T19:40:22Z",
+      "user": "Ward330",
+      "userid": 42226940,
+      "size": 5357,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128143559,
+      "parentid": 1080840821,
+      "timestamp": "2022-12-18T16:39:43Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 5335,
+      "comment": "/* External links */intersect Republican and West Virginia representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1181277097,
+      "parentid": 1128143559,
+      "timestamp": "2023-10-22T01:20:06Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 5334,
+      "comment": "WHY do people think \"primary\" and \"general\" in an election article need to be capitalized?",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1190573686,
+      "parentid": 1181277097,
+      "timestamp": "2023-12-18T17:33:21Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 5346,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician\" to \"American politician (born 1961)\"",
+      "minor": true,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1205921029,
+      "parentid": 1190573686,
+      "timestamp": "2024-02-10T19:32:43Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 5346,
+      "comment": "move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1233161359,
+      "parentid": 1205921029,
+      "timestamp": "2024-07-07T16:07:03Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 5431,
+      "comment": "added [[Category:Candidates in the 2018 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261252095,
+      "parentid": 1233161359,
+      "timestamp": "2024-12-05T02:15:47Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 5498,
+      "comment": "/* External links */ added [[:Category:21st-century members of the West Virginia Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1261254200,
+      "parentid": 1261252095,
+      "timestamp": "2024-12-05T02:31:12Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 5451,
+      "comment": "Removing from [[Category:21st-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marty_Gearheart"
+}

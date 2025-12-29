@@ -1,0 +1,47 @@
+{
+  "page_title": "Anita_Malik",
+  "candidate_name": "Anita Malik",
+  "collection_date": "2025-12-28T16:32:28.357057",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2020-08-05T01:35:57Z",
+      "end": "2022-02-27T07:50:07Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 971259892,
+      "parentid": 0,
+      "timestamp": "2020-08-05T01:35:57Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 91,
+      "comment": "redirect",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1074251620,
+      "parentid": 971259892,
+      "timestamp": "2022-02-27T07:50:07Z",
+      "user": "ZI Jony",
+      "userid": 30607451,
+      "size": 89,
+      "comment": "v2.04b - Fix errors for [[WP:WCW|CW project]] (Link with encoded space)",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anita_Malik"
+}

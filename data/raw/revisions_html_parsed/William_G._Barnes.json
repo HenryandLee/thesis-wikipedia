@@ -1,0 +1,46 @@
+{
+  "page_title": "William_G._Barnes",
+  "candidate_name": "William G. Barnes",
+  "collection_date": "2025-12-28T16:57:33.414118",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2018-09-02T17:30:56Z",
+      "end": "2018-12-06T18:57:05Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 857733171,
+      "parentid": 0,
+      "timestamp": "2018-09-02T17:30:56Z",
+      "user": "Aaronw1109",
+      "userid": 29717583,
+      "size": 59,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States Senate election in Alabama, 2010]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 872340153,
+      "parentid": 857733171,
+      "timestamp": "2018-12-06T18:57:05Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 59,
+      "comment": "Bot: Fixing double redirect to [[2010 United States Senate election in Alabama]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_G._Barnes"
+}

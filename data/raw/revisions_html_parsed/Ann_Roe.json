@@ -1,0 +1,119 @@
+{
+  "page_title": "Ann_Roe",
+  "candidate_name": "Ann Roe",
+  "collection_date": "2025-12-28T16:32:30.505001",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 8,
+    "unique_editors": 4,
+    "date_range": {
+      "start": "2024-11-27T06:13:18Z",
+      "end": "2024-12-04T05:18:20Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1259817624,
+      "parentid": 0,
+      "timestamp": "2024-11-27T06:13:18Z",
+      "user": "Asdasdasdff",
+      "userid": 22709466,
+      "size": 11610,
+      "comment": "creating page",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259867483,
+      "parentid": 1259817624,
+      "timestamp": "2024-11-27T14:34:18Z",
+      "user": "Talthiel",
+      "userid": 42906708,
+      "size": 11610,
+      "comment": "/* Electoral history */",
+      "minor": true,
+      "tags": [
+        "visualeditor-switched",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1259867939,
+      "parentid": 1259867483,
+      "timestamp": "2024-11-27T14:37:05Z",
+      "user": "Talthiel",
+      "userid": 42906708,
+      "size": 11628,
+      "comment": "/* U.S. House (2022) */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1260086029,
+      "parentid": 1259867939,
+      "timestamp": "2024-11-28T19:24:37Z",
+      "user": "Hebrides",
+      "userid": 1264145,
+      "size": 11575,
+      "comment": "tidy links per [[WP:OVERLINK]], general fixes, [[WP:AWB/T|typo(s) fixed]]: inlcuding → including",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260530747,
+      "parentid": 1260086029,
+      "timestamp": "2024-12-01T07:52:40Z",
+      "user": "Asdasdasdff",
+      "userid": 22709466,
+      "size": 11518,
+      "comment": "/* Wisconsin Assembly (2024) */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1261088455,
+      "parentid": 1260530747,
+      "timestamp": "2024-12-04T05:16:21Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 11581,
+      "comment": "added [[Category:21st-century members of the Wisconsin Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261088585,
+      "parentid": 1261088455,
+      "timestamp": "2024-12-04T05:17:39Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 11533,
+      "comment": "Removing from [[Category:21st-century Wisconsin politicians]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261088657,
+      "parentid": 1261088585,
+      "timestamp": "2024-12-04T05:18:20Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 11486,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ann_Roe"
+}

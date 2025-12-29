@@ -1,0 +1,784 @@
+{
+  "page_title": "Dale_Crafts",
+  "candidate_name": "Dale Crafts",
+  "collection_date": "2025-12-28T16:36:12.254063",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 67,
+    "unique_editors": 29,
+    "date_range": {
+      "start": "2017-09-08T20:20:50Z",
+      "end": "2024-12-05T04:04:55Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 799618012,
+      "parentid": 0,
+      "timestamp": "2017-09-08T20:20:50Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 990,
+      "comment": "wp",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 799618495,
+      "parentid": 799618012,
+      "timestamp": "2017-09-08T20:23:49Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 992,
+      "comment": "sp",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 799619851,
+      "parentid": 799618495,
+      "timestamp": "2017-09-08T20:32:43Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 1207,
+      "comment": "expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 799619908,
+      "parentid": 799619851,
+      "timestamp": "2017-09-08T20:33:07Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 1209,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 799630057,
+      "parentid": 799619908,
+      "timestamp": "2017-09-08T21:51:18Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 1248,
+      "comment": "/* Notes */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 807554263,
+      "parentid": 799630057,
+      "timestamp": "2017-10-28T18:24:57Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 1253,
+      "comment": "removed [[Category:People from Fort Lauderdale, Florida]]; added [[Category:Politicians from Fort Lauderdale, Florida]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 876597452,
+      "parentid": 807554263,
+      "timestamp": "2019-01-03T08:06:16Z",
+      "user": "MrBill3",
+      "userid": 15464248,
+      "size": 1255,
+      "comment": "/* Notes */clean up",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 914984993,
+      "parentid": 876597452,
+      "timestamp": "2019-09-10T14:54:44Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 1255,
+      "comment": "Muboshgu moved page [[Dale J. Crafts]] to [[Dale Crafts]]: Unnecessary disambiguation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 915379461,
+      "parentid": 914984993,
+      "timestamp": "2019-09-12T22:13:44Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 1302,
+      "comment": "/* Notes */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 919659626,
+      "parentid": 915379461,
+      "timestamp": "2019-10-04T23:40:32Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 1352,
+      "comment": "/* Notes */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920081861,
+      "parentid": 919659626,
+      "timestamp": "2019-10-07T15:39:15Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 1350,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 929202883,
+      "parentid": 920081861,
+      "timestamp": "2019-12-04T08:46:23Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 2321,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 932610873,
+      "parentid": 929202883,
+      "timestamp": "2019-12-27T04:12:57Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 2160,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-wikitext"
+      ]
+    },
+    {
+      "revid": 967671267,
+      "parentid": 932610873,
+      "timestamp": "2020-07-14T15:53:29Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 2505,
+      "comment": "Filled in 4 bare reference(s) with reFill 2",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 967743165,
+      "parentid": 967671267,
+      "timestamp": "2020-07-15T01:18:18Z",
+      "user": "JefferyMoser",
+      "userid": 21328030,
+      "size": 2504,
+      "comment": "Changes the verb tense from was to is.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 967743452,
+      "parentid": 967743165,
+      "timestamp": "2020-07-15T01:21:04Z",
+      "user": "JefferyMoser",
+      "userid": 21328030,
+      "size": 2562,
+      "comment": "Changed \"is\" to \"was a councilor known for his political party affiliation as a\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 967749769,
+      "parentid": 967743452,
+      "timestamp": "2020-07-15T02:22:00Z",
+      "user": "JefferyMoser",
+      "userid": 21328030,
+      "size": 2732,
+      "comment": "Added new para.: Crafts ran in a three-person Republican primary contest for Maine's 2nd Congressional District on July 14, 2020, along with candidates Adrienne Bennett and Eric Brakey.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 968317760,
+      "parentid": 967749769,
+      "timestamp": "2020-07-18T16:35:50Z",
+      "user": "2607:FCC8:AD08:EC00:E4BC:1F9E:C375:D7AD",
+      "userid": 0,
+      "size": 2895,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 968813635,
+      "parentid": 968317760,
+      "timestamp": "2020-07-21T17:33:40Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 2897,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 969722192,
+      "parentid": 968813635,
+      "timestamp": "2020-07-27T01:42:45Z",
+      "user": "100.35.140.144",
+      "userid": 0,
+      "size": 2976,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 969744516,
+      "parentid": 969722192,
+      "timestamp": "2020-07-27T05:23:03Z",
+      "user": "Huskermax5",
+      "userid": 38160775,
+      "size": 3415,
+      "comment": "who he defeated in primaryy",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 969830495,
+      "parentid": 969744516,
+      "timestamp": "2020-07-27T17:03:24Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3257,
+      "comment": "copyedits and removed repetition",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 969830547,
+      "parentid": 969830495,
+      "timestamp": "2020-07-27T17:03:43Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3253,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 970807906,
+      "parentid": 969830547,
+      "timestamp": "2020-08-02T14:47:42Z",
+      "user": "64.89.243.157",
+      "userid": 0,
+      "size": 3315,
+      "comment": "/* 2020 U.S. House election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 972211052,
+      "parentid": 970807906,
+      "timestamp": "2020-08-10T20:35:01Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3200,
+      "comment": "?",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 972211108,
+      "parentid": 972211052,
+      "timestamp": "2020-08-10T20:35:28Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3206,
+      "comment": "{{cn}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 972211177,
+      "parentid": 972211108,
+      "timestamp": "2020-08-10T20:36:00Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3214,
+      "comment": "/* 2020 U.S. House election */ copyedits",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 972213881,
+      "parentid": 972211177,
+      "timestamp": "2020-08-10T20:56:01Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 3231,
+      "comment": "Dating maintenance tags: {{Cn}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 972225710,
+      "parentid": 972213881,
+      "timestamp": "2020-08-10T22:29:22Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 3226,
+      "comment": "/* 2020 U.S. House election */ move sentence",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981146957,
+      "parentid": 972225710,
+      "timestamp": "2020-09-30T15:32:17Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3227,
+      "comment": "/* Notes */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 981146995,
+      "parentid": 981146957,
+      "timestamp": "2020-09-30T15:32:30Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3228,
+      "comment": "/* =References */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 981147235,
+      "parentid": 981146995,
+      "timestamp": "2020-09-30T15:33:49Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3361,
+      "comment": "add [[WP:EL]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981147541,
+      "parentid": 981147235,
+      "timestamp": "2020-09-30T15:35:59Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3386,
+      "comment": "move from lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981147574,
+      "parentid": 981147541,
+      "timestamp": "2020-09-30T15:36:17Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3387,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 981148440,
+      "parentid": 981147574,
+      "timestamp": "2020-09-30T15:41:46Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 3579,
+      "comment": "expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981148972,
+      "parentid": 981148440,
+      "timestamp": "2020-09-30T15:45:15Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 4093,
+      "comment": "add",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981149016,
+      "parentid": 981148972,
+      "timestamp": "2020-09-30T15:45:38Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 4093,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 981149110,
+      "parentid": 981149016,
+      "timestamp": "2020-09-30T15:46:20Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 4134,
+      "comment": "/* External links */ [[Category:Politicians with paraplegia]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981149308,
+      "parentid": 981149110,
+      "timestamp": "2020-09-30T15:47:40Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 4134,
+      "comment": "/* Personal life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 981150324,
+      "parentid": 981149308,
+      "timestamp": "2020-09-30T15:54:31Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5234,
+      "comment": "add",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981150601,
+      "parentid": 981150324,
+      "timestamp": "2020-09-30T15:56:01Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5090,
+      "comment": "better",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981151082,
+      "parentid": 981150601,
+      "timestamp": "2020-09-30T15:59:06Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 5090,
+      "comment": "put in line w/ sourcing",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981374288,
+      "parentid": 981151082,
+      "timestamp": "2020-10-01T22:42:34Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 5249,
+      "comment": "/* Early life and family */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 981374435,
+      "parentid": 981374288,
+      "timestamp": "2020-10-01T22:43:31Z",
+      "user": "RFD",
+      "userid": 668422,
+      "size": 5249,
+      "comment": "/* Early life and family */ sp",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 984946129,
+      "parentid": 981374435,
+      "timestamp": "2020-10-23T01:27:15Z",
+      "user": "2601:88:8101:E300:7DD3:8D85:A67A:4DA9",
+      "userid": 0,
+      "size": 5249,
+      "comment": "/* 2020 U.S. House election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 985702671,
+      "parentid": 984946129,
+      "timestamp": "2020-10-27T13:17:32Z",
+      "user": "169.244.44.62",
+      "userid": 0,
+      "size": 5242,
+      "comment": "/* 2020 U.S. House election */",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 985702769,
+      "parentid": 985702671,
+      "timestamp": "2020-10-27T13:18:24Z",
+      "user": "169.244.44.62",
+      "userid": 0,
+      "size": 4356,
+      "comment": "/* Business career */",
+      "minor": false,
+      "tags": [
+        "references removed",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 985702802,
+      "parentid": 985702769,
+      "timestamp": "2020-10-27T13:18:40Z",
+      "user": "LuK3",
+      "userid": 7264712,
+      "size": 5249,
+      "comment": "Reverted edits by [[Special:Contribs/169.244.44.62|169.244.44.62]] ([[User talk:169.244.44.62|talk]]) to last version by 2601:88:8101:E300:7DD3:8D85:A67A:4DA9",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 986105676,
+      "parentid": 985702802,
+      "timestamp": "2020-10-29T20:36:43Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 5641,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 997729115,
+      "parentid": 986105676,
+      "timestamp": "2021-01-01T23:25:58Z",
+      "user": "74.77.162.138",
+      "userid": 0,
+      "size": 6094,
+      "comment": "/* 2020 U.S. House election */  Added details of the general election results, as the section had last been updated following the primary election.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 997729173,
+      "parentid": 997729115,
+      "timestamp": "2021-01-01T23:26:18Z",
+      "user": "74.77.162.138",
+      "userid": 0,
+      "size": 6095,
+      "comment": "/* 2020 U.S. House election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 997729234,
+      "parentid": 997729173,
+      "timestamp": "2021-01-01T23:26:42Z",
+      "user": "74.77.162.138",
+      "userid": 0,
+      "size": 6096,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1040797580,
+      "parentid": 997729234,
+      "timestamp": "2021-08-26T18:40:33Z",
+      "user": "-A-M-B-1996-",
+      "userid": 31839633,
+      "size": 6016,
+      "comment": "condensed constituencies",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1041154868,
+      "parentid": 1040797580,
+      "timestamp": "2021-08-28T22:27:12Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 6017,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1068874763,
+      "parentid": 1041154868,
+      "timestamp": "2022-01-30T15:56:26Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 6072,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 234/2173",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1070145191,
+      "parentid": 1068874763,
+      "timestamp": "2022-02-05T23:04:42Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 6130,
+      "comment": "Adding [[Wikipedia:Short description|short description]]: \"American politician and businessman\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1081549975,
+      "parentid": 1070145191,
+      "timestamp": "2022-04-08T03:49:32Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 6130,
+      "comment": "copy edit with [[Wikipedia:AutoWikiBrowser/General_fixes|General fixes]]; url trimming of identifying info per[[WP:LINKSTOAVOID]] and [[Template:Citation_Style_documentation#url|Citation Style]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1128589667,
+      "parentid": 1081549975,
+      "timestamp": "2022-12-20T23:05:17Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 6116,
+      "comment": "/* External links */intersect Republican and Maine representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1149546500,
+      "parentid": 1128589667,
+      "timestamp": "2023-04-12T22:18:50Z",
+      "user": "Bohemian Baltimore",
+      "userid": 22066013,
+      "size": 6119,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1156480969,
+      "parentid": 1149546500,
+      "timestamp": "2023-05-23T02:33:29Z",
+      "user": "Smasongarrison",
+      "userid": 16185737,
+      "size": 6169,
+      "comment": "Copying from [[Category:Politicians with paraplegia]] to [[Category:American politicians with disabilities]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1205183940,
+      "parentid": 1156480969,
+      "timestamp": "2024-02-09T02:21:16Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6179,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1215504068,
+      "parentid": 1205183940,
+      "timestamp": "2024-03-25T15:01:43Z",
+      "user": "Y2hyaXM",
+      "userid": 42454206,
+      "size": 6264,
+      "comment": "added [[Category:Candidates in the 2020 United States House of Representatives elections]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1226355255,
+      "parentid": 1215504068,
+      "timestamp": "2024-05-30T03:12:28Z",
+      "user": "FuzzyManBella",
+      "userid": 44374271,
+      "size": 6312,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257608365,
+      "parentid": 1226355255,
+      "timestamp": "2024-11-15T20:35:19Z",
+      "user": "Ost316",
+      "userid": 6289403,
+      "size": 6386,
+      "comment": "Filled in 3 bare reference(s) with reFill 2 | Cleaned up using [[WP:AutoEd|AutoEd]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257608417,
+      "parentid": 1257608365,
+      "timestamp": "2024-11-15T20:35:45Z",
+      "user": "Ost316",
+      "userid": 6289403,
+      "size": 6564,
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": [
+        "OAuth CID: 5481"
+      ]
+    },
+    {
+      "revid": 1261265190,
+      "parentid": 1257608417,
+      "timestamp": "2024-12-05T03:51:44Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 6623,
+      "comment": "added [[Category:21st-century members of the Maine Legislature]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261266882,
+      "parentid": 1261265190,
+      "timestamp": "2024-12-05T04:04:55Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 6576,
+      "comment": "Removing from [[Category:21st-century American legislators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dale_Crafts"
+}

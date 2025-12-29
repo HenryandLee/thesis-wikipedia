@@ -1,0 +1,101 @@
+{
+  "page_title": "Matt_Longjohn",
+  "candidate_name": "Matt Longjohn",
+  "collection_date": "2025-12-28T16:48:33.884508",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 6,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2018-08-08T03:41:20Z",
+      "end": "2018-12-08T19:07:18Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 853974596,
+      "parentid": 0,
+      "timestamp": "2018-08-08T03:41:20Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 164,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Michigan, 2018#District 6]]",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 858095476,
+      "parentid": 853974596,
+      "timestamp": "2018-09-05T01:12:34Z",
+      "user": "141.218.32.85",
+      "userid": 0,
+      "size": 74,
+      "comment": "removed circular reasoning",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 858095982,
+      "parentid": 858095476,
+      "timestamp": "2018-09-05T01:17:57Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 164,
+      "comment": "Undid revision 858095476 by [[Special:Contributions/141.218.32.85|141.218.32.85]] ([[User talk:141.218.32.85|talk]]) uh no",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 858108534,
+      "parentid": 858095982,
+      "timestamp": "2018-09-05T03:26:53Z",
+      "user": "141.218.32.85",
+      "userid": 0,
+      "size": 74,
+      "comment": "Links right back to the article. Called by \"Criticalthinker\" at United States House of Representatives elections in Michigan, 2018  \"That's redundant/unnecessary.\" Undid revision 858095982 by [[Special:Contributions/Muboshgu|Muboshgu]] ([[User talk:Muboshgu|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-removed-redirect"
+      ]
+    },
+    {
+      "revid": 858108710,
+      "parentid": 858108534,
+      "timestamp": "2018-09-05T03:28:53Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 164,
+      "comment": "Undid revision 858108534 by [[Special:Contributions/141.218.32.85|141.218.32.85]] ([[User talk:141.218.32.85|talk]]) linking to the article is the point of a redirect",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 872716707,
+      "parentid": 858108710,
+      "timestamp": "2018-12-08T19:07:18Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 164,
+      "comment": "Bot: Fixing double redirect to [[2018 United States House of Representatives elections in Michigan]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Longjohn"
+}

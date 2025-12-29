@@ -1,0 +1,7138 @@
+{
+  "page_title": "Darin_LaHood",
+  "candidate_name": "Darin LaHood",
+  "collection_date": "2025-12-28T16:36:42.341770",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 589,
+    "unique_editors": 253,
+    "date_range": {
+      "start": "2011-02-28T01:59:40Z",
+      "end": "2024-12-16T01:13:40Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 416306358,
+      "parentid": 0,
+      "timestamp": "2011-02-28T01:59:40Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 638,
+      "comment": "creates new page with text (some amended) from [[Dale Risinger]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416313772,
+      "parentid": 416306358,
+      "timestamp": "2011-02-28T02:56:50Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 672,
+      "comment": "added [[Category:Illinois Republicans]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416338626,
+      "parentid": 416313772,
+      "timestamp": "2011-02-28T06:58:04Z",
+      "user": "Jack Cox",
+      "userid": 194464,
+      "size": 699,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416483030,
+      "parentid": 416338626,
+      "timestamp": "2011-03-01T01:34:11Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 890,
+      "comment": "ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416483095,
+      "parentid": 416483030,
+      "timestamp": "2011-03-01T01:34:39Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 949,
+      "comment": "title",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416483293,
+      "parentid": 416483095,
+      "timestamp": "2011-03-01T01:35:54Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 989,
+      "comment": "reuses ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416484692,
+      "parentid": 416483293,
+      "timestamp": "2011-03-01T01:45:56Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 1057,
+      "comment": "cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416484790,
+      "parentid": 416484692,
+      "timestamp": "2011-03-01T01:46:47Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 1057,
+      "comment": "alpha",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 416649667,
+      "parentid": 416484790,
+      "timestamp": "2011-03-02T00:25:31Z",
+      "user": "Studerby",
+      "userid": 1289865,
+      "size": 1087,
+      "comment": "defaultsort: only first letter is capitalized, for correct English sorting",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416700614,
+      "parentid": 416649667,
+      "timestamp": "2011-03-02T07:44:08Z",
+      "user": "Rrius",
+      "userid": 463669,
+      "size": 1159,
+      "comment": "update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416886168,
+      "parentid": 416700614,
+      "timestamp": "2011-03-03T10:09:23Z",
+      "user": "Closeapple",
+      "userid": 89053,
+      "size": 2780,
+      "comment": "expanded; still needs precise, sourced birthdate and more variety of sources",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 416993440,
+      "parentid": 416886168,
+      "timestamp": "2011-03-04T00:01:16Z",
+      "user": "Vegaswikian1",
+      "userid": 7261966,
+      "size": 2798,
+      "comment": "[[:en:WP:CLEANER|WPCleaner]] 0.99 - Repairing link to disambiguation page - [[WP:DPL|(You can help)]] - [[Las Vegas]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 425768038,
+      "parentid": 416993440,
+      "timestamp": "2011-04-25T03:46:52Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 2899,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 426276215,
+      "parentid": 425768038,
+      "timestamp": "2011-04-27T21:22:43Z",
+      "user": "GcSwRhIc",
+      "userid": 3287151,
+      "size": 2798,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Americus55|Americus55]] ([[User talk:Americus55|talk]]); Unsourced not supported by text. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 453425757,
+      "parentid": 426276215,
+      "timestamp": "2011-10-01T20:55:25Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 3032,
+      "comment": "/* External links */Adding Persondata using [[Project:AWB|AWB]] (7844)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 459069010,
+      "parentid": 453425757,
+      "timestamp": "2011-11-05T01:21:38Z",
+      "user": "Waacstats",
+      "userid": 1951353,
+      "size": 3053,
+      "comment": "Add persondata short description using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 464337777,
+      "parentid": 459069010,
+      "timestamp": "2011-12-06T04:48:58Z",
+      "user": "UnbelievableError",
+      "userid": 15812668,
+      "size": 3575,
+      "comment": "Source lineage and cat.s RM onesource template",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 464338376,
+      "parentid": 464337777,
+      "timestamp": "2011-12-06T04:55:26Z",
+      "user": "UnbelievableError",
+      "userid": 15812668,
+      "size": 3675,
+      "comment": "Add cats now ref'd",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 464338446,
+      "parentid": 464338376,
+      "timestamp": "2011-12-06T04:56:02Z",
+      "user": "UnbelievableError",
+      "userid": 15812668,
+      "size": 3676,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 464339177,
+      "parentid": 464338446,
+      "timestamp": "2011-12-06T05:02:07Z",
+      "user": "UnbelievableError",
+      "userid": 15812668,
+      "size": 3934,
+      "comment": "Add Ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 464492183,
+      "parentid": 464339177,
+      "timestamp": "2011-12-07T01:37:54Z",
+      "user": "UnbelievableError",
+      "userid": 15812668,
+      "size": 3933,
+      "comment": "punctuation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 483559798,
+      "parentid": 464492183,
+      "timestamp": "2012-03-23T17:50:01Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 3933,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 490234862,
+      "parentid": 483559798,
+      "timestamp": "2012-05-02T02:49:56Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 3960,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 504980554,
+      "parentid": 490234862,
+      "timestamp": "2012-07-30T19:31:59Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 3910,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 517970402,
+      "parentid": 504980554,
+      "timestamp": "2012-10-15T18:07:56Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3905,
+      "comment": "[[WP:CHECKWIKI]] error #61 fix and [[WP:GENFIXES|general fixes]], References after punctuation per [[WP:CITEFOOT]] and [[WP:PAIC]] using [[Project:AWB|AWB]] (8463)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 519522866,
+      "parentid": 517970402,
+      "timestamp": "2012-10-24T06:32:48Z",
+      "user": "Johnpacklambert",
+      "userid": 2308770,
+      "size": 3805,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 522436099,
+      "parentid": 519522866,
+      "timestamp": "2012-11-11T05:18:07Z",
+      "user": "MichaelCarl",
+      "userid": 1656491,
+      "size": 3762,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 522436159,
+      "parentid": 522436099,
+      "timestamp": "2012-11-11T05:18:44Z",
+      "user": "MichaelCarl",
+      "userid": 1656491,
+      "size": 3768,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 525565594,
+      "parentid": 522436159,
+      "timestamp": "2012-11-29T17:49:24Z",
+      "user": "98.223.133.112",
+      "userid": 0,
+      "size": 3895,
+      "comment": "~~~~ update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 549846691,
+      "parentid": 525565594,
+      "timestamp": "2013-04-11T14:00:26Z",
+      "user": "Katharineamy",
+      "userid": 2590656,
+      "size": 3894,
+      "comment": "removed [[Category:1960s births]]; added [[Category:1968 births]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564502878,
+      "parentid": 549846691,
+      "timestamp": "2013-07-16T13:06:09Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 4777,
+      "comment": "Added material from articel into InfoBox",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 564503136,
+      "parentid": 564502878,
+      "timestamp": "2013-07-16T13:08:24Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 4836,
+      "comment": "/* External links */ Added http://www.senatorlahood.com to the External Links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 564504456,
+      "parentid": 564503136,
+      "timestamp": "2013-07-16T13:20:15Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 4836,
+      "comment": "Corrected InfoBox to read the 37th District, not the 48th district as previously done",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 564920940,
+      "parentid": 564504456,
+      "timestamp": "2013-07-19T13:20:09Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 4871,
+      "comment": "minor fixes, mostly [[Wikipedia:Disambiguation pages with links|disambig links]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 566167735,
+      "parentid": 564920940,
+      "timestamp": "2013-07-28T16:43:25Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 4986,
+      "comment": "/* External links */ dashboard",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 566262487,
+      "parentid": 566167735,
+      "timestamp": "2013-07-29T09:41:23Z",
+      "user": "Woohookitty",
+      "userid": 159678,
+      "size": 4993,
+      "comment": "[[:en:WP:CLEANER|WPCleaner]] v1.28 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Attorney]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 573217437,
+      "parentid": 566262487,
+      "timestamp": "2013-09-16T21:49:22Z",
+      "user": "184.78.81.245",
+      "userid": 0,
+      "size": 5146,
+      "comment": "/* External links */ by session",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 581356904,
+      "parentid": 573217437,
+      "timestamp": "2013-11-12T17:20:08Z",
+      "user": "Berberisb",
+      "userid": 13220707,
+      "size": 5144,
+      "comment": "wording",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 592068312,
+      "parentid": 581356904,
+      "timestamp": "2014-01-23T20:04:54Z",
+      "user": "216.125.251.254",
+      "userid": 0,
+      "size": 5144,
+      "comment": "added former to Ray LaHood's status as sec. of trans.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 602830880,
+      "parentid": 592068312,
+      "timestamp": "2014-04-05T07:14:12Z",
+      "user": "OccultZone",
+      "userid": 19583588,
+      "size": 5163,
+      "comment": "clean up, common fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 604851760,
+      "parentid": 602830880,
+      "timestamp": "2014-04-19T08:58:06Z",
+      "user": "RjwilmsiBot",
+      "userid": 10996774,
+      "size": 5185,
+      "comment": "CiteCompletion, dates: 1,  using [[Project:AWB|AWB]] (10078)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 619541540,
+      "parentid": 604851760,
+      "timestamp": "2014-08-02T11:54:50Z",
+      "user": "Jmyhre4",
+      "userid": 21921645,
+      "size": 5185,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 637439161,
+      "parentid": 619541540,
+      "timestamp": "2014-12-10T06:50:30Z",
+      "user": "Aboutmovies",
+      "userid": 2602832,
+      "size": 5190,
+      "comment": "removed [[Category:People from Peoria, Illinois]]; added [[Category:Politicians from Peoria, Illinois]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 637441185,
+      "parentid": 637439161,
+      "timestamp": "2014-12-10T07:14:59Z",
+      "user": "Champaign Supernova",
+      "userid": 16379964,
+      "size": 5188,
+      "comment": "Better wording",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 651870597,
+      "parentid": 637441185,
+      "timestamp": "2015-03-18T02:24:13Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5224,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 654405300,
+      "parentid": 651870597,
+      "timestamp": "2015-03-31T22:00:45Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 5957,
+      "comment": "Expanded",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 654543788,
+      "parentid": 654405300,
+      "timestamp": "2015-04-01T20:48:46Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 6233,
+      "comment": "Expanded.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 657349522,
+      "parentid": 654543788,
+      "timestamp": "2015-04-20T16:43:36Z",
+      "user": "Xplorer37",
+      "userid": 15190673,
+      "size": 6497,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 657690515,
+      "parentid": 657349522,
+      "timestamp": "2015-04-21T18:14:14Z",
+      "user": "Xplorer37",
+      "userid": 15190673,
+      "size": 6475,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 657692842,
+      "parentid": 657690515,
+      "timestamp": "2015-04-21T18:18:31Z",
+      "user": "Xplorer37",
+      "userid": 15190673,
+      "size": 6491,
+      "comment": "update news item",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 658903495,
+      "parentid": 657692842,
+      "timestamp": "2015-04-23T22:04:33Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 6493,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 660071324,
+      "parentid": 658903495,
+      "timestamp": "2015-04-30T15:20:05Z",
+      "user": "98.214.33.189",
+      "userid": 0,
+      "size": 6234,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 660291468,
+      "parentid": 660071324,
+      "timestamp": "2015-05-01T18:33:46Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 6247,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 660293107,
+      "parentid": 660291468,
+      "timestamp": "2015-05-01T18:44:13Z",
+      "user": "Rcsprinter123",
+      "userid": 12557839,
+      "size": 6320,
+      "comment": "Filled in 1 bare reference(s) with [[:en:WP:REFILL|reFill]] ()",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 662342764,
+      "parentid": 660293107,
+      "timestamp": "2015-05-14T19:09:46Z",
+      "user": "206.71.215.179",
+      "userid": 0,
+      "size": 6532,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 662343704,
+      "parentid": 662342764,
+      "timestamp": "2015-05-14T19:16:33Z",
+      "user": "206.71.215.179",
+      "userid": 0,
+      "size": 6859,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 662642473,
+      "parentid": 662343704,
+      "timestamp": "2015-05-16T19:45:31Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 6857,
+      "comment": "genfixes using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 663145300,
+      "parentid": 662642473,
+      "timestamp": "2015-05-19T20:45:30Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 6859,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 666050711,
+      "parentid": 663145300,
+      "timestamp": "2015-06-08T15:41:50Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 6872,
+      "comment": "Bare urls.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 666053264,
+      "parentid": 666050711,
+      "timestamp": "2015-06-08T16:02:48Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 6887,
+      "comment": "Dating maintenance tags: {{Bareurls}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 666683016,
+      "parentid": 666053264,
+      "timestamp": "2015-06-12T22:04:25Z",
+      "user": "Derek R Bullamore",
+      "userid": 698799,
+      "size": 7311,
+      "comment": "Filling in 2 references using [[WP:REFLINKS|Reflinks]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 670461635,
+      "parentid": 666683016,
+      "timestamp": "2015-07-08T03:05:21Z",
+      "user": "98.227.16.103",
+      "userid": 0,
+      "size": 7302,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 670461665,
+      "parentid": 670461635,
+      "timestamp": "2015-07-08T03:05:44Z",
+      "user": "98.227.16.103",
+      "userid": 0,
+      "size": 7301,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 670461700,
+      "parentid": 670461665,
+      "timestamp": "2015-07-08T03:06:13Z",
+      "user": "98.227.16.103",
+      "userid": 0,
+      "size": 7299,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 670757803,
+      "parentid": 670461700,
+      "timestamp": "2015-07-10T00:57:51Z",
+      "user": "98.215.96.24",
+      "userid": 0,
+      "size": 6903,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 671742606,
+      "parentid": 670757803,
+      "timestamp": "2015-07-16T18:14:47Z",
+      "user": "Closeapple",
+      "userid": 89053,
+      "size": 6952,
+      "comment": "tagged 2015 election results for source and update-after",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 672076986,
+      "parentid": 671742606,
+      "timestamp": "2015-07-19T03:05:04Z",
+      "user": "98.214.33.189",
+      "userid": 0,
+      "size": 6168,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 672077143,
+      "parentid": 672076986,
+      "timestamp": "2015-07-19T03:06:44Z",
+      "user": "JJMC89",
+      "userid": 24812038,
+      "size": 6952,
+      "comment": "Reverted edits by [[Special:Contributions/98.214.33.189|98.214.33.189]] ([[User talk:98.214.33.189|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.1.14)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 672162833,
+      "parentid": 672077143,
+      "timestamp": "2015-07-19T18:41:00Z",
+      "user": "98.214.33.189",
+      "userid": 0,
+      "size": 6154,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 672166126,
+      "parentid": 672162833,
+      "timestamp": "2015-07-19T19:09:04Z",
+      "user": "Closeapple",
+      "userid": 89053,
+      "size": 6952,
+      "comment": "Undid revision 672162833 by [[Special:Contributions/98.214.33.189|98.214.33.189]] ([[User talk:98.214.33.189|talk]]): unexplained removal of citation for LaHood being a prosecutor in Nevada - probably [[WP:COI]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 672684582,
+      "parentid": 672166126,
+      "timestamp": "2015-07-23T05:06:32Z",
+      "user": "LtNOWIS",
+      "userid": 120856,
+      "size": 7212,
+      "comment": "cite special primary victory",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 676780500,
+      "parentid": 672684582,
+      "timestamp": "2015-08-19T03:20:32Z",
+      "user": "Packerfansam",
+      "userid": 2899281,
+      "size": 7212,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 678088670,
+      "parentid": 676780500,
+      "timestamp": "2015-08-27T09:29:20Z",
+      "user": "86.135.119.47",
+      "userid": 0,
+      "size": 7205,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680474135,
+      "parentid": 678088670,
+      "timestamp": "2015-09-11T02:09:08Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 7879,
+      "comment": "Update with results, copyedit",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680474226,
+      "parentid": 680474135,
+      "timestamp": "2015-09-11T02:10:02Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 7911,
+      "comment": "fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680474243,
+      "parentid": 680474226,
+      "timestamp": "2015-09-11T02:10:14Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 7912,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680488928,
+      "parentid": 680474243,
+      "timestamp": "2015-09-11T04:45:38Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 7886,
+      "comment": "I updated it",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680523240,
+      "parentid": 680488928,
+      "timestamp": "2015-09-11T11:53:50Z",
+      "user": "128.119.28.75",
+      "userid": 0,
+      "size": 7863,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680561784,
+      "parentid": 680523240,
+      "timestamp": "2015-09-11T17:22:52Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 7877,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680568691,
+      "parentid": 680561784,
+      "timestamp": "2015-09-11T18:19:22Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 7875,
+      "comment": "It's past September 8, he has said he's taking office next week though, so I've changed it to just September 2015",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680574460,
+      "parentid": 680568691,
+      "timestamp": "2015-09-11T19:10:35Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 7877,
+      "comment": "His term starts on the date of the election, unless he's ineligible.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680574485,
+      "parentid": 680574460,
+      "timestamp": "2015-09-11T19:10:47Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 7891,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 680574758,
+      "parentid": 680574485,
+      "timestamp": "2015-09-11T19:13:10Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8038,
+      "comment": "/* External links */  {{USRepSuccessionBox}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680575141,
+      "parentid": 680574758,
+      "timestamp": "2015-09-11T19:16:26Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8330,
+      "comment": "/* External links */ {{s-prec|usa}} {{IL-FedRep}} {{USHouseCurrent}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680589258,
+      "parentid": 680575141,
+      "timestamp": "2015-09-11T21:05:25Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 8409,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680589579,
+      "parentid": 680589258,
+      "timestamp": "2015-09-11T21:08:20Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 8516,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680596020,
+      "parentid": 680589579,
+      "timestamp": "2015-09-11T22:05:10Z",
+      "user": "Attaboy",
+      "userid": 6068355,
+      "size": 8516,
+      "comment": "/* top */ Made wikilink for Darin's US Rep position, instead of Ray's",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680606656,
+      "parentid": 680596020,
+      "timestamp": "2015-09-12T00:00:58Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8601,
+      "comment": "Service begins on election day",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 680606924,
+      "parentid": 680606656,
+      "timestamp": "2015-09-12T00:03:26Z",
+      "user": "174.103.210.44",
+      "userid": 0,
+      "size": 8626,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680607276,
+      "parentid": 680606924,
+      "timestamp": "2015-09-12T00:07:12Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8643,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680607323,
+      "parentid": 680607276,
+      "timestamp": "2015-09-12T00:07:42Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8648,
+      "comment": "/* References */ {{Reflist|30em}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680607387,
+      "parentid": 680607323,
+      "timestamp": "2015-09-12T00:08:21Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8699,
+      "comment": "/* top */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680620300,
+      "parentid": 680607387,
+      "timestamp": "2015-09-12T02:24:13Z",
+      "user": "ALPolitico",
+      "userid": 20461514,
+      "size": 8700,
+      "comment": "LaHood can't take office two days before the election. Swearing-in date is 09-17-15.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 680622283,
+      "parentid": 680620300,
+      "timestamp": "2015-09-12T02:42:49Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8701,
+      "comment": "Corrected to Election Day, 9/10",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680623789,
+      "parentid": 680622283,
+      "timestamp": "2015-09-12T02:56:48Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 8700,
+      "comment": "He hasn't taken office yet, he will next week. He has to resign first from the Illinois State Senate.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680670271,
+      "parentid": 680623789,
+      "timestamp": "2015-09-12T12:18:24Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8701,
+      "comment": "Legally, he does not need to resign from state senate. He becomes a us rep when elected.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680681326,
+      "parentid": 680670271,
+      "timestamp": "2015-09-12T13:54:11Z",
+      "user": "Attaboy",
+      "userid": 6068355,
+      "size": 8673,
+      "comment": "I guessed that he would take office on Monday.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680693255,
+      "parentid": 680681326,
+      "timestamp": "2015-09-12T15:36:18Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 8701,
+      "comment": "Service begins election day, see [[Talk:Darin LaHood|talk page]].",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680694309,
+      "parentid": 680693255,
+      "timestamp": "2015-09-12T15:45:19Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 8715,
+      "comment": "which state he served",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680735657,
+      "parentid": 680694309,
+      "timestamp": "2015-09-12T20:59:44Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 8789,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680738253,
+      "parentid": 680735657,
+      "timestamp": "2015-09-12T21:18:29Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 10014,
+      "comment": "Expanded with information on his early life, colleges, etc.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680738439,
+      "parentid": 680738253,
+      "timestamp": "2015-09-12T21:19:50Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 10048,
+      "comment": "/* Political career */ added publisher's first and last name",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680836423,
+      "parentid": 680738439,
+      "timestamp": "2015-09-13T13:41:25Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 10084,
+      "comment": "/* Early life */ I accidentally linked to a disambig",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 680999912,
+      "parentid": 680836423,
+      "timestamp": "2015-09-14T15:21:12Z",
+      "user": "Islandersa",
+      "userid": 2287991,
+      "size": 10050,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681000065,
+      "parentid": 680999912,
+      "timestamp": "2015-09-14T15:22:28Z",
+      "user": "143.231.249.141",
+      "userid": 0,
+      "size": 10232,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681000224,
+      "parentid": 681000065,
+      "timestamp": "2015-09-14T15:23:41Z",
+      "user": "143.231.249.141",
+      "userid": 0,
+      "size": 10238,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681090683,
+      "parentid": 681000224,
+      "timestamp": "2015-09-15T03:37:42Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 10221,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681094646,
+      "parentid": 681090683,
+      "timestamp": "2015-09-15T04:23:44Z",
+      "user": "Leopardpaw",
+      "userid": 26261875,
+      "size": 10226,
+      "comment": "/* Personal life */Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 681096883,
+      "parentid": 681094646,
+      "timestamp": "2015-09-15T04:46:56Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 10210,
+      "comment": "/* Personal life */ So we won't have to constantly update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681097457,
+      "parentid": 681096883,
+      "timestamp": "2015-09-15T04:52:27Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 10209,
+      "comment": "[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11450)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 681346182,
+      "parentid": 681097457,
+      "timestamp": "2015-09-16T17:53:13Z",
+      "user": "143.231.249.138",
+      "userid": 0,
+      "size": 10209,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681505063,
+      "parentid": 681346182,
+      "timestamp": "2015-09-17T16:37:30Z",
+      "user": "2602:30A:C0C6:890:69DD:9999:C079:DAAB",
+      "userid": 0,
+      "size": 10213,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681505401,
+      "parentid": 681505063,
+      "timestamp": "2015-09-17T16:39:24Z",
+      "user": "2602:30A:C0C6:890:69DD:9999:C079:DAAB",
+      "userid": 0,
+      "size": 10257,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681510995,
+      "parentid": 681505401,
+      "timestamp": "2015-09-17T17:12:48Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 10615,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681576477,
+      "parentid": 681510995,
+      "timestamp": "2015-09-18T02:25:56Z",
+      "user": "174.103.210.44",
+      "userid": 0,
+      "size": 10615,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681590485,
+      "parentid": 681576477,
+      "timestamp": "2015-09-18T04:44:28Z",
+      "user": "SuperCarnivore591",
+      "userid": 25505126,
+      "size": 10608,
+      "comment": "/* Political career */ ce",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681624896,
+      "parentid": 681590485,
+      "timestamp": "2015-09-18T11:36:10Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 10768,
+      "comment": "Terms for specially-elected members begins when elected, not swearing in.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681631970,
+      "parentid": 681624896,
+      "timestamp": "2015-09-18T12:54:22Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 10808,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681632035,
+      "parentid": 681631970,
+      "timestamp": "2015-09-18T12:54:52Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 10808,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681635509,
+      "parentid": 681632035,
+      "timestamp": "2015-09-18T13:27:54Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 10770,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681653791,
+      "parentid": 681635509,
+      "timestamp": "2015-09-18T16:05:31Z",
+      "user": "143.231.249.141",
+      "userid": 0,
+      "size": 11180,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681661513,
+      "parentid": 681653791,
+      "timestamp": "2015-09-18T17:08:51Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 11208,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681671988,
+      "parentid": 681661513,
+      "timestamp": "2015-09-18T18:32:34Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 11215,
+      "comment": "Every other member of the House has it styled like this. Stop changing it.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 681691314,
+      "parentid": 681671988,
+      "timestamp": "2015-09-18T21:14:26Z",
+      "user": "Springfielder1967",
+      "userid": 26284440,
+      "size": 11249,
+      "comment": "Added detail about swearing in",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 681735134,
+      "parentid": 681691314,
+      "timestamp": "2015-09-19T05:01:09Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 11250,
+      "comment": "[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11550)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 681924866,
+      "parentid": 681735134,
+      "timestamp": "2015-09-20T12:18:58Z",
+      "user": "Islandersa",
+      "userid": 2287991,
+      "size": 11250,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 682808007,
+      "parentid": 681924866,
+      "timestamp": "2015-09-26T05:28:42Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 10998,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 682808048,
+      "parentid": 682808007,
+      "timestamp": "2015-09-26T05:29:23Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 10999,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683313388,
+      "parentid": 682808048,
+      "timestamp": "2015-09-29T14:35:05Z",
+      "user": "50.206.60.51",
+      "userid": 0,
+      "size": 11001,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683314176,
+      "parentid": 683313388,
+      "timestamp": "2015-09-29T14:41:54Z",
+      "user": "50.206.60.51",
+      "userid": 0,
+      "size": 11005,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 683314491,
+      "parentid": 683314176,
+      "timestamp": "2015-09-29T14:44:40Z",
+      "user": "50.206.60.51",
+      "userid": 0,
+      "size": 11100,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683314730,
+      "parentid": 683314491,
+      "timestamp": "2015-09-29T14:47:25Z",
+      "user": "50.206.60.51",
+      "userid": 0,
+      "size": 11002,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683315141,
+      "parentid": 683314730,
+      "timestamp": "2015-09-29T14:50:58Z",
+      "user": "Gilliam",
+      "userid": 506179,
+      "size": 10999,
+      "comment": "Reverted edits by [[Special:Contribs/50.206.60.51|50.206.60.51]] ([[User talk:50.206.60.51|talk]]) to last version by Americus55",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 684353597,
+      "parentid": 683315141,
+      "timestamp": "2015-10-06T03:09:12Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 11012,
+      "comment": "Added his successor Chuck Weaver",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 685344508,
+      "parentid": 684353597,
+      "timestamp": "2015-10-12T09:21:47Z",
+      "user": "Daffy123",
+      "userid": 11806964,
+      "size": 11029,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 685363129,
+      "parentid": 685344508,
+      "timestamp": "2015-10-12T12:24:52Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 11029,
+      "comment": "terms for specially-elected members begins when elected, not swearing in.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 685755008,
+      "parentid": 685363129,
+      "timestamp": "2015-10-14T19:57:02Z",
+      "user": "173.69.179.8",
+      "userid": 0,
+      "size": 11029,
+      "comment": "Fix typo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 689493792,
+      "parentid": 685755008,
+      "timestamp": "2015-11-07T15:21:30Z",
+      "user": "Dominik1509",
+      "userid": 19171681,
+      "size": 11058,
+      "comment": "New photo.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 690021144,
+      "parentid": 689493792,
+      "timestamp": "2015-11-10T20:33:34Z",
+      "user": "Jimcrone",
+      "userid": 1335619,
+      "size": 10529,
+      "comment": "Updated attorney career info",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 690054426,
+      "parentid": 690021144,
+      "timestamp": "2015-11-11T00:39:44Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 10534,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 690313569,
+      "parentid": 690054426,
+      "timestamp": "2015-11-12T16:27:58Z",
+      "user": "2602:30A:C0C6:890:44D6:DB30:BF23:D165",
+      "userid": 0,
+      "size": 10541,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 690396660,
+      "parentid": 690313569,
+      "timestamp": "2015-11-13T02:27:31Z",
+      "user": "Itzdantheman",
+      "userid": 26323229,
+      "size": 10541,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 690818307,
+      "parentid": 690396660,
+      "timestamp": "2015-11-15T21:55:45Z",
+      "user": "Closeapple",
+      "userid": 89053,
+      "size": 11059,
+      "comment": "Undid revision 690021144 by [[Special:Contributions/Jimcrone|Jimcrone]] ([[User talk:Jimcrone|talk]]) - \"update\" was just removal of sourced content - when restoring, I've changed \"earned\" to \"had problems with\" to make it less opinionated",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 694361646,
+      "parentid": 690818307,
+      "timestamp": "2015-12-08T20:04:39Z",
+      "user": "Tedwashington114",
+      "userid": 26764266,
+      "size": 10541,
+      "comment": "minor change",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 694642870,
+      "parentid": 694361646,
+      "timestamp": "2015-12-10T15:46:48Z",
+      "user": "98.201.86.196",
+      "userid": 0,
+      "size": 10412,
+      "comment": "/* Political career */ removed redundant and incorrect statement.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 694724351,
+      "parentid": 694642870,
+      "timestamp": "2015-12-11T03:33:16Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 10505,
+      "comment": "clarify",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 694724547,
+      "parentid": 694724351,
+      "timestamp": "2015-12-11T03:35:43Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 10461,
+      "comment": "oops",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 695112860,
+      "parentid": 694724547,
+      "timestamp": "2015-12-13T21:38:01Z",
+      "user": "69.245.201.184",
+      "userid": 0,
+      "size": 10464,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 700549287,
+      "parentid": 695112860,
+      "timestamp": "2016-01-19T04:25:36Z",
+      "user": "24.186.96.236",
+      "userid": 0,
+      "size": 10433,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 706937262,
+      "parentid": 700549287,
+      "timestamp": "2016-02-26T03:21:44Z",
+      "user": "Rockhead126",
+      "userid": 9757211,
+      "size": 10436,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 711824746,
+      "parentid": 706937262,
+      "timestamp": "2016-03-25T03:32:38Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 10491,
+      "comment": "/* External links */ Added [[Category:John Marshall Law School (Chicago) alumni]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 712327510,
+      "parentid": 711824746,
+      "timestamp": "2016-03-28T13:10:14Z",
+      "user": "Cyberbot II",
+      "userid": 16283967,
+      "size": 10585,
+      "comment": "Rescuing 1 sources. #IABot",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 715911753,
+      "parentid": 712327510,
+      "timestamp": "2016-04-18T18:09:01Z",
+      "user": "Lekoren",
+      "userid": 18024075,
+      "size": 10633,
+      "comment": "Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 719669642,
+      "parentid": 715911753,
+      "timestamp": "2016-05-11T02:22:36Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 10354,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Darin LaHood|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 722151307,
+      "parentid": 719669642,
+      "timestamp": "2016-05-26T08:52:07Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 10306,
+      "comment": "Robot - Removing category Republican Main Street Partnership per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 April 18]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 723205730,
+      "parentid": 722151307,
+      "timestamp": "2016-06-01T17:25:44Z",
+      "user": "Tedwashington114",
+      "userid": 26764266,
+      "size": 11773,
+      "comment": "Added information pertaining to term in Congress including committee assignments and legislation introduced.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 724414569,
+      "parentid": 723205730,
+      "timestamp": "2016-06-09T03:22:35Z",
+      "user": "98.222.91.26",
+      "userid": 0,
+      "size": 11773,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 724414624,
+      "parentid": 724414569,
+      "timestamp": "2016-06-09T03:23:16Z",
+      "user": "98.222.91.26",
+      "userid": 0,
+      "size": 11772,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 724471223,
+      "parentid": 724414624,
+      "timestamp": "2016-06-09T13:24:23Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 11772,
+      "comment": "/* US Congress */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (12020)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724623433,
+      "parentid": 724471223,
+      "timestamp": "2016-06-10T12:34:18Z",
+      "user": "GoldRingChip",
+      "userid": 195596,
+      "size": 11772,
+      "comment": "Terms for specially-elected members begins when elected, not swearing in",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724777369,
+      "parentid": 724623433,
+      "timestamp": "2016-06-11T12:09:13Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 11827,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 724777404,
+      "parentid": 724777369,
+      "timestamp": "2016-06-11T12:09:38Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 11826,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 726722696,
+      "parentid": 724777404,
+      "timestamp": "2016-06-23T23:18:22Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 11803,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727210981,
+      "parentid": 726722696,
+      "timestamp": "2016-06-27T12:29:41Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 11947,
+      "comment": "/* External links */ expaned conglinks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 727212331,
+      "parentid": 727210981,
+      "timestamp": "2016-06-27T12:45:09Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 11821,
+      "comment": "/* Political career */ now not significant",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 730392614,
+      "parentid": 727212331,
+      "timestamp": "2016-07-18T19:10:12Z",
+      "user": "69.58.42.90",
+      "userid": 0,
+      "size": 11842,
+      "comment": "Illinois General Assembly, Ilga.gov",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 730723145,
+      "parentid": 730392614,
+      "timestamp": "2016-07-20T20:27:56Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 11842,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 731462504,
+      "parentid": 730723145,
+      "timestamp": "2016-07-25T14:38:56Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 11976,
+      "comment": "Reorganization.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 739556843,
+      "parentid": 731462504,
+      "timestamp": "2016-09-15T11:29:45Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 11976,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 741504816,
+      "parentid": 739556843,
+      "timestamp": "2016-09-27T22:41:35Z",
+      "user": "2601:248:8101:C140:4538:81C5:FE41:95C4",
+      "userid": 0,
+      "size": 11978,
+      "comment": "/* Early life */Fixed the name for ya",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 741529660,
+      "parentid": 741504816,
+      "timestamp": "2016-09-28T02:31:48Z",
+      "user": "Closeapple",
+      "userid": 89053,
+      "size": 11976,
+      "comment": "Undid revision 741504816 by [[Special:Contributions/2601:248:8101:C140:4538:81C5:FE41:95C4|2601:248:8101:C140:4538:81C5:FE41:95C4]] ([[User talk:2601:248:8101:C140:4538:81C5:FE41:95C4|talk]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 748744941,
+      "parentid": 741529660,
+      "timestamp": "2016-11-10T03:18:05Z",
+      "user": "Theyseemewhalin",
+      "userid": 29363813,
+      "size": 12129,
+      "comment": "Added 2016 election results",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 748761973,
+      "parentid": 748744941,
+      "timestamp": "2016-11-10T06:18:08Z",
+      "user": "Closeapple",
+      "userid": 89053,
+      "size": 12478,
+      "comment": "removed unsourced claim of middle name; {{cns}} on birthdate; citation on 2016 election",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 749910619,
+      "parentid": 748761973,
+      "timestamp": "2016-11-16T20:35:39Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 12478,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 751993087,
+      "parentid": 749910619,
+      "timestamp": "2016-11-28T22:23:32Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 12525,
+      "comment": "added [[Category:21st-century American politicians]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753351863,
+      "parentid": 751993087,
+      "timestamp": "2016-12-06T17:46:37Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 12574,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 753385701,
+      "parentid": 753351863,
+      "timestamp": "2016-12-06T21:16:42Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 13062,
+      "comment": "Rescuing 3 sources and tagging 0 as dead. #IABot (v1.2.7.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 754330952,
+      "parentid": 753385701,
+      "timestamp": "2016-12-12T02:25:24Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 13070,
+      "comment": "fix template using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 758611045,
+      "parentid": 754330952,
+      "timestamp": "2017-01-06T14:00:56Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 13070,
+      "comment": "[[Biographical Directory of the United States Congress]] profile confirms LaHood was born in 1968, but does not give the specific date.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 758917599,
+      "parentid": 758611045,
+      "timestamp": "2017-01-08T06:49:33Z",
+      "user": "Zbase4",
+      "userid": 11971770,
+      "size": 13070,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 759221133,
+      "parentid": 758917599,
+      "timestamp": "2017-01-09T22:33:51Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 13203,
+      "comment": "/* Political career */ Reorganization and other minor improvements.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759221251,
+      "parentid": 759221133,
+      "timestamp": "2017-01-09T22:34:43Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 13204,
+      "comment": "/* 2016 election */ Typo.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 759223030,
+      "parentid": 759221251,
+      "timestamp": "2017-01-09T22:48:01Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 13198,
+      "comment": "\"to be\" is unnecessary.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 759385552,
+      "parentid": 759223030,
+      "timestamp": "2017-01-10T21:21:26Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 13118,
+      "comment": "/* 2016 election */ Add official results.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 759888271,
+      "parentid": 759385552,
+      "timestamp": "2017-01-13T18:29:31Z",
+      "user": "CommonsDelinker",
+      "userid": 2304267,
+      "size": 13072,
+      "comment": "Removing \"Darin_LaHood_official_congressional_photo.jpg\", it has been deleted from Commons by [[commons:User:Christian Ferrer|Christian Ferrer]] because: source provided is facebook, there are no information about the photographers, no evidences the photo",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 760128688,
+      "parentid": 759888271,
+      "timestamp": "2017-01-15T03:45:39Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 13107,
+      "comment": "image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 760446126,
+      "parentid": 760128688,
+      "timestamp": "2017-01-17T01:12:52Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 12813,
+      "comment": "rv deprecated and unnecessary infobox parameters; category added",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 760446375,
+      "parentid": 760446126,
+      "timestamp": "2017-01-17T01:15:11Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 12737,
+      "comment": "/* Political career */ c/e",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 760448465,
+      "parentid": 760446375,
+      "timestamp": "2017-01-17T01:35:13Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 12755,
+      "comment": "Dating maintenance tags: {{Clarify}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 764127342,
+      "parentid": 760448465,
+      "timestamp": "2017-02-07T06:13:50Z",
+      "user": "The Man in Question",
+      "userid": 835170,
+      "size": 12785,
+      "comment": "pronunciation in IPA",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 767292728,
+      "parentid": 764127342,
+      "timestamp": "2017-02-25T01:39:25Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12871,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767292791,
+      "parentid": 767292728,
+      "timestamp": "2017-02-25T01:39:56Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12957,
+      "comment": "Fixed typo; Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767292846,
+      "parentid": 767292791,
+      "timestamp": "2017-02-25T01:40:20Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 13043,
+      "comment": "Fixed grammar; Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767292970,
+      "parentid": 767292846,
+      "timestamp": "2017-02-25T01:41:20Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 13129,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293016,
+      "parentid": 767292970,
+      "timestamp": "2017-02-25T01:41:40Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 13215,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293055,
+      "parentid": 767293016,
+      "timestamp": "2017-02-25T01:41:58Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 13301,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293094,
+      "parentid": 767293055,
+      "timestamp": "2017-02-25T01:42:17Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 13387,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293170,
+      "parentid": 767293094,
+      "timestamp": "2017-02-25T01:42:48Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 13473,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293188,
+      "parentid": 767293170,
+      "timestamp": "2017-02-25T01:42:53Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 12785,
+      "comment": "Reverted 8 edits by [[Special:Contributions/2602:306:8BB2:A220:68E9:BC33:3C03:97C1|2602:306:8BB2:A220:68E9:BC33:3C03:97C1]] ([[User talk:2602:306:8BB2:A220:68E9:BC33:3C03:97C1|talk]]) to last revision by The Man in Question. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 767293250,
+      "parentid": 767293188,
+      "timestamp": "2017-02-25T01:43:21Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12871,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293377,
+      "parentid": 767293250,
+      "timestamp": "2017-02-25T01:44:14Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12957,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293444,
+      "parentid": 767293377,
+      "timestamp": "2017-02-25T01:44:45Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 13043,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767293548,
+      "parentid": 767293444,
+      "timestamp": "2017-02-25T01:45:41Z",
+      "user": "Rileythetom8o",
+      "userid": 30152266,
+      "size": 12785,
+      "comment": "Reverted edits by [[Special:Contributions/2602:306:8BB2:A220:68E9:BC33:3C03:97C1|2602:306:8BB2:A220:68E9:BC33:3C03:97C1]] ([[User talk:2602:306:8BB2:A220:68E9:BC33:3C03:97C1|talk]]) ([[WP:HG|HG]]) (3.1.22)",
+      "minor": true,
+      "tags": [
+        "huggle"
+      ]
+    },
+    {
+      "revid": 767293824,
+      "parentid": 767293548,
+      "timestamp": "2017-02-25T01:48:07Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12871,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767294167,
+      "parentid": 767293824,
+      "timestamp": "2017-02-25T01:51:01Z",
+      "user": "Rileythetom8o",
+      "userid": 30152266,
+      "size": 12785,
+      "comment": "Reverted edits by [[Special:Contributions/2602:306:8BB2:A220:68E9:BC33:3C03:97C1|2602:306:8BB2:A220:68E9:BC33:3C03:97C1]] ([[User talk:2602:306:8BB2:A220:68E9:BC33:3C03:97C1|talk]]) ([[WP:HG|HG]]) (3.1.22)",
+      "minor": true,
+      "tags": [
+        "huggle"
+      ]
+    },
+    {
+      "revid": 767294363,
+      "parentid": 767294167,
+      "timestamp": "2017-02-25T01:52:43Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12871,
+      "comment": "Typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 767294472,
+      "parentid": 767294363,
+      "timestamp": "2017-02-25T01:53:36Z",
+      "user": "Wtmitchell",
+      "userid": 136745,
+      "size": 12785,
+      "comment": "Reverted edits by [[Special:Contributions/2602:306:8BB2:A220:68E9:BC33:3C03:97C1|2602:306:8BB2:A220:68E9:BC33:3C03:97C1]] ([[User talk:2602:306:8BB2:A220:68E9:BC33:3C03:97C1|talk]]) ([[WP:HG|HG]]) (3.1.21)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 767372316,
+      "parentid": 767294472,
+      "timestamp": "2017-02-25T14:15:25Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12871,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767372492,
+      "parentid": 767372316,
+      "timestamp": "2017-02-25T14:17:06Z",
+      "user": "2602:306:8BB2:A220:68E9:BC33:3C03:97C1",
+      "userid": 0,
+      "size": 12957,
+      "comment": "Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 767372582,
+      "parentid": 767372492,
+      "timestamp": "2017-02-25T14:17:52Z",
+      "user": "Happysailor",
+      "userid": 4287536,
+      "size": 12785,
+      "comment": "Reverted edits by [[Special:Contributions/2602:306:8BB2:A220:68E9:BC33:3C03:97C1|2602:306:8BB2:A220:68E9:BC33:3C03:97C1]] ([[User talk:2602:306:8BB2:A220:68E9:BC33:3C03:97C1|talk]]) ([[WP:HG|HG]]) (3.1.22)",
+      "minor": true,
+      "tags": [
+        "huggle"
+      ]
+    },
+    {
+      "revid": 767374822,
+      "parentid": 767372582,
+      "timestamp": "2017-02-25T14:39:06Z",
+      "user": "Edgar181",
+      "userid": 491706,
+      "size": 12785,
+      "comment": "Protected \"[[Darin LaHood]]\": Persistent [[WP:Disruptive editing|disruptive editing]]: IP-hopping editor targeting multiple articles ([Edit=Require autoconfirmed or confirmed access] (expires 14:39, 28 February 2017 (UTC)) [Move=Require autoconfirmed o...",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 767375043,
+      "parentid": 767374822,
+      "timestamp": "2017-02-25T14:41:23Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 12535,
+      "comment": "rv deprecated external links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 767517397,
+      "parentid": 767375043,
+      "timestamp": "2017-02-26T11:15:37Z",
+      "user": "TheMagikBOT",
+      "userid": 24649005,
+      "size": 12553,
+      "comment": "Added page protection template where none existed",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 767939822,
+      "parentid": 767517397,
+      "timestamp": "2017-02-28T20:58:14Z",
+      "user": "Illinois18voter",
+      "userid": 30454634,
+      "size": 14749,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 767940477,
+      "parentid": 767939822,
+      "timestamp": "2017-02-28T21:02:21Z",
+      "user": "MusikBot",
+      "userid": 24684472,
+      "size": 14733,
+      "comment": "Removing protection templates from unprotected page",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 767955204,
+      "parentid": 767940477,
+      "timestamp": "2017-02-28T22:43:33Z",
+      "user": "143.231.249.137",
+      "userid": 0,
+      "size": 15224,
+      "comment": "Expanded the quotation used in the article to reflect the whole comments",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 767956341,
+      "parentid": 767955204,
+      "timestamp": "2017-02-28T22:53:03Z",
+      "user": "160.84.253.235",
+      "userid": 0,
+      "size": 14991,
+      "comment": "Wording went beyond information in the referenced source. Cut back to reflect language and information in the reference",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 768168556,
+      "parentid": 767956341,
+      "timestamp": "2017-03-02T05:46:03Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 15011,
+      "comment": "updated",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 769422940,
+      "parentid": 768168556,
+      "timestamp": "2017-03-09T12:57:27Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 15011,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 769800380,
+      "parentid": 769422940,
+      "timestamp": "2017-03-11T18:38:22Z",
+      "user": "97.83.155.120",
+      "userid": 0,
+      "size": 14966,
+      "comment": "makes cense! :)",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 769804773,
+      "parentid": 769800380,
+      "timestamp": "2017-03-11T19:09:09Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 15011,
+      "comment": "Reverted 1 edit by [[Special:Contributions/97.83.155.120|97.83.155.120]] ([[User talk:97.83.155.120|talk]]) to last revision by Pvmoutside. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 770781304,
+      "parentid": 769804773,
+      "timestamp": "2017-03-17T15:05:04Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 15120,
+      "comment": "/* External links */ added conglinks",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 775160345,
+      "parentid": 770781304,
+      "timestamp": "2017-04-13T01:51:57Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 15017,
+      "comment": "Reformat 1 archive link. [[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 777513859,
+      "parentid": 775160345,
+      "timestamp": "2017-04-27T16:35:04Z",
+      "user": "2602:306:8BB2:A220:155A:C4A9:530A:5D02",
+      "userid": 0,
+      "size": 15054,
+      "comment": "Added links; added info",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 777514001,
+      "parentid": 777513859,
+      "timestamp": "2017-04-27T16:36:10Z",
+      "user": "Oshwah",
+      "userid": 3174456,
+      "size": 15017,
+      "comment": "Reverted edits by [[Special:Contributions/2602:306:8BB2:A220:155A:C4A9:530A:5D02|2602:306:8BB2:A220:155A:C4A9:530A:5D02]] ([[User talk:2602:306:8BB2:A220:155A:C4A9:530A:5D02|talk]]) ([[WP:HG|HG]]) (3.1.22)",
+      "minor": true,
+      "tags": [
+        "huggle"
+      ]
+    },
+    {
+      "revid": 778855815,
+      "parentid": 777514001,
+      "timestamp": "2017-05-05T16:01:44Z",
+      "user": "2602:306:8BB2:A220:B4F6:C76C:A93F:9A59",
+      "userid": 0,
+      "size": 15208,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 778856010,
+      "parentid": 778855815,
+      "timestamp": "2017-05-05T16:02:59Z",
+      "user": "Jdcomix",
+      "userid": 24170287,
+      "size": 15017,
+      "comment": "Reverted edits by [[Special:Contribs/2602:306:8BB2:A220:B4F6:C76C:A93F:9A59|2602:306:8BB2:A220:B4F6:C76C:A93F:9A59]] ([[User talk:2602:306:8BB2:A220:B4F6:C76C:A93F:9A59|talk]]) to last version by Oshwah",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 779708662,
+      "parentid": 778856010,
+      "timestamp": "2017-05-10T14:25:36Z",
+      "user": "173.249.74.106",
+      "userid": 0,
+      "size": 15242,
+      "comment": "Fun fact about Darin",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 779708737,
+      "parentid": 779708662,
+      "timestamp": "2017-05-10T14:26:08Z",
+      "user": "Edgar181",
+      "userid": 491706,
+      "size": 15017,
+      "comment": "Reverted edits by [[Special:Contribs/173.249.74.106|173.249.74.106]] ([[User talk:173.249.74.106|talk]]) to last version by Jdcomix",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 779887535,
+      "parentid": 779708737,
+      "timestamp": "2017-05-11T16:54:39Z",
+      "user": "Williamelyse",
+      "userid": 31066039,
+      "size": 14963,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 779900184,
+      "parentid": 779887535,
+      "timestamp": "2017-05-11T18:24:02Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 15017,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Williamelyse|Williamelyse]] ([[User talk:Williamelyse|talk]]): Unsure why officla portrait was removed - reverting ans asking editor. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 780775217,
+      "parentid": 779900184,
+      "timestamp": "2017-05-17T03:38:28Z",
+      "user": "Snickers2686",
+      "userid": 18685638,
+      "size": 15041,
+      "comment": "Updating infobox",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785880458,
+      "parentid": 780775217,
+      "timestamp": "2017-06-15T23:11:15Z",
+      "user": "Tdl1060",
+      "userid": 646386,
+      "size": 15038,
+      "comment": "/* Tenure */ Corrected spacing.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 786182458,
+      "parentid": 785880458,
+      "timestamp": "2017-06-17T20:23:00Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 15162,
+      "comment": "ref",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 786182485,
+      "parentid": 786182458,
+      "timestamp": "2017-06-17T20:23:12Z",
+      "user": "Kingofthedead",
+      "userid": 24524350,
+      "size": 15158,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 787043572,
+      "parentid": 786182485,
+      "timestamp": "2017-06-23T02:43:11Z",
+      "user": "2602:306:8BB2:A220:4118:4B3B:216:28C",
+      "userid": 0,
+      "size": 15257,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 787043641,
+      "parentid": 787043572,
+      "timestamp": "2017-06-23T02:43:41Z",
+      "user": "2602:306:8BB2:A220:4118:4B3B:216:28C",
+      "userid": 0,
+      "size": 10834,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 787043668,
+      "parentid": 787043641,
+      "timestamp": "2017-06-23T02:43:57Z",
+      "user": "2602:306:8BB2:A220:4118:4B3B:216:28C",
+      "userid": 0,
+      "size": 10935,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 787043730,
+      "parentid": 787043668,
+      "timestamp": "2017-06-23T02:44:34Z",
+      "user": "NewEnglandYankee",
+      "userid": 2691489,
+      "size": 15158,
+      "comment": "Reverted edits by [[Special:Contribs/2602:306:8BB2:A220:4118:4B3B:216:28C|2602:306:8BB2:A220:4118:4B3B:216:28C]] ([[User talk:2602:306:8BB2:A220:4118:4B3B:216:28C|talk]]) to last version by MB298",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 787044060,
+      "parentid": 787043730,
+      "timestamp": "2017-06-23T02:47:25Z",
+      "user": "2602:306:8BB2:A220:4118:4B3B:216:28C",
+      "userid": 0,
+      "size": 10967,
+      "comment": "Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit"
+      ]
+    },
+    {
+      "revid": 787044182,
+      "parentid": 787044060,
+      "timestamp": "2017-06-23T02:48:23Z",
+      "user": "NewEnglandYankee",
+      "userid": 2691489,
+      "size": 15158,
+      "comment": "Reverted edits by [[Special:Contribs/2602:306:8BB2:A220:4118:4B3B:216:28C|2602:306:8BB2:A220:4118:4B3B:216:28C]] ([[User talk:2602:306:8BB2:A220:4118:4B3B:216:28C|talk]]) to last version by NewEnglandYankee",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 789110749,
+      "parentid": 787044182,
+      "timestamp": "2017-07-05T11:56:58Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 15158,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 794610857,
+      "parentid": 789110749,
+      "timestamp": "2017-08-09T00:39:16Z",
+      "user": "Kev519",
+      "userid": 29769715,
+      "size": 15170,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 797319144,
+      "parentid": 794610857,
+      "timestamp": "2017-08-26T08:34:29Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 15171,
+      "comment": "Bot: [[Wikipedia:Bots/Requests for approval/KolbertBot|HTTP→HTTPS]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 798961347,
+      "parentid": 797319144,
+      "timestamp": "2017-09-04T20:41:11Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 15168,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 803661750,
+      "parentid": 798961347,
+      "timestamp": "2017-10-03T21:26:22Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 15128,
+      "comment": "[[User:Green Cardamom/WaybackMedic_2.1|Wayback Medic 2.1]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 803755298,
+      "parentid": 803661750,
+      "timestamp": "2017-10-04T12:25:04Z",
+      "user": "TiWash",
+      "userid": 19527891,
+      "size": 15368,
+      "comment": "/* Tenure */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 807354407,
+      "parentid": 803755298,
+      "timestamp": "2017-10-27T12:44:05Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 15368,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 815438980,
+      "parentid": 807354407,
+      "timestamp": "2017-12-14T20:58:47Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 15368,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 816455470,
+      "parentid": 815438980,
+      "timestamp": "2017-12-21T12:56:13Z",
+      "user": "TiWash",
+      "userid": 19527891,
+      "size": 15589,
+      "comment": "/* Tenure */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817332353,
+      "parentid": 816455470,
+      "timestamp": "2017-12-27T18:24:15Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 15566,
+      "comment": "/* Early life */ c/e",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817332590,
+      "parentid": 817332353,
+      "timestamp": "2017-12-27T18:25:59Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 15946,
+      "comment": "/* Tenure */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817332615,
+      "parentid": 817332590,
+      "timestamp": "2017-12-27T18:26:14Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 15962,
+      "comment": "/* External links */ commons cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817333568,
+      "parentid": 817332615,
+      "timestamp": "2017-12-27T18:33:43Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 16497,
+      "comment": "/* Legislature */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817334022,
+      "parentid": 817333568,
+      "timestamp": "2017-12-27T18:36:44Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 17236,
+      "comment": "/* Personal life */ expan",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817336763,
+      "parentid": 817334022,
+      "timestamp": "2017-12-27T18:43:36Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 17669,
+      "comment": "/* Political positions */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817336830,
+      "parentid": 817336763,
+      "timestamp": "2017-12-27T18:44:04Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 17711,
+      "comment": "/* Domestic issues */ rename section",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817337449,
+      "parentid": 817336830,
+      "timestamp": "2017-12-27T18:48:25Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 18754,
+      "comment": "/* Political positions */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817337967,
+      "parentid": 817337449,
+      "timestamp": "2017-12-27T18:52:47Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 19202,
+      "comment": "/* Political positions */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817338540,
+      "parentid": 817337967,
+      "timestamp": "2017-12-27T18:56:22Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 19692,
+      "comment": "/* Political positions */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 817338640,
+      "parentid": 817338540,
+      "timestamp": "2017-12-27T18:57:05Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 19824,
+      "comment": "/* Donald Trump */ expand",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 818711026,
+      "parentid": 817338640,
+      "timestamp": "2018-01-05T03:54:58Z",
+      "user": "Valjean",
+      "userid": 700244,
+      "size": 19866,
+      "comment": "update",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 821933111,
+      "parentid": 818711026,
+      "timestamp": "2018-01-23T13:17:42Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19866,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 826185566,
+      "parentid": 821933111,
+      "timestamp": "2018-02-17T18:42:12Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 19858,
+      "comment": "fix lede",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 826186032,
+      "parentid": 826185566,
+      "timestamp": "2018-02-17T18:44:50Z",
+      "user": "HangingCurve",
+      "userid": 42558,
+      "size": 19879,
+      "comment": "/* Personal life */ clarify",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 831351443,
+      "parentid": 826186032,
+      "timestamp": "2018-03-20T04:03:20Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 19633,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 831707300,
+      "parentid": 831351443,
+      "timestamp": "2018-03-21T21:29:13Z",
+      "user": "66.226.108.152",
+      "userid": 0,
+      "size": 19396,
+      "comment": "/* Russian inference investigations */",
+      "minor": false,
+      "tags": [
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 831786666,
+      "parentid": 831707300,
+      "timestamp": "2018-03-22T05:31:39Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 19633,
+      "comment": "Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/66.226.108.152|66.226.108.152]] ([[User talk:66.226.108.152|talk]]): Reverting blanking. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 832038496,
+      "parentid": 831786666,
+      "timestamp": "2018-03-23T13:16:52Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19633,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 832452666,
+      "parentid": 832038496,
+      "timestamp": "2018-03-26T02:57:13Z",
+      "user": "Corkythehornetfan",
+      "userid": 16927144,
+      "size": 19630,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 835485467,
+      "parentid": 832452666,
+      "timestamp": "2018-04-09T00:02:59Z",
+      "user": "Dell676",
+      "userid": 33199543,
+      "size": 19659,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 835553998,
+      "parentid": 835485467,
+      "timestamp": "2018-04-09T11:51:32Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19659,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 835685542,
+      "parentid": 835553998,
+      "timestamp": "2018-04-10T04:39:34Z",
+      "user": "Dell676",
+      "userid": 33199543,
+      "size": 19630,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 836639150,
+      "parentid": 835685542,
+      "timestamp": "2018-04-16T00:02:31Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19643,
+      "comment": "add authority control, test using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 838176269,
+      "parentid": 836639150,
+      "timestamp": "2018-04-25T11:37:32Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19643,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 838959144,
+      "parentid": 838176269,
+      "timestamp": "2018-04-30T11:08:29Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19643,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 842016422,
+      "parentid": 838959144,
+      "timestamp": "2018-05-19T17:11:09Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19643,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 847519310,
+      "parentid": 842016422,
+      "timestamp": "2018-06-25T23:05:46Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 19599,
+      "comment": "[[MOS:ACCESS#Text]]: \"Avoid using smaller font sizes in elements that already use a smaller font size, such as infoboxes, navboxes and reference sections\", replaced: ]])}} → ]]) (2), )}} → ), removed: <small> (2), {{sma using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 848303187,
+      "parentid": 847519310,
+      "timestamp": "2018-07-01T03:13:27Z",
+      "user": "2600:1700:1430:6B60:4869:7FB6:EB0C:8846",
+      "userid": 0,
+      "size": 19277,
+      "comment": "/* Tax reform */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 848303252,
+      "parentid": 848303187,
+      "timestamp": "2018-07-01T03:14:09Z",
+      "user": "2600:1700:1430:6B60:4869:7FB6:EB0C:8846",
+      "userid": 0,
+      "size": 19096,
+      "comment": "/* Tax reform */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 848323131,
+      "parentid": 848303252,
+      "timestamp": "2018-07-01T06:45:43Z",
+      "user": "Missvain",
+      "userid": 1473712,
+      "size": 19599,
+      "comment": "Reverted edits by [[Special:Contribs/2600:1700:1430:6B60:4869:7FB6:EB0C:8846|2600:1700:1430:6B60:4869:7FB6:EB0C:8846]] ([[User talk:2600:1700:1430:6B60:4869:7FB6:EB0C:8846|talk]]) to last version by Muboshgu",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 848560912,
+      "parentid": 848323131,
+      "timestamp": "2018-07-02T18:36:35Z",
+      "user": "LilHelpa",
+      "userid": 8024439,
+      "size": 19598,
+      "comment": "typo and general fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 851499315,
+      "parentid": 848560912,
+      "timestamp": "2018-07-22T18:39:03Z",
+      "user": "174.198.18.232",
+      "userid": 0,
+      "size": 19739,
+      "comment": "/* External links */ dmoz added, redirect ps fixed",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 855353366,
+      "parentid": 851499315,
+      "timestamp": "2018-08-17T17:46:05Z",
+      "user": "2600:1:9A6B:C765:8565:B3AB:12DE:8799",
+      "userid": 0,
+      "size": 19798,
+      "comment": "Corrected the date information",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 855395906,
+      "parentid": 855353366,
+      "timestamp": "2018-08-18T00:16:20Z",
+      "user": "Edgar181",
+      "userid": 491706,
+      "size": 19739,
+      "comment": "Reverted edits by [[Special:Contribs/2600:1:9A6B:C765:8565:B3AB:12DE:8799|2600:1:9A6B:C765:8565:B3AB:12DE:8799]] ([[User talk:2600:1:9A6B:C765:8565:B3AB:12DE:8799|talk]]) to last version by 174.198.18.232",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 856050881,
+      "parentid": 855395906,
+      "timestamp": "2018-08-22T14:43:37Z",
+      "user": "97.64.181.250",
+      "userid": 0,
+      "size": 19872,
+      "comment": "/* Russian inference investigations */Added comments from 8/22 town hall meeting",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 856061944,
+      "parentid": 856050881,
+      "timestamp": "2018-08-22T16:16:27Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 19739,
+      "comment": "Reverted 1 edit by [[Special:Contributions/97.64.181.250|97.64.181.250]] ([[User talk:97.64.181.250|talk]]) to last revision by Edgar181. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 859239604,
+      "parentid": 856061944,
+      "timestamp": "2018-09-12T18:20:44Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19739,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 861044188,
+      "parentid": 859239604,
+      "timestamp": "2018-09-24T19:30:36Z",
+      "user": "Timrollpickering",
+      "userid": 32005,
+      "size": 19739,
+      "comment": "Moving from [[Category:Illinois State Senators]] to [[Category:Illinois state senators]] per [[Wikipedia:Categories for discussion/Log/2018 September 17]] using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862568820,
+      "parentid": 861044188,
+      "timestamp": "2018-10-05T06:49:13Z",
+      "user": "Over9000edits",
+      "userid": 33121446,
+      "size": 19714,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 863534886,
+      "parentid": 862568820,
+      "timestamp": "2018-10-11T11:46:54Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19714,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 864751079,
+      "parentid": 863534886,
+      "timestamp": "2018-10-19T06:46:21Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 19751,
+      "comment": "/* External links */add category",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 868558474,
+      "parentid": 864751079,
+      "timestamp": "2018-11-12T23:38:38Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 19644,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869858279,
+      "parentid": 868558474,
+      "timestamp": "2018-11-20T20:53:56Z",
+      "user": "96.90.105.177",
+      "userid": 0,
+      "size": 19702,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869858422,
+      "parentid": 869858279,
+      "timestamp": "2018-11-20T20:55:02Z",
+      "user": "96.90.105.177",
+      "userid": 0,
+      "size": 19840,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869858656,
+      "parentid": 869858422,
+      "timestamp": "2018-11-20T20:56:55Z",
+      "user": "96.90.105.177",
+      "userid": 0,
+      "size": 19874,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869858709,
+      "parentid": 869858656,
+      "timestamp": "2018-11-20T20:57:24Z",
+      "user": "96.90.105.177",
+      "userid": 0,
+      "size": 20054,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869858887,
+      "parentid": 869858709,
+      "timestamp": "2018-11-20T20:58:30Z",
+      "user": "Mr Xaero",
+      "userid": 3499605,
+      "size": 19644,
+      "comment": "Reverted 4 edits by [[Special:Contributions/96.90.105.177|96.90.105.177]] ([[User talk:96.90.105.177|talk]]) to last revision by Therequiembellishere. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 869858968,
+      "parentid": 869858887,
+      "timestamp": "2018-11-20T20:59:03Z",
+      "user": "96.90.105.177",
+      "userid": 0,
+      "size": 19725,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869859073,
+      "parentid": 869858968,
+      "timestamp": "2018-11-20T20:59:49Z",
+      "user": "Ifnord",
+      "userid": 470876,
+      "size": 19644,
+      "comment": "Reverted 1 edit by [[Special:Contributions/96.90.105.177|96.90.105.177]] ([[User talk:96.90.105.177|talk]]) to last revision by Mr Xaero. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 869859086,
+      "parentid": 869859073,
+      "timestamp": "2018-11-20T20:59:52Z",
+      "user": "96.90.105.177",
+      "userid": 0,
+      "size": 19658,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 869859223,
+      "parentid": 869859086,
+      "timestamp": "2018-11-20T21:00:55Z",
+      "user": "Ifnord",
+      "userid": 470876,
+      "size": 19644,
+      "comment": "Reverted 1 edit by [[Special:Contributions/96.90.105.177|96.90.105.177]] ([[User talk:96.90.105.177|talk]]) to last revision by Ifnord. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 869874170,
+      "parentid": 869859223,
+      "timestamp": "2018-11-20T22:51:47Z",
+      "user": "97.46.2.227",
+      "userid": 0,
+      "size": 19734,
+      "comment": "Added breaking news",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 869874212,
+      "parentid": 869874170,
+      "timestamp": "2018-11-20T22:52:09Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 19644,
+      "comment": "Reverted 1 edit by [[Special:Contributions/97.46.2.227|97.46.2.227]] ([[User talk:97.46.2.227|talk]]) to last revision by Ifnord. ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 871115333,
+      "parentid": 869874212,
+      "timestamp": "2018-11-29T01:00:33Z",
+      "user": "98.115.234.244",
+      "userid": 0,
+      "size": 19662,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 874047405,
+      "parentid": 871115333,
+      "timestamp": "2018-12-16T20:18:05Z",
+      "user": "General Ization",
+      "userid": 770058,
+      "size": 19644,
+      "comment": "Reverted edits by [[Special:Contribs/98.115.234.244|98.115.234.244]] ([[User talk:98.115.234.244|talk]]) to last version by KNHaw",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 876749599,
+      "parentid": 874047405,
+      "timestamp": "2019-01-04T06:10:51Z",
+      "user": "202.138.243.22",
+      "userid": 0,
+      "size": 19736,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 877161086,
+      "parentid": 876749599,
+      "timestamp": "2019-01-06T23:50:46Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 19746,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 877446702,
+      "parentid": 877161086,
+      "timestamp": "2019-01-08T18:32:00Z",
+      "user": "50.81.146.169",
+      "userid": 0,
+      "size": 19789,
+      "comment": "/* Health care */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 880115631,
+      "parentid": 877446702,
+      "timestamp": "2019-01-25T13:05:07Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19789,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 881700853,
+      "parentid": 880115631,
+      "timestamp": "2019-02-04T07:01:45Z",
+      "user": "Koavf",
+      "userid": 205121,
+      "size": 19845,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician from Illinois\" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 882674845,
+      "parentid": 881700853,
+      "timestamp": "2019-02-10T17:52:36Z",
+      "user": "Corkythehornetfan",
+      "userid": 16927144,
+      "size": 19839,
+      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 882711161,
+      "parentid": 882674845,
+      "timestamp": "2019-02-10T21:36:35Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 19836,
+      "comment": "/* Health care */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 883439103,
+      "parentid": 882711161,
+      "timestamp": "2019-02-15T12:11:32Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19836,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 885676794,
+      "parentid": 883439103,
+      "timestamp": "2019-03-01T15:47:51Z",
+      "user": "2601:601:9280:2F7:F41F:3A16:9452:F637",
+      "userid": 0,
+      "size": 19832,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 885676884,
+      "parentid": 885676794,
+      "timestamp": "2019-03-01T15:48:32Z",
+      "user": "Shellwood",
+      "userid": 2366721,
+      "size": 19836,
+      "comment": "Reverted edits by [[Special:Contributions/2601:601:9280:2F7:F41F:3A16:9452:F637|2601:601:9280:2F7:F41F:3A16:9452:F637]] ([[User talk:2601:601:9280:2F7:F41F:3A16:9452:F637|talk]]) ([[WP:HG|HG]]) (3.4.6)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 885678970,
+      "parentid": 885676884,
+      "timestamp": "2019-03-01T16:06:05Z",
+      "user": "2601:601:9280:2F7:F41F:3A16:9452:F637",
+      "userid": 0,
+      "size": 19827,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 885683835,
+      "parentid": 885678970,
+      "timestamp": "2019-03-01T16:46:25Z",
+      "user": "KylieTastic",
+      "userid": 2790592,
+      "size": 19836,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2601:601:9280:2F7:F41F:3A16:9452:F637|2601:601:9280:2F7:F41F:3A16:9452:F637]] ([[User talk:2601:601:9280:2F7:F41F:3A16:9452:F637|talk]]) to last revision by Shellwood ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 887156678,
+      "parentid": 885683835,
+      "timestamp": "2019-03-10T23:17:39Z",
+      "user": "76.187.211.251",
+      "userid": 0,
+      "size": 19856,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 887156714,
+      "parentid": 887156678,
+      "timestamp": "2019-03-10T23:17:57Z",
+      "user": "76.187.211.251",
+      "userid": 0,
+      "size": 19853,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 887301526,
+      "parentid": 887156714,
+      "timestamp": "2019-03-11T20:06:13Z",
+      "user": "96.90.105.177",
+      "userid": 0,
+      "size": 19959,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 887301570,
+      "parentid": 887301526,
+      "timestamp": "2019-03-11T20:06:35Z",
+      "user": "Anaxial",
+      "userid": 2273576,
+      "size": 19853,
+      "comment": "Reverted 1 edit by [[Special:Contributions/96.90.105.177|96.90.105.177]] ([[User talk:96.90.105.177|talk]]) to last revision by 76.187.211.251 using [[WP:TW|TW]]",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 887760923,
+      "parentid": 887301570,
+      "timestamp": "2019-03-14T17:34:22Z",
+      "user": "2605:E000:60C6:100:5DEF:40AF:26F1:B434",
+      "userid": 0,
+      "size": 19851,
+      "comment": "Changed prior to to before.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 892369271,
+      "parentid": 887760923,
+      "timestamp": "2019-04-14T02:01:20Z",
+      "user": "Ellipsis22",
+      "userid": 1734304,
+      "size": 19776,
+      "comment": "removing from \"American Roman Catholics\" category; no reference to Catholicism in article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 893741215,
+      "parentid": 892369271,
+      "timestamp": "2019-04-23T09:02:07Z",
+      "user": "Peoriamorris",
+      "userid": 6796151,
+      "size": 19785,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 897907390,
+      "parentid": 893741215,
+      "timestamp": "2019-05-20T03:40:05Z",
+      "user": "2600:100C:B22D:4CD0:4902:CC0:43DB:7826",
+      "userid": 0,
+      "size": 19795,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 897907446,
+      "parentid": 897907390,
+      "timestamp": "2019-05-20T03:40:47Z",
+      "user": "2600:100C:B22D:4CD0:4902:CC0:43DB:7826",
+      "userid": 0,
+      "size": 19747,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 898092438,
+      "parentid": 897907446,
+      "timestamp": "2019-05-21T10:10:24Z",
+      "user": "Cabayi",
+      "userid": 6561336,
+      "size": 19752,
+      "comment": "/* External links */Template renamed. Stick to the standard set of templates, replaced: {{USRepSuccessionBox → {{US House succession box",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 902182785,
+      "parentid": 898092438,
+      "timestamp": "2019-06-17T04:27:29Z",
+      "user": "2600:1003:B01F:669C:7404:81B9:CD13:CD9A",
+      "userid": 0,
+      "size": 19752,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 902482543,
+      "parentid": 902182785,
+      "timestamp": "2019-06-19T04:19:25Z",
+      "user": "Balon Greyjoy",
+      "userid": 20164867,
+      "size": 19744,
+      "comment": "replacing curly quotation marks/apostrophes with straight ones, per [[MOS:']]  (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 903381517,
+      "parentid": 902482543,
+      "timestamp": "2019-06-25T11:15:06Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 19738,
+      "comment": "[[User:Monkbot/task_14: repair improper use of publisher params in cs1 templates|Task 14]]:  cs1 template fixes: misused |publisher= (3×/1×); skipped: unrecognized periodical (1×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 908261096,
+      "parentid": 903381517,
+      "timestamp": "2019-07-28T15:33:48Z",
+      "user": "2600:100C:B22C:13F5:1DA8:29F4:60D:CF39",
+      "userid": 0,
+      "size": 19736,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 908310902,
+      "parentid": 908261096,
+      "timestamp": "2019-07-28T22:26:39Z",
+      "user": "CozyandDozy",
+      "userid": 35292614,
+      "size": 19710,
+      "comment": "/* Early life */ this guy is 1/4 Lebanese. His father is 1/2.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 908825696,
+      "parentid": 908310902,
+      "timestamp": "2019-08-01T07:29:55Z",
+      "user": "Cck8ph912",
+      "userid": 21554215,
+      "size": 19709,
+      "comment": "spelling correction from \"it's\" to \"its\"",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 911452391,
+      "parentid": 908825696,
+      "timestamp": "2019-08-18T23:09:42Z",
+      "user": "173.76.121.13",
+      "userid": 0,
+      "size": 19522,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 911452494,
+      "parentid": 911452391,
+      "timestamp": "2019-08-18T23:10:34Z",
+      "user": "173.76.121.13",
+      "userid": 0,
+      "size": 19526,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 911477885,
+      "parentid": 911452494,
+      "timestamp": "2019-08-19T03:29:36Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 19782,
+      "comment": "Rescuing orphaned refs (\"Nightengale122217\" from rev 908825696)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 915589941,
+      "parentid": 911477885,
+      "timestamp": "2019-09-14T04:54:32Z",
+      "user": "2601:600:9880:55E0:553B:118A:6FC9:3CF8",
+      "userid": 0,
+      "size": 19792,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 915590448,
+      "parentid": 915589941,
+      "timestamp": "2019-09-14T04:58:50Z",
+      "user": "Lupin VII",
+      "userid": 37295755,
+      "size": 19782,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2601:600:9880:55E0:553B:118A:6FC9:3CF8|2601:600:9880:55E0:553B:118A:6FC9:3CF8]] ([[User talk:2601:600:9880:55E0:553B:118A:6FC9:3CF8|talk]]) to last revision by AnomieBOT ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 916037915,
+      "parentid": 915590448,
+      "timestamp": "2019-09-16T17:11:12Z",
+      "user": "TAnthony",
+      "userid": 1808194,
+      "size": 19805,
+      "comment": "Correct citation errors (deprecated dead-url parameters), and genfixes",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 917771454,
+      "parentid": 916037915,
+      "timestamp": "2019-09-25T12:03:43Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19805,
+      "comment": "/* External links */ Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 919198848,
+      "parentid": 917771454,
+      "timestamp": "2019-10-02T11:11:08Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19805,
+      "comment": "/* External links */ Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 922321730,
+      "parentid": 919198848,
+      "timestamp": "2019-10-21T11:51:17Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 19805,
+      "comment": "/* External links */ Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 923138171,
+      "parentid": 922321730,
+      "timestamp": "2019-10-26T16:33:40Z",
+      "user": "Rich Farmbrough",
+      "userid": 82835,
+      "size": 19788,
+      "comment": "Cite cleanup",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 923223029,
+      "parentid": 923138171,
+      "timestamp": "2019-10-27T04:49:14Z",
+      "user": "2601:600:9880:55E0:9DE5:7995:2B68:3B1E",
+      "userid": 0,
+      "size": 19798,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 923453828,
+      "parentid": 923223029,
+      "timestamp": "2019-10-28T17:26:07Z",
+      "user": "50.80.214.241",
+      "userid": 0,
+      "size": 19812,
+      "comment": "/* Environment */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 923505585,
+      "parentid": 923453828,
+      "timestamp": "2019-10-28T23:59:02Z",
+      "user": "12.43.67.53",
+      "userid": 0,
+      "size": 19816,
+      "comment": "/* Early life */ edits",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 923820940,
+      "parentid": 923505585,
+      "timestamp": "2019-10-31T00:09:57Z",
+      "user": "BWellsOdyssey",
+      "userid": 13230996,
+      "size": 25338,
+      "comment": "Added electoral history",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 923909484,
+      "parentid": 923820940,
+      "timestamp": "2019-10-31T15:38:47Z",
+      "user": "12.43.67.53",
+      "userid": 0,
+      "size": 25872,
+      "comment": "/* Electoral history */ Added one election",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 924558119,
+      "parentid": 923909484,
+      "timestamp": "2019-11-04T16:05:19Z",
+      "user": "BWellsOdyssey",
+      "userid": 13230996,
+      "size": 26226,
+      "comment": "/* Electoral history */ Added citation and fixed election numbers to match official results.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 924725853,
+      "parentid": 924558119,
+      "timestamp": "2019-11-05T15:44:52Z",
+      "user": "96.73.154.137",
+      "userid": 0,
+      "size": 25751,
+      "comment": "/* Tenure */ updated to reflect his current committee assignment",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 924831658,
+      "parentid": 924725853,
+      "timestamp": "2019-11-06T05:59:46Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 25741,
+      "comment": "Undid revision 923223029 by [[Special:Contributions/2601:600:9880:55E0:9DE5:7995:2B68:3B1E|2601:600:9880:55E0:9DE5:7995:2B68:3B1E]] ([[User talk:2601:600:9880:55E0:9DE5:7995:2B68:3B1E|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 926784512,
+      "parentid": 924831658,
+      "timestamp": "2019-11-18T18:08:22Z",
+      "user": "107.152.7.27",
+      "userid": 0,
+      "size": 25782,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 926785236,
+      "parentid": 926784512,
+      "timestamp": "2019-11-18T18:12:53Z",
+      "user": "TheEpTic",
+      "userid": 20145563,
+      "size": 25741,
+      "comment": "Reverted edits by [[Special:Contributions/107.152.7.27|107.152.7.27]] ([[User talk:107.152.7.27|talk]]) ([[WP:HG|HG]]) (3.4.9)",
+      "minor": true,
+      "tags": [
+        "huggle",
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 927283530,
+      "parentid": 926785236,
+      "timestamp": "2019-11-21T13:46:34Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 26063,
+      "comment": "Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 935939892,
+      "parentid": 927283530,
+      "timestamp": "2020-01-15T18:24:43Z",
+      "user": "64.40.94.138",
+      "userid": 0,
+      "size": 26129,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 935939899,
+      "parentid": 935939892,
+      "timestamp": "2020-01-15T18:24:46Z",
+      "user": "ClueBot NG",
+      "userid": 13286072,
+      "size": 26063,
+      "comment": "Reverting possible vandalism by [[Special:Contribs/64.40.94.138|64.40.94.138]] to version by InternetArchiveBot. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3690569) (Bot)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 936220098,
+      "parentid": 935939899,
+      "timestamp": "2020-01-17T12:55:14Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26063,
+      "comment": "/* External links */ Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 942619994,
+      "parentid": 936220098,
+      "timestamp": "2020-02-25T20:00:41Z",
+      "user": "BacktoSchoolForever0700",
+      "userid": 37107832,
+      "size": 26067,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 948319236,
+      "parentid": 942619994,
+      "timestamp": "2020-03-31T11:13:35Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26067,
+      "comment": "/* External links */ Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 955711981,
+      "parentid": 948319236,
+      "timestamp": "2020-05-09T10:31:36Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26067,
+      "comment": "/* External links */ Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958285948,
+      "parentid": 955711981,
+      "timestamp": "2020-05-22T23:07:41Z",
+      "user": "Sampiresse",
+      "userid": 39143894,
+      "size": 26321,
+      "comment": "Introduction",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 958288490,
+      "parentid": 958285948,
+      "timestamp": "2020-05-22T23:28:12Z",
+      "user": "Sampiresse",
+      "userid": 39143894,
+      "size": 26317,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 959072078,
+      "parentid": 958288490,
+      "timestamp": "2020-05-27T01:01:42Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26317,
+      "comment": "/* External links */ Category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 969113501,
+      "parentid": 959072078,
+      "timestamp": "2020-07-23T13:37:49Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26317,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 974815120,
+      "parentid": 969113501,
+      "timestamp": "2020-08-25T05:09:25Z",
+      "user": "2602:306:3645:76C0:D96F:6BD2:4718:1695",
+      "userid": 0,
+      "size": 25818,
+      "comment": "/* Tax reform */",
+      "minor": false,
+      "tags": [
+        "references removed"
+      ]
+    },
+    {
+      "revid": 974815764,
+      "parentid": 974815120,
+      "timestamp": "2020-08-25T05:16:40Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 26317,
+      "comment": "Reverted 1 edit by [[Special:Contributions/2602:306:3645:76C0:D96F:6BD2:4718:1695|2602:306:3645:76C0:D96F:6BD2:4718:1695]] ([[User talk:2602:306:3645:76C0:D96F:6BD2:4718:1695|talk]]) to last revision by Pvmoutside ([[WP:TW|TW]])",
+      "minor": true,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 978609394,
+      "parentid": 974815764,
+      "timestamp": "2020-09-15T22:50:04Z",
+      "user": "2601:88:8101:E300:3522:7764:5FC2:D78D",
+      "userid": 0,
+      "size": 26338,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982477361,
+      "parentid": 978609394,
+      "timestamp": "2020-10-08T11:39:59Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26338,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 982519649,
+      "parentid": 982477361,
+      "timestamp": "2020-10-08T17:23:17Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 26341,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 982615524,
+      "parentid": 982519649,
+      "timestamp": "2020-10-09T07:31:58Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 26340,
+      "comment": "/* Political career */ Update Wiki link to reflect page move",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 991282857,
+      "parentid": 982615524,
+      "timestamp": "2020-11-29T07:05:26Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 26314,
+      "comment": "Removed parameters. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Suggested by Abductive | [[Category:Assistant United States Attorneys]] | via #UCB_Category 608/819",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 991660314,
+      "parentid": 991282857,
+      "timestamp": "2020-12-01T05:13:34Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 26278,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 37 templates: del empty params (6×); hyphenate params (8×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 993220950,
+      "parentid": 991660314,
+      "timestamp": "2020-12-09T12:48:30Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 26278,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 993612603,
+      "parentid": 993220950,
+      "timestamp": "2020-12-11T14:58:00Z",
+      "user": "216.15.53.149",
+      "userid": 0,
+      "size": 26812,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 993612827,
+      "parentid": 993612603,
+      "timestamp": "2020-12-11T14:59:25Z",
+      "user": "216.15.53.149",
+      "userid": 0,
+      "size": 26835,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 993612978,
+      "parentid": 993612827,
+      "timestamp": "2020-12-11T15:00:21Z",
+      "user": "216.15.53.149",
+      "userid": 0,
+      "size": 26874,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 993997147,
+      "parentid": 993612978,
+      "timestamp": "2020-12-13T16:44:38Z",
+      "user": "Goethean",
+      "userid": 28381,
+      "size": 26858,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994550534,
+      "parentid": 993997147,
+      "timestamp": "2020-12-16T08:29:13Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 31138,
+      "comment": "/* Donald Trump */ +",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994550574,
+      "parentid": 994550534,
+      "timestamp": "2020-12-16T08:29:46Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 31106,
+      "comment": "/* Texas v. Pennsylvania */ -",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994597942,
+      "parentid": 994550574,
+      "timestamp": "2020-12-16T15:28:33Z",
+      "user": "Thenightaway",
+      "userid": 26161718,
+      "size": 30976,
+      "comment": "/* Social issues */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 994695989,
+      "parentid": 994597942,
+      "timestamp": "2020-12-17T02:05:59Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 31464,
+      "comment": "/* U.S. House of Representatives */ +",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 994881835,
+      "parentid": 994695989,
+      "timestamp": "2020-12-18T01:01:14Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 31622,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 995646857,
+      "parentid": 994881835,
+      "timestamp": "2020-12-22T03:53:14Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 31616,
+      "comment": "/* Tenure */ -",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 996764665,
+      "parentid": 995646857,
+      "timestamp": "2020-12-28T14:06:33Z",
+      "user": "2600:1700:E42:1E50:CC8:7D67:44E6:B4E3",
+      "userid": 0,
+      "size": 31633,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 998516380,
+      "parentid": 996764665,
+      "timestamp": "2021-01-05T18:57:07Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 31665,
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 44 templates: hyphenate params (32×);",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 998672013,
+      "parentid": 998516380,
+      "timestamp": "2021-01-06T14:03:03Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 31688,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 998880800,
+      "parentid": 998672013,
+      "timestamp": "2021-01-07T13:02:59Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 31688,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 999612376,
+      "parentid": 998880800,
+      "timestamp": "2021-01-11T02:06:38Z",
+      "user": "Nmgridl",
+      "userid": 13886897,
+      "size": 31767,
+      "comment": "Vote to certify President-elect Joe Biden.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 999827405,
+      "parentid": 999612376,
+      "timestamp": "2021-01-12T04:23:32Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 32379,
+      "comment": "/* Political positions */ Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 999829143,
+      "parentid": 999827405,
+      "timestamp": "2021-01-12T04:37:55Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 32431,
+      "comment": "/* Political positions */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 999833510,
+      "parentid": 999829143,
+      "timestamp": "2021-01-12T05:08:56Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 33587,
+      "comment": "/* Political positions */ Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 999838606,
+      "parentid": 999833510,
+      "timestamp": "2021-01-12T05:54:09Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 35988,
+      "comment": "/* Political positions */ Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 999844343,
+      "parentid": 999838606,
+      "timestamp": "2021-01-12T06:37:27Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 36775,
+      "comment": "/* Political positions */ Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 999890793,
+      "parentid": 999844343,
+      "timestamp": "2021-01-12T13:28:56Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 36776,
+      "comment": "/* Political positions */ Fixed grammar",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1000022771,
+      "parentid": 999890793,
+      "timestamp": "2021-01-13T03:56:47Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 38141,
+      "comment": "/* Political positions */ Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1000108562,
+      "parentid": 1000022771,
+      "timestamp": "2021-01-13T16:42:03Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 38814,
+      "comment": "/* Donald Trump */ new citation",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1000109603,
+      "parentid": 1000108562,
+      "timestamp": "2021-01-13T16:48:27Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 39214,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000121348,
+      "parentid": 1000109603,
+      "timestamp": "2021-01-13T17:57:57Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 39218,
+      "comment": "/* Donald Trump */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000130588,
+      "parentid": 1000121348,
+      "timestamp": "2021-01-13T18:53:51Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 39218,
+      "comment": "/* Political positions */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1000132561,
+      "parentid": 1000130588,
+      "timestamp": "2021-01-13T19:05:02Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 39568,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000185576,
+      "parentid": 1000132561,
+      "timestamp": "2021-01-14T00:48:54Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 40312,
+      "comment": "/* Political positions */ Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1000186336,
+      "parentid": 1000185576,
+      "timestamp": "2021-01-14T00:54:11Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 40328,
+      "comment": "/* Political positions */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1000187783,
+      "parentid": 1000186336,
+      "timestamp": "2021-01-14T01:03:37Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 40751,
+      "comment": "/* Political positions */ Added links",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1000317023,
+      "parentid": 1000187783,
+      "timestamp": "2021-01-14T16:38:46Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 41289,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1000338409,
+      "parentid": 1000317023,
+      "timestamp": "2021-01-14T18:25:24Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 41633,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000345763,
+      "parentid": 1000338409,
+      "timestamp": "2021-01-14T19:01:18Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 41681,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000555760,
+      "parentid": 1000345763,
+      "timestamp": "2021-01-15T16:37:32Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 42259,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1000560784,
+      "parentid": 1000555760,
+      "timestamp": "2021-01-15T17:04:16Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 43176,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 1000562643,
+      "parentid": 1000560784,
+      "timestamp": "2021-01-15T17:14:25Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 43014,
+      "comment": "/* 2020 Presidential Election */",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000564092,
+      "parentid": 1000562643,
+      "timestamp": "2021-01-15T17:22:50Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 43747,
+      "comment": "/* 2020 Presidential Election */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "possible libel or vandalism"
+      ]
+    },
+    {
+      "revid": 1000565116,
+      "parentid": 1000564092,
+      "timestamp": "2021-01-15T17:28:30Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 44408,
+      "comment": "/* 2020 Presidential Election */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000566300,
+      "parentid": 1000565116,
+      "timestamp": "2021-01-15T17:35:40Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 44744,
+      "comment": "/* 2020 Presidential Election */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1000569076,
+      "parentid": 1000566300,
+      "timestamp": "2021-01-15T17:51:57Z",
+      "user": "Cupper52",
+      "userid": 39451140,
+      "size": 31767,
+      "comment": "Reverted 24 edits by [[Special:Contributions/Butterfly Jade|Butterfly Jade]] ([[User talk:Butterfly Jade|talk]]): Vandalism",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1000609563,
+      "parentid": 1000569076,
+      "timestamp": "2021-01-15T21:44:49Z",
+      "user": "185.97.92.119",
+      "userid": 0,
+      "size": 31795,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1000732787,
+      "parentid": 1000609563,
+      "timestamp": "2021-01-16T12:43:45Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 31795,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1001410454,
+      "parentid": 1000732787,
+      "timestamp": "2021-01-19T15:28:16Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 44772,
+      "comment": "Undid revision 1000569076 by [[Special:Contributions/Cupper52|Cupper52]] ([[User talk:Cupper52|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "possible libel or vandalism",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1001414758,
+      "parentid": 1001410454,
+      "timestamp": "2021-01-19T15:51:25Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 41444,
+      "comment": "/* 2020 Presidential Election */",
+      "minor": false,
+      "tags": [
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1001415703,
+      "parentid": 1001414758,
+      "timestamp": "2021-01-19T15:57:00Z",
+      "user": "Paper9oll",
+      "userid": 19485939,
+      "size": 31795,
+      "comment": "Reverted 2 edits by [[Special:Contributions/Butterfly Jade|Butterfly Jade]] ([[User talk:Butterfly Jade|talk]]): [[WP:NOTCENSORED]]",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1001442665,
+      "parentid": 1001415703,
+      "timestamp": "2021-01-19T18:15:07Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 32486,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1001476919,
+      "parentid": 1001442665,
+      "timestamp": "2021-01-19T21:20:26Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 33323,
+      "comment": "/* Legislature */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1001477136,
+      "parentid": 1001476919,
+      "timestamp": "2021-01-19T21:21:44Z",
+      "user": "Butterfly Jade",
+      "userid": 40962767,
+      "size": 33302,
+      "comment": "/* Legislature */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1003645640,
+      "parentid": 1001477136,
+      "timestamp": "2021-01-30T00:08:19Z",
+      "user": "Kline",
+      "userid": 36761478,
+      "size": 33288,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"U.S. Representative from Illinois\" to \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1004857103,
+      "parentid": 1003645640,
+      "timestamp": "2021-02-04T19:09:33Z",
+      "user": "50.237.113.178",
+      "userid": 0,
+      "size": 33286,
+      "comment": "/* Darin LaHood */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1004857200,
+      "parentid": 1004857103,
+      "timestamp": "2021-02-04T19:10:14Z",
+      "user": "50.237.113.178",
+      "userid": 0,
+      "size": 33287,
+      "comment": "/* Darin LaHood */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1004857785,
+      "parentid": 1004857200,
+      "timestamp": "2021-02-04T19:14:12Z",
+      "user": "50.237.113.178",
+      "userid": 0,
+      "size": 33285,
+      "comment": "/* Political career */ Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "canned edit summary",
+        "mobile app edit",
+        "android app edit"
+      ]
+    },
+    {
+      "revid": 1006341252,
+      "parentid": 1004857785,
+      "timestamp": "2021-02-12T10:28:01Z",
+      "user": "RandomUserGuy1738",
+      "userid": 29859134,
+      "size": 33281,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1007394039,
+      "parentid": 1006341252,
+      "timestamp": "2021-02-17T22:28:07Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 30021,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1007396027,
+      "parentid": 1007394039,
+      "timestamp": "2021-02-17T22:43:24Z",
+      "user": "Illinieditor",
+      "userid": 40976126,
+      "size": 31478,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1007397081,
+      "parentid": 1007396027,
+      "timestamp": "2021-02-17T22:50:58Z",
+      "user": "Illinieditor",
+      "userid": 40976126,
+      "size": 31177,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1007397544,
+      "parentid": 1007397081,
+      "timestamp": "2021-02-17T22:54:21Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 33034,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1007398652,
+      "parentid": 1007397544,
+      "timestamp": "2021-02-17T23:02:22Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 33746,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1007399536,
+      "parentid": 1007398652,
+      "timestamp": "2021-02-17T23:10:32Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 32836,
+      "comment": "Link fix",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "references removed"
+      ]
+    },
+    {
+      "revid": 1007399958,
+      "parentid": 1007399536,
+      "timestamp": "2021-02-17T23:13:47Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 32833,
+      "comment": "heading",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1007400214,
+      "parentid": 1007399958,
+      "timestamp": "2021-02-17T23:15:45Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 32665,
+      "comment": "/* Policy positions */",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "Section blanking"
+      ]
+    },
+    {
+      "revid": 1007401185,
+      "parentid": 1007400214,
+      "timestamp": "2021-02-17T23:23:33Z",
+      "user": "Illinieditor",
+      "userid": 40976126,
+      "size": 36710,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched"
+      ]
+    },
+    {
+      "revid": 1007401747,
+      "parentid": 1007401185,
+      "timestamp": "2021-02-17T23:27:52Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 27528,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1007401825,
+      "parentid": 1007401747,
+      "timestamp": "2021-02-17T23:28:28Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 27490,
+      "comment": "topic change",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1007437778,
+      "parentid": 1007401825,
+      "timestamp": "2021-02-18T03:29:23Z",
+      "user": "Illinieditor",
+      "userid": 40976126,
+      "size": 27475,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1007438057,
+      "parentid": 1007437778,
+      "timestamp": "2021-02-18T03:31:08Z",
+      "user": "Illinieditor",
+      "userid": 40976126,
+      "size": 27561,
+      "comment": "Added link to another wiki article",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1007438541,
+      "parentid": 1007438057,
+      "timestamp": "2021-02-18T03:34:28Z",
+      "user": "Illinieditor",
+      "userid": 40976126,
+      "size": 27555,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1007723458,
+      "parentid": 1007438541,
+      "timestamp": "2021-02-19T16:19:51Z",
+      "user": "Quebec99",
+      "userid": 8019410,
+      "size": 27557,
+      "comment": "Fix duplicate ref names – [[:Category:Pages with duplicate reference names|You can help!]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1008150377,
+      "parentid": 1007723458,
+      "timestamp": "2021-02-21T20:49:15Z",
+      "user": "420Prince1012",
+      "userid": 40800203,
+      "size": 27613,
+      "comment": "added his goverment website",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1008874143,
+      "parentid": 1008150377,
+      "timestamp": "2021-02-25T14:35:18Z",
+      "user": "Illinieditor",
+      "userid": 40976126,
+      "size": 27621,
+      "comment": "Typo correction",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1009119755,
+      "parentid": 1008874143,
+      "timestamp": "2021-02-26T20:38:30Z",
+      "user": "50.40.99.184",
+      "userid": 0,
+      "size": 27621,
+      "comment": "/* Ethanol */Removed personalization",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1011718897,
+      "parentid": 1009119755,
+      "timestamp": "2021-03-12T12:55:07Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 27621,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1011796082,
+      "parentid": 1011718897,
+      "timestamp": "2021-03-12T21:47:01Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 27775,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1011796125,
+      "parentid": 1011796082,
+      "timestamp": "2021-03-12T21:47:21Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 27775,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1014028173,
+      "parentid": 1011796125,
+      "timestamp": "2021-03-24T19:40:59Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 27777,
+      "comment": "/* Agriculture / Renewable Energy */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1014028200,
+      "parentid": 1014028173,
+      "timestamp": "2021-03-24T19:41:10Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 27777,
+      "comment": "/* Committee Assignments */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1014028238,
+      "parentid": 1014028200,
+      "timestamp": "2021-03-24T19:41:26Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 27777,
+      "comment": "/* COVID Relief */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1014028306,
+      "parentid": 1014028238,
+      "timestamp": "2021-03-24T19:41:52Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 27772,
+      "comment": "/* Electric Vehicles */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1014028456,
+      "parentid": 1014028306,
+      "timestamp": "2021-03-24T19:42:51Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 27676,
+      "comment": "/* Economy/Trade */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1014028504,
+      "parentid": 1014028456,
+      "timestamp": "2021-03-24T19:43:08Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 27676,
+      "comment": "/* 2020 Presidential Election */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1014028660,
+      "parentid": 1014028504,
+      "timestamp": "2021-03-24T19:44:08Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 27676,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1016580753,
+      "parentid": 1014028660,
+      "timestamp": "2021-04-07T22:55:31Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 28059,
+      "comment": "/* Committee assignments */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1017076554,
+      "parentid": 1016580753,
+      "timestamp": "2021-04-10T17:26:47Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 28059,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1019847466,
+      "parentid": 1017076554,
+      "timestamp": "2021-04-25T19:12:45Z",
+      "user": "420Prince1012",
+      "userid": 40800203,
+      "size": 28242,
+      "comment": "/* U.S. House of Representatives */",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1020178394,
+      "parentid": 1019847466,
+      "timestamp": "2021-04-27T16:46:57Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 28241,
+      "comment": "/* Caucus Memberships */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1020178617,
+      "parentid": 1020178394,
+      "timestamp": "2021-04-27T16:48:36Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 27088,
+      "comment": "/* COVID relief */ op-ed and campaign website of subject are not good sources here",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020178678,
+      "parentid": 1020178617,
+      "timestamp": "2021-04-27T16:49:05Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 26995,
+      "comment": "/* Defense */ ugh",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020178918,
+      "parentid": 1020178678,
+      "timestamp": "2021-04-27T16:50:46Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 33281,
+      "comment": "restoring last version prior to major COI edits",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020179085,
+      "parentid": 1020178918,
+      "timestamp": "2021-04-27T16:51:54Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 33281,
+      "comment": "fix",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1020290604,
+      "parentid": 1020179085,
+      "timestamp": "2021-04-28T08:31:56Z",
+      "user": "Love of Corey",
+      "userid": 33788042,
+      "size": 33271,
+      "comment": "/* Political career */ +",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023514717,
+      "parentid": 1020290604,
+      "timestamp": "2021-05-16T20:15:18Z",
+      "user": "2603:7080:A406:8E7E:E4D4:B1F3:670C:9514",
+      "userid": 0,
+      "size": 34314,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023514869,
+      "parentid": 1023514717,
+      "timestamp": "2021-05-16T20:16:18Z",
+      "user": "2603:7080:A406:8E7E:E4D4:B1F3:670C:9514",
+      "userid": 0,
+      "size": 34199,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023792435,
+      "parentid": 1023514869,
+      "timestamp": "2021-05-18T11:08:33Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 34199,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1023792485,
+      "parentid": 1023792435,
+      "timestamp": "2021-05-18T11:08:58Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 34199,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1024345501,
+      "parentid": 1023792485,
+      "timestamp": "2021-05-21T15:18:49Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 34199,
+      "comment": "/* External links */ [[MOS:JOBTITLES]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1026428248,
+      "parentid": 1024345501,
+      "timestamp": "2021-06-02T06:39:41Z",
+      "user": "All Hallow's Wraith",
+      "userid": 5044346,
+      "size": 34230,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1026428340,
+      "parentid": 1026428248,
+      "timestamp": "2021-06-02T06:40:41Z",
+      "user": "All Hallow's Wraith",
+      "userid": 5044346,
+      "size": 34337,
+      "comment": "/* Early life */ add",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1029136277,
+      "parentid": 1026428340,
+      "timestamp": "2021-06-18T03:58:57Z",
+      "user": "Thomascampbell123",
+      "userid": 40765776,
+      "size": 34348,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1039700563,
+      "parentid": 1029136277,
+      "timestamp": "2021-08-20T06:49:40Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 34428,
+      "comment": "Add: title, authors 1-1. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 856/2167",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1047039882,
+      "parentid": 1039700563,
+      "timestamp": "2021-09-28T17:58:15Z",
+      "user": "Qwerfjkl (bot)",
+      "userid": 42522270,
+      "size": 34424,
+      "comment": "Removed [[Help:Self link|link(s) to title]] ([[Wikipedia:WikiProject Check Wikipedia/List of errors#48|CW Error #48]]) (via [[de:Benutzer:Schnark/js/bandersnatch|Bandersnatch]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1051615888,
+      "parentid": 1047039882,
+      "timestamp": "2021-10-24T16:12:34Z",
+      "user": "Reywas92",
+      "userid": 1233313,
+      "size": 34425,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1052513003,
+      "parentid": 1051615888,
+      "timestamp": "2021-10-29T15:54:53Z",
+      "user": "2600:100F:B059:BAA8:6085:18B0:658:2B2",
+      "userid": 0,
+      "size": 34427,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1052781854,
+      "parentid": 1052513003,
+      "timestamp": "2021-10-31T01:48:09Z",
+      "user": "24.98.139.94",
+      "userid": 0,
+      "size": 34427,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1053019392,
+      "parentid": 1052781854,
+      "timestamp": "2021-11-01T12:38:27Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 34535,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1053019743,
+      "parentid": 1053019392,
+      "timestamp": "2021-11-01T12:41:11Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 34543,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1053019816,
+      "parentid": 1053019743,
+      "timestamp": "2021-11-01T12:41:47Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 34544,
+      "comment": "/* Donald Trump */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1053020120,
+      "parentid": 1053019816,
+      "timestamp": "2021-11-01T12:44:34Z",
+      "user": "Treybien2",
+      "userid": 39606613,
+      "size": 34554,
+      "comment": "/* Health care */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1053721616,
+      "parentid": 1053020120,
+      "timestamp": "2021-11-05T16:39:04Z",
+      "user": "Frietjes",
+      "userid": 13791031,
+      "size": 34581,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1054107301,
+      "parentid": 1053721616,
+      "timestamp": "2021-11-08T03:11:32Z",
+      "user": "Moondragon21",
+      "userid": 38004052,
+      "size": 34886,
+      "comment": "Updated",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1059683406,
+      "parentid": 1054107301,
+      "timestamp": "2021-12-10T23:02:59Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 34886,
+      "comment": "[[MOS:JOBTITLES]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1060458119,
+      "parentid": 1059683406,
+      "timestamp": "2021-12-15T17:08:29Z",
+      "user": "Woko Sapien",
+      "userid": 32381689,
+      "size": 34886,
+      "comment": "[[MOS:JOBTITLES]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1063704020,
+      "parentid": 1060458119,
+      "timestamp": "2022-01-04T13:10:16Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 34886,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1070285146,
+      "parentid": 1063704020,
+      "timestamp": "2022-02-06T17:47:05Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 35178,
+      "comment": "/* Donald Trump */Adding web.archive.org links for citations with url-status=live [[Category:CS1_maint:_url-status]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1072851123,
+      "parentid": 1070285146,
+      "timestamp": "2022-02-19T19:54:11Z",
+      "user": "GoingBatty",
+      "userid": 11555324,
+      "size": 35248,
+      "comment": "bad link repair, replaced: [[House of Representatives]] → [[United States House of Representatives|House of Representatives]] (2)",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1073506308,
+      "parentid": 1072851123,
+      "timestamp": "2022-02-23T02:15:33Z",
+      "user": "2601:601:1301:32F0:0:0:0:B2D8",
+      "userid": 0,
+      "size": 35258,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1073506570,
+      "parentid": 1073506308,
+      "timestamp": "2022-02-23T02:17:48Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 35248,
+      "comment": "Reverted edits by [[Special:Contribs/2601:601:1301:32F0:0:0:0:B2D8|2601:601:1301:32F0:0:0:0:B2D8]] ([[User talk:2601:601:1301:32F0:0:0:0:B2D8|talk]]) to last version by GoingBatty",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1073764811,
+      "parentid": 1073506570,
+      "timestamp": "2022-02-24T13:07:28Z",
+      "user": "TommyBoy",
+      "userid": 131807,
+      "size": 35273,
+      "comment": "Add more specific Wiki link",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1073882533,
+      "parentid": 1073764811,
+      "timestamp": "2022-02-25T05:38:50Z",
+      "user": "2601:601:1300:F830:0:0:0:F98D",
+      "userid": 0,
+      "size": 35258,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1073887193,
+      "parentid": 1073882533,
+      "timestamp": "2022-02-25T06:20:04Z",
+      "user": "Willondon",
+      "userid": 7196877,
+      "size": 35273,
+      "comment": "Undid revision 1073882533 by [[Special:Contributions/2601:601:1300:F830:0:0:0:F98D|2601:601:1300:F830:0:0:0:F98D]] ([[User talk:2601:601:1300:F830:0:0:0:F98D|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo"
+      ]
+    },
+    {
+      "revid": 1078231254,
+      "parentid": 1073887193,
+      "timestamp": "2022-03-20T15:02:08Z",
+      "user": "73.61.10.170",
+      "userid": 0,
+      "size": 35273,
+      "comment": "/* External links */ Congressman Don Young has died: http://www.alaskapublic.org/2022/03/18/alaska-congressman-don-young-has-died/ As a result, everyone sworn in after him moves up in seniority.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1078649653,
+      "parentid": 1078231254,
+      "timestamp": "2022-03-22T16:49:06Z",
+      "user": "2601:248:8003:34D0:208E:CF36:FDBE:4FBE",
+      "userid": 0,
+      "size": 35403,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1078653141,
+      "parentid": 1078649653,
+      "timestamp": "2022-03-22T17:10:05Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 35402,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1078731911,
+      "parentid": 1078653141,
+      "timestamp": "2022-03-23T01:12:23Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 34929,
+      "comment": "ce",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1079238534,
+      "parentid": 1078731911,
+      "timestamp": "2022-03-25T19:21:21Z",
+      "user": "User787844",
+      "userid": 40939693,
+      "size": 28881,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor-switched",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1079288604,
+      "parentid": 1079238534,
+      "timestamp": "2022-03-26T00:42:19Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 34929,
+      "comment": "blanking",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1079723248,
+      "parentid": 1079288604,
+      "timestamp": "2022-03-28T08:30:25Z",
+      "user": "Roccerbot",
+      "userid": 22677397,
+      "size": 34923,
+      "comment": "Adding numerical ID to {{C-SPAN}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1080490431,
+      "parentid": 1079723248,
+      "timestamp": "2022-04-01T16:14:38Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 34923,
+      "comment": "/* External links */ Jeff Fortenberry and Filemon Vela have resigned. Everyone below them moves up in seniority.",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1081639244,
+      "parentid": 1080490431,
+      "timestamp": "2022-04-08T17:53:29Z",
+      "user": "173.165.99.209",
+      "userid": 0,
+      "size": 34965,
+      "comment": "among us",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1081639291,
+      "parentid": 1081639244,
+      "timestamp": "2022-04-08T17:53:48Z",
+      "user": "Serols",
+      "userid": 9929111,
+      "size": 34923,
+      "comment": "Reverted edits by [[Special:Contributions/173.165.99.209|173.165.99.209]] ([[User talk:173.165.99.209|talk]]): disruptive edits ([[WP:HG|HG]]) (3.4.10)",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1081639566,
+      "parentid": 1081639291,
+      "timestamp": "2022-04-08T17:55:48Z",
+      "user": "173.165.99.209",
+      "userid": 0,
+      "size": 34952,
+      "comment": "sus",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1081639949,
+      "parentid": 1081639566,
+      "timestamp": "2022-04-08T17:57:48Z",
+      "user": "Coolperson177",
+      "userid": 41457041,
+      "size": 34923,
+      "comment": "Rollback edit(s) by [[Special:Contributions/173.165.99.209|173.165.99.209]] ([[User_talk:173.165.99.209|talk]]): likely [[WP:PROVEIT|factual errors]] [[w:en:WP:RW|(RW 16.1)]]",
+      "minor": true,
+      "tags": [
+        "mw-rollback"
+      ]
+    },
+    {
+      "revid": 1084818224,
+      "parentid": 1081639949,
+      "timestamp": "2022-04-26T19:50:46Z",
+      "user": "Lukelahood",
+      "userid": 22209698,
+      "size": 34927,
+      "comment": "inserted wiki link",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1084818942,
+      "parentid": 1084818224,
+      "timestamp": "2022-04-26T19:56:51Z",
+      "user": "Lukelahood",
+      "userid": 22209698,
+      "size": 35262,
+      "comment": "/* Cannabis */ provided citation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1084819086,
+      "parentid": 1084818942,
+      "timestamp": "2022-04-26T19:58:06Z",
+      "user": "Lukelahood",
+      "userid": 22209698,
+      "size": 35263,
+      "comment": "/* Cannabis */ pronunciation of \"F\" starts with a vowel sound",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1087330792,
+      "parentid": 1084819086,
+      "timestamp": "2022-05-11T20:21:57Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 35263,
+      "comment": "/* External links */ https://www.wkbw.com/news/politics/congressman-tom-reed-resigns-effective-immediately-following-sexual-misconduct-accusation",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1090553501,
+      "parentid": 1087330792,
+      "timestamp": "2022-05-30T03:14:12Z",
+      "user": "3Kingdoms",
+      "userid": 40384166,
+      "size": 33056,
+      "comment": "/* Donald Trump */ Per the decision by other editors these sections are to be removed and should not be included",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1095470624,
+      "parentid": 1090553501,
+      "timestamp": "2022-06-28T15:22:25Z",
+      "user": "53",
+      "userid": 37982794,
+      "size": 33086,
+      "comment": "/* Electoral history */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1096472276,
+      "parentid": 1095470624,
+      "timestamp": "2022-07-04T17:47:20Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 33100,
+      "comment": "/* External links */move to [[Category:Republican Party members of the United States House of Representatives from Illinois]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1096473764,
+      "parentid": 1096472276,
+      "timestamp": "2022-07-04T17:55:59Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 33019,
+      "comment": "Removing from [[Category:Members of the United States House of Representatives from Illinois]] in subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1096474114,
+      "parentid": 1096473764,
+      "timestamp": "2022-07-04T17:56:29Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 32985,
+      "comment": "Removing from [[Category:Illinois Republicans]] in subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1096996311,
+      "parentid": 1096474114,
+      "timestamp": "2022-07-08T01:13:21Z",
+      "user": "45.21.6.10",
+      "userid": 0,
+      "size": 33022,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1097010602,
+      "parentid": 1096996311,
+      "timestamp": "2022-07-08T03:33:47Z",
+      "user": "KNHaw",
+      "userid": 412108,
+      "size": 32985,
+      "comment": "Reverted 1 edit by [[Special:Contributions/45.21.6.10|45.21.6.10]] ([[User talk:45.21.6.10|talk]]) to last revision by Ser Amantio di Nicolao",
+      "minor": true,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1102198639,
+      "parentid": 1097010602,
+      "timestamp": "2022-08-03T21:37:07Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 32985,
+      "comment": "/* External links */ https://www.abc57.com/news/jackie-walorski-killed-in-crash",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1107304850,
+      "parentid": 1102198639,
+      "timestamp": "2022-08-29T08:36:52Z",
+      "user": "49.179.80.65",
+      "userid": 0,
+      "size": 32975,
+      "comment": "/* Donald Trump */Some violently forced their way in illegally, others were allowed in by Capitol Police who opened the doors for them.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1108838211,
+      "parentid": 1107304850,
+      "timestamp": "2022-09-06T14:44:08Z",
+      "user": "Reywas92",
+      "userid": 1233313,
+      "size": 32976,
+      "comment": "[[MOS:POSS]] (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1113565786,
+      "parentid": 1108838211,
+      "timestamp": "2022-10-02T03:50:44Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 32976,
+      "comment": "/* External links */ update seniority",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1115404149,
+      "parentid": 1113565786,
+      "timestamp": "2022-10-11T08:47:03Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 33812,
+      "comment": "Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0.9.2",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1121498630,
+      "parentid": 1115404149,
+      "timestamp": "2022-11-12T16:24:04Z",
+      "user": "71.244.111.32",
+      "userid": 0,
+      "size": 34342,
+      "comment": "Added relevant info on the impeachment vote.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1122173542,
+      "parentid": 1121498630,
+      "timestamp": "2022-11-16T06:36:02Z",
+      "user": "AlsoWukai",
+      "userid": 34434225,
+      "size": 33812,
+      "comment": "Undid revision 1121498630 by [[Special:Contributions/71.244.111.32|71.244.111.32]] ([[User talk:71.244.111.32|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1127451289,
+      "parentid": 1122173542,
+      "timestamp": "2022-12-14T19:56:13Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 33812,
+      "comment": "/* External links */ https://www.latimes.com/california/story/2022-12-11/karen-bass-sworn-in-as-los-angeles-mayor-the-first-woman-to-hold-the-office",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1129862696,
+      "parentid": 1127451289,
+      "timestamp": "2022-12-27T13:11:17Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 33829,
+      "comment": "/* External links */intersect Republican and Illinois representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1130895839,
+      "parentid": 1129862696,
+      "timestamp": "2023-01-01T14:21:57Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 33829,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131749283,
+      "parentid": 1130895839,
+      "timestamp": "2023-01-05T15:41:38Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 33829,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131771827,
+      "parentid": 1131749283,
+      "timestamp": "2023-01-05T17:56:50Z",
+      "user": "Emk9",
+      "userid": 32634809,
+      "size": 34054,
+      "comment": "Redistricted",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1131861921,
+      "parentid": 1131771827,
+      "timestamp": "2023-01-06T03:08:27Z",
+      "user": "Hotpotato1234567890",
+      "userid": 23663284,
+      "size": 34055,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1132774387,
+      "parentid": 1131861921,
+      "timestamp": "2023-01-10T14:22:58Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 34286,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1132774480,
+      "parentid": 1132774387,
+      "timestamp": "2023-01-10T14:23:35Z",
+      "user": "Pvmoutside",
+      "userid": 1956573,
+      "size": 34287,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135438886,
+      "parentid": 1132774480,
+      "timestamp": "2023-01-24T17:52:10Z",
+      "user": "173.249.79.38",
+      "userid": 0,
+      "size": 34463,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "possible libel or vandalism",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1135438968,
+      "parentid": 1135438886,
+      "timestamp": "2023-01-24T17:52:48Z",
+      "user": "Firefly115",
+      "userid": 44534162,
+      "size": 34287,
+      "comment": "Undid revision 1135438886 by [[Special:Contributions/173.249.79.38|173.249.79.38]] ([[User talk:173.249.79.38|talk]])",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1141611578,
+      "parentid": 1135438968,
+      "timestamp": "2023-02-25T22:52:36Z",
+      "user": "Cpotisch",
+      "userid": 31957816,
+      "size": 34388,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1143077491,
+      "parentid": 1141611578,
+      "timestamp": "2023-03-05T20:32:15Z",
+      "user": "1990'sguy",
+      "userid": 20130186,
+      "size": 34414,
+      "comment": "/* Elections */ Add link, copyedit.",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1145384128,
+      "parentid": 1143077491,
+      "timestamp": "2023-03-18T21:47:42Z",
+      "user": "WikiFazBear1984",
+      "userid": 43671374,
+      "size": 34621,
+      "comment": "Ce",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor",
+        "advanced mobile edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1146478196,
+      "parentid": 1145384128,
+      "timestamp": "2023-03-25T03:49:08Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 34414,
+      "comment": "not a copyedit",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1148225968,
+      "parentid": 1146478196,
+      "timestamp": "2023-04-04T21:08:43Z",
+      "user": "Minority Reporters",
+      "userid": 21917764,
+      "size": 34639,
+      "comment": "/* Tenure */ Adding China Committee members",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1149426830,
+      "parentid": 1148225968,
+      "timestamp": "2023-04-12T04:58:17Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 34794,
+      "comment": "Add: work, title. Changed bare reference to CS1/2. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Mako001 | Linked from User:Mako001/sandbox | #UCB_webform_linked 2074/2428",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1153191828,
+      "parentid": 1149426830,
+      "timestamp": "2023-05-04T19:15:11Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 34793,
+      "comment": "/* Tenure */Removed [[wikipedia:REFPUNCT|erroneous]] space and [[wikipedia:GENFIX|general fixes]] ([[wikipedia:Bots/Requests_for_approval/SdkbBot|task 1]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1154596985,
+      "parentid": 1153191828,
+      "timestamp": "2023-05-13T13:55:53Z",
+      "user": "108.53.130.81",
+      "userid": 0,
+      "size": 34816,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1155064350,
+      "parentid": 1154596985,
+      "timestamp": "2023-05-16T12:23:17Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 34826,
+      "comment": "Moving [[:Category:John Marshall Law School (Chicago) alumni]] to [[:Category:University of Illinois Chicago School of Law alumni]] per [[Wikipedia:Categories for discussion/Log/2023 May 1#Category:John Marshall Law School (Chicago) alumni]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1156787452,
+      "parentid": 1155064350,
+      "timestamp": "2023-05-24T16:26:32Z",
+      "user": "168.16.191.222",
+      "userid": 0,
+      "size": 35103,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1156787616,
+      "parentid": 1156787452,
+      "timestamp": "2023-05-24T16:27:18Z",
+      "user": "168.16.191.222",
+      "userid": 0,
+      "size": 35140,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1157794575,
+      "parentid": 1156787616,
+      "timestamp": "2023-05-31T01:09:54Z",
+      "user": "Scoutguy138",
+      "userid": 40808947,
+      "size": 35154,
+      "comment": "Ce",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1157957666,
+      "parentid": 1157794575,
+      "timestamp": "2023-06-01T01:58:03Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 35154,
+      "comment": "update seniority (Cicilline resigned)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158065487,
+      "parentid": 1157957666,
+      "timestamp": "2023-06-01T19:24:12Z",
+      "user": "Curbon8",
+      "userid": 43451821,
+      "size": 34840,
+      "comment": "rvt sock",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158753412,
+      "parentid": 1158065487,
+      "timestamp": "2023-06-06T01:14:21Z",
+      "user": "Skm989898",
+      "userid": 22682958,
+      "size": 36037,
+      "comment": "/* U.S. House of Representatives */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158771050,
+      "parentid": 1158753412,
+      "timestamp": "2023-06-06T03:48:38Z",
+      "user": "Corgi Stays",
+      "userid": 33724671,
+      "size": 36283,
+      "comment": "/* Economic issues */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158857531,
+      "parentid": 1158771050,
+      "timestamp": "2023-06-06T17:40:33Z",
+      "user": "Shearonink",
+      "userid": 11902450,
+      "size": 36474,
+      "comment": "C/E: Adjusted/fixed bare URL ref",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1161600563,
+      "parentid": 1158857531,
+      "timestamp": "2023-06-23T19:58:31Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 36486,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American politician\" to \"American politician (born 1968)\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1161601761,
+      "parentid": 1161600563,
+      "timestamp": "2023-06-23T20:08:26Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 36510,
+      "comment": "Add: date. | [[:en:WP:UCB|Use this tool]]. [[:en:WP:DBUG|Report bugs]]. | #UCB_Gadget",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1170513432,
+      "parentid": 1161601761,
+      "timestamp": "2023-08-15T14:08:43Z",
+      "user": "Bananah20",
+      "userid": 30594091,
+      "size": 36531,
+      "comment": "Pronunciation respelling guide",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1173460509,
+      "parentid": 1170513432,
+      "timestamp": "2023-09-02T15:43:24Z",
+      "user": "SuperWIKI",
+      "userid": 32395809,
+      "size": 36822,
+      "comment": "added voice box",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1176438204,
+      "parentid": 1173460509,
+      "timestamp": "2023-09-21T18:40:46Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 36822,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1180746563,
+      "parentid": 1176438204,
+      "timestamp": "2023-10-18T15:39:20Z",
+      "user": "Natemup",
+      "userid": 14377864,
+      "size": 36828,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1180746620,
+      "parentid": 1180746563,
+      "timestamp": "2023-10-18T15:39:48Z",
+      "user": "Natemup",
+      "userid": 14377864,
+      "size": 35885,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1189282718,
+      "parentid": 1180746620,
+      "timestamp": "2023-12-10T22:04:52Z",
+      "user": "Kirkhammer11",
+      "userid": 45812123,
+      "size": 36236,
+      "comment": "Added LaHood's December 2022 vote on the Respect for Marriage Act under \"LGBT rights\".",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1189291206,
+      "parentid": 1189282718,
+      "timestamp": "2023-12-10T23:06:24Z",
+      "user": "ZimZalaBim",
+      "userid": 28422,
+      "size": 35885,
+      "comment": "Reverted 1 edit by [[Special:Contributions/Kirkhammer11|Kirkhammer11]] ([[User talk:Kirkhammer11|talk]]): This marriage act vote is inherently notable unless a reliable source indicates it is",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1191732845,
+      "parentid": 1189291206,
+      "timestamp": "2023-12-25T11:19:48Z",
+      "user": "Johnson524",
+      "userid": 43419868,
+      "size": 35909,
+      "comment": "Update wikilink",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1193440025,
+      "parentid": 1191732845,
+      "timestamp": "2024-01-03T21:06:33Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 35909,
+      "comment": "/* External links */ https://www.cbsnews.com/news/kevin-mccarthy-retire-end-of-december-2023-historic-ouster/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1194785094,
+      "parentid": 1193440025,
+      "timestamp": "2024-01-10T18:39:02Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 36664,
+      "comment": "Rescuing 4 sources and tagging 0 as dead.) #IABot (v2.0.9.5",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1199050574,
+      "parentid": 1194785094,
+      "timestamp": "2024-01-25T19:54:38Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 36663,
+      "comment": "/* Tenure */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1199050765,
+      "parentid": 1199050574,
+      "timestamp": "2024-01-25T19:55:38Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 36659,
+      "comment": "this self-assessment doesn't need to be in the lede",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1199050847,
+      "parentid": 1199050765,
+      "timestamp": "2024-01-25T19:56:01Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 36663,
+      "comment": "/* Early life */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1199050949,
+      "parentid": 1199050847,
+      "timestamp": "2024-01-25T19:56:32Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 36663,
+      "comment": "/* Legislature */ wording",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1200569136,
+      "parentid": 1199050949,
+      "timestamp": "2024-01-29T20:11:59Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 36663,
+      "comment": "/* External links */ update seniority (Johnson resigned)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1211180184,
+      "parentid": 1200569136,
+      "timestamp": "2024-03-01T06:49:28Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 36663,
+      "comment": "/* External links */move to [[Category:21st-century American legislators]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1211376380,
+      "parentid": 1211180184,
+      "timestamp": "2024-03-02T06:17:23Z",
+      "user": "Ser Amantio di Nicolao",
+      "userid": 753665,
+      "size": 36710,
+      "comment": "/* External links */add [[Category:21st-century Illinois politicians]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1214734407,
+      "parentid": 1211376380,
+      "timestamp": "2024-03-20T20:38:38Z",
+      "user": "Nevermore27",
+      "userid": 1788296,
+      "size": 36686,
+      "comment": "/* Committee assignments */ bolding for committee names isn't used anymore",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1215756800,
+      "parentid": 1214734407,
+      "timestamp": "2024-03-26T22:59:12Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 36686,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1216066040,
+      "parentid": 1215756800,
+      "timestamp": "2024-03-28T20:47:48Z",
+      "user": "Jg10101",
+      "userid": 26038009,
+      "size": 36689,
+      "comment": "/* Legal career */ changed \"on\" to \"upon\"",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1217970144,
+      "parentid": 1216066040,
+      "timestamp": "2024-04-09T00:12:31Z",
+      "user": "Geardona",
+      "userid": 46912653,
+      "size": 36661,
+      "comment": "rm bad parameters per  [[Wikipedia:AutoWikiBrowser/Tasks#False last and first names in references|This discussion]] (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1220733317,
+      "parentid": 1217970144,
+      "timestamp": "2024-04-25T15:53:28Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 36661,
+      "comment": "/* External links */ https://newjerseyglobe.com/in-memoriam/donald-payne-dies-at-65/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1231939774,
+      "parentid": 1220733317,
+      "timestamp": "2024-07-01T02:48:25Z",
+      "user": "Losipov",
+      "userid": 38448542,
+      "size": 36660,
+      "comment": "fixed [[Template:Broken ref/cite error list|extra whitespace in citation ( url=)]] using [[User:TheJJJunk/ARA|ARA]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1235594330,
+      "parentid": 1231939774,
+      "timestamp": "2024-07-20T04:01:52Z",
+      "user": "Elli",
+      "userid": 20842734,
+      "size": 36660,
+      "comment": "/* External links */ update seniority ([[Sheila Jackson Lee]] died)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241234302,
+      "parentid": 1235594330,
+      "timestamp": "2024-08-20T02:48:12Z",
+      "user": "Vinnylospo",
+      "userid": 31057982,
+      "size": 36751,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1241560807,
+      "parentid": 1241234302,
+      "timestamp": "2024-08-21T21:44:57Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 36694,
+      "comment": "Removing [[:Category:Members of the 118th United States Congress]] per [[Wikipedia:Categories for discussion/Log/2024 August 3#Category:Members of the 118th United States Congress]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1241672258,
+      "parentid": 1241560807,
+      "timestamp": "2024-08-22T14:23:44Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 36694,
+      "comment": "/* External links */ https://newjerseyglobe.com/congress/bill-pascrell-14-term-congressman-and-son-of-paterson-dies-at-87/",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1252000489,
+      "parentid": 1241672258,
+      "timestamp": "2024-10-19T07:10:09Z",
+      "user": "PrimeBOT",
+      "userid": 29463730,
+      "size": 36564,
+      "comment": "/* External links */ [[User:PrimeBOT/24|Task 24]]: elink template removal following [[Wikipedia:Templates_for_discussion/Log/2024_September_20|a TFD]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1256374145,
+      "parentid": 1252000489,
+      "timestamp": "2024-11-09T17:01:47Z",
+      "user": "2600:8807:AC0F:3900:296E:982A:A9FE:87AA",
+      "userid": 0,
+      "size": 36612,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1257725084,
+      "parentid": 1256374145,
+      "timestamp": "2024-11-16T10:07:42Z",
+      "user": "BlackMafoon12",
+      "userid": 48759750,
+      "size": 36913,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "visualeditor",
+        "possible unreferenced addition to BLP"
+      ]
+    },
+    {
+      "revid": 1260511552,
+      "parentid": 1257725084,
+      "timestamp": "2024-12-01T04:58:34Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 36993,
+      "comment": "added [[:Category:21st-century members of the United States House of Representatives]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1260514172,
+      "parentid": 1260511552,
+      "timestamp": "2024-12-01T05:18:17Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 36946,
+      "comment": "Removing from [[Category:21st-century American legislators]] has subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1261211957,
+      "parentid": 1260514172,
+      "timestamp": "2024-12-04T21:51:38Z",
+      "user": "Ben76266",
+      "userid": 9402649,
+      "size": 36951,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1262132138,
+      "parentid": 1261211957,
+      "timestamp": "2024-12-09T19:53:36Z",
+      "user": "66.99.15.163",
+      "userid": 0,
+      "size": 36811,
+      "comment": "Only one is listed in this field",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1262132325,
+      "parentid": 1262132138,
+      "timestamp": "2024-12-09T19:54:57Z",
+      "user": "Eyer",
+      "userid": 12608568,
+      "size": 36853,
+      "comment": "ce, [[MOS:JOBTITLES]]",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1262366468,
+      "parentid": 1262132325,
+      "timestamp": "2024-12-11T00:57:00Z",
+      "user": "Upton Liptrot",
+      "userid": 43642400,
+      "size": 36853,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1263326403,
+      "parentid": 1262366468,
+      "timestamp": "2024-12-16T01:13:40Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 36920,
+      "comment": "added [[Category:21st-century members of the Illinois General Assembly]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Darin_LaHood"
+}

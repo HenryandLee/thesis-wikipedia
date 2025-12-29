@@ -1,0 +1,106 @@
+{
+  "page_title": "April_Becker",
+  "candidate_name": "April Becker",
+  "collection_date": "2025-12-28T16:32:43.824963",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 6,
+    "unique_editors": 4,
+    "date_range": {
+      "start": "2021-04-14T18:30:07Z",
+      "end": "2022-08-03T14:05:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 1017811176,
+      "parentid": 0,
+      "timestamp": "2021-04-14T18:30:07Z",
+      "user": "Novemberjazz",
+      "userid": 31773523,
+      "size": 74,
+      "comment": "redirect",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1094088783,
+      "parentid": 1017811176,
+      "timestamp": "2022-06-20T17:49:03Z",
+      "user": "Marquardtika",
+      "userid": 23950057,
+      "size": 88,
+      "comment": "[[WP:AES|←]]Changed redirect target from [[2022 United States House of Representatives elections#Nevada]] to [[2022 United States House of Representatives elections in Nevada#District 3]]",
+      "minor": false,
+      "tags": [
+        "mw-changed-redirect-target",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1102128250,
+      "parentid": 1094088783,
+      "timestamp": "2022-08-03T14:02:00Z",
+      "user": "SteveHart1121",
+      "userid": 44293900,
+      "size": 326,
+      "comment": "[[WP:AES|←]]Removed redirect to [[2022 United States House of Representatives elections in Nevada#District 3]]",
+      "minor": false,
+      "tags": [
+        "mw-removed-redirect",
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1102128603,
+      "parentid": 1102128250,
+      "timestamp": "2022-08-03T14:04:20Z",
+      "user": "SteveHart1121",
+      "userid": 44293900,
+      "size": 469,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1102128660,
+      "parentid": 1102128603,
+      "timestamp": "2022-08-03T14:04:44Z",
+      "user": "SteveHart1121",
+      "userid": 44293900,
+      "size": 471,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1102128754,
+      "parentid": 1102128660,
+      "timestamp": "2022-08-03T14:05:28Z",
+      "user": "Viewmont Viking",
+      "userid": 16944783,
+      "size": 88,
+      "comment": "Create in draft first and submit for creation",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect",
+        "mw-manual-revert",
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/April_Becker"
+}

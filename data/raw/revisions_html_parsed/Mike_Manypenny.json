@@ -1,0 +1,347 @@
+{
+  "page_title": "Mike_Manypenny",
+  "candidate_name": "Mike Manypenny",
+  "collection_date": "2025-12-28T16:49:35.399891",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 28,
+    "unique_editors": 21,
+    "date_range": {
+      "start": "2014-03-26T20:06:08Z",
+      "end": "2024-12-12T09:54:29Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 601402503,
+      "parentid": 0,
+      "timestamp": "2014-03-26T20:06:08Z",
+      "user": "Dru of Id",
+      "userid": 13848992,
+      "size": 6157,
+      "comment": "Mike Manypenny.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 601402764,
+      "parentid": 601402503,
+      "timestamp": "2014-03-26T20:07:55Z",
+      "user": "Dru of Id",
+      "userid": 13848992,
+      "size": 6160,
+      "comment": "Fix own source title error.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 601558045,
+      "parentid": 601402764,
+      "timestamp": "2014-03-27T20:41:17Z",
+      "user": "Bamyers99",
+      "userid": 12311825,
+      "size": 6165,
+      "comment": "Touch up",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 639242843,
+      "parentid": 601558045,
+      "timestamp": "2014-12-22T21:47:47Z",
+      "user": "SporkBot",
+      "userid": 12406635,
+      "size": 6099,
+      "comment": "Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template args]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 660027119,
+      "parentid": 639242843,
+      "timestamp": "2015-04-30T09:16:46Z",
+      "user": "SleepCovo",
+      "userid": 23126743,
+      "size": 6163,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 660027165,
+      "parentid": 660027119,
+      "timestamp": "2015-04-30T09:17:17Z",
+      "user": "SleepCovo",
+      "userid": 23126743,
+      "size": 5787,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 660027229,
+      "parentid": 660027165,
+      "timestamp": "2015-04-30T09:17:53Z",
+      "user": "SleepCovo",
+      "userid": 23126743,
+      "size": 5843,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 660059322,
+      "parentid": 660027229,
+      "timestamp": "2015-04-30T14:00:04Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 5786,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683516316,
+      "parentid": 660059322,
+      "timestamp": "2015-09-30T19:44:53Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 6183,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683516490,
+      "parentid": 683516316,
+      "timestamp": "2015-09-30T19:46:08Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 6206,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 683516562,
+      "parentid": 683516490,
+      "timestamp": "2015-09-30T19:46:40Z",
+      "user": "Orser67",
+      "userid": 490397,
+      "size": 6209,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 720868572,
+      "parentid": 683516562,
+      "timestamp": "2016-05-18T12:56:04Z",
+      "user": "JBlake1084",
+      "userid": 28364592,
+      "size": 6308,
+      "comment": "Added photograph of politician.",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 720870083,
+      "parentid": 720868572,
+      "timestamp": "2016-05-18T13:10:19Z",
+      "user": "JBlake1084",
+      "userid": 28364592,
+      "size": 6648,
+      "comment": "Added short section on 2016 house race to expand upon later.",
+      "minor": true,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 720957087,
+      "parentid": 720870083,
+      "timestamp": "2016-05-18T23:14:05Z",
+      "user": "BG19bot",
+      "userid": 14508071,
+      "size": 6642,
+      "comment": "Remove blank line(s) between list items per [[WP:LISTGAP]] to fix an accessibility issue for users of [[screen reader]]s. Do [[WP:GENFIXES]] and cleanup if needed. Discuss this at [[Wikipedia talk:WikiProject Accessibility#LISTGAP]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724251297,
+      "parentid": 720957087,
+      "timestamp": "2016-06-08T02:05:11Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 6372,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Mike Manypenny|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 730600538,
+      "parentid": 724251297,
+      "timestamp": "2016-07-20T02:22:14Z",
+      "user": "Zackmann08",
+      "userid": 15881234,
+      "size": 6342,
+      "comment": "/* top */removing thumb from infobox per [[WP:INFOBOXIMAGE]] using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 745980513,
+      "parentid": 730600538,
+      "timestamp": "2016-10-24T15:26:45Z",
+      "user": "Mpen320",
+      "userid": 14271521,
+      "size": 6367,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 772848867,
+      "parentid": 745980513,
+      "timestamp": "2017-03-29T18:24:57Z",
+      "user": "2601:54A:380:4890:382F:EF97:60F8:28E8",
+      "userid": 0,
+      "size": 6365,
+      "comment": "Updated content.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 788996191,
+      "parentid": 772848867,
+      "timestamp": "2017-07-04T18:10:42Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 6404,
+      "comment": "Disambiguated: [[Tom Coleman]] → [[Tom Coleman (West Virginia politician)]]",
+      "minor": true,
+      "tags": [
+        "OAuth CID: 410"
+      ]
+    },
+    {
+      "revid": 952554964,
+      "parentid": 788996191,
+      "timestamp": "2020-04-22T21:19:16Z",
+      "user": "Tassedethe",
+      "userid": 7098284,
+      "size": 6443,
+      "comment": "v2.02 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Gary Howell]]",
+      "minor": true,
+      "tags": [
+        "WPCleaner"
+      ]
+    },
+    {
+      "revid": 1008186738,
+      "parentid": 952554964,
+      "timestamp": "2021-02-22T00:46:16Z",
+      "user": "FreeToDisagree",
+      "userid": 35284503,
+      "size": 6418,
+      "comment": "Removed the religion-parameter from the infobox since it is no longer in use.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1053845444,
+      "parentid": 1008186738,
+      "timestamp": "2021-11-06T12:20:51Z",
+      "user": "Simeon",
+      "userid": 1189543,
+      "size": 6460,
+      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American politician\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1066412921,
+      "parentid": 1053845444,
+      "timestamp": "2022-01-18T07:34:41Z",
+      "user": "SdkbBot",
+      "userid": 41840956,
+      "size": 6434,
+      "comment": "/* top */Removed [[MOS:OVERLINK|overlinked]] country wikilink and [[WP:GENFIX|general fixes]] ([[Wikipedia:Bots/Requests_for_approval/SdkbBot_2|task 2]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1128360166,
+      "parentid": 1066412921,
+      "timestamp": "2022-12-19T19:00:08Z",
+      "user": "Oculi",
+      "userid": 4460308,
+      "size": 6414,
+      "comment": "/* External links */intersect Democratic and West Virginia representatives categories, per [[WP:SUBCAT]]",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1181268123,
+      "parentid": 1128360166,
+      "timestamp": "2023-10-22T00:05:38Z",
+      "user": "Rontrigger",
+      "userid": 3940708,
+      "size": 6626,
+      "comment": "/* 2016 election */ Never updated after nearly seven years!",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1185183833,
+      "parentid": 1181268123,
+      "timestamp": "2023-11-15T02:44:30Z",
+      "user": "FrescoBot",
+      "userid": 9021902,
+      "size": 6641,
+      "comment": "Bot: [[User:FrescoBot/Links|link syntax]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1251676415,
+      "parentid": 1185183833,
+      "timestamp": "2024-10-17T12:39:31Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 6658,
+      "comment": "Disambiguating links to [[Primary election]] (link changed to [[Partisan primary]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1262623057,
+      "parentid": 1251676415,
+      "timestamp": "2024-12-12T09:54:29Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 6725,
+      "comment": "added [[:Category:21st-century members of the West Virginia Legislature]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Manypenny"
+}

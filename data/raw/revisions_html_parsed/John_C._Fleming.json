@@ -1,0 +1,42 @@
+{
+  "page_title": "John_C._Fleming",
+  "candidate_name": "John C. Fleming",
+  "collection_date": "2025-12-28T16:43:19.966239",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2010-04-10T07:44:18Z",
+      "end": "2016-02-24T21:32:28Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 355099962,
+      "parentid": 0,
+      "timestamp": "2010-04-10T07:44:18Z",
+      "user": "Diora",
+      "userid": 4826157,
+      "size": 44,
+      "comment": "moved [[John C. Fleming]] to [[John Fleming (U.S. politician)]]: generally known",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 706712097,
+      "parentid": 355099962,
+      "timestamp": "2016-02-24T21:32:28Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 48,
+      "comment": "Bot: Fixing double redirect to [[John Fleming (American politician)]]",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_C._Fleming"
+}

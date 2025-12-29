@@ -1,0 +1,228 @@
+{
+  "page_title": "David_Davenport",
+  "candidate_name": "David Davenport",
+  "collection_date": "2025-12-28T16:36:54.958878",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 18,
+    "unique_editors": 15,
+    "date_range": {
+      "start": "2018-10-04T01:06:49Z",
+      "end": "2024-10-28T22:26:20Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 862381824,
+      "parentid": 0,
+      "timestamp": "2018-10-04T01:06:49Z",
+      "user": "Zigzig20s",
+      "userid": 1673502,
+      "size": 2317,
+      "comment": "created referenced stub",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862381915,
+      "parentid": 862381824,
+      "timestamp": "2018-10-04T01:07:44Z",
+      "user": "Zigzig20s",
+      "userid": 1673502,
+      "size": 2359,
+      "comment": "University of Kansas School of Law",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 862382272,
+      "parentid": 862381915,
+      "timestamp": "2018-10-04T01:11:09Z",
+      "user": "Numberguy6",
+      "userid": 28796187,
+      "size": 2382,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 862382731,
+      "parentid": 862382272,
+      "timestamp": "2018-10-04T01:16:10Z",
+      "user": "Zigzig20s",
+      "userid": 1673502,
+      "size": 2409,
+      "comment": "/* References */ {{Pepperdine University}}",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 867115714,
+      "parentid": 862382731,
+      "timestamp": "2018-11-03T19:24:01Z",
+      "user": "Bamyers99",
+      "userid": 12311825,
+      "size": 2457,
+      "comment": "added [[Category:Living people]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 877586372,
+      "parentid": 867115714,
+      "timestamp": "2019-01-09T16:36:12Z",
+      "user": "Swper",
+      "userid": 30983618,
+      "size": 2619,
+      "comment": "/* Career */ Updating career info",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 877586471,
+      "parentid": 877586372,
+      "timestamp": "2019-01-09T16:37:00Z",
+      "user": "Swper",
+      "userid": 30983618,
+      "size": 2623,
+      "comment": "/* Career */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 896891891,
+      "parentid": 877586471,
+      "timestamp": "2019-05-13T14:04:09Z",
+      "user": "HildWheaton",
+      "userid": 23294797,
+      "size": 2662,
+      "comment": "/* References */ category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 896912674,
+      "parentid": 896891891,
+      "timestamp": "2019-05-13T16:35:28Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 2670,
+      "comment": "/* Career */[[User:Monkbot/task_13: remove replace deprecated subscription registration parameters|Task 13]]: Fix deprecated |registration= in cs1|2 templates;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 940285507,
+      "parentid": 896912674,
+      "timestamp": "2020-02-11T16:56:18Z",
+      "user": "PearBOT II",
+      "userid": 38179619,
+      "size": 2738,
+      "comment": "Adding automatically generated short description. For more information see [[Wikipedia:Bots/Requests for approval/PearBOT 5]] Feedback appreciated at [[User talk:Trialpears]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 967533627,
+      "parentid": 940285507,
+      "timestamp": "2020-07-13T20:16:27Z",
+      "user": "Philip Cross",
+      "userid": 124152,
+      "size": 2719,
+      "comment": "ce",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1005794549,
+      "parentid": 967533627,
+      "timestamp": "2021-02-09T12:56:09Z",
+      "user": "Tom.Reding",
+      "userid": 9784415,
+      "size": 2742,
+      "comment": "+{{[[Template:Authority control|Authority control]]}} ([[d:Q57163947|4 IDs]] from [[Wikidata]]), [[WP:GenFixes]] on",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1075422494,
+      "parentid": 1005794549,
+      "timestamp": "2022-03-05T17:57:38Z",
+      "user": "73.192.242.220",
+      "userid": 0,
+      "size": 2760,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1090273957,
+      "parentid": 1075422494,
+      "timestamp": "2022-05-28T14:58:55Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 2804,
+      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 1008/3545",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1124876691,
+      "parentid": 1090273957,
+      "timestamp": "2022-12-01T00:13:19Z",
+      "user": "Pegship",
+      "userid": 355698,
+      "size": 2810,
+      "comment": "–{{US-academic-administrator-stub}}, +{{US-academic-administrator-1950s-stub}} using [[User:SD0001/StubSorter|StubSorter]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1145997903,
+      "parentid": 1124876691,
+      "timestamp": "2023-03-22T05:06:23Z",
+      "user": "UCO2009bluejay",
+      "userid": 20015159,
+      "size": 2821,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1240365473,
+      "parentid": 1145997903,
+      "timestamp": "2024-08-15T01:08:30Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 2839,
+      "comment": "Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#articles.latimes.com]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1253992187,
+      "parentid": 1240365473,
+      "timestamp": "2024-10-28T22:26:20Z",
+      "user": "Moguy",
+      "userid": 31526994,
+      "size": 3054,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Davenport"
+}

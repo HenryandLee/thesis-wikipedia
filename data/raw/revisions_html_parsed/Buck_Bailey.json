@@ -1,0 +1,382 @@
+{
+  "page_title": "Buck_Bailey",
+  "candidate_name": "Buck Bailey",
+  "collection_date": "2025-12-28T16:34:26.867737",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 32,
+    "unique_editors": 21,
+    "date_range": {
+      "start": "2014-09-07T13:03:01Z",
+      "end": "2024-12-31T05:53:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 624535565,
+      "parentid": 0,
+      "timestamp": "2014-09-07T13:03:01Z",
+      "user": "Glacier109",
+      "userid": 736847,
+      "size": 7871,
+      "comment": "[[WP:AES|←]]Created page with '{{Infobox college coach | name          = Buck Bailey | image         =  | caption       =  | sport         = Baseball, [[College football|football]] | current_t...'",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 625319416,
+      "parentid": 624535565,
+      "timestamp": "2014-09-13T02:15:48Z",
+      "user": "Jweiss11",
+      "userid": 206485,
+      "size": 8302,
+      "comment": "edit persondata, add cats, rem stub tag",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 627489164,
+      "parentid": 625319416,
+      "timestamp": "2014-09-29T01:54:47Z",
+      "user": "Glacier109",
+      "userid": 736847,
+      "size": 9825,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 666278138,
+      "parentid": 627489164,
+      "timestamp": "2015-06-10T02:00:17Z",
+      "user": "Glacier109",
+      "userid": 736847,
+      "size": 9824,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 675634130,
+      "parentid": 666278138,
+      "timestamp": "2015-08-11T19:20:41Z",
+      "user": "Abotzi",
+      "userid": 25894760,
+      "size": 9924,
+      "comment": "Split teams/years in infobox using [[Module:Infobox college coach/convert|script]] ([[Wikipedia:Bots/Requests_for_approval/Abotzi|BRFA]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 698425375,
+      "parentid": 675634130,
+      "timestamp": "2016-01-06T01:15:48Z",
+      "user": "UW Dawgs",
+      "userid": 17912182,
+      "size": 9920,
+      "comment": "/* Washington State */rename per [[Talk:Pac-12 Conference]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724770778,
+      "parentid": 698425375,
+      "timestamp": "2016-06-11T10:57:48Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 9533,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Buck Bailey|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 740247029,
+      "parentid": 724770778,
+      "timestamp": "2016-09-19T23:14:02Z",
+      "user": "Bender the Bot",
+      "userid": 28903366,
+      "size": 9545,
+      "comment": "http&rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 748745083,
+      "parentid": 740247029,
+      "timestamp": "2016-11-10T03:19:51Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 9680,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.7)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 789692964,
+      "parentid": 748745083,
+      "timestamp": "2017-07-08T23:36:31Z",
+      "user": "Rms125a@hotmail.com",
+      "userid": 376014,
+      "size": 9581,
+      "comment": "Per [[MOS:LEGALNAME]], specifically, the sentence: if a person has a well-known common hypocorism, used in lieu of a given name, it is not presented between quote marks following the last given name or initial",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 792535282,
+      "parentid": 789692964,
+      "timestamp": "2017-07-27T02:58:53Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 9562,
+      "comment": "Rescuing 1 sources and tagging 0 as dead. #IABot (v1.5beta)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 802374782,
+      "parentid": 792535282,
+      "timestamp": "2017-09-25T19:39:06Z",
+      "user": "Glacier109",
+      "userid": 736847,
+      "size": 10330,
+      "comment": "add military box",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 802413788,
+      "parentid": 802374782,
+      "timestamp": "2017-09-26T01:02:06Z",
+      "user": "Glacier109",
+      "userid": 736847,
+      "size": 10431,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 813753753,
+      "parentid": 802413788,
+      "timestamp": "2017-12-05T02:09:55Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 10432,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v477)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 832665480,
+      "parentid": 813753753,
+      "timestamp": "2018-03-27T09:29:06Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 10433,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 836735233,
+      "parentid": 832665480,
+      "timestamp": "2018-04-16T15:16:17Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 10426,
+      "comment": "removed [[Category:People from San Saba County, Texas]]; added [[Category:People from San Saba, Texas]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 836737283,
+      "parentid": 836735233,
+      "timestamp": "2018-04-16T15:29:05Z",
+      "user": "GrahamHardy",
+      "userid": 2956291,
+      "size": 10417,
+      "comment": "removed [[Category:People from Schleicher County, Texas]]; added [[Category:People from Eldorado, Texas]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 901200325,
+      "parentid": 836737283,
+      "timestamp": "2019-06-10T09:31:12Z",
+      "user": "Jweiss11",
+      "userid": 206485,
+      "size": 10416,
+      "comment": "rem comma",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 915763321,
+      "parentid": 901200325,
+      "timestamp": "2019-09-15T05:25:46Z",
+      "user": "Monkbot",
+      "userid": 20483999,
+      "size": 10415,
+      "comment": "/* top */[[User:Monkbot/task 16: remove replace deprecated dead-url params|Task 16]]: replaced (1×) / removed (0×) deprecated |dead-url= and |deadurl= with |url-status=;",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 916655920,
+      "parentid": 915763321,
+      "timestamp": "2019-09-20T00:00:05Z",
+      "user": "Jweiss11",
+      "userid": 206485,
+      "size": 10408,
+      "comment": "refine cat",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 916656156,
+      "parentid": 916655920,
+      "timestamp": "2019-09-20T00:01:16Z",
+      "user": "Jweiss11",
+      "userid": 206485,
+      "size": 10405,
+      "comment": "cleanup infobox",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 929486377,
+      "parentid": 916656156,
+      "timestamp": "2019-12-06T04:00:51Z",
+      "user": "Lepricavark",
+      "userid": 28779459,
+      "size": 10351,
+      "comment": "removed unsupported infobox parameter",
+      "minor": false,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1038808865,
+      "parentid": 929486377,
+      "timestamp": "2021-08-14T21:52:34Z",
+      "user": "BX",
+      "userid": 28501110,
+      "size": 10352,
+      "comment": "removed [[Category:American military personnel of World War I]]; added [[Category:United States Army personnel of World War I]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1082601990,
+      "parentid": 1038808865,
+      "timestamp": "2022-04-14T02:37:09Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 10412,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American baseball coach (1896–1964)\", overriding Wikidata description \"American football player and coach, baseball player and coach (1896-1964)\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1094162157,
+      "parentid": 1082601990,
+      "timestamp": "2022-06-21T03:20:33Z",
+      "user": "GreenC bot",
+      "userid": 27823944,
+      "size": 10413,
+      "comment": "Rescued 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1094697693,
+      "parentid": 1094162157,
+      "timestamp": "2022-06-24T01:37:05Z",
+      "user": "Kuru",
+      "userid": 764407,
+      "size": 10237,
+      "comment": "rmv non-[[WP:RS]] : open wiki / user-generated material (bullpen wiki)",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1150276359,
+      "parentid": 1094697693,
+      "timestamp": "2023-04-17T06:33:59Z",
+      "user": "Yankees10",
+      "userid": 4268551,
+      "size": 10249,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1160842526,
+      "parentid": 1150276359,
+      "timestamp": "2023-06-19T03:49:42Z",
+      "user": "Dicklyon",
+      "userid": 869314,
+      "size": 10249,
+      "comment": "case fix (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1217804758,
+      "parentid": 1160842526,
+      "timestamp": "2024-04-08T00:19:36Z",
+      "user": "WikiOriginal-9",
+      "userid": 20957809,
+      "size": 10266,
+      "comment": "removed [[Category:Baseball players from Texas]]; added [[Category:Baseball players from San Saba County, Texas]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1223985565,
+      "parentid": 1217804758,
+      "timestamp": "2024-05-15T15:33:16Z",
+      "user": "Namiba",
+      "userid": 1008048,
+      "size": 10283,
+      "comment": "removed [[Category:Players of American football from Texas]]; added [[Category:Players of American football from San Saba County, Texas]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1234322416,
+      "parentid": 1223985565,
+      "timestamp": "2024-07-13T19:14:42Z",
+      "user": "Lepricavark",
+      "userid": 28779459,
+      "size": 10316,
+      "comment": "/* top */prepended 'Use mdy dates' tag",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1266352769,
+      "parentid": 1234322416,
+      "timestamp": "2024-12-31T05:53:15Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 10361,
+      "comment": "added [[:Category:20th-century American sportsmen]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Buck_Bailey"
+}

@@ -1,0 +1,58 @@
+{
+  "page_title": "Bobby_McKenzie",
+  "candidate_name": "Bobby McKenzie",
+  "collection_date": "2025-12-28T16:34:04.200882",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 3,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2013-10-24T17:29:38Z",
+      "end": "2023-02-06T14:00:20Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 578574828,
+      "parentid": 0,
+      "timestamp": "2013-10-24T17:29:38Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 91,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in Michigan, 2014#District 11]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872630269,
+      "parentid": 578574828,
+      "timestamp": "2018-12-08T05:35:45Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 91,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in Michigan]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    },
+    {
+      "revid": 1137796067,
+      "parentid": 872630269,
+      "timestamp": "2023-02-06T14:00:20Z",
+      "user": "Sam11333",
+      "userid": 11121466,
+      "size": 32,
+      "comment": "[[WP:AES|←]]Changed redirect target from [[2014 United States House of Representatives elections in Michigan#District 11]] to [[Robert L. McKenzie]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target",
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bobby_McKenzie"
+}

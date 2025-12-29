@@ -1,0 +1,44 @@
+{
+  "page_title": "Roy_Cho",
+  "candidate_name": "Roy Cho",
+  "collection_date": "2025-12-28T16:53:20.277217",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2013-10-09T11:39:25Z",
+      "end": "2018-12-08T20:37:43Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 576422092,
+      "parentid": 0,
+      "timestamp": "2013-10-09T11:39:25Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 92,
+      "comment": "[[WP:AES|←]]Redirected page to [[United States House of Representatives elections in New Jersey, 2014#District 5]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872728778,
+      "parentid": 576422092,
+      "timestamp": "2018-12-08T20:37:43Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 92,
+      "comment": "Bot: Fixing double redirect to [[2014 United States House of Representatives elections in New Jersey]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roy_Cho"
+}

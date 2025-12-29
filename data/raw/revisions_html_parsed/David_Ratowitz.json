@@ -1,0 +1,473 @@
+{
+  "page_title": "David_Ratowitz",
+  "candidate_name": "David Ratowitz",
+  "collection_date": "2025-12-28T16:37:03.143502",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 41,
+    "unique_editors": 20,
+    "date_range": {
+      "start": "2010-04-19T02:08:14Z",
+      "end": "2018-12-08T14:14:15Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 356902817,
+      "parentid": 0,
+      "timestamp": "2010-04-19T02:08:14Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 3550,
+      "comment": "created page",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 356903184,
+      "parentid": 356902817,
+      "timestamp": "2010-04-19T02:10:44Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 3564,
+      "comment": "/* Early life */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356905750,
+      "parentid": 356903184,
+      "timestamp": "2010-04-19T02:28:43Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 3988,
+      "comment": "expanded",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 356906185,
+      "parentid": 356905750,
+      "timestamp": "2010-04-19T02:32:04Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4030,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356907614,
+      "parentid": 356906185,
+      "timestamp": "2010-04-19T02:41:18Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4160,
+      "comment": "/* Military service */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356907927,
+      "parentid": 356907614,
+      "timestamp": "2010-04-19T02:43:19Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4213,
+      "comment": "/* External links */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356908455,
+      "parentid": 356907927,
+      "timestamp": "2010-04-19T02:47:17Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4298,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356909080,
+      "parentid": 356908455,
+      "timestamp": "2010-04-19T02:51:54Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4353,
+      "comment": "/* Private work */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356909424,
+      "parentid": 356909080,
+      "timestamp": "2010-04-19T02:54:30Z",
+      "user": "Darkwind",
+      "userid": 8834,
+      "size": 4581,
+      "comment": "Proposing article for deletion per [[WP:BLPPROD]]. using [[WP:TWINKLE|TW]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 356909482,
+      "parentid": 356909424,
+      "timestamp": "2010-04-19T02:54:54Z",
+      "user": "Darkwind",
+      "userid": 8834,
+      "size": 4616,
+      "comment": "Added {{[[Template:primarysources|primarysources]]}} tag to article using [[WP:FRIENDLY|Friendly]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356909561,
+      "parentid": 356909482,
+      "timestamp": "2010-04-19T02:55:34Z",
+      "user": "Darkwind",
+      "userid": 8834,
+      "size": 4616,
+      "comment": "rearranging tags",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356911010,
+      "parentid": 356909561,
+      "timestamp": "2010-04-19T03:06:31Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4888,
+      "comment": "added source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 356911161,
+      "parentid": 356911010,
+      "timestamp": "2010-04-19T03:07:27Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4891,
+      "comment": "/* Congressional bid */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356911945,
+      "parentid": 356911161,
+      "timestamp": "2010-04-19T03:13:45Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 5226,
+      "comment": "added abc questionnaire source",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 356912997,
+      "parentid": 356911945,
+      "timestamp": "2010-04-19T03:21:46Z",
+      "user": "Darkwind",
+      "userid": 8834,
+      "size": 4997,
+      "comment": "that's a reliable source. de-PRODding.",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 356913154,
+      "parentid": 356912997,
+      "timestamp": "2010-04-19T03:23:07Z",
+      "user": "Darkwind",
+      "userid": 8834,
+      "size": 4814,
+      "comment": "/* External links */ removing excess social media links per [[WP:ELOFFICIAL]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 357303575,
+      "parentid": 356913154,
+      "timestamp": "2010-04-20T23:31:37Z",
+      "user": "Daveswagon",
+      "userid": 298920,
+      "size": 4839,
+      "comment": "birthplace",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 358783535,
+      "parentid": 357303575,
+      "timestamp": "2010-04-28T03:48:13Z",
+      "user": "BStar492",
+      "userid": 1572359,
+      "size": 4858,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 360414577,
+      "parentid": 358783535,
+      "timestamp": "2010-05-06T00:36:37Z",
+      "user": "ImageRemovalBot",
+      "userid": 4851336,
+      "size": 4835,
+      "comment": "Removing deleted [[:File:David Ratowitz.jpg|image]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 363819748,
+      "parentid": 360414577,
+      "timestamp": "2010-05-23T23:19:30Z",
+      "user": "192.160.216.67",
+      "userid": 0,
+      "size": 4845,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 378553254,
+      "parentid": 363819748,
+      "timestamp": "2010-08-12T15:45:02Z",
+      "user": "Americus55",
+      "userid": 9441415,
+      "size": 4872,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 380667981,
+      "parentid": 378553254,
+      "timestamp": "2010-08-24T08:40:53Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 4856,
+      "comment": "Date maintenance tags and general fixes: build 478:",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 385253166,
+      "parentid": 380667981,
+      "timestamp": "2010-09-16T22:55:23Z",
+      "user": "Srich32977",
+      "userid": 8372814,
+      "size": 4870,
+      "comment": "tag recentism",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 385287826,
+      "parentid": 385253166,
+      "timestamp": "2010-09-17T03:01:58Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 5143,
+      "comment": "Date maintenance tags and general fixes: build 540:",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 389109245,
+      "parentid": 385287826,
+      "timestamp": "2010-10-06T14:38:45Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5243,
+      "comment": "Proposing article for deletion per [[WP:PROD]]. ([[WP:TW|TW]])",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 389121434,
+      "parentid": 389109245,
+      "timestamp": "2010-10-06T15:55:21Z",
+      "user": "Arbor8",
+      "userid": 12263946,
+      "size": 5241,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 389721359,
+      "parentid": 389121434,
+      "timestamp": "2010-10-09T15:55:01Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5254,
+      "comment": "/* Congressional bid */ adding the OBVIOUS link and the other candidate - yet another example of how partisan this article is by omitting both",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 389722224,
+      "parentid": 389721359,
+      "timestamp": "2010-10-09T16:00:53Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5436,
+      "comment": "/* External links */ more blatant partisanship displayed by omitting ANY third-party information - THIS IS AN ENCYCLOPEDIA NOT A CAMPAIGN BROCHURE",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 389722904,
+      "parentid": 389722224,
+      "timestamp": "2010-10-09T16:05:42Z",
+      "user": "Flatterworld",
+      "userid": 2740078,
+      "size": 5451,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 394104865,
+      "parentid": 389722904,
+      "timestamp": "2010-11-01T03:50:02Z",
+      "user": "SmackBot",
+      "userid": 433328,
+      "size": 5470,
+      "comment": "Date maintenance tags and general fixes: build 561:",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 394661229,
+      "parentid": 394104865,
+      "timestamp": "2010-11-03T21:19:30Z",
+      "user": "Scarlettmer",
+      "userid": 13365032,
+      "size": 5464,
+      "comment": "Birthplace",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 394663192,
+      "parentid": 394661229,
+      "timestamp": "2010-11-03T21:31:27Z",
+      "user": "Scarlettmer",
+      "userid": 13365032,
+      "size": 6381,
+      "comment": "/* Congressional bid */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 398564774,
+      "parentid": 394663192,
+      "timestamp": "2010-11-24T03:15:49Z",
+      "user": "Sophus Bie",
+      "userid": 8698327,
+      "size": 6381,
+      "comment": "typo fix",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 413859326,
+      "parentid": 398564774,
+      "timestamp": "2011-02-14T11:09:45Z",
+      "user": "Woohookitty",
+      "userid": 159678,
+      "size": 6409,
+      "comment": "[[:en:WP:CLEANER|WPCleaner]] 0.99 - Repairing link to disambiguation page - [[WP:DPL|(You can help)]] - [[Fort Bragg]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 463583084,
+      "parentid": 413859326,
+      "timestamp": "2011-12-01T23:50:12Z",
+      "user": "AvicBot",
+      "userid": 11952314,
+      "size": 6413,
+      "comment": "Bot: Grouping Multiple Issues together ([[User talk:Avicennasis|Report error]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 475927932,
+      "parentid": 463583084,
+      "timestamp": "2012-02-09T11:44:15Z",
+      "user": "Klemen Kocjancic",
+      "userid": 71061,
+      "size": 6455,
+      "comment": "added [[Category:Recipients of the Ranger tab]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 486933692,
+      "parentid": 475927932,
+      "timestamp": "2012-04-12T02:34:50Z",
+      "user": "Gongshow",
+      "userid": 7471647,
+      "size": 6465,
+      "comment": "dab",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 495182194,
+      "parentid": 486933692,
+      "timestamp": "2012-05-30T19:55:53Z",
+      "user": "VoraciousDetail",
+      "userid": 16911112,
+      "size": 6542,
+      "comment": "added 47th Ward Commetteeman, corrected factual information and spelling regarding Congressional bid",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 501161714,
+      "parentid": 495182194,
+      "timestamp": "2012-07-07T22:29:39Z",
+      "user": "Trinitresque",
+      "userid": 16804140,
+      "size": 80,
+      "comment": "Merged per discussion.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 601552216,
+      "parentid": 501161714,
+      "timestamp": "2014-03-27T19:56:04Z",
+      "user": "Arms & Hearts",
+      "userid": 2687020,
+      "size": 91,
+      "comment": "to section",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 872677335,
+      "parentid": 601552216,
+      "timestamp": "2018-12-08T14:14:15Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 90,
+      "comment": "Bot: Fixing double redirect to [[2010 United States House of Representatives elections in Illinois]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Ratowitz"
+}

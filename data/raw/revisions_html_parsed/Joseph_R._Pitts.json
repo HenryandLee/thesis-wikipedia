@@ -1,0 +1,44 @@
+{
+  "page_title": "Joseph_R._Pitts",
+  "candidate_name": "Joseph R. Pitts",
+  "collection_date": "2025-12-28T16:44:38.841793",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 2,
+    "unique_editors": 2,
+    "date_range": {
+      "start": "2013-10-20T15:29:02Z",
+      "end": "2021-10-18T19:22:21Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 577985957,
+      "parentid": 0,
+      "timestamp": "2013-10-20T15:29:02Z",
+      "user": "Connormah",
+      "userid": 1865063,
+      "size": 39,
+      "comment": "Connormah moved page [[Joseph R. Pitts]] to [[Joe Pitts]] over redirect: common name",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1050591056,
+      "parentid": 577985957,
+      "timestamp": "2021-10-18T19:22:21Z",
+      "user": "Xqbot",
+      "userid": 8066546,
+      "size": 65,
+      "comment": "Bot: Fixing double redirect to [[Joe Pitts (Pennsylvania politician)]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_R._Pitts"
+}

@@ -1,0 +1,1408 @@
+{
+  "page_title": "Liam_Madden",
+  "candidate_name": "Liam Madden",
+  "collection_date": "2025-12-28T16:46:40.898512",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 113,
+    "unique_editors": 50,
+    "date_range": {
+      "start": "2008-02-10T05:15:07Z",
+      "end": "2024-11-23T06:38:13Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 190331856,
+      "parentid": 0,
+      "timestamp": "2008-02-10T05:15:07Z",
+      "user": "DKalkin",
+      "userid": 575741,
+      "size": 2915,
+      "comment": "create article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 193981298,
+      "parentid": 190331856,
+      "timestamp": "2008-02-25T18:44:08Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 2985,
+      "comment": "clean up, Replaced: |lived= → |born=  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 199930280,
+      "parentid": 193981298,
+      "timestamp": "2008-03-21T22:15:00Z",
+      "user": "David Gerard",
+      "userid": 36389,
+      "size": 3119,
+      "comment": "free image please  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 201784546,
+      "parentid": 199930280,
+      "timestamp": "2008-03-29T10:24:44Z",
+      "user": "DumZiBoT",
+      "userid": 6085301,
+      "size": 3528,
+      "comment": "Bot: Converting bare references, see [[User:DumZiBoT/refLinks|FAQ]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 202826095,
+      "parentid": 201784546,
+      "timestamp": "2008-04-02T16:10:09Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3594,
+      "comment": "copyedit  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 204257283,
+      "parentid": 202826095,
+      "timestamp": "2008-04-08T17:35:10Z",
+      "user": "DKalkin",
+      "userid": 575741,
+      "size": 3658,
+      "comment": "/* See also */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 210584883,
+      "parentid": 204257283,
+      "timestamp": "2008-05-06T15:29:03Z",
+      "user": "DKalkin",
+      "userid": 575741,
+      "size": 3659,
+      "comment": "move portal to article bottom",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 218193283,
+      "parentid": 210584883,
+      "timestamp": "2008-06-09T15:55:12Z",
+      "user": "146.115.45.195",
+      "userid": 0,
+      "size": 3659,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 224474865,
+      "parentid": 218193283,
+      "timestamp": "2008-07-09T00:26:40Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3658,
+      "comment": "copyedit  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 258844412,
+      "parentid": 224474865,
+      "timestamp": "2008-12-18T21:01:34Z",
+      "user": "Rjwilmsi",
+      "userid": 203434,
+      "size": 3643,
+      "comment": "[[User:Rjwilmsi#Other_fixes|gen fixes]]: (1) set identical unnamed references to use named refs (1),  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 271192973,
+      "parentid": 258844412,
+      "timestamp": "2009-02-16T21:04:40Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3806,
+      "comment": "Add person data template, will fill in shortly using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 288980760,
+      "parentid": 271192973,
+      "timestamp": "2009-05-10T01:26:11Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3838,
+      "comment": "add person data and copyedit using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 304748466,
+      "parentid": 288980760,
+      "timestamp": "2009-07-28T20:56:04Z",
+      "user": "Julietechowhiskey",
+      "userid": 10210836,
+      "size": 3796,
+      "comment": "",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 304748583,
+      "parentid": 304748466,
+      "timestamp": "2009-07-28T20:56:44Z",
+      "user": "Julietechowhiskey",
+      "userid": 10210836,
+      "size": 3791,
+      "comment": "/* Discharge hearing */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 308756989,
+      "parentid": 304748583,
+      "timestamp": "2009-08-18T21:00:44Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3757,
+      "comment": "fix portals, brackets, typos, dates, links, references, categories and formatting, Replaced: Image: → File:, {{portal|United States Marine Corps|USMC_logo.svg}}  using [[Project:AutoWikiBrowser|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 343524759,
+      "parentid": 308756989,
+      "timestamp": "2010-02-12T10:57:01Z",
+      "user": "Fergananim",
+      "userid": 54324,
+      "size": 3953,
+      "comment": "/* See also */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 350244762,
+      "parentid": 343524759,
+      "timestamp": "2010-03-16T18:13:39Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3953,
+      "comment": "fix portals, brackets, typos, dates, links, references, categories and formatting, replaced: {{Infobox Military Person → {{Infobox military person using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 364481311,
+      "parentid": 350244762,
+      "timestamp": "2010-05-27T13:55:33Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3972,
+      "comment": "fix portals, brackets, typos, dates, links, references, categories and formatting, replaced: {{USMCportallink}} → {{Portal|United States Marine Corps}}, {{reflist → {{Reflist using [[Project:AWB|AWB]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 399256028,
+      "parentid": 364481311,
+      "timestamp": "2010-11-28T02:49:11Z",
+      "user": "Kumioko (renamed)",
+      "userid": 4562410,
+      "size": 3987,
+      "comment": "/* See also */fix portals, brackets, typos, dates, links, references, categories, formatting and persondata using [[Project:AWB|AWB]] (7424)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 437956880,
+      "parentid": 399256028,
+      "timestamp": "2011-07-05T23:14:50Z",
+      "user": "Yobot",
+      "userid": 7328338,
+      "size": 3997,
+      "comment": "Updated infobox (BRFA 21) using [[Project:AWB|AWB]] (7779)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 443297497,
+      "parentid": 437956880,
+      "timestamp": "2011-08-06T05:22:16Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 3999,
+      "comment": "Robot - Speedily moving category American anti-Iraq War activists to [[:Category:American anti–Iraq War activists]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 467696682,
+      "parentid": 443297497,
+      "timestamp": "2011-12-26T02:53:54Z",
+      "user": "Hmains",
+      "userid": 508734,
+      "size": 3993,
+      "comment": "/* See also */copyedit, clarity edit, MOS conformance, and/or AWB general fixes using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 475263431,
+      "parentid": 467696682,
+      "timestamp": "2012-02-05T18:52:35Z",
+      "user": "WOSlinker",
+      "userid": 3138265,
+      "size": 3860,
+      "comment": "remove placeholder image",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 490324312,
+      "parentid": 475263431,
+      "timestamp": "2012-05-02T17:09:19Z",
+      "user": "Robofish",
+      "userid": 794371,
+      "size": 3670,
+      "comment": "/* See also */ removed irrelevant links",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 638026298,
+      "parentid": 490324312,
+      "timestamp": "2014-12-14T09:47:17Z",
+      "user": "Magioladitis",
+      "userid": 1862829,
+      "size": 3666,
+      "comment": "/* See also */clean up using [[Project:AWB|AWB]] (10515)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 676017786,
+      "parentid": 638026298,
+      "timestamp": "2015-08-14T04:06:46Z",
+      "user": "73.186.33.107",
+      "userid": 0,
+      "size": 3753,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 676023081,
+      "parentid": 676017786,
+      "timestamp": "2015-08-14T04:52:29Z",
+      "user": "Only1liam",
+      "userid": 13447777,
+      "size": 3784,
+      "comment": "I added an acccurate photo of the subject, I clarified the subject's military discharge status and included actual rank under the rank category, not just an occupation",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 676023340,
+      "parentid": 676023081,
+      "timestamp": "2015-08-14T04:55:36Z",
+      "user": "Only1liam",
+      "userid": 13447777,
+      "size": 3803,
+      "comment": "added accurate photo",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 676023629,
+      "parentid": 676023340,
+      "timestamp": "2015-08-14T04:58:37Z",
+      "user": "Only1liam",
+      "userid": 13447777,
+      "size": 3804,
+      "comment": "changed to actual rank",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 676023936,
+      "parentid": 676023629,
+      "timestamp": "2015-08-14T05:02:11Z",
+      "user": "Only1liam",
+      "userid": 13447777,
+      "size": 3775,
+      "comment": "removed inaccurate place of birth",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 676026595,
+      "parentid": 676023936,
+      "timestamp": "2015-08-14T05:31:06Z",
+      "user": "Only1liam",
+      "userid": 13447777,
+      "size": 3703,
+      "comment": "removed inaccurate place of birth",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 705080937,
+      "parentid": 676026595,
+      "timestamp": "2016-02-15T11:18:37Z",
+      "user": "John of Reading",
+      "userid": 11308236,
+      "size": 3683,
+      "comment": "/* top */Removed the extra frame from the infobox image using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 713608088,
+      "parentid": 705080937,
+      "timestamp": "2016-04-05T00:54:46Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 3516,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Liam Madden|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 785068238,
+      "parentid": 713608088,
+      "timestamp": "2017-06-11T13:31:29Z",
+      "user": "FieldMarine",
+      "userid": 5113002,
+      "size": 3520,
+      "comment": "/* References */ Changed cat.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 807307933,
+      "parentid": 785068238,
+      "timestamp": "2017-10-27T04:44:33Z",
+      "user": "KolbertBot",
+      "userid": 31691822,
+      "size": 3521,
+      "comment": "Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470)",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 816619677,
+      "parentid": 807307933,
+      "timestamp": "2017-12-22T14:59:25Z",
+      "user": "InternetArchiveBot",
+      "userid": 27015025,
+      "size": 3808,
+      "comment": "Rescuing 2 sources and tagging 0 as dead. #IABot (v1.6.1)",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 888274234,
+      "parentid": 816619677,
+      "timestamp": "2019-03-18T02:13:03Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 3807,
+      "comment": "/* Appeal for Redress */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 888274302,
+      "parentid": 888274234,
+      "timestamp": "2019-03-18T02:13:50Z",
+      "user": "FeanorStar7",
+      "userid": 160806,
+      "size": 3835,
+      "comment": "/* Appeal for Redress */",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 903086551,
+      "parentid": 888274302,
+      "timestamp": "2019-06-23T13:13:19Z",
+      "user": "100.11.1.152",
+      "userid": 0,
+      "size": 3879,
+      "comment": "/* Appeal for Redress */More accurate credit.",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 907883695,
+      "parentid": 903086551,
+      "timestamp": "2019-07-25T22:38:35Z",
+      "user": "BrownHairedGirl",
+      "userid": 754619,
+      "size": 3852,
+      "comment": "remove links to deleted portals",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 995618977,
+      "parentid": 907883695,
+      "timestamp": "2020-12-22T00:47:08Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 3857,
+      "comment": "Moving [[:Category:American Marine Corps personnel of the Iraq War]] to [[:Category:United States Marine Corps personnel of the Iraq War]] per [[Wikipedia:Categories for discussion/Speedy]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1058635785,
+      "parentid": 995618977,
+      "timestamp": "2021-12-04T20:09:31Z",
+      "user": "Rlink2",
+      "userid": 42425010,
+      "size": 3860,
+      "comment": "/* Appeal for Redress */archive link repair, may include: archive.* -> archive.today, and http->https for ghostarchive.org and archive.org ([[wp:el#Specifying_protocols]])",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1099302697,
+      "parentid": 1058635785,
+      "timestamp": "2022-07-20T01:53:56Z",
+      "user": "2600:8805:9905:B100:F06C:3AFA:A7E6:C36B",
+      "userid": 0,
+      "size": 3870,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1101819953,
+      "parentid": 1099302697,
+      "timestamp": "2022-08-02T00:13:27Z",
+      "user": "Thriley",
+      "userid": 2559432,
+      "size": 4146,
+      "comment": "/* Discharge hearing */2022 election",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1101856661,
+      "parentid": 1101819953,
+      "timestamp": "2022-08-02T05:07:29Z",
+      "user": "Thriley",
+      "userid": 2559432,
+      "size": 4167,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1101932800,
+      "parentid": 1101856661,
+      "timestamp": "2022-08-02T14:44:38Z",
+      "user": "Thriley",
+      "userid": 2559432,
+      "size": 4184,
+      "comment": "/* Political career */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1103407301,
+      "parentid": 1101932800,
+      "timestamp": "2022-08-09T15:12:07Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4322,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1103583382,
+      "parentid": 1103407301,
+      "timestamp": "2022-08-10T05:38:47Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 4392,
+      "comment": "https://www.valleyreporter.com/index.php/news/local-news/16975-liam-madden-runs-for-congress",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1103641377,
+      "parentid": 1103583382,
+      "timestamp": "2022-08-10T11:46:47Z",
+      "user": "Ser!",
+      "userid": 31259259,
+      "size": 4578,
+      "comment": "he won primary",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1104154241,
+      "parentid": 1103641377,
+      "timestamp": "2022-08-13T02:06:58Z",
+      "user": "209.122.10.206",
+      "userid": 0,
+      "size": 4610,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104154409,
+      "parentid": 1104154241,
+      "timestamp": "2022-08-13T02:08:37Z",
+      "user": "209.122.10.206",
+      "userid": 0,
+      "size": 4619,
+      "comment": "/* References */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1104538954,
+      "parentid": 1104154409,
+      "timestamp": "2022-08-15T15:02:07Z",
+      "user": "Thriley",
+      "userid": 2559432,
+      "size": 4921,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1104539991,
+      "parentid": 1104538954,
+      "timestamp": "2022-08-15T15:08:27Z",
+      "user": "Thriley",
+      "userid": 2559432,
+      "size": 5160,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1104646270,
+      "parentid": 1104539991,
+      "timestamp": "2022-08-16T03:54:05Z",
+      "user": "Thriley",
+      "userid": 2559432,
+      "size": 5195,
+      "comment": "/* Early life */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1104770473,
+      "parentid": 1104646270,
+      "timestamp": "2022-08-16T20:27:27Z",
+      "user": "Ehlla",
+      "userid": 16228223,
+      "size": 5287,
+      "comment": "+[[Category:People from Bellows Falls, Vermont]]; +[[Category:Northeastern University alumni]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105085412,
+      "parentid": 1104770473,
+      "timestamp": "2022-08-18T12:49:51Z",
+      "user": "Filedelinkerbot",
+      "userid": 20611691,
+      "size": 5248,
+      "comment": "Bot: Removing [[Commons:File:Liam Madden (VT) Headview (cropped).jpg]] ([[:File:Liam Madden (VT) Headview (cropped).jpg|en]]). It was deleted on Commons by [[:Commons:User:Fitindia|Fitindia]] (No permission since 10 August 2022).",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1105330728,
+      "parentid": 1105085412,
+      "timestamp": "2022-08-19T18:28:28Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 6004,
+      "comment": "added electoral history",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105345018,
+      "parentid": 1105330728,
+      "timestamp": "2022-08-19T20:02:40Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 7125,
+      "comment": "Business history and 2022 campaign",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105444096,
+      "parentid": 1105345018,
+      "timestamp": "2022-08-20T09:07:01Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 7671,
+      "comment": "Alter: template type. Add: date, newspaper, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 66/658",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1105471009,
+      "parentid": 1105444096,
+      "timestamp": "2022-08-20T12:04:13Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 7737,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105471236,
+      "parentid": 1105471009,
+      "timestamp": "2022-08-20T12:05:33Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 7809,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105731872,
+      "parentid": 1105471236,
+      "timestamp": "2022-08-21T14:21:47Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 7819,
+      "comment": "photo added",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105740748,
+      "parentid": 1105731872,
+      "timestamp": "2022-08-21T15:21:01Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 8222,
+      "comment": "/* Appeal for Redress */ Leahy quote",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105741090,
+      "parentid": 1105740748,
+      "timestamp": "2022-08-21T15:23:15Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 8231,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105792261,
+      "parentid": 1105741090,
+      "timestamp": "2022-08-21T20:49:56Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 8231,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105792327,
+      "parentid": 1105792261,
+      "timestamp": "2022-08-21T20:50:19Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 8231,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1105951957,
+      "parentid": 1105792327,
+      "timestamp": "2022-08-22T14:35:30Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 8241,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106039647,
+      "parentid": 1105951957,
+      "timestamp": "2022-08-22T23:39:57Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 10500,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106040103,
+      "parentid": 1106039647,
+      "timestamp": "2022-08-22T23:43:28Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 10556,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106055128,
+      "parentid": 1106040103,
+      "timestamp": "2022-08-23T01:13:46Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 10554,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106145086,
+      "parentid": 1106055128,
+      "timestamp": "2022-08-23T10:41:27Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 10715,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106146448,
+      "parentid": 1106145086,
+      "timestamp": "2022-08-23T10:49:31Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 10796,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106146969,
+      "parentid": 1106146448,
+      "timestamp": "2022-08-23T10:52:53Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 10860,
+      "comment": "/* Business career */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106148367,
+      "parentid": 1106146969,
+      "timestamp": "2022-08-23T11:01:06Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 11025,
+      "comment": "/* Democracy reform */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106182040,
+      "parentid": 1106148367,
+      "timestamp": "2022-08-23T14:40:27Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 11028,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106187251,
+      "parentid": 1106182040,
+      "timestamp": "2022-08-23T15:15:39Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 11499,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106187380,
+      "parentid": 1106187251,
+      "timestamp": "2022-08-23T15:16:35Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 11499,
+      "comment": "/* Infrastructure */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106187784,
+      "parentid": 1106187380,
+      "timestamp": "2022-08-23T15:19:06Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 11524,
+      "comment": "/* Political positions */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106616380,
+      "parentid": 1106187784,
+      "timestamp": "2022-08-25T14:33:52Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 11821,
+      "comment": "/* Personal life */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106616897,
+      "parentid": 1106616380,
+      "timestamp": "2022-08-25T14:37:40Z",
+      "user": "Gremo2",
+      "userid": 44369739,
+      "size": 11825,
+      "comment": "/* Infrastructure */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1106771623,
+      "parentid": 1106616897,
+      "timestamp": "2022-08-26T10:39:05Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 12261,
+      "comment": "Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | #UCB_webform 407/3846",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1108409775,
+      "parentid": 1106771623,
+      "timestamp": "2022-09-04T07:02:23Z",
+      "user": "Orenburg1",
+      "userid": 10248457,
+      "size": 12275,
+      "comment": "sp",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1108764840,
+      "parentid": 1108409775,
+      "timestamp": "2022-09-06T04:17:05Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 12597,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1109352174,
+      "parentid": 1108764840,
+      "timestamp": "2022-09-09T10:36:57Z",
+      "user": "Devonian Wombat",
+      "userid": 36757533,
+      "size": 12431,
+      "comment": "not relevant enough for lead",
+      "minor": false,
+      "tags": [
+        "mw-reverted",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1109788928,
+      "parentid": 1109352174,
+      "timestamp": "2022-09-11T21:43:05Z",
+      "user": "GeorgeBailey",
+      "userid": 40912093,
+      "size": 12597,
+      "comment": "It's relevant for the lead since he's the only candidate this cycle to make such a pledge",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111597438,
+      "parentid": 1109788928,
+      "timestamp": "2022-09-21T21:20:17Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 12561,
+      "comment": "This is just his name",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111612177,
+      "parentid": 1111597438,
+      "timestamp": "2022-09-21T23:24:07Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 13049,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111612291,
+      "parentid": 1111612177,
+      "timestamp": "2022-09-21T23:25:23Z",
+      "user": "Therequiembellishere",
+      "userid": 1522828,
+      "size": 13105,
+      "comment": "https://ballotpedia.org/Liam_Madden",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1111764815,
+      "parentid": 1111612291,
+      "timestamp": "2022-09-22T19:57:23Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 13175,
+      "comment": "categories",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1113857870,
+      "parentid": 1111764815,
+      "timestamp": "2022-10-03T15:30:17Z",
+      "user": "Qwerfjkl (bot)",
+      "userid": 42522270,
+      "size": 13172,
+      "comment": "Removed [[Help:Self link|link(s) to title]] ([[Wikipedia:WikiProject Check Wikipedia/List of errors#48|CW Error #48]]); [[WP:GENFIXES|general fixes]]",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 1118894450,
+      "parentid": 1113857870,
+      "timestamp": "2022-10-29T15:24:34Z",
+      "user": "2601:19B:181:1130:D582:A31A:FDDF:81F4",
+      "userid": 0,
+      "size": 13172,
+      "comment": "/* Economy and finance */Fixed typo",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit"
+      ]
+    },
+    {
+      "revid": 1120449561,
+      "parentid": 1118894450,
+      "timestamp": "2022-11-07T02:12:45Z",
+      "user": "66.220.253.182",
+      "userid": 0,
+      "size": 13162,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1120452051,
+      "parentid": 1120449561,
+      "timestamp": "2022-11-07T02:33:09Z",
+      "user": "Thriley",
+      "userid": 2559432,
+      "size": 13172,
+      "comment": "Restore nationality",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1122354692,
+      "parentid": 1120452051,
+      "timestamp": "2022-11-17T04:26:47Z",
+      "user": "NDACFan",
+      "userid": 19061936,
+      "size": 13175,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1125108618,
+      "parentid": 1122354692,
+      "timestamp": "2022-12-02T06:37:48Z",
+      "user": "TulsaPoliticsFan",
+      "userid": 40998406,
+      "size": 13260,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128985710,
+      "parentid": 1125108618,
+      "timestamp": "2022-12-23T01:15:21Z",
+      "user": "2601:646:C700:4800:1A5:4B64:C15A:513E",
+      "userid": 0,
+      "size": 14837,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "visualeditor"
+      ]
+    },
+    {
+      "revid": 1128986134,
+      "parentid": 1128985710,
+      "timestamp": "2022-12-23T01:18:19Z",
+      "user": "2601:646:C700:4800:1A5:4B64:C15A:513E",
+      "userid": 0,
+      "size": 14738,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128986430,
+      "parentid": 1128986134,
+      "timestamp": "2022-12-23T01:20:36Z",
+      "user": "2601:646:C700:4800:1A5:4B64:C15A:513E",
+      "userid": 0,
+      "size": 14745,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1128986494,
+      "parentid": 1128986430,
+      "timestamp": "2022-12-23T01:21:03Z",
+      "user": "2601:646:C700:4800:1A5:4B64:C15A:513E",
+      "userid": 0,
+      "size": 14741,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1138771714,
+      "parentid": 1128986494,
+      "timestamp": "2023-02-11T14:23:58Z",
+      "user": "Billmckern",
+      "userid": 1869658,
+      "size": 14697,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1152446232,
+      "parentid": 1138771714,
+      "timestamp": "2023-04-30T08:17:09Z",
+      "user": "Orenburg1",
+      "userid": 10248457,
+      "size": 14683,
+      "comment": "sp",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1158813012,
+      "parentid": 1152446232,
+      "timestamp": "2023-06-06T11:36:06Z",
+      "user": "Atremari",
+      "userid": 44127043,
+      "size": 14765,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "mobile edit",
+        "mobile app edit",
+        "ios app edit"
+      ]
+    },
+    {
+      "revid": 1159306902,
+      "parentid": 1158813012,
+      "timestamp": "2023-06-09T14:36:00Z",
+      "user": "Sunshineisles2",
+      "userid": 10907185,
+      "size": 15033,
+      "comment": "ce, categories",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188385044,
+      "parentid": 1159306902,
+      "timestamp": "2023-12-05T02:14:29Z",
+      "user": "LudditeOne",
+      "userid": 44511296,
+      "size": 15026,
+      "comment": "/* Early life */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188385425,
+      "parentid": 1188385044,
+      "timestamp": "2023-12-05T02:17:42Z",
+      "user": "LudditeOne",
+      "userid": 44511296,
+      "size": 15032,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188385608,
+      "parentid": 1188385425,
+      "timestamp": "2023-12-05T02:19:26Z",
+      "user": "LudditeOne",
+      "userid": 44511296,
+      "size": 15037,
+      "comment": "",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1188385975,
+      "parentid": 1188385608,
+      "timestamp": "2023-12-05T02:22:29Z",
+      "user": "LudditeOne",
+      "userid": 44511296,
+      "size": 15037,
+      "comment": "/* Business career */",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1206748963,
+      "parentid": 1188385975,
+      "timestamp": "2024-02-13T01:13:37Z",
+      "user": "Thrakkx",
+      "userid": 37763648,
+      "size": 15023,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American Marine veteran, entrepreneur and anti-war activist\" to \"American Marine veteran and anti-war activist\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1206748985,
+      "parentid": 1206748963,
+      "timestamp": "2024-02-13T01:13:43Z",
+      "user": "Thrakkx",
+      "userid": 37763648,
+      "size": 15016,
+      "comment": "Changing [[Wikipedia:Short description|short description]] from \"American Marine veteran and anti-war activist\" to \"American veteran and anti-war activist\"",
+      "minor": false,
+      "tags": [
+        "shortdesc helper"
+      ]
+    },
+    {
+      "revid": 1211905436,
+      "parentid": 1206748985,
+      "timestamp": "2024-03-05T03:39:35Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 15138,
+      "comment": "Added date. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:American anti–Iraq War activists]] | #UCB_Category 128/145",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1218859212,
+      "parentid": 1211905436,
+      "timestamp": "2024-04-14T07:49:02Z",
+      "user": "Orenburg1",
+      "userid": 10248457,
+      "size": 15137,
+      "comment": "sp",
+      "minor": true,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1231688493,
+      "parentid": 1218859212,
+      "timestamp": "2024-06-29T18:05:32Z",
+      "user": "Billjones94",
+      "userid": 40561892,
+      "size": 15139,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ]
+    },
+    {
+      "revid": 1259079018,
+      "parentid": 1231688493,
+      "timestamp": "2024-11-23T06:38:13Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 15139,
+      "comment": "Moving [[:Category:Vermont Independents]] to [[:Category:Vermont independents]] per [[Wikipedia:Categories for discussion/Log/2024 November 14#US state independents]]",
+      "minor": true,
+      "tags": []
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Liam_Madden"
+}

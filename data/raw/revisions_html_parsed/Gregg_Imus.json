@@ -1,0 +1,88 @@
+{
+  "page_title": "Gregg_Imus",
+  "candidate_name": "Gregg Imus",
+  "collection_date": "2025-12-28T16:39:59.654496",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 6,
+    "unique_editors": 5,
+    "date_range": {
+      "start": "2012-09-30T02:11:09Z",
+      "end": "2018-12-08T17:18:43Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 515242865,
+      "parentid": 0,
+      "timestamp": "2012-09-30T02:11:09Z",
+      "user": "Roman Spinner",
+      "userid": 786437,
+      "size": 117,
+      "comment": "Redirecting main header delineating American Republican congressional candidate in [[California's 8th congressional district]], [[Gregg Imus]], to the article, [[United States House of Representatives elections in California, 2012#District 8]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 522772535,
+      "parentid": 515242865,
+      "timestamp": "2012-11-13T05:35:43Z",
+      "user": "Anomalocaris",
+      "userid": 299039,
+      "size": 375,
+      "comment": "Nominated for RFD: see [[Wikipedia:Redirects for discussion]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 524071497,
+      "parentid": 522772535,
+      "timestamp": "2012-11-20T19:46:28Z",
+      "user": "Emmette Hernandez Coleman",
+      "userid": 6196082,
+      "size": 117,
+      "comment": "[[Wikipedia:Redirects for discussion/Log/2012 November 13#Gregg Imus]] closed as keep",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 524071985,
+      "parentid": 524071497,
+      "timestamp": "2012-11-20T19:49:53Z",
+      "user": "Emmette Hernandez Coleman",
+      "userid": 6196082,
+      "size": 375,
+      "comment": "Undid revision 524071497 by [[Special:Contributions/Emmette Hernandez Coleman|Emmette Hernandez Coleman]] ([[User talk:Emmette Hernandez Coleman|talk]]) Re-opining [[Wikipedia:Redirects for discussion/Log/2012 November 13#Gregg Imus]]. New info found",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 524841933,
+      "parentid": 524071985,
+      "timestamp": "2012-11-25T20:17:54Z",
+      "user": "JohnCD",
+      "userid": 1115773,
+      "size": 117,
+      "comment": "[[Wikipedia:Redirects for discussion/Log/2012 November 13#Gregg Imus]] closed as keep",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 872701671,
+      "parentid": 524841933,
+      "timestamp": "2018-12-08T17:18:43Z",
+      "user": "EmausBot",
+      "userid": 11292982,
+      "size": 116,
+      "comment": "Bot: Fixing double redirect to [[2012 United States House of Representatives elections in California]]",
+      "minor": true,
+      "tags": [
+        "mw-changed-redirect-target"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gregg_Imus"
+}

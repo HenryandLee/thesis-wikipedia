@@ -1,0 +1,290 @@
+{
+  "page_title": "Jerry_Trooien",
+  "candidate_name": "Jerry Trooien",
+  "collection_date": "2025-12-28T16:41:53.233416",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 24,
+    "unique_editors": 19,
+    "date_range": {
+      "start": "2014-04-16T14:28:41Z",
+      "end": "2023-10-08T18:56:20Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 604453760,
+      "parentid": 0,
+      "timestamp": "2014-04-16T14:28:41Z",
+      "user": "Dolovis",
+      "userid": 12030910,
+      "size": 1943,
+      "comment": "Create article",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 604453878,
+      "parentid": 604453760,
+      "timestamp": "2014-04-16T14:29:47Z",
+      "user": "Dolovis",
+      "userid": 12030910,
+      "size": 1920,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 604456401,
+      "parentid": 604453878,
+      "timestamp": "2014-04-16T14:50:21Z",
+      "user": "AnomieBOT",
+      "userid": 7611264,
+      "size": 1936,
+      "comment": "Dating maintenance tags: {{Use mdy dates}}",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 604772363,
+      "parentid": 604456401,
+      "timestamp": "2014-04-18T18:17:56Z",
+      "user": "Cydebot",
+      "userid": 1215485,
+      "size": 1936,
+      "comment": "Robot - Speedily moving category Albuquerque Six Guns players to [[:Category:Albuquerque Six-Guns players]] per [[WP:CFDS|CFDS]].",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 605551200,
+      "parentid": 604772363,
+      "timestamp": "2014-04-24T02:54:39Z",
+      "user": "Cacrats",
+      "userid": 19784584,
+      "size": 1948,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 605551227,
+      "parentid": 605551200,
+      "timestamp": "2014-04-24T02:54:54Z",
+      "user": "Cacrats",
+      "userid": 19784584,
+      "size": 1948,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 619269940,
+      "parentid": 605551227,
+      "timestamp": "2014-07-31T10:29:31Z",
+      "user": "Marc87",
+      "userid": 7298889,
+      "size": 1959,
+      "comment": "",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 622018447,
+      "parentid": 619269940,
+      "timestamp": "2014-08-20T05:50:15Z",
+      "user": "Od Mishehu AWB",
+      "userid": 5294192,
+      "size": 1999,
+      "comment": "Upmerge categories per [[Wikipedia:Categories for discussion/Log/2014 August 12#Category:Ice hockey people from Detroit]] using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 724308505,
+      "parentid": 622018447,
+      "timestamp": "2016-06-08T11:54:55Z",
+      "user": "KasparBot",
+      "userid": 24420788,
+      "size": 1669,
+      "comment": "migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Jerry Trooien|challenges for this article]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 746126430,
+      "parentid": 724308505,
+      "timestamp": "2016-10-25T11:52:33Z",
+      "user": "Alextejthompson",
+      "userid": 23085006,
+      "size": 1668,
+      "comment": "/* top */typo fixing, replaced: Arizonia → Arizona using [[Project:AWB|AWB]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 776983806,
+      "parentid": 746126430,
+      "timestamp": "2017-04-24T15:13:23Z",
+      "user": "Boopitydoopityboop",
+      "userid": 30016654,
+      "size": 1715,
+      "comment": "added [[Category:American men's ice hockey players]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 777491409,
+      "parentid": 776983806,
+      "timestamp": "2017-04-27T13:58:54Z",
+      "user": "Boopitydoopityboop",
+      "userid": 30016654,
+      "size": 1674,
+      "comment": "Updating category",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 865624558,
+      "parentid": 777491409,
+      "timestamp": "2018-10-25T03:20:04Z",
+      "user": "Alaney2k",
+      "userid": 209266,
+      "size": 1652,
+      "comment": "/* top */US => Americans; reduce overlinking",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 920463778,
+      "parentid": 865624558,
+      "timestamp": "2019-10-09T23:31:07Z",
+      "user": "Jevansen",
+      "userid": 2842084,
+      "size": 1698,
+      "comment": "added [[Category:American ice hockey left wingers]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 920718542,
+      "parentid": 920463778,
+      "timestamp": "2019-10-11T12:32:21Z",
+      "user": "Djsasso",
+      "userid": 149061,
+      "size": 1657,
+      "comment": "+cat",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    },
+    {
+      "revid": 959831389,
+      "parentid": 920718542,
+      "timestamp": "2020-05-30T20:50:19Z",
+      "user": "Red Director",
+      "userid": 1261736,
+      "size": 1706,
+      "comment": "Adding local [[Wikipedia:Short description|short description]]: \"American ice hockey player\", overriding Wikidata description \"Canadian ice hockey player\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1012071827,
+      "parentid": 959831389,
+      "timestamp": "2021-03-14T13:01:39Z",
+      "user": "Mlindroo",
+      "userid": 2064569,
+      "size": 2244,
+      "comment": "Added notes about Trooien's post playing career in real estate and politics.",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1012261614,
+      "parentid": 1012071827,
+      "timestamp": "2021-03-15T13:25:56Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 2248,
+      "comment": "Alter: isbn. Upgrade ISBN10 to ISBN13. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by Abductive | [[Category:Use mdy dates from April 2014]] | via #UCB_Category 880/1724",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1049163964,
+      "parentid": 1012261614,
+      "timestamp": "2021-10-10T07:27:27Z",
+      "user": "Citation bot",
+      "userid": 7903804,
+      "size": 2510,
+      "comment": "Add: date, title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 1252/2107",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1052088671,
+      "parentid": 1049163964,
+      "timestamp": "2021-10-27T09:42:13Z",
+      "user": "Grutness",
+      "userid": 117878,
+      "size": 2511,
+      "comment": "removed [[Category:Ice hockey people from Minnesota]]; added [[Category:Ice hockey players from Minnesota]] using [[WP:HC|HotCat]]",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1062108772,
+      "parentid": 1052088671,
+      "timestamp": "2021-12-26T09:32:38Z",
+      "user": "Grutness",
+      "userid": 117878,
+      "size": 2470,
+      "comment": "/* External links */",
+      "minor": false,
+      "tags": []
+    },
+    {
+      "revid": 1136825489,
+      "parentid": 1062108772,
+      "timestamp": "2023-02-01T10:03:53Z",
+      "user": "JJMC89 bot III",
+      "userid": 35936988,
+      "size": 2469,
+      "comment": "Moving [[:Category:Ice hockey players from Saint Paul, Minnesota]] to [[:Category:Ice hockey people from Saint Paul, Minnesota]] per [[Wikipedia:Categories for discussion/Log/2023 January 10#Ice hockey players by city]]",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1148911961,
+      "parentid": 1136825489,
+      "timestamp": "2023-04-09T01:31:39Z",
+      "user": "Dicklyon",
+      "userid": 869314,
+      "size": 2469,
+      "comment": "case fix (via [[WP:JWB]])",
+      "minor": true,
+      "tags": []
+    },
+    {
+      "revid": 1179226489,
+      "parentid": 1148911961,
+      "timestamp": "2023-10-08T18:56:20Z",
+      "user": "NHL04",
+      "userid": 44931827,
+      "size": 2457,
+      "comment": "/* External links */ +hockey stats template",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jerry_Trooien"
+}

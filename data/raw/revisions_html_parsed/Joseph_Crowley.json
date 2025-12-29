@@ -1,0 +1,91 @@
+{
+  "page_title": "Joseph_Crowley",
+  "candidate_name": "Joseph Crowley",
+  "collection_date": "2025-12-28T16:44:37.785712",
+  "date_filter": {
+    "start": "2006-11-01T00:00:00Z",
+    "end": "2024-12-31T23:59:59Z"
+  },
+  "statistics": {
+    "total_revisions": 5,
+    "unique_editors": 3,
+    "date_range": {
+      "start": "2018-07-09T18:12:01Z",
+      "end": "2023-05-25T01:54:49Z"
+    }
+  },
+  "revisions": [
+    {
+      "revid": 849540614,
+      "parentid": 0,
+      "timestamp": "2018-07-09T18:12:01Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 42,
+      "comment": "BD2412 moved page [[Joseph Crowley]] to [[Joe Crowley]]: Per consensus in [[WP:RM]].",
+      "minor": false,
+      "tags": [
+        "mw-new-redirect"
+      ]
+    },
+    {
+      "revid": 1102442678,
+      "parentid": 849540614,
+      "timestamp": "2022-08-05T02:58:53Z",
+      "user": "CJMarshall1831",
+      "userid": 42373435,
+      "size": 4642,
+      "comment": "Updated details on career and family including links and citations.",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-changed-redirect-target",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1102442946,
+      "parentid": 1102442678,
+      "timestamp": "2022-08-05T03:01:13Z",
+      "user": "CJMarshall1831",
+      "userid": 42373435,
+      "size": 4645,
+      "comment": "Updated page title",
+      "minor": false,
+      "tags": [
+        "visualeditor",
+        "mw-changed-redirect-target",
+        "mw-reverted"
+      ]
+    },
+    {
+      "revid": 1102444761,
+      "parentid": 1102442946,
+      "timestamp": "2022-08-05T03:17:18Z",
+      "user": "Muboshgu",
+      "userid": 602857,
+      "size": 42,
+      "comment": "Reverted 2 edits by [[Special:Contributions/CJMarshall1831|CJMarshall1831]] ([[User talk:CJMarshall1831|talk]]): If you want to make an article about a different person, make it some place else",
+      "minor": false,
+      "tags": [
+        "mw-undo",
+        "mw-changed-redirect-target",
+        "twinkle"
+      ]
+    },
+    {
+      "revid": 1156871634,
+      "parentid": 1102444761,
+      "timestamp": "2023-05-25T01:54:49Z",
+      "user": "BD2412",
+      "userid": 196446,
+      "size": 89,
+      "comment": "/* top */redirect template",
+      "minor": true,
+      "tags": [
+        "AWB"
+      ]
+    }
+  ],
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Crowley"
+}
