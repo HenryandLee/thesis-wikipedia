@@ -5,10 +5,17 @@
 !notebooks/
 !notebooks/04_event_study_analysis.ipynb
 
+!data/
+!data/raw/
+!data/raw/*
+data/raw/DUPLICATE_AUDIT_REPORT.md
+data/raw/ELECTION_TYPE_DOCUMENTATION.md
+
 !scripts/
 !scripts/*
 scripts/__pycache__/
 
-!note_on_output.md
+!readme_011_house_candidate_roster.md
+!readme_012_senate_candidate_roster.md
 
 !.gitignore

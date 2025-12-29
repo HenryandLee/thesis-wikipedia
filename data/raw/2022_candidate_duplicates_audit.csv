@@ -1,0 +1,14 @@
+candidate_name,num_entries,states,num_states,districts,num_districts,parties,num_parties,vote_percentages,has_wikipedia,discrepancy_type
+Brad Finstad,2,Minnesota,1,Minnesota 1,1,Republican,1,"53.9, 50.7",True,Different Vote Percentages
+Bruce Poliquin,2,Maine,1,Maine 2,1,Republican,1,"46.9, 44.6",True,Different Vote Percentages
+Jared Golden,2,Maine,1,Maine 2,1,Democratic,1,"53.1, 48.4",True,Different Vote Percentages
+Jeff Ettinger,2,Minnesota,1,Minnesota 1,1,DFL,1,"46.8, 42.3",True,Different Vote Percentages
+Mary Peltola,4,Alaska,1,Alaska at-large,1,Democratic,1,"55.0, 51.5, 48.8, 39.6",True,Different Vote Percentages
+Max Della Pia,2,New York,1,New York 23,1,Democratic,1,"46.6, 35.1",False,Different Vote Percentages
+Mayra Flores,2,Texas,1,Texas 34,1,Republican,1,"50.9, 44.2",True,Different Vote Percentages
+Mike Flood,2,Nebraska,1,Nebraska 1,1,Republican,1,"58.1, 52.7",True,Different Vote Percentages
+Nick Begich III,2,Alaska,1,Alaska at-large,1,Republican,1,"28.1, 23.3",True,Different Vote Percentages
+Pat Ryan,2,New York,1,"New York 18, New York 19",2,Democratic,1,"50.7, 51.2",True,Different Districts (same state)
+Patty Pansing Brooks,2,Nebraska,1,Nebraska 1,1,Democratic,1,"47.3, 41.9",True,Different Vote Percentages
+Sarah Palin,4,Alaska,1,Alaska at-large,1,Republican,1,"48.5, 45.0, 30.8, 25.7",True,Different Vote Percentages
+Sheila Cherfilus-McCormick,2,Florida,1,Florida 20,1,Democratic,1,"79.0, 72.3",True,Different Vote Percentages

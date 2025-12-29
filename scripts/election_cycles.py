@@ -289,6 +289,25 @@ def get_on_ballot_indicator(
 # =============================================================================
 
 ELECTION_METADATA = {
+    2008: {
+        'type': 'presidential',
+        'president_on_ballot': True,
+        'candidates': {'D': 'Barack Obama', 'R': 'John McCain'},
+        'winner': 'D',
+        'description': '56th Presidential Election'
+    },
+    2010: {
+        'type': 'midterm',
+        'president_on_ballot': False,
+        'description': 'Midterm elections for 112th Congress'
+    },
+    2012: {
+        'type': 'presidential',
+        'president_on_ballot': True,
+        'candidates': {'D': 'Barack Obama', 'R': 'Mitt Romney'},
+        'winner': 'D',
+        'description': '57th Presidential Election'
+    },
     2014: {
         'type': 'midterm',
         'president_on_ballot': False,
@@ -332,7 +351,7 @@ ELECTION_METADATA = {
 # CONVENIENCE FUNCTIONS
 # =============================================================================
 
-def get_study_cycles(start_year: int = 2016, end_year: int = 2024) -> List[Dict]:
+def get_study_cycles(start_year: int = 2008, end_year: int = 2024) -> List[Dict]:
     """
     Get all election cycles for the study period with metadata.
     
