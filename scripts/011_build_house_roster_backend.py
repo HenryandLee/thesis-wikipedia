@@ -1,5 +1,5 @@
 """
-Script to scrape 2014-2024 US House election candidate data from Wikipedia
+Script to scrape 2008-2024 US House election candidate data from Wikipedia
 Collects candidates from state-by-state tables (general elections) and special elections
 Date: 2025-12-28
 Usage: python scripts/011_build_house_roster_backend.py [year]
@@ -176,6 +176,9 @@ def parse_candidates_from_plain_text(text: str, district_name: str, state: str,
     """
     Parse candidates from plain text (for 2016 format without <li> elements)
     Format: "▌YName(Party) percentage%▌YName(Party) percentage%"
+
+    DEPRECATED: This function only parses text and loses embedded Wikipedia URLs.
+    Use parse_candidates_from_plain_text_cell() instead for better URL extraction.
     """
     candidates = []
 
@@ -206,6 +209,75 @@ def parse_candidates_from_plain_text(text: str, district_name: str, state: str,
             'is_winner': is_winner,
             'pvi': pvi,
             'wikipedia_url': None,  # Plain text format doesn't have links
+            'election_type': 'special' if source_table == 'special' else 'general'
+        })
+
+    return candidates
+
+
+def parse_candidates_from_plain_text_cell(cell_element, district_name: str, state: str,
+                                          incumbent_name: str, pvi: str, source_table: str) -> List[Dict]:
+    """
+    Parse candidates from plain text cell HTML (for 2016 format without <li> elements)
+    Extracts embedded Wikipedia URLs from <a> tags while parsing candidate data
+
+    Format: "▌YName(Party) percentage%▌YName(Party) percentage%"
+    HTML may contain: <a href="/wiki/Name">Name</a> for candidates with Wikipedia pages
+
+    Args:
+        cell_element: BeautifulSoup element (the candidates cell)
+        district_name, state, incumbent_name, pvi: Candidate metadata
+        source_table: 'general' or 'special'
+
+    Returns:
+        List of candidate dictionaries with wikipedia_url extracted from links
+    """
+    candidates = []
+
+    # Extract all Wikipedia links from the cell
+    # Map normalized candidate names to URLs for matching
+    name_to_url = {}
+    for link in cell_element.find_all('a', href=True):
+        href = link['href']
+        if '/wiki/' in href and not href.startswith('#'):
+            link_text = link.get_text(strip=True)
+            # Normalize name for matching (lowercase, remove extra spaces)
+            normalized = link_text.lower().strip()
+            name_to_url[normalized] = f"https://en.wikipedia.org{href}"
+
+    # Get plain text for pattern matching
+    text = cell_element.get_text(strip=True)
+
+    # Pattern: Capture marker, name, party, percentage
+    pattern = r'([▌Y]*)([^▌]+?)\s*\(([^)]+)\)\s*([\d.]+)%'
+    matches = re.findall(pattern, text)
+
+    for match in matches:
+        marker = match[0]
+        candidate_name = match[1].strip()
+        party = match[2].strip()
+        vote_percentage = float(match[3])
+
+        # Check if incumbent
+        is_incumbent = (candidate_name.lower() == incumbent_name.lower()) if incumbent_name else False
+
+        # Check if winner (has ▌Y marker)
+        is_winner = '▌Y' in marker or marker.startswith('Y')
+
+        # Try to find Wikipedia URL for this candidate
+        normalized_name = candidate_name.lower().strip()
+        wikipedia_url = name_to_url.get(normalized_name)
+
+        candidates.append({
+            'state': state,
+            'district': district_name,
+            'candidate_name': candidate_name,
+            'party': party,
+            'vote_percentage': vote_percentage,
+            'is_incumbent': is_incumbent,
+            'is_winner': is_winner,
+            'pvi': pvi,
+            'wikipedia_url': wikipedia_url,
             'election_type': 'special' if source_table == 'special' else 'general'
         })
 
@@ -269,8 +341,8 @@ def parse_state_table_2022(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -358,8 +430,8 @@ def parse_state_table_2008(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -439,8 +511,8 @@ def parse_state_table_2010(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -525,8 +597,8 @@ def parse_state_table_2012(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -606,8 +678,8 @@ def parse_state_table_2014(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -676,8 +748,8 @@ def parse_state_table_2016(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -741,8 +813,8 @@ def parse_state_table_2018(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -806,8 +878,8 @@ def parse_state_table_2020(table, state_name: str = None) -> List[Dict]:
             # No <li> elements - check for plain text (uncontested 100% races)
             text = candidates_cell.get_text(strip=True)
             if text and '%' in text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -966,8 +1038,8 @@ def parse_state_table(table, state_name: str = None) -> List[Dict]:
             # Old format with plain text (2016)
             text = candidates_cell.get_text(strip=True)
             if text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'general'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'general'
                 )
                 candidates.extend(plain_text_candidates)
 
@@ -1020,8 +1092,8 @@ def parse_special_elections_table(table) -> List[Dict]:
             # Old format with plain text (2016)
             text = candidates_cell.get_text(strip=True)
             if text:
-                plain_text_candidates = parse_candidates_from_plain_text(
-                    text, district, state_name, incumbent_name, pvi, 'special'
+                plain_text_candidates = parse_candidates_from_plain_text_cell(
+                    candidates_cell, district, state_name, incumbent_name, pvi, 'special'
                 )
                 candidates.extend(plain_text_candidates)
 

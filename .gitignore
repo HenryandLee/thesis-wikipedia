@@ -1,26 +1,25 @@
 # Ignore everything
 *
 
-# Un-ignore specific directories and files
+# Un-ignore
 
 # Notebooks
 !notebooks/
 !notebooks/04_event_study_analysis.ipynb
 
-# Data
+# Data - include everything except large files
 !data/
-!data/raw/
-!data/raw/*/
-!data/raw/**
-data/raw/DUPLICATE_AUDIT_REPORT.md
-data/raw/ELECTION_TYPE_DOCUMENTATION.md
+!data/**
+data/processed_html_parsed/all_revisions.csv
+
+# Figures - include everything
+!figures/
+!figures/**
 
 # Scripts
 !scripts/
 !scripts/*.py
 scripts/__pycache__/
-
-!readme_*.md
 
 # Config
 !.gitignore

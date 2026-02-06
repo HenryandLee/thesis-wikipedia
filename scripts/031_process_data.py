@@ -261,7 +261,7 @@ def process_revisions_to_timeseries(revisions_dir: Path, metadata_lookup: dict) 
         metadata_lookup: Candidate metadata from load_candidate_metadata_from_csvs()
 
     Returns:
-        DataFrame with all revisions + cycle-specific metadata
+        Tuple of (DataFrame with all revisions + cycle-specific metadata, stats dict)
     """
     all_revisions = []
 
@@ -380,7 +380,7 @@ def process_revisions_to_timeseries(revisions_dir: Path, metadata_lookup: dict) 
     logger.info(f"  KEPT for analysis: {stats['revisions_kept']:,}")
     logger.info(f"  Keep rate: {100*stats['revisions_kept']/stats['total_revisions_read']:.1f}%")
 
-    return df
+    return df, stats
 
 
 # =============================================================================
@@ -570,7 +570,7 @@ def main():
     logger.info("\n" + "="*60)
     logger.info("STEP 2: Processing revisions with metadata enrichment")
     logger.info("="*60)
-    df_revisions = process_revisions_to_timeseries(revisions_dir, metadata_lookup)
+    df_revisions, stats = process_revisions_to_timeseries(revisions_dir, metadata_lookup)
 
     if len(df_revisions) == 0:
         logger.error("No revisions found after filtering. Exiting.")

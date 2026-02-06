@@ -62,6 +62,75 @@ def get_all_election_days(start_year: int = 2014, end_year: int = 2024) -> Dict[
 
 
 # =============================================================================
+# CONGRESS START DATES (for washout period calculation)
+# =============================================================================
+
+# Congress convenes on January 3rd of odd years (20th Amendment)
+# The "Monday after Congress assumes office" marks the end of the washout period
+CONGRESS_CONVENE_DATES = {
+    2008: date(2007, 1, 3),   # 110th Congress (Wednesday)
+    2010: date(2009, 1, 3),   # 111th Congress (Saturday)
+    2012: date(2011, 1, 3),   # 112th Congress (Monday)
+    2014: date(2013, 1, 3),   # 113th Congress (Thursday)
+    2016: date(2015, 1, 3),   # 114th Congress (Saturday)
+    2018: date(2017, 1, 3),   # 115th Congress (Tuesday)
+    2020: date(2019, 1, 3),   # 116th Congress (Thursday)
+    2022: date(2021, 1, 3),   # 117th Congress (Sunday)
+    2024: date(2023, 1, 3),   # 118th Congress (Tuesday)
+}
+
+
+def get_monday_after(d: date) -> date:
+    """
+    Get the Monday after (or on) a given date.
+    If the date is already a Monday, return the NEXT Monday.
+    """
+    days_until_monday = (7 - d.weekday()) % 7
+    if days_until_monday == 0:
+        days_until_monday = 7  # If already Monday, get next Monday
+    return d + timedelta(days=days_until_monday)
+
+
+def get_washout_end(election_year: int) -> date:
+    """
+    Get the end date of the washout period for a given election cycle.
+
+    Washout period = from day after prior election through the Monday after
+    Congress convenes in the odd year before the election year.
+
+    Args:
+        election_year: The target election year (even year)
+
+    Returns:
+        The Monday after Congress convenes (end of washout period, inclusive)
+    """
+    if election_year not in CONGRESS_CONVENE_DATES:
+        raise ValueError(f"Congress convene date not defined for cycle {election_year}")
+
+    congress_convene = CONGRESS_CONVENE_DATES[election_year]
+    return get_monday_after(congress_convene)
+
+
+def get_analysis_window(election_year: int) -> Tuple[date, date]:
+    """
+    Get the analysis window for a given election cycle.
+
+    Analysis window starts the day after washout ends and goes through
+    election day (inclusive).
+
+    Args:
+        election_year: The target election year (even year)
+
+    Returns:
+        Tuple of (analysis_start, election_day)
+    """
+    washout_end = get_washout_end(election_year)
+    analysis_start = washout_end + timedelta(days=1)
+    election_day = get_election_day(election_year)
+    return analysis_start, election_day
+
+
+# =============================================================================
 # ELECTION CYCLE DEFINITIONS
 # =============================================================================
 
@@ -345,6 +414,53 @@ ELECTION_METADATA = {
         'description': '60th Presidential Election'
     },
 }
+
+
+# =============================================================================
+# TUESDAY-MONDAY WEEK UTILITIES
+# =============================================================================
+
+def get_week_start_tuesday(d: date) -> date:
+    """
+    Get the Tuesday that starts the week containing this date.
+
+    Weeks run Tuesday through Monday. This aligns with election day,
+    which is always on Tuesday.
+
+    Args:
+        d: Any date
+
+    Returns:
+        The Tuesday that starts the week containing d
+    """
+    # weekday(): Monday=0, Tuesday=1, ..., Sunday=6
+    # Days since Tuesday: (weekday - 1) % 7
+    days_since_tuesday = (d.weekday() - 1) % 7
+    return d - timedelta(days=days_since_tuesday)
+
+
+def date_to_week_relative_to_election(d: date, election_year: int) -> int:
+    """
+    Convert a date to week number relative to election day.
+
+    Returns negative values for weeks before election.
+    Week -1 is the week immediately before election week.
+    Week 0 is the week containing election day.
+
+    Args:
+        d: Date to convert
+        election_year: Reference election year
+
+    Returns:
+        Integer week number (negative before election)
+    """
+    election_day = get_election_day(election_year)
+    election_week_start = get_week_start_tuesday(election_day)
+    date_week_start = get_week_start_tuesday(d)
+
+    # Compute difference in weeks
+    days_diff = (date_week_start - election_week_start).days
+    return days_diff // 7
 
 
 # =============================================================================

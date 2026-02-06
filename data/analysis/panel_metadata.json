@@ -1,0 +1,52 @@
+{
+  "created": "2026-02-01",
+  "n_observations": 359765,
+  "n_page_cycles": 3739,
+  "election_cycles": [
+    2008,
+    2010,
+    2012,
+    2014,
+    2016,
+    2018,
+    2020,
+    2022,
+    2024
+  ],
+  "near_window_L": 18,
+  "columns": [
+    "page_title",
+    "election_cycle",
+    "state",
+    "week_start",
+    "edit_count",
+    "editor_count",
+    "net_size_change",
+    "bot_edits",
+    "anon_edits",
+    "E_jt",
+    "Y_jt",
+    "P_jt",
+    "election_date",
+    "k_general",
+    "primary_date",
+    "primary_type",
+    "k_primary",
+    "page_cycle",
+    "in_general_baseline",
+    "Y_bar_G",
+    "P_bar_G",
+    "Y_tilde_G",
+    "P_tilde_G",
+    "in_primary_baseline",
+    "Y_bar_P",
+    "P_bar_P",
+    "Y_tilde_P",
+    "P_tilde_P",
+    "calendar_week_id"
+  ],
+  "k_general_range": [
+    -96,
+    0
+  ]
+}

@@ -1,1451 +1,184 @@
 {
   "page_title": "United_Utah_Party",
   "candidate_name": "United Utah",
-  "collection_date": "2025-12-28T16:57:15.308459",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/United_Utah_Party",
+  "collection_date": "2026-01-27T01:26:20.266895",
   "date_filter": {
     "start": "2006-11-01T00:00:00Z",
     "end": "2024-12-31T23:59:59Z"
   },
   "statistics": {
-    "total_revisions": 169,
-    "unique_editors": 74,
+    "total_revisions": 15,
+    "unique_editors": 6,
     "date_range": {
-      "start": "2017-05-26T21:57:49Z",
-      "end": "2024-11-27T19:33:18Z"
+      "start": "2023-02-21T01:35:16Z",
+      "end": "2023-03-27T11:50:04Z"
     }
   },
   "revisions": [
     {
-      "revid": 782435857,
+      "revid": 1140640863,
       "parentid": 0,
-      "timestamp": "2017-05-26T21:57:49Z",
-      "user": "WolframSeaborg",
-      "userid": 31181632,
-      "size": 1450,
-      "comment": "[[WP:AES|←]]Created page with '{{subst:AFC submission/draftnew}}<!-- Important, do not remove this line before article has been created. -->   {{Infobox political party |name = United Utah Par...'",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 782609533,
-      "parentid": 782435857,
-      "timestamp": "2017-05-28T01:16:08Z",
-      "user": "Marchjuly",
-      "userid": 20284886,
-      "size": 1457,
-      "comment": "Removed [[:WP:NFCI|non-free image]] being used in the user namespace per [[:WP:NFCC#9]] and [[:WP:UP#Non-free files]]",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 785819730,
-      "parentid": 782609533,
-      "timestamp": "2017-06-15T16:04:59Z",
-      "user": "Legacypac",
-      "userid": 5724179,
-      "size": 1457,
-      "comment": "Legacypac moved page [[User:WolframSeaborg/sandbox]] to [[Draft:United Utah Party]]: Preferred location for [[WP:AFC|AfC]] submissions",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 786344890,
-      "parentid": 785819730,
-      "timestamp": "2017-06-18T21:32:05Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 4153,
-      "comment": "expand",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 788032828,
-      "parentid": 786344890,
-      "timestamp": "2017-06-29T02:53:02Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 4821,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 788033594,
-      "parentid": 788032828,
-      "timestamp": "2017-06-29T03:00:02Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 4720,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 788033624,
-      "parentid": 788033594,
-      "timestamp": "2017-06-29T03:00:19Z",
-      "user": "Citation bot",
-      "userid": 7903804,
-      "size": 4730,
-      "comment": "Add: DUPLICATE_date. You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]].",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 788033770,
-      "parentid": 788033624,
-      "timestamp": "2017-06-29T03:01:38Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 4733,
-      "comment": "date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 788033830,
-      "parentid": 788033770,
-      "timestamp": "2017-06-29T03:02:13Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 4799,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 789108956,
-      "parentid": 788033830,
-      "timestamp": "2017-07-05T11:44:09Z",
-      "user": "DrStrauss",
-      "userid": 29858946,
-      "size": 5068,
-      "comment": "Declining submission: nn - Submission is about a topic not yet shown to meet general notability guidelines (be more specific if possible) ([[WP:AFCH|AFCH]] 0.9)",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 791267301,
-      "parentid": 789108956,
-      "timestamp": "2017-07-19T04:44:57Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 5719,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 793647385,
-      "parentid": 791267301,
-      "timestamp": "2017-08-03T02:46:18Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 6215,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 793647609,
-      "parentid": 793647385,
-      "timestamp": "2017-08-03T02:48:01Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 6281,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 795268823,
-      "parentid": 793647609,
-      "timestamp": "2017-08-13T03:51:14Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 7425,
-      "comment": "update",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 799651534,
-      "parentid": 795268823,
-      "timestamp": "2017-09-09T01:00:04Z",
-      "user": "Chris troutman",
-      "userid": 18557890,
-      "size": 7520,
-      "comment": "Declining submission: nn - Submission is about a topic not yet shown to meet general notability guidelines (be more specific if possible) ([[WP:AFCH|AFCH]] 0.9)",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 799675872,
-      "parentid": 799651534,
-      "timestamp": "2017-09-09T04:59:54Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7584,
-      "comment": "add",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 799675947,
-      "parentid": 799675872,
-      "timestamp": "2017-09-09T05:00:42Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7625,
-      "comment": "added [[Category::Political parties in Utah]] using [[WP:HC|HotCat]]",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 799675974,
-      "parentid": 799675947,
-      "timestamp": "2017-09-09T05:00:53Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7623,
-      "comment": "/* References */ fix",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 799681457,
-      "parentid": 799675974,
-      "timestamp": "2017-09-09T05:58:01Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 7624,
-      "comment": "/* References */",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 800003851,
-      "parentid": 799681457,
-      "timestamp": "2017-09-11T02:31:23Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 7087,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 800003923,
-      "parentid": 800003851,
-      "timestamp": "2017-09-11T02:32:20Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 7087,
-      "comment": "FallingGravity moved page [[Draft:United Utah Party]] to [[United Utah Party]]: I'm pretty sure the party is now notable, publishing draft",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 800985338,
-      "parentid": 800003923,
-      "timestamp": "2017-09-16T23:47:55Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 7071,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 800987711,
-      "parentid": 800985338,
-      "timestamp": "2017-09-17T00:09:37Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7075,
-      "comment": "/* History */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801106885,
-      "parentid": 800987711,
-      "timestamp": "2017-09-17T18:15:13Z",
-      "user": "HoHey22",
-      "userid": 23624728,
-      "size": 7075,
-      "comment": "",
+      "timestamp": "2023-02-21T01:35:16Z",
+      "user": "PeacockShah",
+      "userid": 40441999,
+      "size": 4300,
+      "comment": "[[WP:AES|←]]Created page with ' {{Infobox political party | name            = Forward Party of Utah | logo            = UtahForwardLogo.jpg  | colorcode       = #182742 | website         = [http://libertarianutah.org/ www.libertarianutah.org] | chairperson     = Adam Teuscher | headquarters    = | foundation      = February 11, 2023 | ideology         = {{ubl|class=nowrap|<!-- Do not add political policies like [[Universal basic income]] here, as those are not ideologies. -->  | Populi...'",
       "minor": false,
       "tags": [
-        "visualeditor"
+        "wikieditor"
       ]
     },
     {
-      "revid": 801108444,
-      "parentid": 801106885,
-      "timestamp": "2017-09-17T18:26:44Z",
-      "user": "HoHey22",
-      "userid": 23624728,
-      "size": 7119,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801145285,
-      "parentid": 801108444,
-      "timestamp": "2017-09-17T23:02:07Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7183,
-      "comment": "added [[Category:United States regional and state political parties]] using [[WP:HC|HotCat]]",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801145339,
-      "parentid": 801145285,
-      "timestamp": "2017-09-17T23:02:30Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7174,
-      "comment": "removed [[Category:United States regional and state political parties]]; added [[Category:Utah regional and state political parties]] using [[WP:HC|HotCat]]",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801145369,
-      "parentid": 801145339,
-      "timestamp": "2017-09-17T23:02:51Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7135,
-      "comment": "removed [[Category:Political parties in Utah]] using [[WP:HC|HotCat]]",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801162921,
-      "parentid": 801145369,
-      "timestamp": "2017-09-18T01:27:46Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 7163,
-      "comment": "/* References */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801383125,
-      "parentid": 801162921,
-      "timestamp": "2017-09-19T10:13:19Z",
-      "user": "171.33.194.239",
-      "userid": 0,
-      "size": 7164,
-      "comment": "the spelling of party, it was miss-typed as 'part'",
-      "minor": false,
-      "tags": [
-        "visualeditor"
-      ]
-    },
-    {
-      "revid": 801419806,
-      "parentid": 801383125,
-      "timestamp": "2017-09-19T15:27:34Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7298,
-      "comment": "/* History */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420015,
-      "parentid": 801419806,
-      "timestamp": "2017-09-19T15:29:06Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7397,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420060,
-      "parentid": 801420015,
-      "timestamp": "2017-09-19T15:29:23Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7396,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420091,
-      "parentid": 801420060,
-      "timestamp": "2017-09-19T15:29:42Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7441,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420114,
-      "parentid": 801420091,
-      "timestamp": "2017-09-19T15:29:56Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7298,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420139,
-      "parentid": 801420114,
-      "timestamp": "2017-09-19T15:30:10Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7344,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420216,
-      "parentid": 801420139,
-      "timestamp": "2017-09-19T15:30:44Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7366,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420279,
-      "parentid": 801420216,
-      "timestamp": "2017-09-19T15:31:09Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7364,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420343,
-      "parentid": 801420279,
-      "timestamp": "2017-09-19T15:31:32Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7366,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420492,
-      "parentid": 801420343,
-      "timestamp": "2017-09-19T15:32:36Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7298,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420632,
-      "parentid": 801420492,
-      "timestamp": "2017-09-19T15:33:44Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7364,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801420705,
-      "parentid": 801420632,
-      "timestamp": "2017-09-19T15:34:06Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 7365,
-      "comment": "/* External links */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801513791,
-      "parentid": 801420705,
-      "timestamp": "2017-09-20T03:31:25Z",
-      "user": "Jared oates",
-      "userid": 31970575,
-      "size": 7380,
-      "comment": "/* Platform */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 801518399,
-      "parentid": 801513791,
-      "timestamp": "2017-09-20T04:20:07Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 7666,
-      "comment": "/* Platform */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802084313,
-      "parentid": 801518399,
-      "timestamp": "2017-09-23T22:12:42Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 8266,
-      "comment": "/* History */ update",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802084611,
-      "parentid": 802084313,
-      "timestamp": "2017-09-23T22:15:10Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 8290,
-      "comment": "/* History */",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 802736872,
-      "parentid": 802084611,
-      "timestamp": "2017-09-28T03:45:51Z",
-      "user": "67.177.47.233",
-      "userid": 0,
-      "size": 8247,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802737083,
-      "parentid": 802736872,
-      "timestamp": "2017-09-28T03:48:13Z",
-      "user": "67.177.47.233",
-      "userid": 0,
-      "size": 8247,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802737358,
-      "parentid": 802737083,
-      "timestamp": "2017-09-28T03:51:07Z",
-      "user": "67.177.47.233",
-      "userid": 0,
-      "size": 8247,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802737594,
-      "parentid": 802737358,
-      "timestamp": "2017-09-28T03:54:01Z",
-      "user": "67.177.47.233",
-      "userid": 0,
-      "size": 8337,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802737942,
-      "parentid": 802737594,
-      "timestamp": "2017-09-28T03:58:48Z",
-      "user": "67.177.47.233",
-      "userid": 0,
-      "size": 8477,
-      "comment": "/* Current candidates */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802739023,
-      "parentid": 802737942,
-      "timestamp": "2017-09-28T04:11:52Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 8479,
-      "comment": "/* Current candidates */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802739313,
-      "parentid": 802739023,
-      "timestamp": "2017-09-28T04:15:32Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 8479,
-      "comment": "/* History */",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 802739359,
-      "parentid": 802739313,
-      "timestamp": "2017-09-28T04:16:07Z",
-      "user": "Stallion Cornell",
-      "userid": 14623557,
-      "size": 8479,
-      "comment": "/* History */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802809602,
-      "parentid": 802739359,
-      "timestamp": "2017-09-28T16:33:29Z",
-      "user": "Mr. Guye",
-      "userid": 16852310,
-      "size": 8500,
-      "comment": "/* Current candidates */Unsourced section",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802809739,
-      "parentid": 802809602,
-      "timestamp": "2017-09-28T16:34:26Z",
-      "user": "Mr. Guye",
-      "userid": 16852310,
-      "size": 8541,
-      "comment": "Added {{[[Template:Undisclosed paid|Undisclosed paid]]}} tag to article ([[WP:TW|Tw]])",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802810420,
-      "parentid": 802809739,
-      "timestamp": "2017-09-28T16:39:35Z",
-      "user": "Mr. Guye",
-      "userid": 16852310,
-      "size": 8566,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 802813179,
-      "parentid": 802810420,
-      "timestamp": "2017-09-28T17:00:30Z",
-      "user": "AnomieBOT",
-      "userid": 7611264,
-      "size": 8606,
-      "comment": "Dating maintenance tags: {{Unsourced}} {{Use American English}}",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 804128730,
-      "parentid": 802813179,
-      "timestamp": "2017-10-06T23:05:04Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 8576,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 804128768,
-      "parentid": 804128730,
-      "timestamp": "2017-10-06T23:05:29Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 8535,
-      "comment": "#80151F",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 804778576,
-      "parentid": 804128768,
-      "timestamp": "2017-10-11T02:38:35Z",
-      "user": "66.171.166.114",
-      "userid": 0,
-      "size": 8548,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 805681611,
-      "parentid": 804778576,
-      "timestamp": "2017-10-16T23:26:04Z",
-      "user": "174.23.7.213",
-      "userid": 0,
-      "size": 8507,
-      "comment": "Undid revision 802809739 by [[Special:Contributions/Mr. Guye|Mr. Guye]] ([[User talk:Mr. Guye|talk]])",
-      "minor": false,
-      "tags": [
-        "removal of COI template"
-      ]
-    },
-    {
-      "revid": 805684422,
-      "parentid": 805681611,
-      "timestamp": "2017-10-16T23:53:50Z",
-      "user": "Mr. Guye",
-      "userid": 16852310,
-      "size": 8548,
-      "comment": "Reverted 1 edit by [[Special:Contributions/174.23.7.213|174.23.7.213]] ([[User talk:174.23.7.213|talk]]): Unexplained reversion. ([[WP:TW|Tw]])",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 806461987,
-      "parentid": 805684422,
-      "timestamp": "2017-10-22T05:09:09Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 8309,
-      "comment": "sort out COI edits",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 808468456,
-      "parentid": 806461987,
-      "timestamp": "2017-11-03T01:31:34Z",
-      "user": "JocularJellyfish",
-      "userid": 30938693,
-      "size": 8340,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 809194033,
-      "parentid": 808468456,
-      "timestamp": "2017-11-07T17:59:53Z",
-      "user": "Utahwriter14",
-      "userid": 21506293,
-      "size": 8340,
-      "comment": "/* History */ Minor cleanup",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 809384907,
-      "parentid": 809194033,
-      "timestamp": "2017-11-08T19:41:23Z",
-      "user": "Drspoon99",
-      "userid": 25975574,
-      "size": 8616,
-      "comment": "Added more updated information on the election results",
-      "minor": false,
-      "tags": [
-        "visualeditor"
-      ]
-    },
-    {
-      "revid": 809446262,
-      "parentid": 809384907,
-      "timestamp": "2017-11-09T04:11:45Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 8614,
-      "comment": "/* History */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 811248176,
-      "parentid": 809446262,
-      "timestamp": "2017-11-20T12:27:49Z",
-      "user": "CommonsDelinker",
-      "userid": 2304267,
-      "size": 8514,
-      "comment": "Removing [[:c:File:Jim_Bennett_campaign_photo.png|Jim_Bennett_campaign_photo.png]], it has been deleted from Commons by [[:c:User:Steinsplitter|Steinsplitter]] because: [[:c:COM:OTRS|No permission]] since 12 November 2017 -.",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 811337208,
-      "parentid": 811248176,
-      "timestamp": "2017-11-21T00:06:24Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 8512,
-      "comment": "/* History */",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 811456414,
-      "parentid": 811337208,
-      "timestamp": "2017-11-21T18:57:21Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 8518,
-      "comment": "/* History */ update",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 813605653,
-      "parentid": 811456414,
-      "timestamp": "2017-12-04T08:24:44Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 8895,
-      "comment": "/* Platform */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 815288644,
-      "parentid": 813605653,
-      "timestamp": "2017-12-13T23:29:29Z",
-      "user": "X1\\",
-      "userid": 31634280,
-      "size": 8885,
-      "comment": "UnitedUtah.org url template",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 817867584,
-      "parentid": 815288644,
-      "timestamp": "2017-12-31T01:16:04Z",
-      "user": "Virginia Heart",
-      "userid": 26858194,
-      "size": 8907,
+      "revid": 1140641716,
+      "parentid": 1140640863,
+      "timestamp": "2023-02-21T01:40:24Z",
+      "user": "PeacockShah",
+      "userid": 40441999,
+      "size": 4226,
       "comment": "",
       "minor": false,
       "tags": [
-        "mobile edit",
-        "mobile app edit"
+        "wikieditor"
       ]
     },
     {
-      "revid": 819773131,
-      "parentid": 817867584,
-      "timestamp": "2018-01-11T05:28:37Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 8907,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 821350512,
-      "parentid": 819773131,
-      "timestamp": "2018-01-19T22:49:55Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 9505,
-      "comment": "/* Platform */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 828097216,
-      "parentid": 821350512,
-      "timestamp": "2018-02-28T15:16:59Z",
-      "user": "Virginia Heart",
-      "userid": 26858194,
-      "size": 9529,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 828097483,
-      "parentid": 828097216,
-      "timestamp": "2018-02-28T15:19:21Z",
-      "user": "Virginia Heart",
-      "userid": 26858194,
-      "size": 9588,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 828770503,
-      "parentid": 828097483,
-      "timestamp": "2018-03-04T17:40:40Z",
-      "user": "Statesman 88",
-      "userid": 3897499,
-      "size": 9604,
-      "comment": "/* History */ Corrected and improved the flow of the second paragraph.",
-      "minor": false,
-      "tags": [
-        "mobile edit",
-        "mobile web edit"
-      ]
-    },
-    {
-      "revid": 829866578,
-      "parentid": 828770503,
-      "timestamp": "2018-03-11T08:01:09Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 10135,
-      "comment": "/* History */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 829891376,
-      "parentid": 829866578,
-      "timestamp": "2018-03-11T12:52:21Z",
-      "user": "SPQRobin",
-      "userid": 3961736,
-      "size": 10144,
-      "comment": "/* History */ U.S. Congressmen, not state representatives",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 829891488,
-      "parentid": 829891376,
-      "timestamp": "2018-03-11T12:53:17Z",
-      "user": "SPQRobin",
-      "userid": 3961736,
-      "size": 10148,
-      "comment": "/* External links */",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 830004110,
-      "parentid": 829891488,
-      "timestamp": "2018-03-12T03:40:27Z",
-      "user": "Neutrality",
-      "userid": 68411,
-      "size": 10140,
-      "comment": "this adjective isn't necessary",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 832585482,
-      "parentid": 830004110,
-      "timestamp": "2018-03-26T21:24:22Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 10554,
-      "comment": "/* History */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 832588283,
-      "parentid": 832585482,
-      "timestamp": "2018-03-26T21:42:43Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 10559,
-      "comment": "/* History */ ce",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 832589876,
-      "parentid": 832588283,
-      "timestamp": "2018-03-26T21:54:29Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 10866,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 832593726,
-      "parentid": 832589876,
-      "timestamp": "2018-03-26T22:21:07Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 11318,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 833351403,
-      "parentid": 832593726,
-      "timestamp": "2018-03-31T01:27:47Z",
-      "user": "Kingofthedead",
-      "userid": 24524350,
-      "size": 11368,
-      "comment": "membership",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 850650110,
-      "parentid": 833351403,
-      "timestamp": "2018-07-17T05:36:57Z",
-      "user": "2601:680:8100:A460:B8CC:628A:C854:57C5",
-      "userid": 0,
-      "size": 11539,
-      "comment": "/* Background and formation */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 850650121,
-      "parentid": 850650110,
-      "timestamp": "2018-07-17T05:37:13Z",
-      "user": "2601:680:8100:A460:B8CC:628A:C854:57C5",
-      "userid": 0,
-      "size": 11533,
-      "comment": "/* Background and formation */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 850650265,
-      "parentid": 850650121,
-      "timestamp": "2018-07-17T05:39:35Z",
-      "user": "2601:680:8100:A460:B8CC:628A:C854:57C5",
-      "userid": 0,
-      "size": 11616,
-      "comment": "/* Background and formation */",
-      "minor": false,
-      "tags": [
-        "references removed"
-      ]
-    },
-    {
-      "revid": 850650334,
-      "parentid": 850650265,
-      "timestamp": "2018-07-17T05:40:27Z",
-      "user": "2601:680:8100:A460:B8CC:628A:C854:57C5",
-      "userid": 0,
-      "size": 11528,
-      "comment": "/* Background and formation */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 868453964,
-      "parentid": 850650334,
-      "timestamp": "2018-11-12T09:03:46Z",
-      "user": "Anomalocaris",
-      "userid": 299039,
-      "size": 11421,
-      "comment": "avoid \"supports the Second Amendment\" per discussion at [[Wikipedia:Village pump (miscellaneous)/Archive 60#Reject \"supports the Second Amendment\" phraseology]]; improve <ref>s",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 873248234,
-      "parentid": 868453964,
-      "timestamp": "2018-12-12T01:04:08Z",
-      "user": "MAINEiac4434",
-      "userid": 12375899,
-      "size": 11557,
-      "comment": "/* 2018 House of Representatives elections */",
-      "minor": false,
-      "tags": [
-        "visualeditor"
-      ]
-    },
-    {
-      "revid": 885146284,
-      "parentid": 873248234,
-      "timestamp": "2019-02-26T06:55:37Z",
-      "user": "Eeyunw",
-      "userid": 35246563,
-      "size": 11555,
-      "comment": "",
-      "minor": true,
-      "tags": [
-        "visualeditor-wikitext"
-      ]
-    },
-    {
-      "revid": 885146300,
-      "parentid": 885146284,
-      "timestamp": "2019-02-26T06:55:51Z",
-      "user": "Eeyunw",
-      "userid": 35246563,
-      "size": 11555,
+      "revid": 1140641769,
+      "parentid": 1140641716,
+      "timestamp": "2023-02-21T01:40:42Z",
+      "user": "PeacockShah",
+      "userid": 40441999,
+      "size": 4225,
       "comment": "",
       "minor": false,
       "tags": [
-        "visualeditor-wikitext"
+        "wikieditor"
       ]
     },
     {
-      "revid": 885292317,
-      "parentid": 885146300,
-      "timestamp": "2019-02-27T03:39:03Z",
-      "user": "FallingGravity",
-      "userid": 17911012,
-      "size": 11557,
-      "comment": "it didn't exist in 2012",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 885909366,
-      "parentid": 885292317,
-      "timestamp": "2019-03-03T03:27:01Z",
-      "user": "Eeyunw",
-      "userid": 35246563,
-      "size": 11555,
-      "comment": "fixed membership. based off of https://www.deseretnews.com/article/900018491/state-looking-into-reports-united-utah-party-members-party-affiliations-being-switched.html",
+      "revid": 1140642359,
+      "parentid": 1140641769,
+      "timestamp": "2023-02-21T01:44:05Z",
+      "user": "PeacockShah",
+      "userid": 40441999,
+      "size": 4282,
+      "comment": "",
       "minor": false,
       "tags": [
-        "visualeditor-wikitext"
+        "wikieditor"
       ]
     },
     {
-      "revid": 901894536,
-      "parentid": 885909366,
-      "timestamp": "2019-06-15T01:12:31Z",
-      "user": "BD2412",
-      "userid": 196446,
-      "size": 11554,
-      "comment": "/* Background and formation */One-time conversion of links from moved articles to improve ease of automated parsing., replaced: [[United States presidential election, 201 → [[201 United States presidential election,  United States presidential ele",
+      "revid": 1140642472,
+      "parentid": 1140642359,
+      "timestamp": "2023-02-21T01:44:47Z",
+      "user": "PeacockShah",
+      "userid": 40441999,
+      "size": 4275,
+      "comment": "",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140669570,
+      "parentid": 1140642472,
+      "timestamp": "2023-02-21T05:03:41Z",
+      "user": "BoyTheKingCanDance",
+      "userid": 8556143,
+      "size": 4035,
+      "comment": "/* Founders */ unreferenced",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140669603,
+      "parentid": 1140669570,
+      "timestamp": "2023-02-21T05:03:56Z",
+      "user": "BoyTheKingCanDance",
+      "userid": 8556143,
+      "size": 3871,
+      "comment": "Unreferenced. Please don't add again without [[Wikipedia:Verifiability#Reliable sources|reliable and published]] [[WP:THIRDPARTY|third-party sources]]",
+      "minor": false,
+      "tags": [
+        "wikieditor"
+      ]
+    },
+    {
+      "revid": 1140730220,
+      "parentid": 1140669603,
+      "timestamp": "2023-02-21T13:38:19Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 3898,
+      "comment": "/* top */clean up, added [[CAT:O|orphan]] tag",
       "minor": true,
       "tags": [
         "AWB"
       ]
     },
     {
-      "revid": 906833705,
-      "parentid": 901894536,
-      "timestamp": "2019-07-18T15:24:15Z",
-      "user": "Toa Nidhiki05",
-      "userid": 8296445,
-      "size": 11560,
-      "comment": "{{cn}}",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 906835903,
-      "parentid": 906833705,
-      "timestamp": "2019-07-18T15:44:47Z",
-      "user": "AnomieBOT",
-      "userid": 7611264,
-      "size": 11575,
-      "comment": "Dating maintenance tags: {{Cn}}",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 931747396,
-      "parentid": 906835903,
-      "timestamp": "2019-12-20T23:01:41Z",
-      "user": "Statesman 88",
-      "userid": 3897499,
-      "size": 11589,
-      "comment": "",
+      "revid": 1142088986,
+      "parentid": 1140730220,
+      "timestamp": "2023-02-28T12:45:57Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 3933,
+      "comment": "Added tags to the page using [[Wikipedia:Page Curation|Page Curation]] (notability)",
       "minor": false,
       "tags": [
-        "mobile edit",
-        "mobile app edit",
-        "android app edit"
+        "pagetriage"
       ]
     },
     {
-      "revid": 952566400,
-      "parentid": 931747396,
-      "timestamp": "2020-04-22T22:37:15Z",
-      "user": "Steel1943",
-      "userid": 2952402,
-      "size": 11585,
-      "comment": "Dab",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 953925705,
-      "parentid": 952566400,
-      "timestamp": "2020-04-29T19:36:03Z",
-      "user": "Vacant0",
-      "userid": 38123398,
-      "size": 11596,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 969192150,
-      "parentid": 953925705,
-      "timestamp": "2020-07-23T22:38:25Z",
-      "user": "PortlandSaint",
-      "userid": 39444115,
-      "size": 13015,
-      "comment": "",
+      "revid": 1143385870,
+      "parentid": 1142088986,
+      "timestamp": "2023-03-07T11:47:20Z",
+      "user": "Onel5969",
+      "userid": 10951369,
+      "size": 4108,
+      "comment": "Proposing article for deletion per [[WP:PROD]].",
       "minor": false,
       "tags": [
-        "visualeditor"
+        "twinkle"
       ]
     },
     {
-      "revid": 969200326,
-      "parentid": 969192150,
-      "timestamp": "2020-07-24T00:01:33Z",
-      "user": "PortlandSaint",
-      "userid": 39444115,
-      "size": 13191,
-      "comment": "",
+      "revid": 1144628626,
+      "parentid": 1143385870,
+      "timestamp": "2023-03-14T18:38:30Z",
+      "user": "Liz",
+      "userid": 19404073,
+      "size": 3934,
+      "comment": "Removing PROD tag, contested on article talk page",
       "minor": false,
       "tags": [
-        "visualeditor"
+        "wikieditor"
       ]
     },
     {
-      "revid": 970407471,
-      "parentid": 969200326,
-      "timestamp": "2020-07-31T03:37:24Z",
-      "user": "Jodapop",
-      "userid": 17341769,
-      "size": 13191,
-      "comment": "/* 2018 House of Representatives elections */ typo",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 970410622,
-      "parentid": 970407471,
-      "timestamp": "2020-07-31T04:06:48Z",
-      "user": "Jodapop",
-      "userid": 17341769,
-      "size": 13576,
-      "comment": "updated membership total",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 971303835,
-      "parentid": 970410622,
-      "timestamp": "2020-08-05T08:39:33Z",
-      "user": "Devonian Wombat",
-      "userid": 36757533,
-      "size": 13575,
-      "comment": "removed whitespace",
+      "revid": 1145661178,
+      "parentid": 1144628626,
+      "timestamp": "2023-03-20T08:36:28Z",
+      "user": "TimothyBlue",
+      "userid": 37482880,
+      "size": 4371,
+      "comment": "Nominated for deletion; see [[:Wikipedia:Articles for deletion/Forward Party of Utah]].",
       "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 973043474,
-      "parentid": 971303835,
-      "timestamp": "2020-08-15T02:26:20Z",
-      "user": "24.2.102.142",
-      "userid": 0,
-      "size": 13623,
-      "comment": "/* 2018 House of Representatives elections */ Updated w/ newer information & style",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 979968817,
-      "parentid": 973043474,
-      "timestamp": "2020-09-23T20:37:34Z",
-      "user": "CommonsDelinker",
-      "userid": 2304267,
-      "size": 13603,
-      "comment": "Removing [[:c:File:UnitedUtahParty.png|UnitedUtahParty.png]], it has been deleted from Commons by [[:c:User:Fitindia|Fitindia]] because: No permission since 15 September 2020.",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 987247292,
-      "parentid": 979968817,
-      "timestamp": "2020-11-05T20:57:11Z",
-      "user": "Commons is in a thing",
-      "userid": 40319660,
-      "size": 13650,
-      "comment": "Importing Wikidata [[Wikipedia:Short description|short description]]: \"American political party\" ([[Wikipedia:Shortdesc helper|Shortdesc helper]])",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1002362411,
-      "parentid": 987247292,
-      "timestamp": "2021-01-24T01:56:15Z",
-      "user": "Monkbot",
-      "userid": 20483999,
-      "size": 13671,
-      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 20 templates: hyphenate params (21×);",
-      "minor": true,
       "tags": [
-        "AWB"
+        "twinkle"
       ]
     },
     {
-      "revid": 1003960016,
-      "parentid": 1002362411,
-      "timestamp": "2021-01-31T14:39:34Z",
-      "user": "188.182.13.127",
-      "userid": 0,
-      "size": 13671,
-      "comment": "/* Political positions */ Reeeee title case reeeee.",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1004648079,
-      "parentid": 1003960016,
-      "timestamp": "2021-02-03T17:44:39Z",
-      "user": "2601:681:8600:3570:B087:9321:950:2C0C",
-      "userid": 0,
-      "size": 13671,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1004648236,
-      "parentid": 1004648079,
-      "timestamp": "2021-02-03T17:45:42Z",
-      "user": "2601:681:8600:3570:B087:9321:950:2C0C",
-      "userid": 0,
-      "size": 13704,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1004648329,
-      "parentid": 1004648236,
-      "timestamp": "2021-02-03T17:46:15Z",
-      "user": "2601:681:8600:3570:B087:9321:950:2C0C",
-      "userid": 0,
-      "size": 13711,
-      "comment": "/* Political positions */",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1010774350,
-      "parentid": 1004648329,
-      "timestamp": "2021-03-07T07:19:41Z",
-      "user": "Bvcitizen",
-      "userid": 41151511,
-      "size": 13763,
-      "comment": "Adding [[Category:Political parties in the United States]]",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 1022050759,
-      "parentid": 1010774350,
-      "timestamp": "2021-05-08T04:53:12Z",
-      "user": "Elli",
-      "userid": 20842734,
-      "size": 13761,
-      "comment": "ncelect",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 1031148377,
-      "parentid": 1022050759,
-      "timestamp": "2021-06-30T02:26:40Z",
-      "user": "JJMC89 bot III",
-      "userid": 35936988,
-      "size": 13764,
-      "comment": "Moving [[:Category:Utah regional and state political parties]] to [[:Category:Regional and state political parties in Utah]] per [[Wikipedia:Categories for discussion/Log/2021 June 22#Category:United States regional and state political parties]]",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 1048450746,
-      "parentid": 1031148377,
-      "timestamp": "2021-10-06T02:04:15Z",
-      "user": "Syaz351",
-      "userid": 31003709,
-      "size": 13764,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1048450769,
-      "parentid": 1048450746,
-      "timestamp": "2021-10-06T02:04:26Z",
-      "user": "Syaz351",
-      "userid": 31003709,
-      "size": 13764,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1050505096,
-      "parentid": 1048450769,
-      "timestamp": "2021-10-18T07:09:27Z",
-      "user": "115.133.198.39",
-      "userid": 0,
-      "size": 13764,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1050508523,
-      "parentid": 1050505096,
-      "timestamp": "2021-10-18T07:39:32Z",
-      "user": "Syaz351",
-      "userid": 31003709,
-      "size": 13799,
-      "comment": "",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1059900165,
-      "parentid": 1050508523,
-      "timestamp": "2021-12-12T09:20:59Z",
-      "user": "PrimeBOT",
-      "userid": 29463730,
-      "size": 13802,
-      "comment": "/* top */[[User:PrimeBOT/24|Task 24]]: template update following [[Wikipedia:Templates_for_discussion/Log/2021_August_26|a TFD]]",
-      "minor": true,
-      "tags": [
-        "AWB"
-      ]
-    },
-    {
-      "revid": 1060377118,
-      "parentid": 1059900165,
-      "timestamp": "2021-12-15T03:55:10Z",
-      "user": "Brent Allsop",
-      "userid": 1639671,
-      "size": 13805,
-      "comment": "Change chair person to Hillary Sterling",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1073870335,
-      "parentid": 1060377118,
-      "timestamp": "2022-02-25T03:51:27Z",
-      "user": "Syaz351",
-      "userid": 31003709,
-      "size": 13830,
+      "revid": 1145749796,
+      "parentid": 1145661178,
+      "timestamp": "2023-03-20T19:33:24Z",
+      "user": "PeacockShah",
+      "userid": 40441999,
+      "size": 5267,
       "comment": "",
       "minor": false,
       "tags": [
@@ -1453,64 +186,12 @@
       ]
     },
     {
-      "revid": 1077604392,
-      "parentid": 1073870335,
-      "timestamp": "2022-03-17T05:40:24Z",
-      "user": "60.48.68.45",
-      "userid": 0,
-      "size": 15030,
-      "comment": "/* 2022 elections */",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1078356125,
-      "parentid": 1077604392,
-      "timestamp": "2022-03-21T04:48:11Z",
-      "user": "Syaz351",
-      "userid": 31003709,
-      "size": 15100,
-      "comment": "/* 2022 elections */",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1083295768,
-      "parentid": 1078356125,
-      "timestamp": "2022-04-18T03:53:49Z",
-      "user": "Tipsyfishing",
-      "userid": 40064548,
-      "size": 15151,
-      "comment": "/* Candidates */",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1083323863,
-      "parentid": 1083295768,
-      "timestamp": "2022-04-18T07:15:20Z",
-      "user": "Syaz351",
-      "userid": 31003709,
-      "size": 15161,
-      "comment": "/* Candidates */",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1084797424,
-      "parentid": 1083323863,
-      "timestamp": "2022-04-26T17:08:49Z",
-      "user": "2605:A601:A952:2300:D4EE:E767:D3CA:4BF8",
-      "userid": 0,
-      "size": 15161,
+      "revid": 1145750010,
+      "parentid": 1145749796,
+      "timestamp": "2023-03-20T19:34:33Z",
+      "user": "PeacockShah",
+      "userid": 40441999,
+      "size": 5267,
       "comment": "",
       "minor": false,
       "tags": [
@@ -1518,497 +199,17 @@
       ]
     },
     {
-      "revid": 1087502562,
-      "parentid": 1084797424,
-      "timestamp": "2022-05-12T21:24:53Z",
-      "user": "Citation bot",
-      "userid": 7903804,
-      "size": 15255,
-      "comment": "Add: title. Changed bare reference to CS1/2. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 626/2845",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1101026619,
-      "parentid": 1087502562,
-      "timestamp": "2022-07-28T23:01:42Z",
-      "user": "HapHaxion",
-      "userid": 13501746,
-      "size": 15230,
-      "comment": "",
+      "revid": 1146862881,
+      "parentid": 1145750010,
+      "timestamp": "2023-03-27T11:50:04Z",
+      "user": "Salvio giuliano",
+      "userid": 11203371,
+      "size": 84,
+      "comment": "[[Wikipedia:Articles for deletion/Forward Party of Utah]] closed as redirect ([[WP:XFDC#4.0.13-beta|XFDcloser]])",
       "minor": false,
       "tags": [
-        "mobile edit",
-        "mobile web edit",
-        "advanced mobile edit"
-      ]
-    },
-    {
-      "revid": 1101026660,
-      "parentid": 1101026619,
-      "timestamp": "2022-07-28T23:01:57Z",
-      "user": "HapHaxion",
-      "userid": 13501746,
-      "size": 15232,
-      "comment": "",
-      "minor": false,
-      "tags": [
-        "mobile edit",
-        "mobile web edit",
-        "advanced mobile edit"
-      ]
-    },
-    {
-      "revid": 1119974489,
-      "parentid": 1101026660,
-      "timestamp": "2022-11-04T12:07:12Z",
-      "user": "ZlatanSweden10",
-      "userid": 40744516,
-      "size": 15400,
-      "comment": "",
-      "minor": true,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1120039824,
-      "parentid": 1119974489,
-      "timestamp": "2022-11-04T19:40:41Z",
-      "user": "ZlatanSweden10",
-      "userid": 40744516,
-      "size": 15364,
-      "comment": "",
-      "minor": true,
-      "tags": [
-        "mw-reverted",
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1120039947,
-      "parentid": 1120039824,
-      "timestamp": "2022-11-04T19:41:40Z",
-      "user": "ZlatanSweden10",
-      "userid": 40744516,
-      "size": 15390,
-      "comment": "",
-      "minor": true,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1120053698,
-      "parentid": 1120039947,
-      "timestamp": "2022-11-04T21:28:50Z",
-      "user": "ZlatanSweden10",
-      "userid": 40744516,
-      "size": 15426,
-      "comment": "",
-      "minor": true,
-      "tags": [
-        "mw-undo",
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1120612050,
-      "parentid": 1120053698,
-      "timestamp": "2022-11-07T22:45:08Z",
-      "user": "Truthanado",
-      "userid": 3784107,
-      "size": 15449,
-      "comment": "c/e, date in infobox",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1121395807,
-      "parentid": 1120612050,
-      "timestamp": "2022-11-12T02:16:32Z",
-      "user": "2601:88:8100:8FA0:D5F6:F52C:7A3D:1E5F",
-      "userid": 0,
-      "size": 15255,
-      "comment": "",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1124692439,
-      "parentid": 1121395807,
-      "timestamp": "2022-11-30T01:13:08Z",
-      "user": "AnOpenBook",
-      "userid": 42508784,
-      "size": 16413,
-      "comment": "Added the results for United Utah candidates in 2020 and 2022.",
-      "minor": false,
-      "tags": [
-        "visualeditor"
-      ]
-    },
-    {
-      "revid": 1135785323,
-      "parentid": 1124692439,
-      "timestamp": "2023-01-26T21:06:22Z",
-      "user": "Sein Dermin",
-      "userid": 45205554,
-      "size": 16453,
-      "comment": "Link",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1166050409,
-      "parentid": 1135785323,
-      "timestamp": "2023-07-19T02:40:24Z",
-      "user": "02rufus02",
-      "userid": 33582819,
-      "size": 16537,
-      "comment": "Added color",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1174074913,
-      "parentid": 1166050409,
-      "timestamp": "2023-09-06T05:11:38Z",
-      "user": "TheXuitts",
-      "userid": 33065317,
-      "size": 16531,
-      "comment": "",
-      "minor": false,
-      "tags": [
-        "mobile edit",
-        "mobile app edit",
-        "ios app edit"
-      ]
-    },
-    {
-      "revid": 1188193335,
-      "parentid": 1174074913,
-      "timestamp": "2023-12-03T22:15:53Z",
-      "user": "174.65.93.112",
-      "userid": 0,
-      "size": 16647,
-      "comment": "",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1194232855,
-      "parentid": 1188193335,
-      "timestamp": "2024-01-07T23:07:53Z",
-      "user": "Zsovar3",
-      "userid": 42250592,
-      "size": 16626,
-      "comment": "Fixed website parameter",
-      "minor": false,
-      "tags": [
-        "mobile edit",
-        "mobile web edit",
-        "advanced mobile edit"
-      ]
-    },
-    {
-      "revid": 1196265743,
-      "parentid": 1194232855,
-      "timestamp": "2024-01-17T00:03:52Z",
-      "user": "AnOpenBook",
-      "userid": 42508784,
-      "size": 17235,
-      "comment": "Added the UUP's results in the recent Utah congressional special election.",
-      "minor": false,
-      "tags": [
-        "visualeditor-switched",
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1197134439,
-      "parentid": 1196265743,
-      "timestamp": "2024-01-19T10:53:00Z",
-      "user": "WikiCleanerBot",
-      "userid": 18872885,
-      "size": 17235,
-      "comment": "v2.05b - [[User:WikiCleanerBot#T20|Bot T20 CW#61]] - Fix errors for [[WP:WCW|CW project]] (Reference before punctuation)",
-      "minor": true,
-      "tags": [
-        "WPCleaner"
-      ]
-    },
-    {
-      "revid": 1211721561,
-      "parentid": 1197134439,
-      "timestamp": "2024-03-04T02:17:22Z",
-      "user": "Jmheer11",
-      "userid": 43664948,
-      "size": 17244,
-      "comment": "Added missing word to make grammar correct",
-      "minor": true,
-      "tags": [
-        "mobile edit",
-        "mobile web edit",
-        "visualeditor"
-      ]
-    },
-    {
-      "revid": 1216105170,
-      "parentid": 1211721561,
-      "timestamp": "2024-03-29T02:14:11Z",
-      "user": "Jayson",
-      "userid": 43782830,
-      "size": 17302,
-      "comment": "/* top */I add link",
-      "minor": true,
-      "tags": [
-        "mobile edit",
-        "mobile app edit",
-        "android app edit"
-      ]
-    },
-    {
-      "revid": 1216141477,
-      "parentid": 1216105170,
-      "timestamp": "2024-03-29T09:35:48Z",
-      "user": "2001:E68:5409:7E38:7426:8BBA:6D16:A5E2",
-      "userid": 0,
-      "size": 17363,
-      "comment": "/* 2023 elections */",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1216141515,
-      "parentid": 1216141477,
-      "timestamp": "2024-03-29T09:36:12Z",
-      "user": "2001:E68:5409:7E38:7426:8BBA:6D16:A5E2",
-      "userid": 0,
-      "size": 17362,
-      "comment": "/* 2023 elections */",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1220339144,
-      "parentid": 1216141515,
-      "timestamp": "2024-04-23T04:47:28Z",
-      "user": "Penguin1737",
-      "userid": 32465891,
-      "size": 18406,
-      "comment": "Added 2024 candidate list",
-      "minor": false,
-      "tags": [
-        "visualeditor",
-        "editcheck-newreference"
-      ]
-    },
-    {
-      "revid": 1226657846,
-      "parentid": 1220339144,
-      "timestamp": "2024-06-01T02:05:28Z",
-      "user": "Ljohnson92",
-      "userid": 47937697,
-      "size": 18855,
-      "comment": "/* Political positions */",
-      "minor": true,
-      "tags": [
-        "mw-reverted",
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1226658181,
-      "parentid": 1226657846,
-      "timestamp": "2024-06-01T02:08:49Z",
-      "user": "Ljohnson92",
-      "userid": 47937697,
-      "size": 18782,
-      "comment": "/* Political positions */",
-      "minor": false,
-      "tags": [
-        "mw-reverted",
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1226658351,
-      "parentid": 1226658181,
-      "timestamp": "2024-06-01T02:09:58Z",
-      "user": "RA0808",
-      "userid": 11557355,
-      "size": 18406,
-      "comment": "Reverted edits by [[Special:Contributions/Ljohnson92|Ljohnson92]] ([[User talk:Ljohnson92|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.12)",
-      "minor": true,
-      "tags": [
-        "huggle",
-        "mw-rollback"
-      ]
-    },
-    {
-      "revid": 1226658677,
-      "parentid": 1226658351,
-      "timestamp": "2024-06-01T02:13:11Z",
-      "user": "Ljohnson92",
-      "userid": 47937697,
-      "size": 18782,
-      "comment": "/* Political positions */",
-      "minor": false,
-      "tags": [
-        "mw-reverted",
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1226658818,
-      "parentid": 1226658677,
-      "timestamp": "2024-06-01T02:14:37Z",
-      "user": "RA0808",
-      "userid": 11557355,
-      "size": 18406,
-      "comment": "Reverted edits by [[Special:Contributions/Ljohnson92|Ljohnson92]] ([[User talk:Ljohnson92|talk]]): unexplained content removal ([[WP:HG|HG]]) (3.4.12)",
-      "minor": true,
-      "tags": [
-        "huggle",
-        "mw-rollback"
-      ]
-    },
-    {
-      "revid": 1226763537,
-      "parentid": 1226658818,
-      "timestamp": "2024-06-01T17:42:00Z",
-      "user": "Ljohnson92",
-      "userid": 47937697,
-      "size": 18766,
-      "comment": "/* Political positions */",
-      "minor": true,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1241851189,
-      "parentid": 1226763537,
-      "timestamp": "2024-08-23T13:51:15Z",
-      "user": "Qwerfjkl",
-      "userid": 41195652,
-      "size": 18840,
-      "comment": "Added 2 {{[[Template:Bare URL inline|Bare URL inline]]}}   tag(s) using [[User:BrownHairedGirl/BareURLinline.js|a script]]. For other recently-tagged pages with [[WP:Bare URLs|bare URLs]], see [[:Category:Articles with bare URLs for citations from August 2024]]",
-      "minor": true,
-      "tags": []
-    },
-    {
-      "revid": 1242902522,
-      "parentid": 1241851189,
-      "timestamp": "2024-08-29T11:02:40Z",
-      "user": "Citation bot",
-      "userid": 7903804,
-      "size": 18838,
-      "comment": "Altered title. Added title. Changed bare reference to CS1/2. | [[:en:WP:UCB|Use this bot]]. [[:en:WP:DBUG|Report bugs]]. | Suggested by Grimes2 | #UCB_webform 276/1162",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1246336049,
-      "parentid": 1242902522,
-      "timestamp": "2024-09-18T09:41:42Z",
-      "user": "Rofraja",
-      "userid": 8087765,
-      "size": 18868,
-      "comment": "Filled in 1 bare reference(s) with reFill 2",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1247391924,
-      "parentid": 1246336049,
-      "timestamp": "2024-09-24T02:52:04Z",
-      "user": "BD2412",
-      "userid": 196446,
-      "size": 18865,
-      "comment": "Clean up spacing errors around ref tags., replaced: /ref>A → /ref> A, /ref>T → /ref> T",
-      "minor": true,
-      "tags": [
-        "AWB"
-      ]
-    },
-    {
-      "revid": 1250665962,
-      "parentid": 1247391924,
-      "timestamp": "2024-10-11T19:30:29Z",
-      "user": "Conde Richard Dassler",
-      "userid": 38813033,
-      "size": 18917,
-      "comment": "",
-      "minor": false,
-      "tags": [
-        "wikieditor"
-      ]
-    },
-    {
-      "revid": 1253603978,
-      "parentid": 1250665962,
-      "timestamp": "2024-10-26T22:05:42Z",
-      "user": "Penguin1737",
-      "userid": 32465891,
-      "size": 18902,
-      "comment": "Updated membership number to current for 2024 General Election",
-      "minor": false,
-      "tags": [
-        "visualeditor"
-      ]
-    },
-    {
-      "revid": 1256063315,
-      "parentid": 1253603978,
-      "timestamp": "2024-11-08T00:50:23Z",
-      "user": "GreenC bot",
-      "userid": 27823944,
-      "size": 19117,
-      "comment": "Rescued 1 archive link; Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#deseretnews.com]]",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1256488382,
-      "parentid": 1256063315,
-      "timestamp": "2024-11-10T04:30:38Z",
-      "user": "GreenC bot",
-      "userid": 27823944,
-      "size": 19102,
-      "comment": "Move 1 url. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]] per [[WP:URLREQ#foxnews.com/section/year/]]",
-      "minor": false,
-      "tags": []
-    },
-    {
-      "revid": 1259910582,
-      "parentid": 1256488382,
-      "timestamp": "2024-11-27T19:33:18Z",
-      "user": "Longestview",
-      "userid": 41672246,
-      "size": 19501,
-      "comment": "/* 2024 elections */ Adding results",
-      "minor": false,
-      "tags": [
-        "wikieditor"
+        "mw-new-redirect"
       ]
     }
-  ],
-  "wikipedia_url": "https://en.wikipedia.org/wiki/United_Utah_Party"
+  ]
 }

@@ -1,15 +1,15 @@
 state,district,candidate_name,party,vote_percentage,is_incumbent,is_winner,pvi,election_type,wikipedia_url
-Alabama,Alabama 1,Bradley Byrne,Republican,96.4,True,True,R+15,general,
+Alabama,Alabama 1,Bradley Byrne,Republican,96.4,True,True,R+15,general,https://en.wikipedia.org/wiki/Bradley_Byrne
 Alabama,Alabama 2,Martha Roby,Republican,48.8,True,True,R+17,general,https://en.wikipedia.org/wiki/Martha_Roby
 Alabama,Alabama 2,Nathan Mathis,Democratic,40.5,False,False,R+17,general,https://en.wikipedia.org/wiki/Nathan_Mathis
 Alabama,Alabama 3,Mike D. Rogers,Republican,66.9,True,True,R+16,general,https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)
 Alabama,Alabama 3,Jesse Smith,Democratic,32.9,False,False,R+16,general,
-Alabama,Alabama 4,Robert Aderholt,Republican,98.5,True,True,R+28,general,
+Alabama,Alabama 4,Robert Aderholt,Republican,98.5,True,True,R+28,general,https://en.wikipedia.org/wiki/Robert_Aderholt
 Alabama,Alabama 5,Mo Brooks,Republican,66.7,True,True,R+17,general,https://en.wikipedia.org/wiki/Mo_Brooks
 Alabama,Alabama 5,Will Boyd,Democratic,33.2,False,False,R+17,general,
 Alabama,Alabama 6,Gary Palmer,Republican,74.5,True,True,R+28,general,https://en.wikipedia.org/wiki/Gary_Palmer_(politician)
 Alabama,Alabama 6,David Putman,Democratic,25.4,False,False,R+28,general,
-Alabama,Alabama 7,Terri Sewell,Democratic,98.4,True,True,D+20,general,
+Alabama,Alabama 7,Terri Sewell,Democratic,98.4,True,True,D+20,general,https://en.wikipedia.org/wiki/Terri_Sewell
 Alaska,Alaska at-large,Don Young,Republican,50.3,True,True,R+12,general,https://en.wikipedia.org/wiki/Don_Young
 Alaska,Alaska at-large,Steve Lindbeck,Democratic,36.0,False,False,R+12,general,
 Alaska,Alaska at-large,Jim C. McDermott,Libertarian,10.3,False,False,R+12,general,
@@ -19,7 +19,7 @@ Arizona,Arizona 1,Paul Babeu,Republican,43.4,False,False,R+4,general,https://en
 Arizona,Arizona 1,Ray Parrish,Green,6.0,False,False,R+4,general,
 Arizona,Arizona 2,Martha McSally,Republican,57.0,True,True,R+3,general,https://en.wikipedia.org/wiki/Martha_McSally
 Arizona,Arizona 2,Matt Heinz,Democratic,43.0,False,False,R+3,general,https://en.wikipedia.org/wiki/Matt_Heinz
-Arizona,Arizona 3,Raúl Grijalva,Democratic,98.6,True,True,D+8,general,
+Arizona,Arizona 3,Raúl Grijalva,Democratic,98.6,True,True,D+8,general,https://en.wikipedia.org/wiki/Ra%C3%BAl_Grijalva
 Arizona,Arizona 4,Paul Gosar,Republican,71.5,True,True,R+20,general,https://en.wikipedia.org/wiki/Paul_Gosar
 Arizona,Arizona 4,Mikel Weisser,Democratic,28.5,False,False,R+20,general,https://en.wikipedia.org/wiki/Mikel_Weisser
 Arizona,Arizona 5,Andy Biggs,Republican,64.1,False,True,R+17,general,https://en.wikipedia.org/wiki/Andy_Biggs
@@ -41,111 +41,111 @@ Arkansas,Arkansas 3,Steve Womack,Republican,77.3,True,True,R+19,general,https:/
 Arkansas,Arkansas 3,Steve Isaacson,Libertarian,22.7,False,False,R+19,general,
 Arkansas,Arkansas 4,Bruce Westerman,Republican,74.9,True,True,R+15,general,https://en.wikipedia.org/wiki/Bruce_Westerman
 Arkansas,Arkansas 4,Kerry Hicks,Libertarian,25.1,False,False,R+15,general,
-California,California 1,Doug LaMalfa,Republican,59.1,True,True,R+10,general,
+California,California 1,Doug LaMalfa,Republican,59.1,True,True,R+10,general,https://en.wikipedia.org/wiki/Doug_LaMalfa
 California,California 1,Jim Reed,Democratic,40.9,False,False,R+10,general,
-California,California 10,Jeff Denham,Republican,51.7,True,True,R+1,general,
+California,California 10,Jeff Denham,Republican,51.7,True,True,R+1,general,https://en.wikipedia.org/wiki/Jeff_Denham
 California,California 10,Michael Eggman,Democratic,48.3,False,False,R+1,general,
-California,California 11,Mark DeSaulnier,Democratic,72.1,True,True,D+17,general,
+California,California 11,Mark DeSaulnier,Democratic,72.1,True,True,D+17,general,https://en.wikipedia.org/wiki/Mark_DeSaulnier
 California,California 11,Roger Allen Petersen,Republican,27.9,False,False,D+17,general,
-California,California 12,Nancy Pelosi,Democratic,80.9,True,True,D+34,general,
+California,California 12,Nancy Pelosi,Democratic,80.9,True,True,D+34,general,https://en.wikipedia.org/wiki/Nancy_Pelosi
 California,California 12,Preston Picus,No Party Preference,19.1,False,False,D+34,general,
-California,California 13,Barbara Lee,Democratic,90.8,True,True,D+37,general,
+California,California 13,Barbara Lee,Democratic,90.8,True,True,D+37,general,https://en.wikipedia.org/wiki/Barbara_Lee
 California,California 13,Sue Caro,Republican,9.2,False,False,D+37,general,
-California,California 14,Jackie Speier,Democratic,80.9,True,True,D+23,general,
+California,California 14,Jackie Speier,Democratic,80.9,True,True,D+23,general,https://en.wikipedia.org/wiki/Jackie_Speier
 California,California 14,Angel Cardenas,Republican,19.1,False,False,D+23,general,
-California,California 15,Eric Swalwell,Democratic,73.8,True,True,D+16,general,
+California,California 15,Eric Swalwell,Democratic,73.8,True,True,D+16,general,https://en.wikipedia.org/wiki/Eric_Swalwell
 California,California 15,Danny Turner,Republican,26.2,False,False,D+16,general,
-California,California 16,Jim Costa,Democratic,58.0,True,True,D+7,general,
+California,California 16,Jim Costa,Democratic,58.0,True,True,D+7,general,https://en.wikipedia.org/wiki/Jim_Costa
 California,California 16,Johnny Tacherra,Republican,42.0,False,False,D+7,general,
-California,California 17,Ro Khanna,Democratic,61.0,False,True,D+20,general,
-California,California 17,Mike Honda,Democratic,39.0,True,False,D+20,general,
-California,California 18,Anna Eshoo,Democratic,71.1,True,True,D+18,general,
+California,California 17,Ro Khanna,Democratic,61.0,False,True,D+20,general,https://en.wikipedia.org/wiki/Ro_Khanna
+California,California 17,Mike Honda,Democratic,39.0,True,False,D+20,general,https://en.wikipedia.org/wiki/Mike_Honda
+California,California 18,Anna Eshoo,Democratic,71.1,True,True,D+18,general,https://en.wikipedia.org/wiki/Anna_Eshoo
 California,California 18,Richard B. Fox,Republican,28.9,False,False,D+18,general,
-California,California 19,Zoe Lofgren,Democratic,73.9,True,True,D+19,general,
+California,California 19,Zoe Lofgren,Democratic,73.9,True,True,D+19,general,https://en.wikipedia.org/wiki/Zoe_Lofgren
 California,California 19,G. Burt Lancaster,Republican,26.1,False,False,D+19,general,
-California,California 2,Jared Huffman,Democratic,76.9,True,True,D+20,general,
+California,California 2,Jared Huffman,Democratic,76.9,True,True,D+20,general,https://en.wikipedia.org/wiki/Jared_Huffman
 California,California 2,Dale Mensing,Republican,23.1,False,False,D+20,general,
-California,California 20,Jimmy Panetta,Democratic,70.8,False,True,D+21,general,
+California,California 20,Jimmy Panetta,Democratic,70.8,False,True,D+21,general,https://en.wikipedia.org/wiki/Jimmy_Panetta
 California,California 20,Casey Lucius,Republican,29.2,False,False,D+21,general,
-California,California 21,David Valadao,Republican,56.7,True,True,D+2,general,
+California,California 21,David Valadao,Republican,56.7,True,True,D+2,general,https://en.wikipedia.org/wiki/David_Valadao
 California,California 21,Emilio Huerta,Democratic,43.3,False,False,D+2,general,
-California,California 22,Devin Nunes,Republican,67.6,True,True,R+10,general,
+California,California 22,Devin Nunes,Republican,67.6,True,True,R+10,general,https://en.wikipedia.org/wiki/Devin_Nunes
 California,California 22,Louie Campos,Democratic,32.4,False,False,R+10,general,
-California,California 23,Kevin McCarthy,Republican,69.2,True,True,R+16,general,
+California,California 23,Kevin McCarthy,Republican,69.2,True,True,R+16,general,https://en.wikipedia.org/wiki/Kevin_McCarthy
 California,California 23,Wendy Reed,Democratic,30.8,False,False,R+16,general,
-California,California 24,Salud Carbajal,Democratic,53.4,False,True,D+4,general,
+California,California 24,Salud Carbajal,Democratic,53.4,False,True,D+4,general,https://en.wikipedia.org/wiki/Salud_Carbajal
 California,California 24,Justin Fareed,Republican,46.6,False,False,D+4,general,
-California,California 25,Steve Knight,Republican,53.1,True,True,R+3,general,
+California,California 25,Steve Knight,Republican,53.1,True,True,R+3,general,https://en.wikipedia.org/wiki/Steve_Knight_(politician)
 California,California 25,Bryan Caforio,Democratic,46.9,False,False,R+3,general,
-California,California 26,Julia Brownley,Democratic,60.4,True,True,D+4,general,
+California,California 26,Julia Brownley,Democratic,60.4,True,True,D+4,general,https://en.wikipedia.org/wiki/Julia_Brownley
 California,California 26,Rafael Dagnesses,Republican,39.6,False,False,D+4,general,
-California,California 27,Judy Chu,Democratic,67.4,True,True,D+11,general,
+California,California 27,Judy Chu,Democratic,67.4,True,True,D+11,general,https://en.wikipedia.org/wiki/Judy_Chu
 California,California 27,Jack Orswell,Republican,32.6,False,False,D+11,general,
-California,California 28,Adam Schiff,Democratic,78.0,True,True,D+20,general,
+California,California 28,Adam Schiff,Democratic,78.0,True,True,D+20,general,https://en.wikipedia.org/wiki/Adam_Schiff
 California,California 28,Lenore Solis,Republican,22.0,False,False,D+20,general,
-California,California 29,Tony Cárdenas,Democratic,74.7,True,True,D+25,general,
-California,California 29,Richard Alarcon,Democratic,25.3,False,False,D+25,general,
-California,California 3,John Garamendi,Democratic,59.4,True,True,D+3,general,
+California,California 29,Tony Cárdenas,Democratic,74.7,True,True,D+25,general,https://en.wikipedia.org/wiki/Tony_C%C3%A1rdenas
+California,California 29,Richard Alarcon,Democratic,25.3,False,False,D+25,general,https://en.wikipedia.org/wiki/Richard_Alarcon
+California,California 3,John Garamendi,Democratic,59.4,True,True,D+3,general,https://en.wikipedia.org/wiki/John_Garamendi
 California,California 3,Eugene Cleek,Republican,40.6,False,False,D+3,general,
-California,California 30,Brad Sherman,Democratic,72.6,True,True,D+14,general,
+California,California 30,Brad Sherman,Democratic,72.6,True,True,D+14,general,https://en.wikipedia.org/wiki/Brad_Sherman
 California,California 30,Mark Reed,Republican,27.4,False,False,D+14,general,
-California,California 31,Pete Aguilar,Democratic,56.1,True,True,D+5,general,
-California,California 31,Paul Chabot,Republican,43.9,False,False,D+5,general,
-California,California 32,Grace Napolitano,Democratic,61.6,True,True,D+12,general,
+California,California 31,Pete Aguilar,Democratic,56.1,True,True,D+5,general,https://en.wikipedia.org/wiki/Pete_Aguilar
+California,California 31,Paul Chabot,Republican,43.9,False,False,D+5,general,https://en.wikipedia.org/wiki/Paul_Chabot
+California,California 32,Grace Napolitano,Democratic,61.6,True,True,D+12,general,https://en.wikipedia.org/wiki/Grace_Napolitano
 California,California 32,Roger Hernandez,Democratic,38.4,False,False,D+12,general,
-California,California 33,Ted Lieu,Democratic,66.4,True,True,D+11,general,
+California,California 33,Ted Lieu,Democratic,66.4,True,True,D+11,general,https://en.wikipedia.org/wiki/Ted_Lieu
 California,California 33,Kenneth Wright,Republican,33.6,False,False,D+11,general,
-California,California 34,Xavier Becerra,Democratic,77.2,True,True,D+30,general,
+California,California 34,Xavier Becerra,Democratic,77.2,True,True,D+30,general,https://en.wikipedia.org/wiki/Xavier_Becerra
 California,California 34,Adrienne Edwards,Democratic,22.8,False,False,D+30,general,
-California,California 35,Norma Torres,Democratic,72.4,True,True,D+15,general,
+California,California 35,Norma Torres,Democratic,72.4,True,True,D+15,general,https://en.wikipedia.org/wiki/Norma_Torres
 California,California 35,Tyler Fischella,Republican,27.6,False,False,D+15,general,
-California,California 36,Raul Ruiz,Democratic,62.1,True,True,R+1,general,
-California,California 36,Jeff Stone,Republican,37.9,False,False,R+1,general,
-California,California 37,Karen Bass,Democratic,81.1,True,True,D+34,general,
+California,California 36,Raul Ruiz,Democratic,62.1,True,True,R+1,general,https://en.wikipedia.org/wiki/Raul_Ruiz_(politician)
+California,California 36,Jeff Stone,Republican,37.9,False,False,R+1,general,https://en.wikipedia.org/wiki/Jeff_Stone_(California_politician)
+California,California 37,Karen Bass,Democratic,81.1,True,True,D+34,general,https://en.wikipedia.org/wiki/Karen_Bass
 California,California 37,Chris Wiggins,Democratic,18.9,False,False,D+34,general,
-California,California 38,Linda Sánchez,Democratic,70.5,True,True,D+12,general,
+California,California 38,Linda Sánchez,Democratic,70.5,True,True,D+12,general,https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez
 California,California 38,Ryan Downing,Republican,29.5,False,False,D+12,general,
-California,California 39,Ed Royce,Republican,57.2,True,True,R+5,general,
+California,California 39,Ed Royce,Republican,57.2,True,True,R+5,general,https://en.wikipedia.org/wiki/Ed_Royce_(politician)
 California,California 39,Brett Murdock,Democratic,42.8,False,False,R+5,general,
-California,California 4,Tom McClintock,Republican,62.7,True,True,R+10,general,
+California,California 4,Tom McClintock,Republican,62.7,True,True,R+10,general,https://en.wikipedia.org/wiki/Tom_McClintock
 California,California 4,Bob Derlet,Democratic,37.3,False,False,R+10,general,
-California,California 40,Lucille Roybal-Allard,Democratic,71.4,True,True,D+29,general,
+California,California 40,Lucille Roybal-Allard,Democratic,71.4,True,True,D+29,general,https://en.wikipedia.org/wiki/Lucille_Roybal-Allard
 California,California 40,Roman Gabriel Gonzalez,No Party Preference,28.6,False,False,D+29,general,
-California,California 41,Mark Takano,Democratic,65.0,True,True,D+9,general,
+California,California 41,Mark Takano,Democratic,65.0,True,True,D+9,general,https://en.wikipedia.org/wiki/Mark_Takano
 California,California 41,Doug Shepherd,Republican,35.0,False,False,D+9,general,
-California,California 42,Ken Calvert,Republican,58.8,True,True,R+10,general,
+California,California 42,Ken Calvert,Republican,58.8,True,True,R+10,general,https://en.wikipedia.org/wiki/Ken_Calvert
 California,California 42,Tim Sheridan,Democratic,41.2,False,False,R+10,general,
-California,California 43,Maxine Waters,Democratic,76.1,True,True,D+26,general,
+California,California 43,Maxine Waters,Democratic,76.1,True,True,D+26,general,https://en.wikipedia.org/wiki/Maxine_Waters
 California,California 43,Omar Navarro,Republican,23.9,False,False,D+26,general,
-California,California 44,Nanette Barragán,Democratic,52.2,False,True,D+32,general,
-California,California 44,Isadore Hall III,Democratic,47.8,False,False,D+32,general,
-California,California 45,Mimi Walters,Republican,58.6,True,True,R+7,general,
+California,California 44,Nanette Barragán,Democratic,52.2,False,True,D+32,general,https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n
+California,California 44,Isadore Hall III,Democratic,47.8,False,False,D+32,general,https://en.wikipedia.org/wiki/Isadore_Hall_III
+California,California 45,Mimi Walters,Republican,58.6,True,True,R+7,general,https://en.wikipedia.org/wiki/Mimi_Walters
 California,California 45,Ron Varasteh,Democratic,41.4,False,False,R+7,general,
-California,California 46,Lou Correa,Democratic,70.0,False,True,D+9,general,
+California,California 46,Lou Correa,Democratic,70.0,False,True,D+9,general,https://en.wikipedia.org/wiki/Lou_Correa
 California,California 46,Bao Nguyen,Democratic,30.0,False,False,D+9,general,
-California,California 47,Alan Lowenthal,Democratic,63.7,True,True,D+8,general,
+California,California 47,Alan Lowenthal,Democratic,63.7,True,True,D+8,general,https://en.wikipedia.org/wiki/Alan_Lowenthal
 California,California 47,Andy Whallon,Republican,36.3,False,False,D+8,general,
-California,California 48,Dana Rohrabacher,Republican,58.3,True,True,R+7,general,
+California,California 48,Dana Rohrabacher,Republican,58.3,True,True,R+7,general,https://en.wikipedia.org/wiki/Dana_Rohrabacher
 California,California 48,Suzanne Savary,Democratic,41.7,False,False,R+7,general,
-California,California 49,Darrell Issa,Republican,50.3,True,True,R+4,general,
+California,California 49,Darrell Issa,Republican,50.3,True,True,R+4,general,https://en.wikipedia.org/wiki/Darrell_Issa
 California,California 49,Doug Applegate,Democratic,49.7,False,False,R+4,general,
-California,California 5,Mike Thompson,Democratic,76.9,True,True,D+19,general,
+California,California 5,Mike Thompson,Democratic,76.9,True,True,D+19,general,https://en.wikipedia.org/wiki/Mike_Thompson_(California_politician)
 California,California 5,Carlos Santamaria,Republican,23.1,False,False,D+19,general,
-California,California 50,Duncan D. Hunter,Republican,63.5,True,True,R+14,general,
+California,California 50,Duncan D. Hunter,Republican,63.5,True,True,R+14,general,https://en.wikipedia.org/wiki/Duncan_D._Hunter
 California,California 50,Patrick Malloy,Democratic,36.5,False,False,R+14,general,
-California,California 51,Juan Vargas,Democratic,72.8,True,True,D+16,general,
+California,California 51,Juan Vargas,Democratic,72.8,True,True,D+16,general,https://en.wikipedia.org/wiki/Juan_Vargas
 California,California 51,Juan Hidalgo Jr.,Republican,27.2,False,False,D+16,general,
-California,California 52,Scott Peters,Democratic,56.5,True,True,D+2,general,
+California,California 52,Scott Peters,Democratic,56.5,True,True,D+2,general,https://en.wikipedia.org/wiki/Scott_Peters_(politician)
 California,California 52,Denise Gitsham,Republican,43.5,False,False,D+2,general,
-California,California 53,Susan Davis,Democratic,67.0,True,True,D+10,general,
+California,California 53,Susan Davis,Democratic,67.0,True,True,D+10,general,https://en.wikipedia.org/wiki/Susan_Davis_(politician)
 California,California 53,James Veltmeyer,Republican,33.0,False,False,D+10,general,
-California,California 6,Doris Matsui,Democratic,75.4,True,True,D+18,general,
+California,California 6,Doris Matsui,Democratic,75.4,True,True,D+18,general,https://en.wikipedia.org/wiki/Doris_Matsui
 California,California 6,Bob Evans,Republican,24.6,False,False,D+18,general,
-California,California 7,Ami Bera,Democratic,51.2,True,True,EVEN,general,
-California,California 7,Scott Jones,Republican,48.8,False,False,EVEN,general,
-California,California 8,Paul Cook,Republican,62.3,True,True,R+10,general,
+California,California 7,Ami Bera,Democratic,51.2,True,True,EVEN,general,https://en.wikipedia.org/wiki/Ami_Bera
+California,California 7,Scott Jones,Republican,48.8,False,False,EVEN,general,https://en.wikipedia.org/wiki/Scott_Jones_(sheriff)
+California,California 8,Paul Cook,Republican,62.3,True,True,R+10,general,https://en.wikipedia.org/wiki/Paul_Cook_(politician)
 California,California 8,Rita Ramirez,Democratic,37.7,False,False,R+10,general,
-California,California 9,Jerry McNerney,Democratic,57.4,True,True,D+6,general,
+California,California 9,Jerry McNerney,Democratic,57.4,True,True,D+6,general,https://en.wikipedia.org/wiki/Jerry_McNerney
 California,California 9,Tony Amador,Republican,42.6,False,False,D+6,general,
 Colorado,Colorado 1,Diana DeGette,Democratic,67.9,True,True,D+18,general,https://en.wikipedia.org/wiki/Diana_DeGette
 Colorado,Colorado 1,Casper Stockham,Republican,27.7,False,False,D+18,general,
@@ -225,7 +225,7 @@ Florida,Florida 23,Debbie Wasserman Schultz,Democratic,56.7,True,True,D+9,gener
 Florida,Florida 23,Joe Kaufman,Republican,40.5,False,False,D+9,general,
 Florida,Florida 23,Don Endriss,Independent,1.6,False,False,D+9,general,
 Florida,Florida 23,Lyle Milstein,Independent,1.2,False,False,D+9,general,
-Florida,Florida 24,Frederica Wilson,Democratic,100.0,True,True,D+33,general,
+Florida,Florida 24,Frederica Wilson,Democratic,100.0,True,True,D+33,general,https://en.wikipedia.org/wiki/Frederica_Wilson
 Florida,Florida 25,Mario Díaz-Balart,Republican,62.4,True,True,R+10,general,https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart
 Florida,Florida 25,Alina Valdes,Democratic,37.6,False,False,R+10,general,
 Florida,Florida 26,Carlos Curbelo,Republican,53.0,True,True,EVEN,general,https://en.wikipedia.org/wiki/Carlos_Curbelo
@@ -250,14 +250,14 @@ Florida,Florida 8,Corry Westbrook,Democratic,32.6,False,False,R+9,general,
 Florida,Florida 8,Bill Stinson,Independent,4.3,False,False,R+9,general,
 Florida,Florida 9,Darren Soto,Democratic,57.5,False,True,D+3,general,https://en.wikipedia.org/wiki/Darren_Soto
 Florida,Florida 9,Wayne Liebnitzky,Republican,42.5,False,False,D+3,general,
-Georgia,Georgia 1,Buddy Carter,Republican,99.6,True,True,R+9,general,
-Georgia,Georgia 10,Jody Hice,Republican,99.6,True,True,R+14,general,
+Georgia,Georgia 1,Buddy Carter,Republican,99.6,True,True,R+9,general,https://en.wikipedia.org/wiki/Buddy_Carter
+Georgia,Georgia 10,Jody Hice,Republican,99.6,True,True,R+14,general,https://en.wikipedia.org/wiki/Jody_Hice
 Georgia,Georgia 11,Barry Loudermilk,Republican,67.4,True,True,R+19,general,https://en.wikipedia.org/wiki/Barry_Loudermilk
 Georgia,Georgia 11,Don Wilson,Democratic,32.6,False,False,R+19,general,
 Georgia,Georgia 12,Rick Allen,Republican,61.6,True,True,R+9,general,https://en.wikipedia.org/wiki/Rick_Allen_(politician)
 Georgia,Georgia 12,Tricia McCracken,Democratic,38.4,False,False,R+9,general,
-Georgia,Georgia 13,David Scott,Democratic,100.0,True,True,D+16,general,
-Georgia,Georgia 14,Tom Graves,Republican,99.9,True,True,R+26,general,
+Georgia,Georgia 13,David Scott,Democratic,100.0,True,True,D+16,general,https://en.wikipedia.org/wiki/David_Scott_(Georgia_politician)
+Georgia,Georgia 14,Tom Graves,Republican,99.9,True,True,R+26,general,https://en.wikipedia.org/wiki/Tom_Graves
 Georgia,Georgia 2,Sanford Bishop,Democratic,61.2,True,True,D+6,general,https://en.wikipedia.org/wiki/Sanford_Bishop
 Georgia,Georgia 2,Greg Duke,Republican,38.8,False,False,D+6,general,
 Georgia,Georgia 3,Drew Ferguson,Republican,68.4,False,True,R+19,general,https://en.wikipedia.org/wiki/Drew_Ferguson_(politician)
@@ -272,7 +272,7 @@ Georgia,Georgia 7,Rob Woodall,Republican,60.4,True,True,R+14,general,https://en
 Georgia,Georgia 7,Rashid Malik,Democratic,39.6,False,False,R+14,general,
 Georgia,Georgia 8,Austin Scott,Republican,67.6,True,True,R+15,general,https://en.wikipedia.org/wiki/Austin_Scott_(politician)
 Georgia,Georgia 8,James Harris,Democratic,32.4,False,False,R+15,general,
-Georgia,Georgia 9,Doug Collins,Republican,100.0,True,True,R+30,general,
+Georgia,Georgia 9,Doug Collins,Republican,100.0,True,True,R+30,general,https://en.wikipedia.org/wiki/Doug_Collins_(politician)
 Hawaii,Hawaii 1,Colleen Hanabusa,Democratic,71.9,False,True,D+18,general,https://en.wikipedia.org/wiki/Colleen_Hanabusa
 Hawaii,Hawaii 1,Shirlene D. Ostrov,Republican,22.7,False,False,D+18,general,
 Hawaii,Hawaii 1,Alan Yim,Libertarian,3.3,False,False,D+18,general,
@@ -299,16 +299,16 @@ Illinois,Illinois 13,Rodney Davis,Republican,59.7,True,True,EVEN,general,https:
 Illinois,Illinois 13,Mark Wicklund,Democratic,40.3,False,False,EVEN,general,
 Illinois,Illinois 14,Randy Hultgren,Republican,59.3,True,True,R+5,general,https://en.wikipedia.org/wiki/Randy_Hultgren
 Illinois,Illinois 14,Jim Walz,Democratic,40.7,False,False,R+5,general,
-Illinois,Illinois 15,John Shimkus,Republican,100.0,True,True,R+14,general,
-Illinois,Illinois 16,Adam Kinzinger,Republican,99.9,True,True,R+4,general,
+Illinois,Illinois 15,John Shimkus,Republican,100.0,True,True,R+14,general,https://en.wikipedia.org/wiki/John_Shimkus
+Illinois,Illinois 16,Adam Kinzinger,Republican,99.9,True,True,R+4,general,https://en.wikipedia.org/wiki/Adam_Kinzinger
 Illinois,Illinois 17,Cheri Bustos,Democratic,60.3,True,True,D+7,general,https://en.wikipedia.org/wiki/Cheri_Bustos
 Illinois,Illinois 17,Patrick Harlan,Republican,39.7,False,False,D+7,general,
 Illinois,Illinois 18,Darin LaHood,Republican,72.1,True,True,R+11,general,https://en.wikipedia.org/wiki/Darin_LaHood
 Illinois,Illinois 18,Junius Rodriguez,Democratic,27.9,False,False,R+11,general,https://en.wikipedia.org/wiki/Junius_P._Rodriguez
 Illinois,Illinois 2,Robin Kelly,Democratic,79.8,True,True,D+29,general,https://en.wikipedia.org/wiki/Robin_Kelly
 Illinois,Illinois 2,John Morrow,Republican,20.2,False,False,D+29,general,
-Illinois,Illinois 3,Dan Lipinski,Democratic,100.0,True,True,D+5,general,
-Illinois,Illinois 4,Luis Gutiérrez,Democratic,100.0,True,True,D+29,general,
+Illinois,Illinois 3,Dan Lipinski,Democratic,100.0,True,True,D+5,general,https://en.wikipedia.org/wiki/Dan_Lipinski
+Illinois,Illinois 4,Luis Gutiérrez,Democratic,100.0,True,True,D+29,general,https://en.wikipedia.org/wiki/Luis_Guti%C3%A9rrez
 Illinois,Illinois 5,Mike Quigley,Democratic,67.8,True,True,D+16,general,https://en.wikipedia.org/wiki/Mike_Quigley
 Illinois,Illinois 5,Vince Kolber,Republican,27.5,False,False,D+16,general,
 Illinois,Illinois 5,Rob Sherman,Green,4.7,False,False,D+16,general,
@@ -374,14 +374,14 @@ Kentucky,Kentucky 1,James Comer,Republican,72.6,False,True,R+18,general,https:/
 Kentucky,Kentucky 1,Sam Gaskins,Democratic,27.4,False,False,R+18,general,
 Kentucky,Kentucky 1,James Comer,Republican,72.2,False,True,,special,https://en.wikipedia.org/wiki/James_Comer_(politician)
 Kentucky,Kentucky 1,Samuel L. Gaskins,Democratic,27.8,False,False,,special,
-Kentucky,Kentucky 2,Brett Guthrie,Republican,100.0,True,True,R+16,general,
+Kentucky,Kentucky 2,Brett Guthrie,Republican,100.0,True,True,R+16,general,https://en.wikipedia.org/wiki/Brett_Guthrie
 Kentucky,Kentucky 3,John Yarmuth,Democratic,63.5,True,True,D+4,general,https://en.wikipedia.org/wiki/John_Yarmuth
 Kentucky,Kentucky 3,Harold Bratcher,Republican,36.5,False,False,D+4,general,
 Kentucky,Kentucky 4,Thomas Massie,Republican,71.3,True,True,R+16,general,https://en.wikipedia.org/wiki/Thomas_Massie
 Kentucky,Kentucky 4,Calvin Sidle,Democratic,28.7,False,False,R+16,general,
-Kentucky,Kentucky 5,Hal Rogers,Republican,100.0,True,True,R+25,general,
+Kentucky,Kentucky 5,Hal Rogers,Republican,100.0,True,True,R+25,general,https://en.wikipedia.org/wiki/Hal_Rogers
 Kentucky,Kentucky 6,Andy Barr,Republican,61.1,True,True,R+9,general,https://en.wikipedia.org/wiki/Andy_Barr_(American_politician)
-Kentucky,Kentucky 6,Nancy Jo Kemper,Democratic,38.9,False,False,R+9,general,
+Kentucky,Kentucky 6,Nancy Jo Kemper,Democratic,38.9,False,False,R+9,general,https://en.wikipedia.org/wiki/Nancy_Jo_Kemper
 Louisiana,Louisiana 1,Steve Scalise,Republican,74.6,True,True,R+26,general,https://en.wikipedia.org/wiki/Steve_Scalise
 Louisiana,Louisiana 1,Lee Ann Dugas,Democratic,12.8,False,False,R+26,general,
 Louisiana,Louisiana 1,Danil Faust,Democratic,3.9,False,False,R+26,general,
@@ -458,14 +458,14 @@ Maryland,Maryland 8,Jasen Wunder,Libertarian,2.0,False,False,D+11,general,
 Massachusetts,Massachusetts 1,Richard Neal,Democratic,73.3,True,True,D+13,general,https://en.wikipedia.org/wiki/Richard_Neal
 Massachusetts,Massachusetts 1,Frederick Mayock,Independent,17.9,False,False,D+13,general,
 Massachusetts,Massachusetts 1,Thomas Simmons,Libertarian,8.6,False,False,D+13,general,
-Massachusetts,Massachusetts 2,Jim McGovern,Democratic,98.2,True,True,D+8,general,
+Massachusetts,Massachusetts 2,Jim McGovern,Democratic,98.2,True,True,D+8,general,https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)
 Massachusetts,Massachusetts 3,Niki Tsongas,Democratic,68.7,True,True,D+6,general,https://en.wikipedia.org/wiki/Niki_Tsongas
 Massachusetts,Massachusetts 3,Ann Wofford,Republican,31.2,False,False,D+6,general,
 Massachusetts,Massachusetts 4,Joe Kennedy III,Democratic,70.1,True,True,D+6,general,https://en.wikipedia.org/wiki/Joe_Kennedy_III
 Massachusetts,Massachusetts 4,David Rosa,Republican,29.8,False,False,D+6,general,
-Massachusetts,Massachusetts 5,Katherine Clark,Democratic,98.6,True,True,D+14,general,
-Massachusetts,Massachusetts 6,Seth Moulton,Democratic,98.4,True,True,D+4,general,
-Massachusetts,Massachusetts 7,Mike Capuano,Democratic,98.6,True,True,D+31,general,
+Massachusetts,Massachusetts 5,Katherine Clark,Democratic,98.6,True,True,D+14,general,https://en.wikipedia.org/wiki/Katherine_Clark
+Massachusetts,Massachusetts 6,Seth Moulton,Democratic,98.4,True,True,D+4,general,https://en.wikipedia.org/wiki/Seth_Moulton
+Massachusetts,Massachusetts 7,Mike Capuano,Democratic,98.6,True,True,D+31,general,https://en.wikipedia.org/wiki/Mike_Capuano
 Massachusetts,Massachusetts 8,Stephen Lynch,Democratic,72.4,True,True,D+6,general,https://en.wikipedia.org/wiki/Stephen_Lynch_(politician)
 Massachusetts,Massachusetts 8,William Burke,Republican,27.5,False,False,D+6,general,
 Massachusetts,Massachusetts 9,Bill Keating,Democratic,55.7,True,True,D+5,general,https://en.wikipedia.org/wiki/Bill_Keating_(politician)
@@ -601,7 +601,7 @@ Nebraska,Nebraska 1,Daniel Wik,Democratic,30.5,False,False,R+10,general,
 Nebraska,Nebraska 2,Don Bacon,Republican,48.9,False,True,R+4,general,https://en.wikipedia.org/wiki/Don_Bacon
 Nebraska,Nebraska 2,Brad Ashford,Democratic,47.7,True,False,R+4,general,https://en.wikipedia.org/wiki/Brad_Ashford
 Nebraska,Nebraska 2,Steven Laird,Libertarian,3.3,False,False,R+4,general,
-Nebraska,Nebraska 3,Adrian Smith,Republican,100.0,True,True,R+23,general,
+Nebraska,Nebraska 3,Adrian Smith,Republican,100.0,True,True,R+23,general,https://en.wikipedia.org/wiki/Adrian_Smith_(politician)
 Nevada,Nevada 1,Dina Titus,Democratic,61.9,True,True,D+14,general,https://en.wikipedia.org/wiki/Dina_Titus
 Nevada,Nevada 1,Mary Perry,Republican,28.8,False,False,D+14,general,
 Nevada,Nevada 1,Reuben D'Silva,Independent,7.3,False,False,D+14,general,https://en.wikipedia.org/wiki/Reuben_D%27Silva
@@ -705,7 +705,7 @@ New York,New York 15,Alejandro Vega,Republican,3.5,False,False,D+42,general,
 New York,New York 15,Eduardo Ramirez,Conservative,1.2,False,False,D+42,general,
 New York,New York 16,Eliot Engel,Democratic,94.4,True,True,D+21,general,https://en.wikipedia.org/wiki/Eliot_Engel
 New York,New York 16,Derickson Lawrence,Independent,5.3,False,False,D+21,general,
-New York,New York 17,Nita Lowey,Democratic,99.1,True,True,D+5,general,
+New York,New York 17,Nita Lowey,Democratic,99.1,True,True,D+5,general,https://en.wikipedia.org/wiki/Nita_Lowey
 New York,New York 18,Sean Patrick Maloney,Democratic,55.6,True,True,EVEN,general,https://en.wikipedia.org/wiki/Sean_Patrick_Maloney
 New York,New York 18,Phil Oliva,Republican,44.4,False,False,EVEN,general,
 New York,New York 19,John Faso,Republican,54.2,False,True,D+1,general,https://en.wikipedia.org/wiki/John_Faso
@@ -815,7 +815,7 @@ Ohio,Ohio 8,Corey Foister,Democratic,21.1,False,False,,special,https://en.wikip
 Ohio,Ohio 8,James J. Condit Jr.,Green,2.2,False,False,,special,
 Ohio,Ohio 9,Marcy Kaptur,Democratic,68.7,True,True,D+15,general,https://en.wikipedia.org/wiki/Marcy_Kaptur
 Ohio,Ohio 9,Donald Larson,Republican,31.3,False,False,D+15,general,
-Oklahoma,Oklahoma 1,Jim Bridenstine,Republican,100.0,True,True,R+18,general,
+Oklahoma,Oklahoma 1,Jim Bridenstine,Republican,100.0,True,True,R+18,general,https://en.wikipedia.org/wiki/Jim_Bridenstine
 Oklahoma,Oklahoma 2,Markwayne Mullin,Republican,70.6,True,True,R+20,general,https://en.wikipedia.org/wiki/Markwayne_Mullin
 Oklahoma,Oklahoma 2,Joshua Harris-Till,Democratic,23.2,False,False,R+20,general,
 Oklahoma,Oklahoma 2,John McCarthy,Independent,6.2,False,False,R+20,general,
@@ -850,7 +850,7 @@ Pennsylvania,Pennsylvania 11,Lou Barletta,Republican,63.7,True,True,R+6,general
 Pennsylvania,Pennsylvania 11,Michael Marsicano,Democratic,36.3,False,False,R+6,general,
 Pennsylvania,Pennsylvania 12,Keith Rothfus,Republican,61.8,True,True,R+6,general,https://en.wikipedia.org/wiki/Keith_Rothfus
 Pennsylvania,Pennsylvania 12,Erin McClelland,Democratic,38.2,False,False,R+6,general,
-Pennsylvania,Pennsylvania 13,Brendan Boyle,Democratic,100.0,True,True,D+13,general,
+Pennsylvania,Pennsylvania 13,Brendan Boyle,Democratic,100.0,True,True,D+13,general,https://en.wikipedia.org/wiki/Brendan_Boyle
 Pennsylvania,Pennsylvania 14,Mike Doyle,Democratic,74.4,True,True,D+15,general,https://en.wikipedia.org/wiki/Mike_Doyle_(American_politician)
 Pennsylvania,Pennsylvania 14,Lenny McAllister,Republican,25.6,False,False,D+15,general,https://en.wikipedia.org/wiki/Lenny_McAllister
 Pennsylvania,Pennsylvania 15,Charlie Dent,Republican,58.4,True,True,R+2,general,https://en.wikipedia.org/wiki/Charlie_Dent
@@ -861,12 +861,12 @@ Pennsylvania,Pennsylvania 16,Christina Hartman,Democratic,42.9,False,False,R+4,
 Pennsylvania,Pennsylvania 16,Shawn House,Libertarian,3.4,False,False,R+4,general,
 Pennsylvania,Pennsylvania 17,Matt Cartwright,Democratic,53.8,True,True,D+4,general,https://en.wikipedia.org/wiki/Matt_Cartwright
 Pennsylvania,Pennsylvania 17,Matt Connolly,Republican,46.2,False,False,D+4,general,
-Pennsylvania,Pennsylvania 18,Tim Murphy,Republican,100.0,True,True,R+10,general,https://en.wikipedia.org/wiki/Tim_Murphy_(American_politician)
+Pennsylvania,Pennsylvania 18,Tim Murphy,Republican,100.0,True,True,R+10,general,https://en.wikipedia.org/wiki/Tim_Murphy_(Pennsylvania_politician)
 Pennsylvania,Pennsylvania 2,Dwight Evans,Democratic,90.2,False,True,D+38,general,https://en.wikipedia.org/wiki/Dwight_Evans_(politician)
 Pennsylvania,Pennsylvania 2,James Jones,Republican,9.8,False,False,D+38,general,
 Pennsylvania,Pennsylvania 2,Dwight Evans,Democratic,90.2,False,True,,special,https://en.wikipedia.org/wiki/Dwight_Evans_(politician)
 Pennsylvania,Pennsylvania 2,James Jones,Republican,9.8,False,False,,special,
-Pennsylvania,Pennsylvania 3,Mike Kelly,Republican,100.0,True,True,R+8,general,
+Pennsylvania,Pennsylvania 3,Mike Kelly,Republican,100.0,True,True,R+8,general,https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)
 Pennsylvania,Pennsylvania 4,Scott Perry,Republican,66.1,True,True,R+9,general,https://en.wikipedia.org/wiki/Scott_Perry
 Pennsylvania,Pennsylvania 4,Joshua Burkholder,Democratic,33.9,False,False,R+9,general,
 Pennsylvania,Pennsylvania 5,Glenn Thompson,Republican,67.2,True,True,R+8,general,https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)
@@ -906,8 +906,8 @@ South Carolina,South Carolina 6,Rich Piotrowski,Libertarian,1.2,False,False,D+2
 South Carolina,South Carolina 6,Prince Mallory,Green,1.0,False,False,D+21,general,
 South Carolina,South Carolina 7,Tom Rice,Republican,61.0,True,True,R+7,general,https://en.wikipedia.org/wiki/Tom_Rice
 South Carolina,South Carolina 7,Mal Hyman,Democratic,39.0,False,False,R+7,general,
-South Dakota,South Dakota at-large,Kristi Noem,Republican,64.1,True,True,R+10,general,
-South Dakota,South Dakota at-large,Paula Hawks,Democratic,35.9,False,False,R+10,general,
+South Dakota,South Dakota at-large,Kristi Noem,Republican,64.1,True,True,R+10,general,https://en.wikipedia.org/wiki/Kristi_Noem
+South Dakota,South Dakota at-large,Paula Hawks,Democratic,35.9,False,False,R+10,general,https://en.wikipedia.org/wiki/Paula_Hawks
 Tennessee,Tennessee 1,Phil Roe,Republican,78.4,True,True,R+25,general,https://en.wikipedia.org/wiki/Phil_Roe_(politician)
 Tennessee,Tennessee 1,Alam Bohms,Democratic,15.4,False,False,R+25,general,
 Tennessee,Tennessee 1,Robert Franklin,Independent,6.2,False,False,R+25,general,
@@ -1045,7 +1045,7 @@ Utah,Utah 1,Rob Bishop,Republican,65.9,True,True,R+27,general,https://en.wikipe
 Utah,Utah 1,Peter Clemens,Democratic,26.4,False,False,R+27,general,
 Utah,Utah 1,Craig Bowden,Libertarian,5.9,False,False,R+27,general,
 Utah,Utah 1,Chadwick Fairbanks,Unaffiliated,1.7,False,False,R+27,general,
-Utah,Utah 2,Chris Stewart,Republican,61.6,True,True,R+18,general,https://en.wikipedia.org/wiki/Chris_Stewart_(politician)
+Utah,Utah 2,Chris Stewart,Republican,61.6,True,True,R+18,general,https://en.wikipedia.org/wiki/Chris_Stewart_(Utah_politician)
 Utah,Utah 2,Charlene Albarran,Democratic,33.9,False,False,R+18,general,
 Utah,Utah 2,Paul McCollaum,Constitution,4.5,False,False,R+18,general,
 Utah,Utah 3,Jason Chaffetz,Republican,73.5,True,True,R+28,general,https://en.wikipedia.org/wiki/Jason_Chaffetz
