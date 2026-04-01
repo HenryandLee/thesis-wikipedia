@@ -1,6 +1,6 @@
 # Editing the Candidate: Pre-Election Dynamics on Wikipedia
 
-This repository contains data and code for my thesis studying how editing activity on Wikipedia pages for U.S. House and Senate candidates changes in the period before federal elections (2008–2024).
+This repository contains data and code for my thesis studying how editing activity on Wikipedia pages for U.S. House candidates changes in the period before federal elections (2008–2024).
 
 Wikipedia is a collaboratively edited encyclopedia where anyone can revise an article at any time. Each edit is logged in a publicly accessible revision history. For pages covering political candidates, this history provides a behavioral record of public information production around election cycles. The thesis examines two questions: (1) whether there is a shared national surge in editing activity as Election Day approaches, and (2) whether this activity is organized around each state's primary calendar or around a single national electoral rhythm.
 
@@ -46,7 +46,7 @@ Scrape Wikipedia election summary pages to obtain the list of candidates and the
 
 ```bash
 python scripts/011_build_house_roster_backend.py all   # House, 2008–2024
-python scripts/012_build_senate_roster.py all          # Senate, 2008–2024
+python scripts/012_build_senate_roster.py all          # Senate, 2008–2024, not used in the writeup
 ```
 
 Output: `data/raw/html_parsed_candidates/`
