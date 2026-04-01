@@ -1,21 +1,29 @@
 """
-Script to scrape 2008-2024 US House election candidate data from Wikipedia
-Collects candidates from state-by-state tables (general elections) and special elections
-Date: 2025-12-28
-Usage: python scripts/011_build_house_roster_backend.py [year]
-    * year: 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024
-    * if year is not provided, all years will be scraped
-    * if year is provided, only that year will be scraped
+011_build_house_roster_backend.py
 
-Notes: 
-    * 2016 format difference: Some states use plain text instead of <li> elements
-    * 2012 format difference: Header consists of one line instead of two
-    * 2008 format difference: Some states lack CPVI column
-Parsing: 
-    * election_type column to distinguish special/general/RCV rounds (special_rcv_round1, special_rcv_runoff, general_rcv_round1, general_rcv_runoff)
-    * dynamic parsing of candidates from state tables and special elections
-    * dynamic parsing of candidates from plain text and <li> elements
-    * year-specific parsers for 2008-2024 for accuracy
+Scrape US House election candidate data from Wikipedia for 2008-2024.
+Collects candidates from state-by-state tables (general elections) and
+special elections. Uses year-specific parsers to handle format differences
+across cycles.
+
+Input:
+    Wikipedia election pages (fetched at runtime):
+        https://en.wikipedia.org/wiki/{year}_United_States_House_Representatives_elections
+
+Output:
+    data/raw/html_parsed_candidates/{year}_house_candidates.csv  (one per year)
+
+Usage:
+    python scripts/011_build_house_roster_backend.py [year]
+        year: 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, or 2024
+        If year is omitted, all years are scraped.
+
+Notes:
+    2016: some states use plain text instead of <li> elements
+    2012: table header is one line instead of two
+    2008: some states lack the CPVI column
+    election_type values: general, special, general_rcv_round1,
+        general_rcv_runoff, special_rcv_round1, special_rcv_runoff
 """
 
 import requests
@@ -1125,7 +1133,7 @@ def scrape_house_elections(
 
     print("\n1. Fetching Wikipedia page...")
     soup = fetch_wikipedia_page(url)
-    print("   ✓ Page fetched successfully")
+    print("   Page fetched successfully")
 
     # Get all tables
     tables = soup.find_all('table', class_='wikitable')
@@ -1138,12 +1146,12 @@ def scrape_house_elections(
     if len(tables) > special_table_index:
         special_candidates = parse_special_elections_table(tables[special_table_index])
         all_candidates.extend(special_candidates)
-        print(f"   ✓ Extracted {len(special_candidates)} candidates from special elections")
+        print(f"   Extracted {len(special_candidates)} candidates from special elections")
 
     # Identify and parse all state tables
     print(f"\n4. Identifying state tables (starting at index {state_tables_start_index})...")
     state_tables = identify_state_tables(soup, start_index=state_tables_start_index)
-    print(f"   ✓ Found {len(state_tables)} state tables")
+    print(f"   Found {len(state_tables)} state tables")
 
     print("\n5. Parsing state tables...")
     for idx, (table, state_name) in enumerate(state_tables, 1):
@@ -1190,7 +1198,7 @@ def scrape_house_elections(
     df = df.sort_values(['state', 'district', 'election_type', 'vote_percentage'],
                         ascending=[True, True, True, False])
 
-    print(f"   ✓ Created DataFrame with {len(df)} total candidates")
+    print(f"   Created DataFrame with {len(df)} total candidates")
     print(f"\n   Summary:")
     print(f"   - States: {df['state'].nunique()}")
     print(f"   - Districts: {df['district'].nunique()}")
@@ -1207,10 +1215,10 @@ def scrape_house_elections(
     # Save to CSV
     print(f"\n8. Saving to CSV: {output_path}")
     df.to_csv(output_path, index=False)
-    print("   ✓ Saved successfully!")
+    print("   Saved successfully.")
 
     print("\n" + "="*80)
-    print("SCRAPING COMPLETE!")
+    print("SCRAPING COMPLETE")
     print("="*80)
 
     return df

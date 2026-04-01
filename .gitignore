@@ -1,25 +1,53 @@
-# Ignore everything
 *
 
-# Un-ignore
+# Root files
+!README.md
+!.gitignore
+!environment.yml
+!flowchart.mmd
+!flowchart.png
+!flowchart/
 
-# Notebooks
+!scripts/
+!scripts/*.py
+
+# Raw candidate rosters scraped from Wikipedia
+!data/
+!data/raw/
+!data/raw/html_parsed_candidates/
+!data/raw/html_parsed_candidates/*.csv
+!data/raw/collection_summary_html_parsed.json
+!data/raw/2022_candidate_duplicates_audit.csv
+
+# Reference data (state primary dates)
+!data/reference/
+!data/reference/**
+
+# FEC candidate master files cached locally
+!data/cache/
+!data/cache/fec/
+!data/cache/fec/*.txt
+
+# Analysis datasets (panel and editor-cycle)
+!data/analysis/
+!data/analysis/panel_weekly.parquet
+!data/analysis/panel_metadata.json
+!data/analysis/editor_cycle_registered.parquet
+!data/analysis/editor_cycle_ip.parquet
+!data/analysis/editor_cycle_window_registered.parquet
+!data/analysis/editor_cycle_window_ip.parquet
+
+# EDA notebook is used to produce data/analysis/eda_results/ figures
 !notebooks/
 !notebooks/04_event_study_analysis.ipynb
 
-# Data - include everything except large files
-!data/
-!data/**
-data/processed_html_parsed/all_revisions.csv
+# Analysis outputs: figures and tables
+!data/analysis/q1_results/
+!data/analysis/q1_results/**
+!data/analysis/q2_results/
+!data/analysis/q2_results/**
+!data/analysis/eda_results/
+!data/analysis/eda_results/**
 
-# Figures - include everything
-!figures/
-!figures/**
-
-# Scripts
-!scripts/
-!scripts/*.py
-scripts/__pycache__/
-
-# Config
-!.gitignore
+!draft/
+!draft/full_draft_copy.pdf

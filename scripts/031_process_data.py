@@ -1,17 +1,30 @@
 """
-Script 031: Process HTML-parsed revision data into analysis-ready datasets
+031_process_data.py
 
-This script processes Wikipedia revision histories collected from candidates
-identified via HTML parsing of Wikipedia election pages (scripts 011, 012, 021).
+Process Wikipedia revision histories into analysis-ready datasets.
+Joins revision data with candidate metadata, filters revisions to
+cycles when the candidate was on the ballot, identifies bots, and
+aggregates to daily and candidate-cycle summaries.
 
-Key Design Decisions:
-1. Only includes revisions when candidate was on ballot for that cycle
-2. All metadata is cycle-specific (no aggregation across cycles)
-3. Cycles extend back to 2008 (starting from 2006-11-08)
-4. PVI parsed to numeric (R+ positive, D+ negative, missing = NaN)
+Key design decisions:
+    1. Only includes revisions when the candidate was on the ballot
+       for that cycle (cycle-specific filtering).
+    2. All metadata is cycle-specific; no cross-cycle aggregation.
+    3. Cycles begin with 2008 (2006-11-08 start date).
+    4. PVI parsed to numeric: R+ positive, D+ negative, missing = NaN.
 
-Usage:
-    python scripts/031_process_data.py
+Input:
+    data/raw/html_parsed_candidates/*.csv
+    data/raw/revisions_html_parsed/*.json
+
+Output:
+    data/processed_html_parsed/all_revisions.csv
+    data/processed_html_parsed/daily_edits.csv
+    data/processed_html_parsed/daily_edits_house.csv
+    data/processed_html_parsed/daily_edits_senate.csv
+    data/processed_html_parsed/candidate_cycle_stats.csv
+    data/processed_html_parsed/editor_profiles.csv
+    data/processed_html_parsed/processing_summary.md
 """
 import json
 import os
@@ -101,8 +114,8 @@ def parse_pvi(pvi_string):
     Parse Cook Partisan Voting Index to numeric score.
 
     Convention:
-    - Republican lean: positive (R+15 → 15.0)
-    - Democratic lean: negative (D+3 → -3.0)
+    - Republican lean: positive (R+15 -> 15.0)
+    - Democratic lean: negative (D+3 -> -3.0)
     - Even: 0.0
     - Missing/NaN: NaN (not 0!)
 
@@ -177,7 +190,7 @@ def load_candidate_metadata_from_csvs(csv_dir: Path) -> dict:
     logger.info(f"Loading metadata from {len(csv_files)} CSV files...")
 
     for csv_file in csv_files:
-        # Parse filename: 2016_house_candidates.csv → year=2016, office='House'
+        # Parse filename: 2016_house_candidates.csv -> year=2016, office='House'
         filename = csv_file.stem
         parts = filename.split('_')
 
@@ -186,7 +199,7 @@ def load_candidate_metadata_from_csvs(csv_dir: Path) -> dict:
             continue
 
         year = int(parts[0])
-        office_type = parts[1].capitalize()  # 'house' → 'House', 'senate' → 'Senate'
+        office_type = parts[1].capitalize()  # 'house' -> 'House', 'senate' -> 'Senate'
 
         logger.info(f"  Loading {year} {office_type} candidates...")
 
@@ -254,7 +267,7 @@ def process_revisions_to_timeseries(revisions_dir: Path, metadata_lookup: dict) 
     Example:
     - Candidate ran in 2016, 2020 (not 2018)
     - Revisions from 2017-05-10 fall in 2018 cycle
-    - Since candidate NOT on ballot in 2018 → revision EXCLUDED
+    - Since candidate NOT on ballot in 2018 -- revision excluded
 
     Args:
         revisions_dir: Directory containing revision JSON files
@@ -619,8 +632,8 @@ def main():
     df_daily_house.to_csv(house_csv, index=False, encoding='utf-8')
     df_daily_senate.to_csv(senate_csv, index=False, encoding='utf-8')
 
-    logger.info(f"       House: {len(df_daily_house):,} records → {house_csv.name}")
-    logger.info(f"       Senate: {len(df_daily_senate):,} records → {senate_csv.name}")
+    logger.info(f"       House: {len(df_daily_house):,} records, saved to {house_csv.name}")
+    logger.info(f"       Senate: {len(df_daily_senate):,} records, saved to {senate_csv.name}")
 
     # 4.4: Create candidate-cycle statistics
     logger.info("\n  4.4: Creating candidate-cycle statistics...")
@@ -763,15 +776,14 @@ def main():
         f.write(f"| `{editors_csv.name}` | {len(df_editors):,} | Editor profiles |\n")
         f.write("\n")
 
-    logger.info(f"✓ Processing summary saved to {summary_path.name}")
+    logger.info(f"Processing summary saved to {summary_path.name}")
 
     logger.info("\n" + "="*80)
-    logger.info("✓ DATA PROCESSING COMPLETE!")
+    logger.info("DATA PROCESSING COMPLETE")
     logger.info("="*80)
-    logger.info(f"\nOutput directory: {output_dir}")
-    logger.info(f"\n📊 See detailed statistics in: {summary_path.name}")
-    logger.info(f"\n✓ Generated {len([revisions_csv, daily_csv, house_csv, senate_csv, cycle_stats_csv, editors_csv])} datasets")
-    logger.info("✓ Ready for analysis!")
+    logger.info(f"Output directory: {output_dir}")
+    logger.info(f"See detailed statistics in: {summary_path.name}")
+    logger.info(f"Generated {len([revisions_csv, daily_csv, house_csv, senate_csv, cycle_stats_csv, editors_csv])} datasets.")
 
 
 if __name__ == "__main__":

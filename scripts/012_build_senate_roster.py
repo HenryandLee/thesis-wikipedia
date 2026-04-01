@@ -1,6 +1,15 @@
 """
-US Senate Elections Scraper
-Scrapes candidate data from Wikipedia Senate election pages
+012_build_senate_roster.py
+
+Scrape US Senate election candidate data from Wikipedia for 2008-2024.
+Collects candidates from race results tables and extracts PVI ratings.
+
+Input:
+    Wikipedia election pages (fetched at runtime):
+        https://en.wikipedia.org/wiki/{year}_United_States_Senate_elections
+
+Output:
+    data/raw/html_parsed_candidates/{year}_senate_candidates.csv  (one per year)
 
 Usage:
     python scripts/012_build_senate_roster.py 2024
@@ -258,7 +267,7 @@ def scrape_senate_elections(year: int) -> pd.DataFrame:
     response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
     response.raise_for_status()
     soup = BeautifulSoup(response.content, 'html.parser')
-    print("   ✓ Page fetched successfully")
+    print("   Page fetched successfully")
 
     # Find all tables
     wikitables = soup.find_all('table', class_='wikitable')
@@ -268,7 +277,7 @@ def scrape_senate_elections(year: int) -> pd.DataFrame:
     print(f"\n3. Parsing PVI/ratings table (Table {pvi_table_index})...")
     pvi_table = wikitables[pvi_table_index]
     pvi_data = parse_pvi_table(pvi_table, table_format=table_format)
-    print(f"   ✓ Extracted PVI data for {len(pvi_data)} states")
+    print(f"   Extracted PVI data for {len(pvi_data)} states")
 
     # Parse special elections table if exists
     all_candidates = []
@@ -278,7 +287,7 @@ def scrape_senate_elections(year: int) -> pd.DataFrame:
         special_table = wikitables[special_table_index]
         special_candidates = parse_race_table(special_table, pvi_data, 'special')
         all_candidates.extend(special_candidates)
-        print(f"   ✓ Extracted {len(special_candidates)} candidates from special elections")
+        print(f"   Extracted {len(special_candidates)} candidates from special elections")
 
     # Parse general elections table
     table_num = 5 if special_table_index is not None else 4
@@ -286,13 +295,13 @@ def scrape_senate_elections(year: int) -> pd.DataFrame:
     general_table = wikitables[general_table_index]
     general_candidates = parse_race_table(general_table, pvi_data, 'general')
     all_candidates.extend(general_candidates)
-    print(f"   ✓ Extracted {len(general_candidates)} candidates from general elections")
+    print(f"   Extracted {len(general_candidates)} candidates from general elections")
 
     # Create DataFrame
     print(f"\n{table_num + 1}. Creating DataFrame...")
     df = pd.DataFrame(all_candidates)
 
-    print(f"   ✓ Created DataFrame with {len(df)} total candidates")
+    print(f"   Created DataFrame with {len(df)} total candidates")
     print(f"\n   Summary:")
     print(f"   - States: {df['state'].nunique()}")
     print(f"   - Races: {df.groupby(['state', 'election_type']).ngroups}")
@@ -312,10 +321,10 @@ def scrape_senate_elections(year: int) -> pd.DataFrame:
     output_path = f'data/raw/html_parsed_candidates/{year}_senate_candidates.csv'
     print(f"\n{table_num + 3}. Saving to CSV: {output_path}")
     df.to_csv(output_path, index=False)
-    print("   ✓ Saved successfully!")
+    print("   Saved successfully.")
 
     print("\n" + "="*80)
-    print("SCRAPING COMPLETE!")
+    print("SCRAPING COMPLETE")
     print("="*80)
 
     return df

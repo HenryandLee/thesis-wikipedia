@@ -1,11 +1,16 @@
 """
-Script 021: Collect revision histories for candidates from HTML parsed roster
+021_collect_revisions.py
 
-This script reads candidate data from CSV files in data/raw/html_parsed_candidates/
-and collects Wikipedia revision histories for candidates with available Wikipedia URLs.
+Collect Wikipedia revision histories for all candidates in the HTML-parsed roster.
+Reads candidate CSV files, extracts Wikipedia page titles, deduplicates by page,
+and fetches revision histories via the MediaWiki API.
 
-Usage:
-    python scripts/021_collect_revisions.py
+Input:
+    data/raw/html_parsed_candidates/*.csv
+
+Output:
+    data/raw/revisions_html_parsed/{page_title}.json  (one per unique Wikipedia page)
+    data/raw/collection_summary_html_parsed.json
 """
 import json
 import os
@@ -330,8 +335,7 @@ def main():
                    f"{page['statistics']['total_revisions']} revisions, "
                    f"{page['statistics']['unique_editors']} editors")
 
-    logger.info("\nCollection complete!")
-    logger.info("Next step: Process revision data for analysis")
+    logger.info("Collection complete.")
 
 
 if __name__ == "__main__":

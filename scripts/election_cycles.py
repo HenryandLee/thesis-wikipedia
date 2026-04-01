@@ -1,11 +1,13 @@
 """
-Election Cycle Utilities for US Federal Elections
+election_cycles.py
 
-Defines:
-- Election Day calculations (first Tuesday after first Monday in November)
-- 2-year federal election cycles
-- Cycle-safe baseline windows with post-election washout
-- Senate class staggering mapping
+Utility functions for US federal election cycle calculations.
+
+Provides:
+    - Election Day calculation (first Tuesday after first Monday in November)
+    - 2-year federal election cycle boundaries
+    - Cycle-safe baseline windows with post-election washout period
+    - Analysis window and week-relative-to-election helpers
 """
 from datetime import datetime, date, timedelta
 from typing import Dict, List, Tuple, Optional

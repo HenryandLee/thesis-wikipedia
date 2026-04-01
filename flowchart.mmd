@@ -1,0 +1,20 @@
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#E8F0FE', 'primaryTextColor': '#1a1a2e', 'primaryBorderColor': '#4a6fa5', 'lineColor': '#4a6fa5', 'secondaryColor': '#FFF8E7', 'secondaryBorderColor': '#d4a843', 'tertiaryColor': '#E8F5E9', 'tertiaryBorderColor': '#2e7d32', 'fontSize': '15px', 'fontFamily': 'Helvetica'}}}%%
+flowchart LR
+    classDef raw fill:#E8F0FE,stroke:#4a6fa5,stroke-width:2px,color:#1a1a2e,rx:8,ry:8
+    classDef process fill:#FFF8E7,stroke:#d4a843,stroke-width:2px,color:#1a1a2e,rx:8,ry:8
+    classDef final fill:#E8F5E9,stroke:#2e7d32,stroke-width:2.5px,color:#1a1a2e,font-weight:bold,rx:8,ry:8
+
+    A["Wikipedia Election<br/>Result Pages"]:::raw
+    B["State Primary Dates<br/><i>FEC / NCSL</i>"]:::raw
+    C["Candidate Roster<br/>Name · Party · State · Wiki URL"]:::process
+    D["Revision Histories<br/><i>MediaWiki API</i>"]:::process
+    E["Election Cycle Assignment<br/>2-Year Cycle Attribution"]:::process
+    F["Data Exclusions<br/>Bots · Washout · Mid-Cycle · LA / 2020"]:::process
+    G["<b>Analysis Panel</b><br/>Page-Cycle × Week<br/>Outcomes: Edit Count · Edit Indicator"]:::final
+
+    A --> C
+    B --> G
+    C --> D
+    D --> E
+    E --> F
+    F --> G

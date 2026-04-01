@@ -1,14 +1,14 @@
 ============================================================
 MODEL 1: BASIC EVENT STUDY
 ============================================================
-N observations: 277605
-R-squared: 0.0805
+N observations: 247238
+R-squared: 0.0806
 
 ============================================================
 MODEL 2: TREND INTERACTIONS
 ============================================================
-N observations: 277605
-R-squared: 0.0805
+N observations: 247238
+R-squared: 0.0806
 
 Trend variable: Trend = (cycle_year - 2008) / 2
   2008 → Trend = 0
@@ -20,9 +20,9 @@ Coefficient interpretation:
   f(k, year) = beta_k + gamma_k * Trend
 
 Key coefficients (k = -1, week immediately before primary):
-  beta_(-1)  = 0.0329  (2008 effect)
-  gamma_(-1) = -0.0031  (change per cycle)
-  f(-1, 2024) = 0.0082  (2024 effect)
+  beta_(-1)  = 0.0323  (2008 effect)
+  gamma_(-1) = -0.0023  (change per cycle)
+  f(-1, 2024) = 0.0138  (2024 effect)
 
 Interpretation:
   gamma_(-1) < 0: Local primary-timed component is SHRINKING over time
@@ -33,65 +33,69 @@ SAMPLE BALANCE DIAGNOSTIC
 ============================================================
 Observations per k_primary value in near window:
 ----------------------------------------
-  k = -18: 3,739 obs, 3,739 page-cycles
-  k = -17: 3,739 obs, 3,739 page-cycles
-  k = -16: 3,739 obs, 3,739 page-cycles
-  k = -15: 3,739 obs, 3,739 page-cycles
-  k = -14: 3,739 obs, 3,739 page-cycles
-  k = -13: 3,739 obs, 3,739 page-cycles
-  k = -12: 3,739 obs, 3,739 page-cycles
-  k = -11: 3,739 obs, 3,739 page-cycles
-  k = -10: 3,739 obs, 3,739 page-cycles
-  k =  -9: 3,739 obs, 3,739 page-cycles
-  k =  -8: 3,739 obs, 3,739 page-cycles
-  k =  -7: 3,739 obs, 3,739 page-cycles
-  k =  -6: 3,739 obs, 3,739 page-cycles
-  k =  -5: 3,739 obs, 3,739 page-cycles
-  k =  -4: 3,739 obs, 3,739 page-cycles
-  k =  -3: 3,739 obs, 3,739 page-cycles
-  k =  -2: 3,739 obs, 3,739 page-cycles
-  k =  -1: 3,739 obs, 3,739 page-cycles
+  k = -18: 3,316 obs, 3,316 page-cycles
+  k = -17: 3,316 obs, 3,316 page-cycles
+  k = -16: 3,316 obs, 3,316 page-cycles
+  k = -15: 3,316 obs, 3,316 page-cycles
+  k = -14: 3,316 obs, 3,316 page-cycles
+  k = -13: 3,316 obs, 3,316 page-cycles
+  k = -12: 3,316 obs, 3,316 page-cycles
+  k = -11: 3,316 obs, 3,316 page-cycles
+  k = -10: 3,316 obs, 3,316 page-cycles
+  k =  -9: 3,316 obs, 3,316 page-cycles
+  k =  -8: 3,316 obs, 3,316 page-cycles
+  k =  -7: 3,316 obs, 3,316 page-cycles
+  k =  -6: 3,316 obs, 3,316 page-cycles
+  k =  -5: 3,316 obs, 3,316 page-cycles
+  k =  -4: 3,316 obs, 3,316 page-cycles
+  k =  -3: 3,316 obs, 3,316 page-cycles
+  k =  -2: 3,316 obs, 3,316 page-cycles
+  k =  -1: 3,316 obs, 3,316 page-cycles
 
 STATUS: BALANCED
-  All k values have exactly 3,739 observations
-  All k values have exactly 3,739 page-cycles
+  All k values have exactly 3,316 observations
+  All k values have exactly 3,316 page-cycles
   Same sample contributes to all k values from -18 to -1.
 
 ============================================================
-LOCALITY HYPOTHESIS TESTS
+Q2 HYPOTHESIS TESTS
 ============================================================
 
-Near-primary window K = {-4, -3, -2, -1}
-LI_y = (1/|K|) * Σ_{k∈K} f_y(k)
-where f_y(k) = β_k + γ_k * Trend_y
-
 ------------------------------------------------------------
-TEST 1: Is there any locality near primaries in year y?
-        H_0: LI_y = 0 (Wald test, χ²(1))
+H1 TEST: beta_bar_K = 0 (locality exists?) — from Model 1
+         beta_bar_K = (1/|K|) * sum_{k in K} beta_k
 ------------------------------------------------------------
-Year           LI_y         SE       Wald    p-value    Sig
+Window                   beta_bar         SE       Wald    p-value
 ------------------------------------------------------------
-2008         0.0016     0.0249     0.0041     0.9491       
-2010         0.0008     0.0206     0.0015     0.9691       
-2012         0.0000     0.0168     0.0000     0.9995       
-2014        -0.0008     0.0137     0.0032     0.9547       
-2016        -0.0016     0.0120     0.0169     0.8965       
-2018        -0.0024     0.0123     0.0363     0.8488       
-2020        -0.0031     0.0145     0.0469     0.8285       
-2022        -0.0039     0.0178     0.0485     0.8257       
-2024        -0.0047     0.0218     0.0467     0.8290       
+K={-4,-3,-2,-1}           -0.0045     0.0132     0.1180     0.7312 
+K={-2,-1}                  0.0152     0.0154     0.9755     0.3233 
+K={-8,...,-1}             -0.0080     0.0112     0.5118     0.4744 
 
 Significance: *** p<0.01, ** p<0.05, * p<0.1
 
 ------------------------------------------------------------
-TEST 2: Is locality changing over time (nationalization)?
-        H_0: γ̄_K = 0 where γ̄_K = (1/|K|) * Σ_{k∈K} γ_k
+H2 TEST: gamma_bar_K = 0 (nationalization?) — from Model 2
+         gamma_bar_K = (1/|K|) * sum_{k in K} gamma_k
 ------------------------------------------------------------
-  γ̄_K estimate: -0.0008
-  Standard error: 0.0050
-  Wald statistic: 0.0247
-  p-value: 0.8751 
+Window                  gamma_bar         SE       Wald    p-value
+------------------------------------------------------------
+K={-4,-3,-2,-1}           -0.0018     0.0053     0.1121     0.7377 
+K={-2,-1}                 -0.0018     0.0062     0.0830     0.7733 
+K={-8,...,-1}             -0.0023     0.0044     0.2635     0.6077 
 
-Interpretation:
-  No significant trend: Locality appears stable over time.
-  The local primary-timing effect is neither strengthening nor weakening.
+Significance: *** p<0.01, ** p<0.05, * p<0.1
+
+------------------------------------------------------------
+APPENDIX D1: Year-by-year LI_y (main window K={-4,-3,-2,-1})
+             from Model 2
+------------------------------------------------------------
+Year           LI_y         SE       Wald    p-value
+------------------------------------------------------------
+2008         0.0020     0.0249     0.0067     0.9350 
+2010         0.0003     0.0206     0.0002     0.9895 
+2012        -0.0015     0.0168     0.0078     0.9295 
+2014        -0.0032     0.0141     0.0533     0.8175 
+2016        -0.0050     0.0130     0.1492     0.6993 
+2018        -0.0068     0.0139     0.2370     0.6264 
+2022        -0.0103     0.0202     0.2585     0.6112 
+2024        -0.0120     0.0245     0.2418     0.6229 

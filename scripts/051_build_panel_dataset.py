@@ -3,16 +3,23 @@
 
 Build the page-cycle-week panel dataset for econometric analysis.
 
-This script:
-1. Loads all_revisions.csv and filters to House races
-2. Applies washout period exclusion
-3. Applies page creation censoring
-4. Aggregates to Tuesday-Monday weeks
-5. Creates complete panel with zero-fill for missing weeks
-6. Computes event time variables and baseline-centered outcomes
-7. Merges state primary dates for Q2 analysis
+Steps:
+    1. Load all_revisions.csv and filter to House races.
+    2. Apply washout period exclusion.
+    3. Apply page creation censoring.
+    4. Aggregate to Tuesday-Monday weeks.
+    5. Create complete panel with zero-fill for missing weeks.
+    6. Compute event time variables and baseline-centered outcomes.
+    7. Merge state primary dates for Q2 analysis.
 
-Output: data/analysis/panel_weekly.parquet
+Input:
+    data/processed_html_parsed/all_revisions.csv
+    data/reference/state_primary_dates.csv
+
+Output:
+    data/analysis/panel_weekly.parquet
+    data/analysis/panel_metadata.json
+    data/analysis/censoring_report.csv
 """
 
 import pandas as pd

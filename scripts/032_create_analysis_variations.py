@@ -1,22 +1,27 @@
 """
-Script 032: Create Analysis Variations for Time Series
+032_create_analysis_variations.py
 
-Creates 3 variations of House candidate datasets for comparative analysis:
-1. Full dataset (all House candidates with Wikipedia pages)
-2. Exclude special election cycles (remove idiosyncratic special election attention)
-3. Also exclude presidential candidates (remove different editing patterns)
+Create three filtered variations of the House candidate daily edit dataset.
 
-Presidential candidate identification uses FEC Candidate Master bulk files
-(downloaded directly for presidential election years only). Identification is
-based on normalized name matching between FEC presidential filers and House
-candidate metadata.
+Variation 1 (v1): all House candidates, 2006-11-08 onwards.
+Variation 2 (v2): v1 minus special election candidate-cycles.
+Variation 3 (v3): v2 minus House candidates who also ran for president
+    in the same cycle (identified via FEC Candidate Master files).
+Exclusion is cycle-specific: a candidate excluded in 2020 is still
+included in other cycles.
 
-Exclusion is cycle-specific: a House candidate who ran for president in 2020
-is only excluded from the 2020 cycle, not from other cycles.
+Input:
+    data/processed_html_parsed/all_revisions.csv
+    data/raw/html_parsed_candidates/{year}_house_candidates.csv  (2008-2024)
+    data/cache/fec/cn{yy}.txt  (downloaded on first run if absent)
 
-Time range: 2006-11-08 onwards (2008 cycle forward)
-
-See docs/032_create_analysis_variations.md for detailed documentation.
+Output:
+    data/processed_html_parsed/daily_edits_house_v1_full.csv
+    data/processed_html_parsed/daily_edits_house_v2_no_special.csv
+    data/processed_html_parsed/daily_edits_house_v3_no_special_no_pres.csv
+    data/processed_html_parsed/variation_summary.csv
+    data/processed_html_parsed/house_presidential_candidates.csv
+    data/processed_html_parsed/exclusion_lists.json
 """
 import json
 import zipfile
@@ -358,4 +363,4 @@ with open(output_dir / 'exclusion_lists.json', 'w') as f:
     json.dump(exclusions, f, indent=2, default=str)
 
 logger.info(f"Exclusion lists saved: {output_dir / 'exclusion_lists.json'}")
-logger.info("\nDONE! Three variation datasets created successfully.")
+logger.info("Three variation datasets created successfully.")

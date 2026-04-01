@@ -1,22 +1,33 @@
 """
 053_q2_regression_analysis.py
 
-Q2 Regression Analysis: Measure locality vs synchronization using staggered primaries.
+Q2 regression analysis: measure locality vs. national synchronization
+using cross-state variation in primary dates.
 
-Functionality:
-1. Prepares data for regression (excludes Louisiana, creates dummies)
-2. Estimates Model 1: Basic event study with page-cycle and calendar-week FE
-3. Estimates Model 2: Trend interactions for nationalization test
-4. Creates Figure 2: Primary timing profile (beta_k plot)
-5. Creates Figure 3: Trend comparison (2008 vs 2024)
+Steps:
+    1. Prepare regression data (exclude Louisiana, create dummies).
+    2. Estimate Model 1: basic event study with page-cycle and
+       calendar-week fixed effects.
+    3. Estimate Model 2: trend interactions for nationalization test.
+    4. Figure 2: primary timing profile (beta_k coefficients).
+    5. Figure 3: trend comparison (2008 vs. 2024 implied profiles).
 
-Uses pyfixest for high-dimensional FE with two-way clustering.
+Uses pyfixest for high-dimensional fixed effects with two-way clustering.
+
+Input:
+    data/analysis/panel_weekly.parquet
 
 Output:
-  - data/analysis/q2_results/figure2_beta_k.png
-  - data/analysis/q2_results/figure3_trend_comparison.png
-  - data/analysis/q2_results/model1_estimates.csv
-  - data/analysis/q2_results/model2_estimates.csv
+    data/analysis/q2_results/figure2_beta_k.png
+    data/analysis/q2_results/figure3_trend_comparison.png
+    data/analysis/q2_results/model1_estimates.csv
+    data/analysis/q2_results/model2_estimates.csv
+    data/analysis/q2_results/sample_balance_diagnostic.csv
+    data/analysis/q2_results/h1_test_model1.csv
+    data/analysis/q2_results/h2_test_model2.csv
+    data/analysis/q2_results/appendix_year_locality.csv
+    data/analysis/q2_results/locality_robustness_windows.csv
+    data/analysis/q2_results/regression_summary.txt
 """
 
 import pandas as pd
@@ -52,7 +63,7 @@ Q2_RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 NEAR_WINDOW_L = 18  # k = -18 to -1
 REFERENCE_YEAR = 2008  # For trend calculation (Trend=0 in 2008, Trend=8 in 2024)
 LOCALITY_WINDOW = [-4, -3, -2, -1]  # K = {-4, -3, -2, -1} for locality index
-ELECTION_YEARS = [2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024]
+ELECTION_YEARS = [2008, 2010, 2012, 2014, 2016, 2018, 2022, 2024]
 
 
 def load_panel() -> pd.DataFrame:
@@ -124,6 +135,11 @@ def prepare_regression_data(panel_df: pd.DataFrame) -> Tuple[pd.DataFrame, pd.Da
     df = df[df['state'] != 'LA'].copy()
     logger.info(f"After excluding Louisiana: {len(df):,}")
 
+    # Exclude 2020 election cycle — COVID caused widespread primary postponements,
+    # making k_primary systematically mis-measured for that year.
+    df = df[df['election_cycle'] != 2020].copy()
+    logger.info(f"After excluding 2020 (COVID primary disruptions): {len(df):,}")
+
     # Filter to relevant k_primary range
     # Near window: k = -18 to -1
     # Baseline (reference): k <= -19
@@ -163,13 +179,13 @@ def prepare_regression_data(panel_df: pd.DataFrame) -> Tuple[pd.DataFrame, pd.Da
     # Check if balanced
     unique_counts = k_counts.unique()
     if len(unique_counts) == 1:
-        logger.info(f"\n✓ BALANCED: All k values have exactly {unique_counts[0]:,} observations")
+        logger.info(f"BALANCED: All k values have exactly {unique_counts[0]:,} observations")
         logger.info("  Same page-cycles contribute to all k values from -18 to -1")
     else:
-        logger.warning(f"\n⚠ UNBALANCED: Observation counts vary across k values")
+        logger.warning(f"UNBALANCED: Observation counts vary across k values")
         logger.warning(f"  Range: {k_counts.min():,} to {k_counts.max():,}")
         logger.warning("  This indicates compositional differences across k values.")
-        logger.warning("  Interpretation: β_k coefficients may reflect different samples,")
+        logger.warning("  Interpretation: beta_k coefficients may reflect different samples,")
         logger.warning("  not just different timing relative to primary.")
 
     # Also check unique page-cycles per k
@@ -198,7 +214,7 @@ def prepare_regression_data(panel_df: pd.DataFrame) -> Tuple[pd.DataFrame, pd.Da
     # Create trend variable: Trend = (year - 2008) / 2
     # This centers Trend at 2008 (Trend=0), so β_k in Model 2 represents the 2008 profile
     # and γ_k represents the change per 2-year cycle step
-    # 2008→0, 2010→1, 2012→2, ..., 2024→8
+    # 2008->0, 2010->1, 2012->2, ..., 2024->8
     df['Trend'] = (df['election_cycle'] - REFERENCE_YEAR) / 2
 
     # Create interaction terms for Model 2
@@ -344,170 +360,195 @@ def estimate_model2(df: pd.DataFrame) -> Tuple[object, pd.DataFrame, pd.DataFram
     return model, beta_df, gamma_df
 
 
-def run_locality_tests(model2: object) -> Tuple[pd.DataFrame, pd.DataFrame]:
+def run_h1_test(model1: object) -> pd.DataFrame:
     """
-    Run locality hypothesis tests from further_tests_for_q2.md.
+    Test H1: Is there average locality near primaries? (Model 1)
 
-    Test 1: "Is there any locality near primaries in year y?"
-        For each year y, test H_0: LI_y = 0
-        where LI_y = (1/|K|) * Σ_{k∈K} f_y(k)
-        and f_y(k) = β_k + γ_k * Trend_y
+    For each window K, test H_0: beta_bar_K = (1/|K|) * sum_{k in K} beta_k = 0
+    using a 1-df Wald test with two-way clustered CRV1 standard errors.
 
-    Test 2: "Is locality getting weaker/stronger over time?"
-        Test H_0: γ̄_K = 0
-        where γ̄_K = (1/|K|) * Σ_{k∈K} γ_k
+    Runs across three windows:
+      K = {-4,-3,-2,-1}  (main)
+      K = {-2,-1}        (narrower)
+      K = {-8,...,-1}    (wider)
 
-    Uses 1-df Wald tests with two-way clustered CRV1 standard errors.
+    Args:
+        model1: pyfixest model object from Model 1 estimation
+
+    Returns:
+        DataFrame with H1 test results (3 rows, one per window)
+    """
+    logger.info("Running H1 test (beta_bar_K = 0) from Model 1...")
+
+    coefs = model1.coef()
+    vcov = model1._vcov
+    coef_names = list(coefs.index)
+
+    windows = {
+        'K={-4,-3,-2,-1}': [-4, -3, -2, -1],
+        'K={-2,-1}':        [-2, -1],
+        'K={-8,...,-1}':    list(range(-8, 0)),
+    }
+
+    rows = []
+    for window_label, K in windows.items():
+        n_K = len(K)
+        beta_names = [f'D_k_m{abs(k)}' for k in K]
+        missing = [n for n in beta_names if n not in coef_names]
+        if missing:
+            logger.warning(f"Window {window_label}: missing {missing}; skipping.")
+            continue
+
+        R = np.zeros(len(coefs))
+        for k in K:
+            idx = coef_names.index(f'D_k_m{abs(k)}')
+            R[idx] = 1.0 / n_K
+
+        beta_bar = R @ coefs.values
+        var_bb   = R @ vcov @ R
+        se_bb    = np.sqrt(var_bb)
+        wald     = (beta_bar ** 2) / var_bb
+        pval     = 1 - stats.chi2.cdf(wald, df=1)
+
+        rows.append({
+            'window':    window_label,
+            'beta_bar_K': beta_bar,
+            'se':          se_bb,
+            'wald':        wald,
+            'p_value':     pval,
+        })
+        logger.info(f"  {window_label}: beta_bar={beta_bar:.4f} (SE={se_bb:.4f}), p={pval:.4f}")
+
+    h1_df = pd.DataFrame(rows)
+    output_path = Q2_RESULTS_DIR / "h1_test_model1.csv"
+    h1_df.to_csv(output_path, index=False)
+    logger.info(f"Saved H1 test results to {output_path}")
+    return h1_df
+
+
+def run_h2_test(model2: object) -> pd.DataFrame:
+    """
+    Test H2: Is locality changing over time? (Model 2)
+
+    For each window K, test H_0: gamma_bar_K = (1/|K|) * sum_{k in K} gamma_k = 0
+    using a 1-df Wald test with two-way clustered CRV1 standard errors.
+
+    Runs across three windows:
+      K = {-4,-3,-2,-1}  (main)
+      K = {-2,-1}        (narrower)
+      K = {-8,...,-1}    (wider)
 
     Args:
         model2: pyfixest model object from Model 2 estimation
 
     Returns:
-        Tuple of (test1_results DataFrame, test2_results DataFrame)
+        DataFrame with H2 test results (3 rows, one per window)
     """
-    logger.info("Running locality hypothesis tests...")
+    logger.info("Running H2 test (gamma_bar_K = 0) from Model 2...")
 
-    # Get coefficients and variance-covariance matrix
-    # The vcov is already computed with two-way clustering during estimation
     coefs = model2.coef()
-    vcov = model2._vcov  # Access the stored vcov matrix
-
-    # Get coefficient names for the near-primary locality window
-    # K = {-4, -3, -2, -1}
-    K = LOCALITY_WINDOW
-    n_K = len(K)
-
-    # Identify beta and gamma coefficient names for k in K
-    beta_names = [f'D_k_m{abs(k)}' for k in K]
-    gamma_names = [f'D_k_m{abs(k)}_trend' for k in K]
-
-    # Verify all coefficients exist
-    all_names = list(coefs.index)
-    for name in beta_names + gamma_names:
-        if name not in all_names:
-            raise ValueError(f"Coefficient {name} not found in model")
-
-    # Get indices for constructing contrast vectors
+    vcov = model2._vcov
     coef_names = list(coefs.index)
 
-    # =========================================================================
-    # Test 1: LI_y = 0 for each year y
-    # =========================================================================
-    # LI_y = (1/|K|) * Σ_{k∈K} (β_k + γ_k * Trend_y)
-    #      = (1/|K|) * Σ_{k∈K} β_k + Trend_y * (1/|K|) * Σ_{k∈K} γ_k
-    #
-    # This is a linear combination: R'θ where θ is the coefficient vector
-    # R has weights 1/|K| for each β_k in K, and Trend_y/|K| for each γ_k in K
-    # =========================================================================
+    windows = {
+        'K={-4,-3,-2,-1}': [-4, -3, -2, -1],
+        'K={-2,-1}':        [-2, -1],
+        'K={-8,...,-1}':    list(range(-8, 0)),
+    }
 
-    test1_results = []
+    rows = []
+    for window_label, K in windows.items():
+        n_K = len(K)
+        gamma_names = [f'D_k_m{abs(k)}_trend' for k in K]
+        missing = [n for n in gamma_names if n not in coef_names]
+        if missing:
+            logger.warning(f"Window {window_label}: missing {missing}; skipping.")
+            continue
 
-    for year in ELECTION_YEARS:
-        # Compute Trend for this year
-        trend_y = (year - REFERENCE_YEAR) / 2
-
-        # Construct contrast vector R
         R = np.zeros(len(coefs))
         for k in K:
-            beta_idx = coef_names.index(f'D_k_m{abs(k)}')
+            idx = coef_names.index(f'D_k_m{abs(k)}_trend')
+            R[idx] = 1.0 / n_K
+
+        gamma_bar = R @ coefs.values
+        var_g     = R @ vcov @ R
+        se_g      = np.sqrt(var_g)
+        wald      = (gamma_bar ** 2) / var_g
+        pval      = 1 - stats.chi2.cdf(wald, df=1)
+
+        rows.append({
+            'window':      window_label,
+            'gamma_bar_K': gamma_bar,
+            'se':           se_g,
+            'wald':         wald,
+            'p_value':      pval,
+        })
+        logger.info(f"  {window_label}: gamma_bar={gamma_bar:.4f} (SE={se_g:.4f}), p={pval:.4f}")
+
+    h2_df = pd.DataFrame(rows)
+    output_path = Q2_RESULTS_DIR / "h2_test_model2.csv"
+    h2_df.to_csv(output_path, index=False)
+    logger.info(f"Saved H2 test results to {output_path}")
+    return h2_df
+
+
+def run_year_locality_appendix(model2: object) -> pd.DataFrame:
+    """
+    Compute year-by-year LI_y from Model 2 for the main window K={-4,-3,-2,-1}.
+
+    Produces the transparency appendix table (Appendix D1) showing
+    LI_y = (1/|K|) * sum_{k in K} (beta_k + gamma_k * Trend_y) for each of the 8 cycles.
+
+    Note: These 8 values are arithmetic projections from the two scalar parameters
+    (beta_bar_K, gamma_bar_K); they add no new information beyond Tables 2 and 3,
+    but aid interpretation cycle by cycle.
+
+    Args:
+        model2: pyfixest model object from Model 2 estimation
+
+    Returns:
+        DataFrame with year-by-year LI_y results (8 rows)
+    """
+    logger.info("Computing year-by-year LI_y for Appendix D1...")
+
+    coefs = model2.coef()
+    vcov = model2._vcov
+    coef_names = list(coefs.index)
+
+    K = LOCALITY_WINDOW  # [-4, -3, -2, -1]
+    n_K = len(K)
+
+    rows = []
+    for year in ELECTION_YEARS:
+        trend_y = (year - REFERENCE_YEAR) / 2
+        R = np.zeros(len(coefs))
+        for k in K:
+            beta_idx  = coef_names.index(f'D_k_m{abs(k)}')
             gamma_idx = coef_names.index(f'D_k_m{abs(k)}_trend')
-            R[beta_idx] = 1.0 / n_K
+            R[beta_idx]  = 1.0 / n_K
             R[gamma_idx] = trend_y / n_K
 
-        # Compute LI_y = R'θ
-        LI_y = R @ coefs.values
+        LI_y   = R @ coefs.values
+        var_LI = R @ vcov @ R
+        se_LI  = np.sqrt(var_LI)
+        wald   = (LI_y ** 2) / var_LI
+        pval   = 1 - stats.chi2.cdf(wald, df=1)
 
-        # Compute Var(LI_y) = R' V R
-        var_LI_y = R @ vcov @ R
-
-        # Standard error
-        se_LI_y = np.sqrt(var_LI_y)
-
-        # Wald test statistic: W = (R'θ)^2 / (R' V R) ~ χ²(1)
-        wald_stat = (LI_y ** 2) / var_LI_y
-
-        # p-value from chi-squared distribution with 1 df
-        p_value = 1 - stats.chi2.cdf(wald_stat, df=1)
-
-        # Also compute t-statistic and two-sided p-value (for comparison)
-        t_stat = LI_y / se_LI_y
-
-        test1_results.append({
-            'year': year,
-            'trend': trend_y,
-            'LI_y': LI_y,
-            'se': se_LI_y,
-            't_stat': t_stat,
-            'wald_stat': wald_stat,
-            'p_value': p_value,
-            'significant_05': p_value < 0.05,
-            'significant_01': p_value < 0.01
+        rows.append({
+            'year':    year,
+            'trend':   trend_y,
+            'LI_y':    LI_y,
+            'se':      se_LI,
+            'wald':    wald,
+            'p_value': pval,
         })
+        logger.info(f"  {year}: LI = {LI_y:.4f} (SE={se_LI:.4f}), p={pval:.4f}")
 
-    test1_df = pd.DataFrame(test1_results)
-
-    logger.info("Test 1 (LI_y = 0 for each year) completed:")
-    for _, row in test1_df.iterrows():
-        sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else '')
-        logger.info(f"  {int(row['year'])}: LI = {row['LI_y']:.4f} (SE = {row['se']:.4f}), "
-                   f"p = {row['p_value']:.4f} {sig}")
-
-    # =========================================================================
-    # Test 2: γ̄_K = 0 (nationalization trend)
-    # =========================================================================
-    # γ̄_K = (1/|K|) * Σ_{k∈K} γ_k
-    #
-    # Construct contrast vector R with weights 1/|K| for each γ_k in K
-    # =========================================================================
-
-    R_gamma = np.zeros(len(coefs))
-    for k in K:
-        gamma_idx = coef_names.index(f'D_k_m{abs(k)}_trend')
-        R_gamma[gamma_idx] = 1.0 / n_K
-
-    # Compute γ̄_K = R'θ
-    gamma_bar = R_gamma @ coefs.values
-
-    # Compute Var(γ̄_K) = R' V R
-    var_gamma_bar = R_gamma @ vcov @ R_gamma
-
-    # Standard error
-    se_gamma_bar = np.sqrt(var_gamma_bar)
-
-    # Wald test statistic
-    wald_stat_gamma = (gamma_bar ** 2) / var_gamma_bar
-
-    # p-value
-    p_value_gamma = 1 - stats.chi2.cdf(wald_stat_gamma, df=1)
-
-    # t-statistic
-    t_stat_gamma = gamma_bar / se_gamma_bar
-
-    test2_results = pd.DataFrame([{
-        'parameter': 'gamma_bar_K',
-        'window': str(K),
-        'estimate': gamma_bar,
-        'se': se_gamma_bar,
-        't_stat': t_stat_gamma,
-        'wald_stat': wald_stat_gamma,
-        'p_value': p_value_gamma,
-        'significant_05': p_value_gamma < 0.05,
-        'significant_01': p_value_gamma < 0.01
-    }])
-
-    logger.info("Test 2 (γ̄_K = 0, nationalization trend) completed:")
-    sig = '***' if p_value_gamma < 0.01 else ('**' if p_value_gamma < 0.05 else '')
-    logger.info(f"  γ̄_K = {gamma_bar:.4f} (SE = {se_gamma_bar:.4f}), p = {p_value_gamma:.4f} {sig}")
-
-    # Interpretation
-    if gamma_bar < 0 and p_value_gamma < 0.05:
-        logger.info("  Interpretation: Locality is WEAKENING over time (nationalization).")
-    elif gamma_bar > 0 and p_value_gamma < 0.05:
-        logger.info("  Interpretation: Locality is STRENGTHENING over time.")
-    else:
-        logger.info("  Interpretation: No significant change in locality over time.")
-
-    return test1_df, test2_results
+    appendix_df = pd.DataFrame(rows)
+    output_path = Q2_RESULTS_DIR / "appendix_year_locality.csv"
+    appendix_df.to_csv(output_path, index=False)
+    logger.info(f"Saved year-by-year locality appendix to {output_path}")
+    return appendix_df
 
 
 def create_figure2(coef_df: pd.DataFrame):
@@ -540,10 +581,6 @@ def create_figure2(coef_df: pd.DataFrame):
     # Labels and title
     ax.set_xlabel('Weeks to State Primary (k)', fontsize=11)
     ax.set_ylabel(r'$\hat{\beta}_k$', fontsize=12)
-    ax.set_title('Figure 2. Local (state-timed) change in Wikipedia editing\n'
-                 'before primaries, net of national synchronization.',
-                 fontsize=11, fontweight='bold')
-
     ax.set_xlim(-NEAR_WINDOW_L - 0.5, -0.5)
     ax.set_xticks(range(-NEAR_WINDOW_L, 0))
 
@@ -603,11 +640,7 @@ def create_figure3(beta_df: pd.DataFrame, gamma_df: pd.DataFrame):
 
     # Labels and title
     ax.set_xlabel('Weeks to State Primary (k)', fontsize=11)
-    ax.set_ylabel('Predicted f(k)', fontsize=11)
-    ax.set_title('Figure 3. Change in the primary-timed locality profile\n'
-                 'over time (2008 vs 2024).',
-                 fontsize=11, fontweight='bold')
-
+    ax.set_ylabel(r'State-primary timing effect $f(k,y)$', fontsize=11)
     ax.legend(loc='upper left', fontsize=10)
     ax.set_xlim(-NEAR_WINDOW_L - 0.5, -0.5)
     ax.set_xticks(range(-NEAR_WINDOW_L, 0))
@@ -625,6 +658,8 @@ def create_figure3(beta_df: pd.DataFrame, gamma_df: pd.DataFrame):
     logger.info(f"Saved Figure 3 to {output_path}")
 
 
+
+
 def save_results(
     model1: object,
     model1_coef: pd.DataFrame,
@@ -632,8 +667,9 @@ def save_results(
     model2_beta: pd.DataFrame,
     model2_gamma: pd.DataFrame,
     balance_diagnostic: pd.DataFrame,
-    test1_results: pd.DataFrame = None,
-    test2_results: pd.DataFrame = None
+    h1_results: pd.DataFrame = None,
+    h2_results: pd.DataFrame = None,
+    appendix_year_results: pd.DataFrame = None
 ):
     """
     Save regression results to CSV files.
@@ -645,8 +681,9 @@ def save_results(
         model2_beta: Model 2 beta coefficients
         model2_gamma: Model 2 gamma coefficients
         balance_diagnostic: Sample balance diagnostic DataFrame
-        test1_results: Locality Index test results by year (optional)
-        test2_results: Nationalization trend test results (optional)
+        h1_results: H1 test results (beta_bar_K from Model 1, 3 windows)
+        h2_results: H2 test results (gamma_bar_K from Model 2, 3 windows)
+        appendix_year_results: Year-by-year LI_y from Model 2 (main window)
     """
     logger.info("Saving regression results...")
 
@@ -672,16 +709,21 @@ def save_results(
     balance_diagnostic.to_csv(balance_path, index=False)
     logger.info(f"Saved sample balance diagnostic to {balance_path}")
 
-    # Save locality test results if provided
-    if test1_results is not None:
-        test1_path = Q2_RESULTS_DIR / "locality_test1_by_year.csv"
-        test1_results.to_csv(test1_path, index=False)
-        logger.info(f"Saved Test 1 results to {test1_path}")
+    # Save hypothesis test results if provided
+    if h1_results is not None:
+        h1_path = Q2_RESULTS_DIR / "h1_test_model1.csv"
+        h1_results.to_csv(h1_path, index=False)
+        logger.info(f"Saved H1 test results to {h1_path}")
 
-    if test2_results is not None:
-        test2_path = Q2_RESULTS_DIR / "locality_test2_trend.csv"
-        test2_results.to_csv(test2_path, index=False)
-        logger.info(f"Saved Test 2 results to {test2_path}")
+    if h2_results is not None:
+        h2_path = Q2_RESULTS_DIR / "h2_test_model2.csv"
+        h2_results.to_csv(h2_path, index=False)
+        logger.info(f"Saved H2 test results to {h2_path}")
+
+    if appendix_year_results is not None:
+        app_path = Q2_RESULTS_DIR / "appendix_year_locality.csv"
+        appendix_year_results.to_csv(app_path, index=False)
+        logger.info(f"Saved year-by-year locality appendix to {app_path}")
 
     # Save model summaries as text
     summary_path = Q2_RESULTS_DIR / "regression_summary.txt"
@@ -700,8 +742,8 @@ def save_results(
         f.write(f"R-squared: {model2._r2:.4f}\n")
         f.write("\n")
         f.write("Trend variable: Trend = (cycle_year - 2008) / 2\n")
-        f.write("  2008 → Trend = 0\n")
-        f.write("  2024 → Trend = 8\n")
+        f.write("  2008 -> Trend = 0\n")
+        f.write("  2024 -> Trend = 8\n")
         f.write("\n")
         f.write("Coefficient interpretation:\n")
         f.write("  beta_k  = primary-timing profile in 2008 (baseline year)\n")
@@ -757,53 +799,53 @@ def save_results(
             f.write("  WARNING: Different samples contribute to different k values.\n")
             f.write("  This may affect interpretation of beta_k comparisons.\n")
 
-        # Locality hypothesis tests
-        if test1_results is not None:
+        # Hypothesis tests
+        if h1_results is not None:
             f.write("\n")
             f.write("=" * 60 + "\n")
-            f.write("LOCALITY HYPOTHESIS TESTS\n")
+            f.write("Q2 HYPOTHESIS TESTS\n")
             f.write("=" * 60 + "\n")
             f.write("\n")
-            f.write("Near-primary window K = {-4, -3, -2, -1}\n")
-            f.write("LI_y = (1/|K|) * Σ_{k∈K} f_y(k)\n")
-            f.write("where f_y(k) = β_k + γ_k * Trend_y\n")
-            f.write("\n")
             f.write("-" * 60 + "\n")
-            f.write("TEST 1: Is there any locality near primaries in year y?\n")
-            f.write("        H_0: LI_y = 0 (Wald test, χ²(1))\n")
+            f.write("H1 TEST: beta_bar_K = 0 (locality exists?) — from Model 1\n")
+            f.write("         beta_bar_K = (1/|K|) * sum_{k in K} beta_k\n")
             f.write("-" * 60 + "\n")
-            f.write(f"{'Year':<8} {'LI_y':>10} {'SE':>10} {'Wald':>10} {'p-value':>10} {'Sig':>6}\n")
+            f.write(f"{'Window':<22} {'beta_bar':>10} {'SE':>10} {'Wald':>10} {'p-value':>10}\n")
             f.write("-" * 60 + "\n")
-            for _, row in test1_results.iterrows():
+            for _, row in h1_results.iterrows():
                 sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else ('*' if row['p_value'] < 0.1 else ''))
-                f.write(f"{int(row['year']):<8} {row['LI_y']:>10.4f} {row['se']:>10.4f} "
-                       f"{row['wald_stat']:>10.4f} {row['p_value']:>10.4f} {sig:>6}\n")
+                f.write(f"{row['window']:<22} {row['beta_bar_K']:>10.4f} {row['se']:>10.4f} "
+                       f"{row['wald']:>10.4f} {row['p_value']:>10.4f} {sig}\n")
             f.write("\n")
             f.write("Significance: *** p<0.01, ** p<0.05, * p<0.1\n")
 
-        if test2_results is not None:
+        if h2_results is not None:
             f.write("\n")
             f.write("-" * 60 + "\n")
-            f.write("TEST 2: Is locality changing over time (nationalization)?\n")
-            f.write("        H_0: γ̄_K = 0 where γ̄_K = (1/|K|) * Σ_{k∈K} γ_k\n")
+            f.write("H2 TEST: gamma_bar_K = 0 (nationalization?) — from Model 2\n")
+            f.write("         gamma_bar_K = (1/|K|) * sum_{k in K} gamma_k\n")
             f.write("-" * 60 + "\n")
-            row = test2_results.iloc[0]
-            sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else ('*' if row['p_value'] < 0.1 else ''))
-            f.write(f"  γ̄_K estimate: {row['estimate']:.4f}\n")
-            f.write(f"  Standard error: {row['se']:.4f}\n")
-            f.write(f"  Wald statistic: {row['wald_stat']:.4f}\n")
-            f.write(f"  p-value: {row['p_value']:.4f} {sig}\n")
+            f.write(f"{'Window':<22} {'gamma_bar':>10} {'SE':>10} {'Wald':>10} {'p-value':>10}\n")
+            f.write("-" * 60 + "\n")
+            for _, row in h2_results.iterrows():
+                sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else ('*' if row['p_value'] < 0.1 else ''))
+                f.write(f"{row['window']:<22} {row['gamma_bar_K']:>10.4f} {row['se']:>10.4f} "
+                       f"{row['wald']:>10.4f} {row['p_value']:>10.4f} {sig}\n")
             f.write("\n")
-            f.write("Interpretation:\n")
-            if row['estimate'] < 0 and row['p_value'] < 0.05:
-                f.write("  γ̄_K < 0 and significant: Locality is WEAKENING over time.\n")
-                f.write("  This is consistent with increasing nationalization of elections.\n")
-            elif row['estimate'] > 0 and row['p_value'] < 0.05:
-                f.write("  γ̄_K > 0 and significant: Locality is STRENGTHENING over time.\n")
-                f.write("  This suggests local primary timing effects are becoming more pronounced.\n")
-            else:
-                f.write("  No significant trend: Locality appears stable over time.\n")
-                f.write("  The local primary-timing effect is neither strengthening nor weakening.\n")
+            f.write("Significance: *** p<0.01, ** p<0.05, * p<0.1\n")
+
+        if appendix_year_results is not None:
+            f.write("\n")
+            f.write("-" * 60 + "\n")
+            f.write("APPENDIX D1: Year-by-year LI_y (main window K={-4,-3,-2,-1})\n")
+            f.write("             from Model 2\n")
+            f.write("-" * 60 + "\n")
+            f.write(f"{'Year':<8} {'LI_y':>10} {'SE':>10} {'Wald':>10} {'p-value':>10}\n")
+            f.write("-" * 60 + "\n")
+            for _, row in appendix_year_results.iterrows():
+                sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else ('*' if row['p_value'] < 0.1 else ''))
+                f.write(f"{int(row['year']):<8} {row['LI_y']:>10.4f} {row['se']:>10.4f} "
+                       f"{row['wald']:>10.4f} {row['p_value']:>10.4f} {sig}\n")
 
     logger.info(f"Saved summary to {summary_path}")
 
@@ -821,12 +863,14 @@ def main():
     create_figure2(model1_coef)
     create_figure3(model2_beta, model2_gamma)
 
-    # Run locality hypothesis tests
-    test1_results, test2_results = run_locality_tests(model2)
+    # Run hypothesis tests
+    h1_results            = run_h1_test(model1)
+    h2_results            = run_h2_test(model2)
+    appendix_year_results = run_year_locality_appendix(model2)
 
     # Save results
     save_results(model1, model1_coef, model2, model2_beta, model2_gamma, balance_diagnostic,
-                 test1_results, test2_results)
+                 h1_results, h2_results, appendix_year_results)
 
     # Print summary
     print("\n" + "=" * 60)
@@ -859,30 +903,31 @@ def main():
             sig = '*' if pval < 0.05 else ''
             print(f"  k={k:3d}: gamma = {gamma:7.4f} (se = {se:.4f}) {sig}")
 
-    # Locality hypothesis tests summary
+    # Hypothesis tests summary
     print("\n" + "=" * 60)
-    print("LOCALITY HYPOTHESIS TESTS")
+    print("Q2 HYPOTHESIS TESTS")
     print("=" * 60)
-    print(f"\nNear-primary window K = {LOCALITY_WINDOW}")
 
-    print("\nTest 1: LI_y = 0 (is there locality in year y?)")
-    print("-" * 40)
-    for _, row in test1_results.iterrows():
+    print("\nTest H1: beta_bar_K = 0 (locality exists?) — from Model 1")
+    print("-" * 55)
+    for _, row in h1_results.iterrows():
         sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else '')
-        print(f"  {int(row['year'])}: LI = {row['LI_y']:.4f} (SE = {row['se']:.4f}), "
-              f"p = {row['p_value']:.4f} {sig}")
+        print(f"  {row['window']}: beta_bar = {row['beta_bar_K']:.4f} "
+              f"(SE = {row['se']:.4f}), p = {row['p_value']:.4f} {sig}")
 
-    print("\nTest 2: γ̄_K = 0 (nationalization trend)")
+    print("\nTest H2: gamma_bar_K = 0 (nationalization trend?) — from Model 2")
+    print("-" * 55)
+    for _, row in h2_results.iterrows():
+        sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else '')
+        print(f"  {row['window']}: gamma_bar = {row['gamma_bar_K']:.4f} "
+              f"(SE = {row['se']:.4f}), p = {row['p_value']:.4f} {sig}")
+
+    print("\nYear-by-year LI_y (main window, for Appendix D1):")
     print("-" * 40)
-    row = test2_results.iloc[0]
-    sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else '')
-    print(f"  γ̄_K = {row['estimate']:.4f} (SE = {row['se']:.4f}), p = {row['p_value']:.4f} {sig}")
-    if row['estimate'] < 0 and row['p_value'] < 0.05:
-        print("  → Locality is WEAKENING over time (nationalization)")
-    elif row['estimate'] > 0 and row['p_value'] < 0.05:
-        print("  → Locality is STRENGTHENING over time")
-    else:
-        print("  → No significant trend in locality over time")
+    for _, row in appendix_year_results.iterrows():
+        sig = '***' if row['p_value'] < 0.01 else ('**' if row['p_value'] < 0.05 else '')
+        print(f"  {int(row['year'])}: LI = {row['LI_y']:.4f} "
+              f"(SE = {row['se']:.4f}), p = {row['p_value']:.4f} {sig}")
 
     print(f"\nOutputs saved to: {Q2_RESULTS_DIR}")
 

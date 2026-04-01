@@ -1,5 +1,9 @@
 """
-Utility module for interacting with Wikipedia/MediaWiki API
+wiki_api.py
+
+Utility module for fetching data from the Wikipedia/MediaWiki API.
+Provides revision history collection, bot identification, and JSON
+load/save helpers used by the data collection pipeline.
 """
 import requests
 import time
